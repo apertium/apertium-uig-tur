@@ -13,7 +13,7 @@
       <program name="cg-proc -w">
         <file name="uig-tur.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="uig-tur.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -57,7 +57,7 @@
       <program name="cg-proc -w">
         <file name="tur-uig.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -u 2 -g $2">
         <file name="tur-uig.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
