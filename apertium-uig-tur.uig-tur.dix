@@ -101,6 +101,9 @@
 
       <!-- SECTION: Conjunctions -->
       <e><p><l>ۋە<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
+
+      <!-- SECTION: Numerals -->
+      <e><p><l>بىر<s n="num"/></l><r>bir<s n="num"/></r></p></e>
  
       <!-- SECTION: Nouns -->
       <e><p><l>باش<s n="n"/></l><r>baş<s n="n"/></r></p></e>
