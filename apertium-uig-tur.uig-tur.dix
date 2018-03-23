@@ -1453,13 +1453,18 @@
       <e><p><l>سەپەر<s n="n"/></l><r>ziyaret<s n="n"/></r></p></e>
       <e><p><l>زۇلۇم<s n="n"/></l><r>zulüm<s n="n"/></r></p></e>
 
+      <!-- SECTION: Proper nouns -->
       <e><p><l>تۈركىيە<s n="np"/><s n="top"/></l><r>Türkiye<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>ئىستانبۇل<s n="np"/><s n="top"/></l><r>İstanbul<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>ئەنقەرە<s n="np"/><s n="top"/></l><r>Ankara<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>ئاسىيا<s n="np"/><s n="top"/></l><r>Asya<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>ياۋروپا<s n="np"/><s n="top"/></l><r>Avrupa<s n="np"/><s n="top"/></r></p></e>
 
+      <!-- SECTION: Adjectives -->
+      <e><p><l>چوڭ<s n="adj"/></l><r>büyük<s n="adj"/></r></p></e>
  
+      <!-- SECTION: Adverbs -->
+      <e><p><l>ئەڭ<s n="adv"/></l><r>en<s n="adv"/></r></p></e>
 
       <!-- SECTION: Verbs -->
 
