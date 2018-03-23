@@ -101,7 +101,28 @@
  
       <!-- SECTION: Nouns -->
       <e><p><l>باش<s n="n"/></l><r>baş<s n="n"/></r></p></e>
-
+      <e><p><l>cumhuriyet<s n="n"/></l><r>جۇمھۇرىيەت<s n="n"/></r></p></e>
+      <e><p><l>devlet<s n="n"/></l><r>دۈلەت<s n="n"/></r></p></e>
+      <e><p><l>dil<s n="n"/></l><r>تىل<s n="n"/></r></p></e>
+      <e><p><l>şehir<s n="n"/></l><r>شەھەر<s n="n"/></r></p></e>
+      <e><p><l>başkent<s n="n"/></l><r>پايتەخت<s n="n"/></r></p></e>
+      <e><p><l>gün<s n="n"/></l><r>كۈن<s n="n"/></r></p></e>
+      <e><p><l>rejim<s n="n"/></l><r>تۈزۈم<s n="n"/></r></p></e>
+      <e><p><l>isim<s n="n"/></l><r> ئىسىم <s n="n"/></r></p></e>
+      <e><p><l>kıta<s n="n"/></l><r>قىتئە<s n="n"/></r></p></e>
+      <e><p><l>cumhurbaşkan<s n="n"/></l><r>پرىزدېنت<s n="n"/></r></p></e>
+      <e><p><l>başbakan<s n="n"/></l><r>باش مىنىستېر<s n="n"/></r></p></e>
+      <e><p><l>görev<s n="n"/></l><r>نۆۋەت<s n="n"/></r></p></e>
+      <e><p><l>yıl<s n="n"/></l><r>يىل<s n="n"/></r></p></e>
+      <e><p><l>bağımsızlık<s n="n"/></l><r>مۇستەقىللىق<s n="n"/></r></p></e>
+      <e><p><l>tarih<s n="n"/></l><r>تارىخ<s n="n"/></r></p></e>
+      <e><p><l>osmanlı<s n="n"/></l><r>ئوسمانلى<s n="n"/></r></p></e>
+      <e><p><l>türkçe<s n="n"/></l><r>تۈركچە<s n="n"/></r></p></e>
+      <e><p><l>türk<s n="n"/></l><r>تۈرك<s n="n"/></r></p></e>
+      <e><p><l>islam<s n="n"/></l><r>ئىسلام<s n="n"/></r></p></e>
+      <e><p><l>imparatorluk<s n="n"/></l><r>سۇلتانلىق<s n="n"/></r></p></e>
+      <e><p><l>anayasa<s n="n"/></l><r>ئاساسى قانۇن<s n="n"/></r></p></e>
+      <e><p><l>anadolu<s n="n"/></l><r>كىچىك ئاسىيا<s n="n"/></r></p></e>
 
       <e><p><l>ئۇيات<s n="n"/></l><r>abide<s n="n"/></r></p></e>
       <e><p><l>ۋىجدان<s n="n"/></l><r>abide<s n="n"/></r></p></e>
@@ -1436,7 +1457,13 @@
       <e><p><l>باش<s n="n"/></l><r>zirve<s n="n"/></r></p></e>
       <e><p><l>توي<s n="n"/></l><r>ziyafet<s n="n"/></r></p></e>
       <e><p><l>سەپەر<s n="n"/></l><r>ziyaret<s n="n"/></r></p></e>
-      <e><p><l>زالىم<s n="n"/></l><r>zulüm<s n="n"/></r></p></e>
+      <e><p><l>زۇلۇم<s n="n"/></l><r>zulüm<s n="n"/></r></p></e>
+
+      <e><p><l>Türkiye<s n="np"/><s n="top"/></l><r>تۈركىيە<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Asya<s n="np"/><s n="top"/></l><r>ئاسىيا<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>Avrupa<s n="np"/><s n="top"/></l><r>ياۋروپا<s n="np"/><s n="top"/></r></p></e>
+
+
 
       <!-- SECTION: Verbs -->
 
