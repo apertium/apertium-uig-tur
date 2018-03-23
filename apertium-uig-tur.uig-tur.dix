@@ -101,29 +101,30 @@
  
       <!-- SECTION: Nouns -->
       <e><p><l>باش<s n="n"/></l><r>baş<s n="n"/></r></p></e>
-      <e><p><l>cumhuriyet<s n="n"/></l><r>جۇمھۇرىيەت<s n="n"/></r></p></e>
-      <e><p><l>devlet<s n="n"/></l><r>دۈلەت<s n="n"/></r></p></e>
-      <e><p><l>dil<s n="n"/></l><r>تىل<s n="n"/></r></p></e>
-      <e><p><l>şehir<s n="n"/></l><r>شەھەر<s n="n"/></r></p></e>
-      <e><p><l>başkent<s n="n"/></l><r>پايتەخت<s n="n"/></r></p></e>
-      <e><p><l>gün<s n="n"/></l><r>كۈن<s n="n"/></r></p></e>
-      <e><p><l>rejim<s n="n"/></l><r>تۈزۈم<s n="n"/></r></p></e>
-      <e><p><l>isim<s n="n"/></l><r> ئىسىم <s n="n"/></r></p></e>
-      <e><p><l>kıta<s n="n"/></l><r>قىتئە<s n="n"/></r></p></e>
-      <e><p><l>cumhurbaşkan<s n="n"/></l><r>پرىزدېنت<s n="n"/></r></p></e>
-      <e><p><l>başbakan<s n="n"/></l><r>باش مىنىستېر<s n="n"/></r></p></e>
-      <e><p><l>görev<s n="n"/></l><r>نۆۋەت<s n="n"/></r></p></e>
-      <e><p><l>yıl<s n="n"/></l><r>يىل<s n="n"/></r></p></e>
-      <e><p><l>bağımsızlık<s n="n"/></l><r>مۇستەقىللىق<s n="n"/></r></p></e>
-      <e><p><l>tarih<s n="n"/></l><r>تارىخ<s n="n"/></r></p></e>
-      <e><p><l>osmanlı<s n="n"/></l><r>ئوسمانلى<s n="n"/></r></p></e>
-      <e><p><l>türkçe<s n="n"/></l><r>تۈركچە<s n="n"/></r></p></e>
-      <e><p><l>türk<s n="n"/></l><r>تۈرك<s n="n"/></r></p></e>
-      <e><p><l>islam<s n="n"/></l><r>ئىسلام<s n="n"/></r></p></e>
-      <e><p><l>imparatorluk<s n="n"/></l><r>سۇلتانلىق<s n="n"/></r></p></e>
-      <e><p><l>anayasa<s n="n"/></l><r>ئاساسى قانۇن<s n="n"/></r></p></e>
-      <e><p><l>anadolu<s n="n"/></l><r>كىچىك ئاسىيا<s n="n"/></r></p></e>
 
+      <e><p><l>جۇمھۇرىيەت<s n="n"/></l><r>cumhuriyet<s n="n"/></r></p></e>
+      <e><p><l>دۈلەت<s n="n"/></l><r>devlet<s n="n"/></r></p></e>
+      <e><p><l>تىل<s n="n"/></l><r>dil<s n="n"/></r></p></e>
+      <e><p><l>شەھەر<s n="n"/></l><r>şehir<s n="n"/></r></p></e>
+      <e><p><l>پايتەخت<s n="n"/></l><r>başkent<s n="n"/></r></p></e>
+      <e><p><l>كۈن<s n="n"/></l><r>gün<s n="n"/></r></p></e>
+      <e><p><l>تۈزۈم<s n="n"/></l><r>rejim<s n="n"/></r></p></e>
+      <e><p><l>ئىسىم<s n="n"/></l><r>isim<s n="n"/></r></p></e>
+      <e><p><l>قىتئە<s n="n"/></l><r>kıta<s n="n"/></r></p></e>
+      <e><p><l>پرىزدېنت<s n="n"/></l><r>cumhurbaşkan<s n="n"/></r></p></e>
+      <e><p><l>باش مىنىستېر<s n="n"/></l><r>başbakan<s n="n"/></r></p></e>
+      <e><p><l>نۆۋەت<s n="n"/></l><r>görev<s n="n"/></r></p></e>
+      <e><p><l>يىل<s n="n"/></l><r>yıl<s n="n"/></r></p></e>
+      <e><p><l>مۇستەقىللىق<s n="n"/></l><r>bağımsızlık<s n="n"/></r></p></e>
+      <e><p><l>تارىخ<s n="n"/></l><r>tarih<s n="n"/></r></p></e>
+      <e><p><l>ئوسمانلى<s n="n"/></l><r>osmanlı<s n="n"/></r></p></e>
+      <e><p><l>تۈركچە<s n="n"/></l><r>türkçe<s n="n"/></r></p></e>
+      <e><p><l>تۈرك<s n="n"/></l><r>türk<s n="n"/></r></p></e>
+      <e><p><l>ئىسلام<s n="n"/></l><r>islam<s n="n"/></r></p></e>
+      <e><p><l>سۇلتانلىق<s n="n"/></l><r>imparatorluk<s n="n"/></r></p></e>
+      <e><p><l>ئاساسى قانۇن<s n="n"/></l><r>anayasa<s n="n"/></r></p></e>
+      <e><p><l>كىچىك ئاسىيا<s n="n"/></l><r>anadolu<s n="n"/></r></p></e>
+      
       <e><p><l>ئۇيات<s n="n"/></l><r>abide<s n="n"/></r></p></e>
       <e><p><l>ۋىجدان<s n="n"/></l><r>abide<s n="n"/></r></p></e>
       <e><p><l>ئاپا<s n="n"/></l><r>abi<s n="n"/></r></p></e>
@@ -599,7 +600,6 @@
       <e><p><l>كۆرسەتكۈچ<s n="n"/></l><r>gösterge<s n="n"/></r></p></e>
       <e><p><l>ئويۇن<s n="n"/></l><r>gösteri<s n="n"/></r></p></e>
       <e><p><l>جۇغ<s n="n"/></l><r>gövde<s n="n"/></r></p></e>
-      <e><p><l>qamaqxana<s n="n"/></l><r>gözalt<s n="n"/></r></p></e>
       <e><p><l>گۇندىخانا<s n="n"/></l><r>gözalt<s n="n"/></r></p></e>
       <e><p><l>كۆز<s n="n"/></l><r>göz<s n="n"/></r></p></e>
       <e><p><l>گرانىت<s n="n"/></l><r>granit<s n="n"/></r></p></e>
@@ -615,7 +615,6 @@
       <e><p><l>كۈن<s n="n"/></l><r>güneş<s n="n"/></r></p></e>
       <e><p><l>جەنۇب<s n="n"/></l><r>güney<s n="n"/></r></p></e>
       <e><p><l>كۈن<s n="n"/></l><r>gün<s n="n"/></r></p></e>
-      <e><p><l>dawısа<s n="n"/></l><r>gürültü<s n="n"/></r></p></e>
       <e><p><l>تاۋۇش<s n="n"/></l><r>gürültü<s n="n"/></r></p></e>
       <e><p><l>پومزەك<s n="n"/></l><r>gurup<s n="n"/></r></p></e>
       <e><p><l>نومۇس<s n="n"/></l><r>gurur<s n="n"/></r></p></e>
@@ -640,9 +639,7 @@
       <e><p><l>جەمەت<s n="n"/></l><r>hanedan<s n="n"/></r></p></e>
       <e><p><l>خانىدانلىق<s n="n"/></l><r>hanedan<s n="n"/></r></p></e>
       <e><p><l>خان<s n="n"/></l><r>han<s n="n"/></r></p></e>
-      <e><p><l>qamaqxana<s n="n"/></l><r>hapishane<s n="n"/></r></p></e>
       <e><p><l>گۇندىخانا<s n="n"/></l><r>hapishane<s n="n"/></r></p></e>
-      <e><p><l>qamaqxana<s n="n"/></l><r>hapis<s n="n"/></r></p></e>
       <e><p><l>گۇندىخانا<s n="n"/></l><r>hapis<s n="n"/></r></p></e>
       <e><p><l>سېلىق<s n="n"/></l><r>haraç<s n="n"/></r></p></e>
       <e><p><l>راسخوت<s n="n"/></l><r>harç<s n="n"/></r></p></e>
@@ -691,7 +688,6 @@
       <e><p><l>ئىبادەت<s n="n"/></l><r>ibadet<s n="n"/></r></p></e>
       <e><p><l>باش<s n="n"/></l><r>içer<s n="n"/></r></p></e>
       <e><p><l>ئىچىملىك<s n="n"/></l><r>içki<s n="n"/></r></p></e>
-      <e><p><l>ish<s n="n"/></l><r>iç<s n="n"/></r></p></e>
       <e><p><l>تەلەت<s n="n"/></l><r>ihtişam<s n="n"/></r></p></e>
       <e><p><l>ئورۇن<s n="n"/></l><r>ikamet<s n="n"/></r></p></e>
       <e><p><l>خەۋەر<s n="n"/></l><r>ikaz<s n="n"/></r></p></e>
@@ -775,7 +771,6 @@
       <e><p><l>يول<s n="n"/></l><r>karayol<s n="n"/></r></p></e>
       <e><p><l>ئاپا<s n="n"/></l><r>kardeş<s n="n"/></r></p></e>
       <e><p><l>كۋادرات<s n="n"/></l><r>kare<s n="n"/></r></p></e>
-      <e><p><l>ish<s n="n"/></l><r>karın<s n="n"/></r></p></e>
       <e><p><l>قېرىن<s n="n"/></l><r>karın<s n="n"/></r></p></e>
       <e><p><l>ئابرۇي<s n="n"/></l><r>karşılık<s n="n"/></r></p></e>
       <e><p><l>بۈركۈت<s n="n"/></l><r>kartal<s n="n"/></r></p></e>
@@ -897,7 +892,6 @@
       <e><p><l>مەزگىل<s n="n"/></l><r>mahal<s n="n"/></r></p></e>
       <e><p><l>مەۋسۈم<s n="n"/></l><r>mahal<s n="n"/></r></p></e>
       <e><p><l>سوت<s n="n"/></l><r>mahkeme<s n="n"/></r></p></e>
-      <e><p><l>qamaqxana<s n="n"/></l><r>mahpushane<s n="n"/></r></p></e>
       <e><p><l>گۇندىخانا<s n="n"/></l><r>mahpushane<s n="n"/></r></p></e>
       <e><p><l>خەت<s n="n"/></l><r>mail<s n="n"/></r></p></e>
       <e><p><l>ۋەقە<s n="n"/></l><r>majara<s n="n"/></r></p></e>
@@ -914,7 +908,6 @@
       <e><p><l>سۈپەت<s n="n"/></l><r>manzara<s n="n"/></r></p></e>
       <e><p><l>مارشال<s n="n"/></l><r>mareşal<s n="n"/></r></p></e>
       <e><p><l>سالات<s n="n"/></l><r>marul<s n="n"/></r></p></e>
-      <e><p><l>stol<s n="n"/></l><r>masa<s n="n"/></r></p></e>
       <e><p><l>چىقىم<s n="n"/></l><r>masraf<s n="n"/></r></p></e>
       <e><p><l>ئورۇن<s n="n"/></l><r>mavki<s n="n"/></r></p></e>
       <e><p><l>ماي<s n="n"/></l><r>Mayıs<s n="n"/></r></p></e>
@@ -1048,7 +1041,6 @@
       <e><p><l>مەدھىيە<s n="n"/></l><r>övgü<s n="n"/></r></p></e>
       <e><p><l>سۆھبەت<s n="n"/></l><r>öykü<s n="n"/></r></p></e>
       <e><p><l>ئاۋارىيە<s n="n"/></l><r>öykü<s n="n"/></r></p></e>
-      <e><p><l>dawısа<s n="n"/></l><r>oy<s n="n"/></r></p></e>
       <e><p><l>تاۋۇش<s n="n"/></l><r>oy<s n="n"/></r></p></e>
       <e><p><l>ئاۋاز<s n="n"/></l><r>oy<s n="n"/></r></p></e>
       <e><p><l>ئويۇنچۇق<s n="n"/></l><r>oyuncak<s n="n"/></r></p></e>
@@ -1074,7 +1066,6 @@
       <e><p><l>يەكشەنبە<s n="n"/></l><r>pazar<s n="n"/></r></p></e>
       <e><p><l>دۈشەنبە<s n="n"/></l><r>pazartesi<s n="n"/></r></p></e>
       <e><p><l>دادا<s n="n"/></l><r>peder<s n="n"/></r></p></e>
-      <e><p><l>ayna<s n="n"/></l><r>pencere<s n="n"/></r></p></e>
       <e><p><l>دېرىزە<s n="n"/></l><r>pencere<s n="n"/></r></p></e>
       <e><p><l>پەيشەنبە<s n="n"/></l><r>perşembe<s n="n"/></r></p></e>
       <e><p><l>چەمبەر<s n="n"/></l><r>pervaz<s n="n"/></r></p></e>
@@ -1169,7 +1160,6 @@
       <e><p><l>بايلىق<s n="n"/></l><r>servet<s n="n"/></r></p></e>
       <e><p><l>دۇنيا<s n="n"/></l><r>servet<s n="n"/></r></p></e>
       <e><p><l>قۇتلۇق<s n="n"/></l><r>servet<s n="n"/></r></p></e>
-      <e><p><l>dawısа<s n="n"/></l><r>ses<s n="n"/></r></p></e>
       <e><p><l>تاۋۇش<s n="n"/></l><r>ses<s n="n"/></r></p></e>
       <e><p><l>ئاۋاز<s n="n"/></l><r>ses<s n="n"/></r></p></e>
       <e><p><l>ئۈن<s n="n"/></l><r>ses<s n="n"/></r></p></e>
@@ -1211,7 +1201,6 @@
       <e><p><l>كومبىناتسىيە<s n="n"/></l><r>sonuç<s n="n"/></r></p></e>
       <e><p><l>نەتىجە<s n="n"/></l><r>sonuç<s n="n"/></r></p></e>
       <e><p><l>مەسىلە<s n="n"/></l><r>sorun<s n="n"/></r></p></e>
-      <e><p><l>soraw<s n="n"/></l><r>soru<s n="n"/></r></p></e>
       <e><p><l>سوراق<s n="n"/></l><r>soru<s n="n"/></r></p></e>
       <e><p><l>ئىشارەت<s n="n"/></l><r>söylenti<s n="n"/></r></p></e>
       <e><p><l>سۆز<s n="n"/></l><r>sözcük<s n="n"/></r></p></e>
@@ -1314,7 +1303,6 @@
       <e><p><l>بىرلىك<s n="n"/></l><r>tröst<s n="n"/></r></p></e>
       <e><p><l>مىلتىق<s n="n"/></l><r>tüfek<s n="n"/></r></p></e>
       <e><p><l>رومال<s n="n"/></l><r>türban<s n="n"/></r></p></e>
-      <e><p><l>qamaqxana<s n="n"/></l><r>tutukev<s n="n"/></r></p></e>
       <e><p><l>گۇندىخانا<s n="n"/></l><r>tutukev<s n="n"/></r></p></e>
       <e><p><l>مىجەز<s n="n"/></l><r>tutum<s n="n"/></r></p></e>
       <e><p><l>ئامبار<s n="n"/></l><r>tuzak<s n="n"/></r></p></e>
