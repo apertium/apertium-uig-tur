@@ -98,6 +98,9 @@
   </sdefs>
 
    <section id="main" type="standard">
+
+      <!-- SECTION: Conjunctions -->
+      <e><p><l>ۋە<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
  
       <!-- SECTION: Nouns -->
       <e><p><l>باش<s n="n"/></l><r>baş<s n="n"/></r></p></e>
@@ -1448,6 +1451,8 @@
       <e><p><l>زۇلۇم<s n="n"/></l><r>zulüm<s n="n"/></r></p></e>
 
       <e><p><l>تۈركىيە<s n="np"/><s n="top"/></l><r>Türkiye<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>ئىستانبۇل<s n="np"/><s n="top"/></l><r>İstanbul<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>ئەنقەرە<s n="np"/><s n="top"/></l><r>Ankara<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>ئاسىيا<s n="np"/><s n="top"/></l><r>Asya<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>ياۋروپا<s n="np"/><s n="top"/></l><r>Avrupa<s n="np"/><s n="top"/></r></p></e>
 
@@ -1662,7 +1667,8 @@
       <e><p><l>يۈرگۈز<s n="v"/><s n="tv"/></l><r>yönet<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>چۈشەندۈر<s n="v"/><s n="tv"/></l><r>yorumla<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>ئارت<s n="v"/><s n="iv"/></l><r>yüksel<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>باغلان<s n="v"/><s n="iv"/></l><r>баğla<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>باغلان<s n="v"/><s n="iv"/></l><r>bаğla<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>بول<s n="v"/><s n="iv"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e>
 
       <!-- SECTION: Punctuation -->
 
