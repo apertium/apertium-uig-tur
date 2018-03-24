@@ -104,6 +104,13 @@
       <!-- SECTION: Conjunctions -->
       <e><p><l>ۋە<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
 
+      <!-- SECTION: Postpositions -->
+
+      <!-- SECTION: Pronouns -->
+
+      <!-- SECTION: Determiners -->
+      <e><p><l>بۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
+
       <!-- SECTION: Numerals -->
       <e><p><l>بىر<s n="num"/></l><r>bir<s n="num"/></r></p></e>
  
