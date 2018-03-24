@@ -8,8 +8,6 @@
       <program name="lt-proc -w">
         <file name="uig-tur.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="uig-tur.rlx.bin"/>
       </program>
@@ -20,7 +18,7 @@
       <program name="lt-proc -b">
         <file name="uig-tur.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="uig-tur.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -35,15 +33,57 @@
         <file name="apertium-uig-tur.uig-tur.t3x"/>
         <file name="uig-tur.t3x.bin"/>
       </program>
+      <program name="apertium-transfer -n">
+        <file name="apertium-uig-tur.uig-tur.t4x"/>
+        <file name="uig-tur.t4x.bin"/>
+      </program>
       <program name="lt-proc $1">
         <file name="uig-tur.autogen.bin"/>
       </program>
-
-      <program name="lt-proc -p">
+<!--      <program name="lt-proc -p">
         <file name="uig-tur.autopgen.bin"/>
+      </program>-->
+    </pipeline>
+  </mode>
+
+  <mode name="uig-tur-postchunk2" gendebug="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="uig-tur.automorf.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="uig-tur.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -u 2 -g $2">
+        <file name="uig-tur.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="uig-tur.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="uig-tur.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-uig-tur.uig-tur.t1x"/>
+        <file name="uig-tur.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-uig-tur.uig-tur.t2x"/>
+        <file name="uig-tur.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-uig-tur.uig-tur.t3x"/>
+        <file name="uig-tur.t3x.bin"/>
+      </program>
+      <program name="apertium-transfer -t -n">
+        <file name="apertium-uig-tur.uig-tur.t4x"/>
+        <file name="uig-tur.t4x.bin"/>
       </program>
     </pipeline>
   </mode>
+
+
 
   <!-- tur → uig -->
 
@@ -64,7 +104,7 @@
       <program name="lt-proc -b">
         <file name="tur-uig.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="tur-uig.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -88,5 +128,45 @@
       </program>
     </pipeline>
   </mode>
+
+  <mode name="tur-uig-postchunk2" gendebug="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="tur-uig.automorf.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="tur-uig.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -u 2 -g $2">
+        <file name="tur-uig.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="tur-uig.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="tur-uig.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-uig-tur.tur-uig.t1x"/>
+        <file name="tur-uig.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-uig-tur.tur-uig.t2x"/>
+        <file name="tur-uig.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-uig-tur.tur-uig.t3x"/>
+        <file name="tur-uig.t3x.bin"/>
+      </program>
+      <program name="apertium-transfer -t -n">
+        <file name="apertium-uig-tur.tur-uig.t4x"/>
+        <file name="tur-uig.t4x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+
 </modes>
 
