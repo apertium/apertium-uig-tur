@@ -19,6 +19,7 @@
     <sdef n="adv"             c="Adverb"/>
     <sdef n="ij"              c="Interjection"/>
     <sdef n="adj"             c="Adjective"/>
+    <sdef n="barb"            c="Barbarisme"/>
     <sdef n="prn"             c="Pronoun"/>
     <sdef n="tv"              c=""/>
     <sdef n="iv"              c=""/>
@@ -127,6 +128,7 @@
       <e><p><l>تارىخ<s n="n"/></l><r>tarih<s n="n"/></r></p></e>
       <e><p><l>ئوسمانلى<s n="n"/></l><r>osmanlı<s n="n"/></r></p></e>
       <e><p><l>تۈركچە<s n="n"/></l><r>türkçe<s n="n"/></r></p></e>
+      <e><p><l>ئىنگىلىزچە<s n="n"/></l><r>ingilizce<s n="n"/></r></p></e>
       <e><p><l>تۈرك<s n="n"/></l><r>türk<s n="n"/></r></p></e>
       <e><p><l>ئىسلام<s n="n"/></l><r>islam<s n="n"/></r></p></e>
       <e><p><l>سۇلتانلىق<s n="n"/></l><r>imparatorluk<s n="n"/></r></p></e>
@@ -1684,6 +1686,7 @@
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
+      <e r="LR"><re>[a-zü]+</re>          <p><l><s n="barb"/></l>  <r><s n="barb"/></r></p></e>
       <e><p><l>،<s n="cm"/></l>  <r>,<s n="cm"/></r></p></e>
       <e><re>[0-9]+</re>          <p><l><s n="num"/></l>  <r><s n="num"/></r></p></e>
    </section>
