@@ -122,7 +122,9 @@
       <e><p><l>ئىسىم<s n="n"/></l><r>isim<s n="n"/></r></p></e>
       <e><p><l>قىتئە<s n="n"/></l><r>kıta<s n="n"/></r></p></e>
       <e><p><l>پرىزدېنت<s n="n"/></l><r>cumhurbaşkan<s n="n"/></r></p></e>
-      <e><p><l>باش مىنىستېر<s n="n"/></l><r>başbakan<s n="n"/></r></p></e>
+      <e><p><l>مىنىستېر<s n="n"/></l><r>bakan<s n="n"/></r></p></e>
+      <e><p><l>باش<b/>مىنىستېر<s n="n"/></l><r>başbakan<s n="n"/></r></p></e>
+      <e><p><l>باشباقان<s n="n"/></l><r>başbakan<s n="n"/></r></p></e>
       <e><p><l>نۆۋەت<s n="n"/></l><r>görev<s n="n"/></r></p></e>
       <e><p><l>يىل<s n="n"/></l><r>yıl<s n="n"/></r></p></e>
       <e><p><l>مۇستەقىللىق<s n="n"/></l><r>bağımsızlık<s n="n"/></r></p></e>
@@ -1469,7 +1471,9 @@
 
       <e><p><l>رەجەپ<s n="np"/><s n="ant"/><s n="m"/></l><r>Recep<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>تايىپ<s n="np"/><s n="ant"/><s n="m"/></l><r>Tayyip<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>بنئالى<s n="np"/><s n="ant"/><s n="m"/></l><r>Binali<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>ئەردۇغان<s n="np"/><s n="cog"/><s n="mf"/></l><r>Erdoğan<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+      <e><p><l>يىلدىرىم<s n="np"/><s n="cog"/><s n="mf"/></l><r>Yıldırım<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 
       <!-- SECTION: Adjectives -->
       <e><p><l>چوڭ<s n="adj"/></l><r>büyük<s n="adj"/></r></p></e>
