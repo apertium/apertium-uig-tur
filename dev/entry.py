@@ -4,9 +4,9 @@ import sys
 def entrify(line):
     line = line.strip("\n")
     pos_tags = {"Adj":'<s n="adj"/>',"Adv":'<s n="adv"/>',
-    "C":'<s n="cnjcoo"/>',"iv":'<s n="vblex"/><s n="iv"/>',"N":'<s n="n"/>',"post":'<s n="post"/>',
+    "C":'<s n="cnjcoo"/>',"iv":'<s n="v"/><s n="iv"/>',"N":'<s n="n"/>',"post":'<s n="post"/>',
     "Pronoun":'<s n="prn"/><s n="pers"/>',"top":'<s n="np"/><s n="top"/>',
-    "tv":'<s n="vblex"/><s n="tv"/>'}
+    "tv":'<s n="v"/><s n="tv"/>'}
     epl, rpe, lr = "       <e><p><l>", "</r></p></e>", "</l><r>"
     out = ""
     a = [x.strip() for x in line.split("\t")]
