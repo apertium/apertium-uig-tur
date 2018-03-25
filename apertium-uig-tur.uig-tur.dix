@@ -8,11 +8,7 @@
     <sdef n="n"               c="Noun"/>
     <sdef n="np"              c="Proper noun"/>
     <sdef n="v"           c="Verb, lexical"/>
-    <sdef n="vbmod"           c="Modal verb"/>
     <sdef n="vaux"            c="Auxiliary verb"/>
-    <sdef n="vbser"           c="'To be' verb"/>
-    <sdef n="vbhaver"         c="'To have' verb"/>
-    <sdef n="cnjsub"          c="Subordinating conjunction"/>
     <sdef n="cnjcoo"          c="Co-ordinating conjunction"/>
     <sdef n="cnjadv"          c="Adverbial conjunction"/>
     <sdef n="pr"              c="Preposition"/>
@@ -42,15 +38,11 @@
     <sdef n="p2"              c="2nd person"/>
     <sdef n="p3"              c="3rd person"/>
 
-    <sdef n="nt"              c="Neuter"/>
-    <sdef n="ut"              c="Utrum"/>
     <sdef n="f"               c="Feminine"/>
     <sdef n="m"               c="Masculine"/>
     <sdef n="mf"              c=""/>
-    <sdef n="un"              c="No gender"/>
 
     <sdef n="sg"              c="Singular"/>
-    <sdef n="du"              c="Dual"/>
     <sdef n="pl"              c="Plural"/>
     <sdef n="sp"              c="Singular / plural"/>
 
@@ -67,14 +59,7 @@
     <sdef n="neg"             c="Negative"/>
     <sdef n="emph"            c="Emphatic"/>
 
-    <sdef n="inf"             c="Infinitive"/>
-    <sdef n="pres"            c="Present"/>
-    <sdef n="imp"             c="Imperative"/>
-    <sdef n="pret"            c="Preterite"/>
-    <sdef n="pp"              c="Perfect participle"/>
-    <sdef n="pprs"            c="Present participle"/>
-    <sdef n="pasv"            c="Passive"/>
-    <sdef n="actv"            c="Active voice"/>
+    <sdef n="pass"            c="Passive"/>
 
     <sdef n="sint"            c="Synthetic (of adjectives)"/>
     <sdef n="pst"             c="Positive"/>
@@ -113,6 +98,8 @@
 
       <!-- SECTION: Numerals -->
       <e><p><l>بىر<s n="num"/></l><r>bir<s n="num"/></r></p></e>
+      <e><p><l>ئىككى<s n="num"/></l><r>ikki<s n="num"/></r></p></e>
+      <e><p><l>مىڭ<s n="num"/></l><r>bin<s n="num"/></r></p></e>
  
       <!-- SECTION: Nouns -->
       <e><p><l>باش<s n="n"/></l><r>baş<s n="n"/></r></p></e>
@@ -349,7 +336,6 @@
       <e><p><l>يۇلتۇز<s n="n"/></l><r>burç<s n="n"/></r></p></e>
       <e><p><l>سان<s n="n"/></l><r>but<s n="n"/></r></p></e>
       <e><p><l>ئاياق<s n="n"/></l><r>but<s n="n"/></r></p></e>
-      <e><p><l>كاللەك<s n="n"/></l><r>büyük<s n="adj"/></r></p></e>
       <e><p><l>دائىرە<s n="n"/></l><r>büyüklük<s n="n"/></r></p></e>
       <e><p><l>مۆلچەر<s n="n"/></l><r>büyüklük<s n="n"/></r></p></e>
       <e><p><l>موزاي<s n="n"/></l><r>buzağı<s n="n"/></r></p></e>
@@ -1467,6 +1453,7 @@
       <e><p><l>توي<s n="n"/></l><r>ziyafet<s n="n"/></r></p></e>
       <e><p><l>سەپەر<s n="n"/></l><r>ziyaret<s n="n"/></r></p></e>
       <e><p><l>زۇلۇم<s n="n"/></l><r>zulüm<s n="n"/></r></p></e>
+      <e><p><l>رايون<s n="n"/></l><r>rayon<s n="n"/></r></p></e>
 
       <!-- SECTION: Proper nouns -->
       <e><p><l>تۈركىيە<s n="np"/><s n="top"/></l><r>Türkiye<s n="np"/><s n="top"/></r></p></e>
@@ -1476,6 +1463,7 @@
       <e><p><l>ياۋروپا<s n="np"/><s n="top"/></l><r>Avrupa<s n="np"/><s n="top"/></r></p></e>
 
       <e><p><l>ياۋروپا<s n="np"/><s n="top"/></l><r>Avrupa<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>جۇڭگو<s n="np"/><s n="top"/></l><r>Çin<s n="np"/><s n="top"/></r></p></e>
 
       <e><p><l>رەجەپ<s n="np"/><s n="ant"/><s n="m"/></l><r>Recep<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>تايىپ<s n="np"/><s n="ant"/><s n="m"/></l><r>Tayyip<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -1485,12 +1473,19 @@
 
       <!-- SECTION: Adjectives -->
       <e><p><l>چوڭ<s n="adj"/></l><r>büyük<s n="adj"/></r></p></e>
+      <e><p><l>باشقا<s n="adj"/></l><r>başka<s n="adj"/></r></p></e>
+      <e><p><l>شىمال<s n="adj"/></l><r>kuzey<s n="adj"/></r></p></e>
+      <e><p><l>بار<s n="adj"/></l><r>var<s n="adj"/></r></p></e>
  
       <!-- SECTION: Adverbs -->
       <e><p><l>ئەڭ<s n="adv"/></l><r>en<s n="adv"/></r></p></e>
 
       <!-- SECTION: Verbs -->
 
+      <e><p><l>تۇر<s n="vaux"/></l><r>dur<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>بول<s n="vaux"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>كەل<s n="vaux"/></l><r>gel<s n="v"/><s n="iv"/></r></p></e>
+      
 
       <e><p><l>ئاچ<s n="v"/><s n="tv"/></l><r>aç<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>ئاقلى<s n="v"/><s n="tv"/></l><r>ağart<s n="v"/><s n="tv"/></r></p></e>
@@ -1700,6 +1695,11 @@
       <e><p><l>ئارت<s n="v"/><s n="iv"/></l><r>yüksel<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>باغلان<s n="v"/><s n="iv"/></l><r>bаğla<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>بول<s n="v"/><s n="iv"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>تۇر<s n="v"/><s n="iv"/></l><r>dur<s n="v"/><s n="iv"/></r></p></e>
+
+      <e><p><l>كەل<s n="v"/><s n="iv"/></l><r>gel<s n="v"/><s n="iv"/></r></p></e>
+      <e><p><l>كەچ<s n="v"/><s n="iv"/></l><r>geç<s n="v"/><s n="iv"/></r></p></e>
+      
 
       <!-- SECTION: Punctuation -->
 
