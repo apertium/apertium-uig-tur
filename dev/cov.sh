@@ -52,6 +52,6 @@ echo "Forms to $TARGET%: $REMAININGFORMS"
 echo "Top unknown words in the corpus:"
 cat $F1 | grep '\*' | sort -f | uniq -c | sort -gr > /tmp/uig-tur.hitparade.txt
 paste $F2 $F3 | sort -f | uniq -c | sort -gr | grep '#' > /tmp/uig-tur.genparade.txt
-cat /tmp/uig-tur.hitparade.txt | head -n 20
-cat /tmp/uig-tur.genparade.txt | head -n 20
+cat /tmp/uig-tur.hitparade.txt | head -n 100
+
 
