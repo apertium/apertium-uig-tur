@@ -19,6 +19,8 @@
     <sdef n="prn"             c="Pronoun"/>
     <sdef n="tv"              c=""/>
     <sdef n="iv"              c=""/>
+    <sdef n="imp"              c=""/>
+    <sdef n="fut"              c=""/>
     <sdef n="post"               c="Postposition"/>
     <sdef n="attr"            c="Attributive"/>
     <sdef n="top"             c="Toponym"/>
@@ -213,7 +215,8 @@
        <e><p><l>كۈنىمىزدە<s n="adv"/></l><r>günümüzde<s n="adv"/></r></p></e>
        <e><p><l>كۆپ<s n="adv"/></l><r>çok<s n="adv"/></r></p></e>
        <e><p><l>ئىنتايىن<s n="adv"/></l><r>gayet<s n="adv"/></r></p></e>
-       <e><p><l>ئېرۇر<s n="v"/><s n="iv"/></l><r>olacak<s n="v"/><s n="iv"/></r></p></e>
+       <!-- HACK: fix later -->
+       <e r="LR"><p><l>ئېرۇر<s n="v"/><s n="iv"/><s n="imp"/></l><r>ol<s n="v"/><s n="iv"/><s n="fut"/></r></p></e>
        <e><p><l>ئېنىقلان<s n="v"/><s n="iv"/></l><r>açıklan<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ئۇچراي<s n="v"/><s n="iv"/></l><r>karşılaş<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ئورا<s n="v"/><s n="tv"/></l><r>çevrele<s n="v"/><s n="tv"/></r></p></e>
