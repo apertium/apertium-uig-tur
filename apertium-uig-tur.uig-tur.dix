@@ -142,7 +142,6 @@
        <e><p><l>تۈزىتىش<s n="n"/></l><r>değişiklik<s n="n"/></r></p></e>
        <e><p><l>بەگلىك<s n="n"/></l><r>beylik<s n="n"/></r></p></e>
        <e><p><l>خەلق<s n="n"/></l><r>halk<s n="n"/></r></p></e>
-       <e><p><l>ئاپتونوم<s n="n"/></l><r>özerk<s n="n"/></r></p></e>
        <e><p><l>ئىمپاراتورلىق<s n="n"/></l><r>imparatorluk<s n="n"/></r></p></e>
        <e><p><l>ئىمېرىيە<s n="n"/></l><r>imparatorluk<s n="n"/></r></p></e>
        <e><p><l>مىسىر<b/>مەملۇك<s n="n"/></l><r>Mısır<b/>Memlük<s n="n"/></r></p></e>
@@ -1705,7 +1704,7 @@
       <e><p><l>ئەسلى<s n="adj"/></l><r>asıl<s n="adj"/></r></p></e>
       <e><p><l>تولۇق<s n="adj"/></l><r>tam<s n="adj"/></r></p></e>
       <e><p><l>يېرىم<s n="adj"/></l><r>yarım<s n="adj"/></r></p></e>
-      <e><p><l>تامامەن<s n="adj"/></l><r>tamamen<s n="adj"/></r></p></e>
+      <e><p><l>تامامەن<s n="adv"/></l><r>tamamen<s n="adv"/></r></p></e>
       <e><p><l>پۈتۈن<s n="adj"/></l><r>bütün<s n="adj"/></r></p></e>
       <e><p><l>باشقا<s n="adj"/></l><r>diğer<s n="adj"/></r></p></e>
       <e><p><l>بىر<s n="adj"/></l><r>bir<s n="adj"/></r></p></e>
