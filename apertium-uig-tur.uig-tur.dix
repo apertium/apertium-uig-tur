@@ -1718,6 +1718,99 @@
       <e><p><l>چىگراداش<s n="adj"/></l><r>sınırdaş<s n="adj"/></r></p></e>
 
 
+       <e><p><l>پاسسىپ<s n="adj"/></l><r>pasif<s n="adj"/></r></p></e>
+       <e><p><l>ئىلگىرىكى<s n="adj"/></l><r>önceki<s n="adj"/></r></p></e>
+       <e><p><l>خەتەرلىك<s n="adj"/></l><r>tehlikeli<s n="adj"/></r></p></e>
+       <e><p><l>چاقلىق<s n="adj"/></l><r>tekerlekli<s n="adj"/></r></p></e>
+       <e><p><l>ھەپتىلىك<s n="adj"/></l><r>haftalık<s n="adj"/></r></p></e>
+       <e><p><l>يورۇق<s n="adj"/></l><r>aydınlık<s n="adj"/></r></p></e>
+       <e><p><l>پاجىئەلىك<s n="adj"/></l><r>acıklı<s n="adj"/></r></p></e>
+       <e><p><l>خەلقئارا<s n="adj"/></l><r>uluslararası<s n="adj"/></r></p></e>
+       <e><p><l>بەت<s n="n"/></l><r>sayfa<s n="n"/></r></p></e>
+       <e><p><l>مۇلاھىزە<s n="n"/></l><r>mülahaza<s n="n"/></r></p></e>
+       <e><p><l>شەھرىزاد<s n="n"/></l><r>Şehrizad<s n="n"/></r></p></e>
+       <e><p><l>خەتەر<s n="n"/></l><r>tehlike<s n="n"/></r></p></e>
+       <e><p><l>كۈرەش<s n="n"/></l><r>mücadele<s n="n"/></r></p></e>
+       <e><p><l>قوشۇۋېلىش<s n="n"/></l><r>ekleme<s n="n"/></r></p></e>
+       <e><p><l>لەرزە<s n="n"/></l><r>titreme<s n="n"/></r></p></e>
+       <e><p><l>ئاڭلاش<s n="n"/></l><r>işitme<s n="n"/></r></p></e>
+       <e><p><l>مۇشتەرى<s n="n"/></l><r>abone<s n="n"/></r></p></e>
+       <e><p><l>مۇھىت<s n="n"/></l><r>çevre<s n="n"/></r></p></e>
+       <e><p><l>قورال<s n="n"/></l><r>silah<s n="n"/></r></p></e>
+       <e><p><l>نامايىش<s n="n"/></l><r>gösteri<s n="n"/></r></p></e>
+       <e><p><l>كاتېگورىيە<s n="n"/></l><r>kategori<s n="n"/></r></p></e>
+       <e><p><l>پاسسىپلىق<s n="n"/></l><r>pasiflik<s n="n"/></r></p></e>
+       <e><p><l>ئاخباراتچىلىق<s n="n"/></l><r>habercilik<s n="n"/></r></p></e>
+       <e><p><l>سەزگۈرلۈك<s n="n"/></l><r>basiretlilik<s n="n"/></r></p></e>
+       <e><p><l>ياشلىق<s n="n"/></l><r>gençlik<s n="n"/></r></p></e>
+       <e><p><l>ھوقۇق<s n="n"/></l><r>hukuk<s n="n"/></r></p></e>
+       <e><p><l>كىشىلىك<s n="n"/></l><r>insanlık<s n="n"/></r></p></e>
+       <e><p><l>سالامەتلىك<s n="n"/></l><r>sağlık<s n="n"/></r></p></e>
+       <e><p><l>نۆۋەتلىك<s n="n"/></l><r>mahal<s n="n"/></r></p></e>
+       <e><p><l>توسۇق<s n="n"/></l><r>engel<s n="n"/></r></p></e>
+       <e><p><l>نەسىل<s n="n"/></l><r>nesil<s n="n"/></r></p></e>
+       <e><p><l>قەلەم<s n="n"/></l><r>kalem<s n="n"/></r></p></e>
+       <e><p><l>مائارىپ<s n="n"/></l><r>eğitim<s n="n"/></r></p></e>
+       <e><p><l>بۆلۈم<s n="n"/></l><r>bölüm<s n="n"/></r></p></e>
+       <e><p><l>مەيدان<s n="n"/></l><r>meydan<s n="n"/></r></p></e>
+       <e><p><l>نىزام<s n="n"/></l><r>düzen<s n="n"/></r></p></e>
+       <e><p><l>تېلېۋىزىيە<s n="n"/></l><r>televizyon<s n="n"/></r></p></e>
+       <e><p><l>ئاڭلىتىش<s n="n"/></l><r>yayın<s n="n"/></r></p></e>
+       <e><p><l>رادىئو<s n="n"/></l><r>radyo<s n="n"/></r></p></e>
+       <e><p><l>كىتاب<s n="n"/></l><r>kitap<s n="n"/></r></p></e>
+       <e><p><l>سەۋەب<s n="n"/></l><r>sebep<s n="n"/></r></p></e>
+       <e><p><l>خەۋەر<s n="n"/></l><r>haber<s n="n"/></r></p></e>
+       <e><p><l>سېكرېتار<s n="n"/></l><r>sekreter<s n="n"/></r></p></e>
+       <e><p><l>مۇدىرى<s n="n"/></l><r>müdür<s n="n"/></r></p></e>
+       <e><p><l>ئالماس<s n="n"/></l><r>elmas<s n="n"/></r></p></e>
+       <e><p><l>ئاۋاز<s n="n"/></l><r>ses<s n="n"/></r></p></e>
+       <e><p><l>چاستوتا<s n="n"/></l><r>frekans<s n="n"/></r></p></e>
+       <e><p><l>كۇرس<s n="n"/></l><r>kurs<s n="n"/></r></p></e>
+       <e><p><l>ئىقتىساد<s n="n"/></l><r>iktisat<s n="n"/></r></p></e>
+       <e><p><l>پەزىلەت<s n="n"/></l><r>fazilet<s n="n"/></r></p></e>
+       <e><p><l>مىللەت<s n="n"/></l><r>millet<s n="n"/></r></p></e>
+       <e><p><l>قىسمەت<s n="n"/></l><r>kısmet<s n="n"/></r></p></e>
+       <e><p><l>خىزمەت<s n="n"/></l><r>hizmet<s n="n"/></r></p></e>
+       <e><p><l>غەيرەت<s n="n"/></l><r>gayret<s n="n"/></r></p></e>
+       <e><p><l>مۇدىرىيىت<s n="n"/></l><r>müdüriyet<s n="n"/></r></p></e>
+       <e><p><l>شەخسىيەت<s n="n"/></l><r>şahsiyet<s n="n"/></r></p></e>
+       <e><p><l>ۋاقت<s n="n"/></l><r>vakit<s n="n"/></r></p></e>
+       <e><p><l>كەنت<s n="n"/></l><r>kent<s n="n"/></r></p></e>
+       <e><p><l>سىن<s n="n"/></l><r>görüntü<s n="n"/></r></p></e>
+       <e><p><l>ساھىل<s n="n"/></l><r>kıyı<s n="n"/></r></p></e>
+       <e><p><l>ئىش<s n="n"/></l><r>iş<s n="n"/></r></p></e>
+       <e><p><l>كۆرۈش<s n="n"/></l><r>görüş<s n="n"/></r></p></e>
+       <e><p><l>ئامېرىكا<s n="np"/><s n="top"/></l><r>Amerika<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>خىتاي<s n="np"/><s n="top"/></l><r>Çin<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>ئوسلو<s n="np"/><s n="top"/></l><r>Oslo<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>ئۆز<s n="prn"/><s n="pers"/></l><r>kendi<s n="prn"/><s n="pers"/></r></p></e>
+       <e><p><l>مەن<s n="prn"/><s n="pers"/></l><r>ben<s n="prn"/><s n="pers"/></r></p></e>
+       <e><p><l>بىز<s n="prn"/><s n="pers"/></l><r>biz<s n="prn"/><s n="pers"/></r></p></e>
+       <e><p><l>ھەققىدە<s n="post"/></l><r>hakkında<s n="post"/></r></p></e>
+       <e><p><l>ئۈچۈن<s n="post"/></l><r>için<s n="post"/></r></p></e>
+       <e><p><l>تېخىمۇ<s n="adv"/></l><r>daha<b/>da<s n="adv"/></r></p></e>
+       <e><p><l>باشلا<s n="v"/><s n="iv"/></l><r>başla<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>تاللان<s n="v"/><s n="iv"/></l><r>seçil<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>كېتىل<s n="v"/><s n="iv"/></l><r>götürül<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>تېپىل<s n="v"/><s n="iv"/></l><r>bulun<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>شېرىكلەش<s n="v"/><s n="iv"/></l><r>ortaklık<b/>kur<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>ئاڭلا<s n="v"/><s n="iv"/></l><r>duy<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>تۇغۇل<s n="v"/><s n="iv"/></l><r>doğ<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>ئالاقىلاش<s n="v"/><s n="iv"/></l><r>haberleş<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>خالى<s n="v"/><s n="tv"/></l><r>iste<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>ئىشلەت<s n="v"/><s n="tv"/></l><r>kullan<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>ئەۋەت<s n="v"/><s n="tv"/></l><r>gönder<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>ئاشۇر<s n="v"/><s n="tv"/></l><r>gerçekleştir<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>قۇر<s n="v"/><s n="tv"/></l><r>kur<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>تەربىيىلە<s n="v"/><s n="tv"/></l><r>terbiye<b/>et<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>ئەگەش<s n="v"/><s n="tv"/></l><r>takip<b/>et<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>باشقۇر<s n="v"/><s n="tv"/></l><r>yönet<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>ئەپلە<s n="v"/><s n="tv"/></l><r>düzelt<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>تۇت<s n="v"/><s n="tv"/></l><r>tut<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>تاللا<s n="v"/><s n="tv"/></l><r>seç<s n="v"/><s n="tv"/></r></p></e>
+
+
+
       <e><p><l>ئىچكى<s n="adj"/></l><r>dahili<s n="adj"/></r></p></e>
        <e><p><l>مۆلچەرىي<s n="adj"/></l><r>tahmini<s n="adj"/></r></p></e>
        <e><p><l>مەمۇرىي<s n="adj"/></l><r>idari<s n="adj"/></r></p></e>
