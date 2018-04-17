@@ -103,7 +103,7 @@
 
       <!-- SECTION: Pronouns -->
       <e><p><l>ئۇ<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e>
-      <e><p><l>نى<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
+      <e><p><l>نە<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
 
       <!-- SECTION: Determiners -->
       <e><p><l>بۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
@@ -111,11 +111,13 @@
       <!-- SECTION: Numerals -->
       <e><p><l>بىر<s n="num"/></l><r>bir<s n="num"/></r></p></e>
       <e><p><l>ئىككى<s n="num"/></l><r>iki<s n="num"/></r></p></e>
+     <e><p><l>ئۈچ<s n="num"/></l><r>üç<s n="num"/></r></p></e>
+    <e><p><l>تۆرت<s n="num"/></l><r>dört<s n="num"/></r></p></e>
       <e><p><l>مىڭ<s n="num"/></l><r>bin<s n="num"/></r></p></e>
       <e><p><l>مىڭ<s n="num"/></l><r>bin<s n="num"/></r></p></e>
       <e><p><l>مىليون<s n="num"/></l><r>milyon<s n="num"/></r></p></e>
       <e><p><l>مىليارد<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
- 
+      <e><p><l>ترىليون<s n="num"/></l><r>trilyon<s n="num"/></r></p></e>
       <!-- SECTION: Nouns -->
        <e><p><l>ئۈست<s n="n"/></l><r>üst<s n="n"/></r></p></e>
 
@@ -127,7 +129,7 @@
        <e><p><l>ئىسلاملىشىش<s n="n"/></l><r>müslümanlaşma<s n="n"/></r></p></e>
        <e><p><l>قۇرۇقلۇق<s n="n"/></l><r>kara<s n="n"/></r></p></e>
        <e><p><l>خەلىڧە<s n="n"/></l><r>halife<s n="n"/></r></p></e>
-       <e><p><l>رايونى<s n="n"/></l><r>bölge<s n="n"/></r></p></e>
+       <e><p><l>رايون<s n="n"/></l><r>bölge<s n="n"/></r></p></e>
        <e><p><l>دەريا<s n="n"/></l><r>ırmak<s n="n"/></r></p></e>
        <e><p><l>دەريا<s n="n"/></l><r>nehir<s n="n"/></r></p></e>
        <e><p><l>تۈركلىشىش<s n="n"/></l><r>türkleşme<s n="n"/></r></p></e>
@@ -208,6 +210,7 @@
        <e><p><l>تىزلەت<s n="v"/><s n="tv"/></l><r>hızlandır<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئوراپ<b/>تۇر<s n="v"/><s n="tv"/></l><r>kuşat<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>مۇنقەرز<b/>قىل<s n="v"/><s n="tv"/></l><r>fethet<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>قىل<s n="v"/><s n="tv"/></l><r>yap<s n="v"/><s n="tv"/></r></p></e>
 
        <e><p><l>بويىچە<s n="post"/></l><r>boyunca<s n="post"/></r></p></e>
        <e><p><l>ئىچ<s n="n"/></l><r>iç<s n="n"/></r></p></e>
@@ -277,8 +280,10 @@
        <e><p><l>^قاراسۇ<s n="np"/><s n="top"/></l><r>Karasu<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>تەڭرىتاغ<s n="np"/><s n="top"/></l><r>Tanrı<b/>Dağ<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>قالسا<s n="post"/></l><r>sonra<s n="post"/></r></p></e>
+       <e><p><l>بىلەن<s n="post"/></l><r>ile<s n="post"/></r></p></e>
        <e><p><l>شۇنداقلا<s n="adv"/></l><r>şu<b/>halde<s n="adv"/></r></p></e>
        <e><p><l>ھېساپلا<s n="v"/><s n="tv"/></l><r>hesapla<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>ھېساپلىن<s n="v"/><s n="iv"/></l><r>hesaplan<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>تەكشۈر<s n="v"/><s n="tv"/></l><r>incele<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>تاقى<s n="v"/><s n="tv"/></l><r>it<s n="v"/><s n="tv"/></r></p></e>
 
@@ -1095,7 +1100,6 @@
       <e><p><l>مارشال<s n="n"/></l><r>mareşal<s n="n"/></r></p></e>
       <e><p><l>سالات<s n="n"/></l><r>marul<s n="n"/></r></p></e>
       <e><p><l>چىقىم<s n="n"/></l><r>masraf<s n="n"/></r></p></e>
-      <e><p><l>ئورۇن<s n="n"/></l><r>mavki<s n="n"/></r></p></e>
       <e><p><l>ماي<s n="n"/></l><r>Mayıs<s n="n"/></r></p></e>
       <e><p><l>مايمۇن<s n="n"/></l><r>maymun<s n="n"/></r></p></e>
       <e><p><l>يىلتىز<s n="n"/></l><r>mazeret<s n="n"/></r></p></e>
@@ -1699,7 +1703,6 @@
       <e><p><l>ئېگىز<s n="adj"/></l><r>yüksek<s n="adj"/></r></p></e>
       <e><p><l>قەدىمكى<s n="adj"/></l><r>antik<s n="adj"/></r></p></e>
       <e><p><l>نۇرغۇن<s n="adj"/></l><r>birçok<s n="adj"/></r></p></e>
-      <e><p><l>ئويمانلىق<s n="adj"/></l><r>çukurluk<s n="adj"/></r></p></e>
       <e><p><l>ئاساسى<b/>قانۇنلۇق<s n="adj"/></l><r>anayasal<s n="adj"/></r></p></e>
       <e><p><l>ئەسلى<s n="adj"/></l><r>asıl<s n="adj"/></r></p></e>
       <e><p><l>تولۇق<s n="adj"/></l><r>tam<s n="adj"/></r></p></e>
@@ -1783,6 +1786,7 @@
        <e><p><l>ئامېرىكا<s n="np"/><s n="top"/></l><r>Amerika<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>خىتاي<s n="np"/><s n="top"/></l><r>Çin<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ئوسلو<s n="np"/><s n="top"/></l><r>Oslo<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>جىمنەي<s n="np"/><s n="top"/></l><r>Cimney<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ئۆز<s n="prn"/><s n="pers"/></l><r>kendi<s n="prn"/><s n="pers"/></r></p></e>
        <e><p><l>مەن<s n="prn"/><s n="pers"/></l><r>ben<s n="prn"/><s n="pers"/></r></p></e>
        <e><p><l>بىز<s n="prn"/><s n="pers"/></l><r>biz<s n="prn"/><s n="pers"/></r></p></e>
@@ -1905,7 +1909,7 @@
       <e><p><l>ئۆتكۈز<s n="v"/><s n="tv"/></l><r>dene<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>تاپشۇر<s n="v"/><s n="tv"/></l><r>devret<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>تەر<s n="v"/><s n="tv"/></l><r>devşir<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>دې<s n="v"/><s n="tv"/></l><r>de<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>دە<s n="v"/><s n="tv"/></l><r>de<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>تىك<s n="v"/><s n="tv"/></l><r>dik<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>تىلى<s n="v"/><s n="tv"/></l><r>dile<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>ئاڭلى<s n="v"/><s n="tv"/></l><r>dinle<s n="v"/><s n="tv"/></r></p></e>
