@@ -104,7 +104,7 @@
       <!-- SECTION: Pronouns -->
       <e><p><l>ئۇ<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e>
       <e><p><l>نە<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
-<e><p><l>بۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="pers"/></r></p></e>
+<e><p><l>بۇ<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/><s n="dem"/></r></p></e>
       <!-- SECTION: Determiners -->
       <e><p><l>بۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
 
