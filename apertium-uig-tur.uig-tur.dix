@@ -104,7 +104,7 @@
       <!-- SECTION: Pronouns -->
       <e><p><l>ئۇ<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e>
       <e><p><l>نە<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
-
+<e><p><l>بۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="pers"/></r></p></e>
       <!-- SECTION: Determiners -->
       <e><p><l>بۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
 
@@ -196,6 +196,7 @@
        <e><p><l>ياشنا<s n="v"/><s n="iv"/></l><r>genişle<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>جايلاش<s n="v"/><s n="iv"/></l><r>yer<b/>al<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>يەر<b/>ئال<s n="v"/><s n="iv"/></l><r>yer<b/>al<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>ئېچىۋىتىل<s n="v"/><s n="iv"/></l><r>açıl<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>يېتىپ<b/>كەل<s n="v"/><s n="iv"/></l><r>yetip<b/>gel<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>گۈللە<s n="v"/><s n="iv"/></l><r>başarılı<b/>ol<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>قۇرۇل<s n="v"/><s n="iv"/></l><r>kurul<s n="v"/><s n="iv"/></r></p></e>
@@ -224,7 +225,7 @@
        <e><p><l>ئورا<s n="v"/><s n="tv"/></l><r>çevrele<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئىگىلە<s n="v"/><s n="tv"/></l><r>oluştur<s n="v"/><s n="tv"/></r></p></e>
 
-
+       <e><p><l>ئىگىلىگەن<s n="adj"/></l><r>oluşturan<s n="adj"/></r></p></e>
        <e><p><l>بۈيۈك<s n="adj"/></l><r>büyük<s n="adj"/></r></p></e>
        <e><p><l>قېتىملىق<s n="adj"/></l><r>seferlik<s n="adj"/></r></p></e>
        <e><p><l>بىپايان<s n="adj"/></l><r>uçsuz<b/>bucaksız<s n="adj"/></r></p></e>
@@ -238,6 +239,7 @@
        <e><p><l>تارقال<s n="v"/><s n="iv"/></l><r>bilin<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>باھالاش<s n="v"/><s n="iv"/></l><r>pazarlık<b/>yap<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>بايقا<s n="v"/><s n="tv"/></l><r>gözden<b/>geçir<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>باھالاش<s n="n"/></l><r>değerlendirme<s n="n"/></r></p></e>
 
 
 
@@ -756,7 +758,6 @@
       <e><p><l>ھەرىكەت<s n="n"/></l><r>gayret<s n="n"/></r></p></e>
       <e><p><l>تۈن<s n="n"/></l><r>gece<s n="n"/></r></p></e>
       <e><p><l>كېلەچەك<s n="n"/></l><r>gelecek<s n="n"/></r></p></e>
-      <e><p><l>ئىستىقبال<s n="n"/></l><r>gelecek<s n="n"/></r></p></e>
       <e><p><l>سالتاڭ<s n="n"/></l><r>gelenek<s n="n"/></r></p></e>
       <e><p><l>ئادەت<s n="n"/></l><r>gelenek<s n="n"/></r></p></e>
       <e><p><l>قېلىنلىقلىق<s n="n"/></l><r>gelin<s n="n"/></r></p></e>
