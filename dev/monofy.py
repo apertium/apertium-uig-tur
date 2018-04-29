@@ -7,6 +7,9 @@ def monofy(line):
             '<s n="det"/><s n="itg"/>':"DET-ITG",
             '<s n="adv"/><s n="itg"/>':"ADV-ITG",
             '<s n="v"/><s n="iv"/>':"V-IV",
+            '<s n="cnjcoo"/>':"CC",
+            '<s n="cnjsub"/>':"CS",
+            '<s n="cnjadv"/>':"CA",
             '<s n="v"/><s n="tv"/>':"V-TV"}
 
 
