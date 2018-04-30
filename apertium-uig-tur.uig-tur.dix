@@ -28,7 +28,7 @@
     <sdef n="cog"             c="Cognomen"/>
     <sdef n="org"             c="Organisation"/>
     <sdef n="al"              c="Altres / misc proper nouns"/>
-
+    <sdef n="cop"             c="copula / suffixverb"/>
     <sdef n="pers"            c="Personal pronoun"/>
     <sdef n="ref"             c="Reflexive pronoun"/>
     <sdef n="res"             c="Reciprocal pronoun"/>
@@ -284,7 +284,7 @@
        <e><p><l>ھۆكۈم<s n="n"/></l><r>hüküm<s n="n"/></r></p></e>
        <e><p><l>باشلىق<s n="n"/></l><r>başkan<s n="n"/></r></p></e>
        <e><p><l>تېلېفون<s n="n"/></l><r>telefon<s n="n"/></r></p></e>
-       <e><p><l>غۇلجا<s n="n"/></l><r>yabani<b/>koyun<s n="n"/></r></p></e>
+       <e><p><l>غۇلجا<s n="n"/></l><r>koyun<s n="n"/></r></p></e>
        <e><p><l>نەشر<s n="n"/></l><r>yayın<s n="n"/></r></p></e>
        <e><p><l>دىيار<s n="n"/></l><r>diyar<s n="n"/></r></p></e>
        <e><p><l>ئاگېنتلىق<s n="n"/></l><r>ajans<s n="n"/></r></p></e>
@@ -307,7 +307,7 @@
        <e><p><l>قەدەر<s n="post"/></l><r>kadar<s n="post"/></r></p></e>
        <e><p><l>ناھايىتى<s n="adv"/></l><r>pek<s n="adv"/></r></p></e>
        <e><p><l>بۇنىڭدىن<s n="adv"/></l><r>bundan<s n="adv"/></r></p></e>
-       <e><p><l>شۇڭا<s n="adv"/></l><r>ondan<b/>dolayı<s n="adv"/></r></p></e>
+       <e><p><l>شۇڭا<s n="adv"/></l><r>şundandır<b/>ki<s n="adv"/></r></p></e>
        <e><p><l>ياشا<s n="v"/><s n="iv"/></l><r>yaşa<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>قاتناش<s n="v"/><s n="iv"/></l><r>katıl<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ئېلىن<s n="v"/><s n="iv"/></l><r>alın<s n="v"/><s n="iv"/></r></p></e>
@@ -315,8 +315,8 @@
        <e><p><l>بىلدۈر<s n="v"/><s n="tv"/></l><r>bildir<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>تەكىتلى<s n="v"/><s n="tv"/></l><r>tekit<b/>et<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>سانى<s n="v"/><s n="tv"/></l><r>say<s n="v"/><s n="tv"/></r></p></e>
-
-
+	<e><p><l>ئەمەس<s n="adj"/></l><r>değil<s n="adj"/></r></p></e>
+      
 
        <e><p><l>بۈگۈنكى<s n="adj"/></l><r>bugünki<s n="adj"/></r></p></e>
        <e><p><l>مەلۇم<s n="adj"/></l><r>belli<s n="adj"/></r></p></e>
