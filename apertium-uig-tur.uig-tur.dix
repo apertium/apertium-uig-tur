@@ -115,11 +115,14 @@
 
 	<e><p><l>بۇ<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/><s n="dem"/></r></p></e>
 <e><p><l>قايسى<s n="prn"/><s n="itg"/></l><r>hangi<s n="prn"/><s n="itg"/></r></p></e>
+
 	<e><p><l>قانچىلىك<s n="prn"/><s n="itg"/></l><r>ne<b/>kadar<s n="prn"/><s n="itg"/></r></p></e>
 
+<e><p><l>قانچىلىك<s n="adv"/><s n="itg"/></l><r>ne<b/>kadar<s n="adv"/><s n="itg"/></r></p></e>
 
       <!-- SECTION: Determiners -->
       <e><p><l>بۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
+<e><p><l>قايسى<s n="det"/><s n="itg"/></l><r>hangi<s n="det"/><s n="itg"/></r></p></e>
 
       <!-- SECTION: Numerals -->
       <e><p><l>بىر<s n="num"/></l><r>bir<s n="num"/></r></p></e>
