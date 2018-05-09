@@ -60,6 +60,7 @@
     <sdef n="qnt"             c="Quantifier"/>
     <sdef n="neg"             c="Negative"/>
     <sdef n="emph"            c="Emphatic"/>
+    <sdef n="gna_neg"         c="neg verbal adverb"/>
 
     <sdef n="pass"            c="Passive"/>
 
