@@ -1,8 +1,11 @@
-import sys
+import sys,os
+
 
 def readfile(tu=True):
     lets = {}
-    with open("t.csv") as infile:
+    dir_path = os.path.dirname(os.path.realpath(__file__))
+    t_path = os.path.join(dir_path,"t.csv")
+    with open(t_path) as infile:
         for line in infile:
             a,b = line.split(";")
             if tu:
