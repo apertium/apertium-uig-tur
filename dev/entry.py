@@ -1,4 +1,4 @@
-import sys
+import sys,os
 
 
 def entrify(line):
@@ -17,8 +17,12 @@ def entrify(line):
     return out
 
 if __name__ == "__main__":
+    d = os.path.dirname(__file__)
+    bidix = os.path.join(d, "../apertium-uig-tur.uig-tur.dix")
+    items = set([x.strip("\n").strip() for x in open(bidix).readlines()])
     lines = sys.stdin.readlines()
     rev  = sorted([x[::-1] for x in map(entrify,lines) if len(x)>2])
     entries = [x[::-1] for x in rev]
     for e in entries:
-        print(e)
+        if e not in items:
+            print(e)
