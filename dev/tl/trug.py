@@ -1,8 +1,8 @@
 import sys,os
-
+from collections import OrderedDict
 
 def readfile(tu=True):
-    lets = {}
+    lets = OrderedDict()
     dir_path = os.path.dirname(os.path.realpath(__file__))
     t_path = os.path.join(dir_path,"t.csv")
     with open(t_path) as infile:
