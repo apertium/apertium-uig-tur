@@ -54,6 +54,9 @@
     <sdef n="nom"             c="Nominative"/>
     <sdef n="acc"             c="Accusative"/>
     <sdef n="gen"             c="Genitive"/>
+    <sdef n="dat"             c="Dative"/>
+    <sdef n="loc"             c="Locative"/>
+    <sdef n="abl"             c="Ablative"/>
 
     <sdef n="dem"             c="Demonstrative"/>
     <sdef n="itg"             c="Question word / interrogative"/>
@@ -151,7 +154,7 @@
        <e><p><l>قىسقارتىلما<s n="n"/></l><r>kısaltma<s n="n"/></r></p></e>
        <e><p><l>ئىسلاملىشىش<s n="n"/></l><r>müslümanlaşma<s n="n"/></r></p></e>
        <e><p><l>قۇرۇقلۇق<s n="n"/></l><r>kara<s n="n"/></r></p></e>
-       <e><p><l>خەلىڧە<s n="n"/></l><r>halife<s n="n"/></r></p></e>
+       <e><p><l>خەلىفە<s n="n"/></l><r>halife<s n="n"/></r></p></e>
        <e><p><l>رايون<s n="n"/></l><r>bölge<s n="n"/></r></p></e>
        <e><p><l>دەريا<s n="n"/></l><r>ırmak<s n="n"/></r></p></e>
        <e><p><l>دەريا<s n="n"/></l><r>nehir<s n="n"/></r></p></e>
@@ -323,7 +326,7 @@
        <e><p><l>يېقىن<s n="n"/></l><r>yakın<s n="n"/></r></p></e>
        <e><p><l>نامايىش<s n="n"/></l><r>protesto<s n="n"/></r></p></e>
        <e><p><l>تەركىب<s n="n"/></l><r>terkip<s n="n"/></r></p></e>
-       <e><p><l>شارائىت<s n="n"/></l><r>şartlar<s n="n"/><s n="pl"/></r></p></e>
+       <e><p><l>شارائىت<s n="n"/></l><r>şart<s n="n"/><s n="pl"/></r></p></e>
        <e><p><l>ۋىرۇس<s n="n"/></l><r>virüs<s n="n"/></r></p></e>
        <e><p><l>شەخس<s n="n"/></l><r>şahıs<s n="n"/></r></p></e>
        <e><p><l>ئىمپورت<s n="n"/></l><r>ithalat<s n="n"/></r></p></e>
@@ -351,8 +354,8 @@
        <e><p><l>نيۇيورك<s n="np"/><s n="top"/></l><r>New<b/>York<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>سەن<s n="prn"/><s n="pers"/></l><r>sen<s n="prn"/><s n="pers"/></r></p></e>
        <e><p><l>سىلەر<s n="prn"/><s n="pers"/></l><r>siz<s n="prn"/><s n="pers"/></r></p></e>
-       <e><p><l>ئۇنداقتا<s n="adv"/></l><r>onda<s n="adv"/></r></p></e>
-       <e><p><l>شۇنىڭغا<s n="adv"/></l><r>şuna<s n="adv"/></r></p></e>
+       <e><p><l>ئۇنداقتا<s n="adv"/></l><r>o<s n="prn"/><s n="dem"/><s n="loc"/></r></p></e>
+       <e><p><l>شۇنىڭغا<s n="adv"/></l><r>şu<s n="prn"/><s n="dem"/><s n="dat"/></r></p></e>
        <e><p><l>ئاستا<s n="adv"/></l><r>yavaşça<s n="adv"/></r></p></e>
        <e><p><l>پەۋقۇلئاددە<s n="adv"/></l><r>fevkalade<s n="adv"/></r></p></e>
        <e><p><l>ئۈزلۈكسىز<s n="adv"/></l><r>sürekli<s n="adv"/></r></p></e>
@@ -449,7 +452,7 @@
 
 	<e r="LR"><p><l>قارىماي<s n="adv"/></l><r>bak<s n="v"/><s n="iv"/><s n="gna_neg"/></r></p></e>
 
-       <e><p><l>شۇنىڭدىن<s n="adv"/></l><r>şundan<s n="adv"/></r></p></e>
+       <e><p><l>شۇنىڭدىن<s n="adv"/></l><r>şu<s n="prn"/><s n="dem"/><s n="abl"/></r></p></e>
        <e><p><l>تۈنۈگۈن<s n="adv"/></l><r>dün<s n="adv"/></r></p></e>
        <e><p><l>پەقەتلا<s n="adv"/></l><r>büsbütün<s n="adv"/></r></p></e>
        <e><p><l>قايتىدىن<s n="adv"/></l><r>tekrar<s n="adv"/></r></p></e>
@@ -492,7 +495,7 @@
        <e><p><l>ھەرقايسى<s n="prn"/><s n="pers"/></l><r>herkes<s n="prn"/><s n="pers"/></r></p></e>
        <e><p><l>قەدەر<s n="post"/></l><r>kadar<s n="post"/></r></p></e>
        <e><p><l>ناھايىتى<s n="adv"/></l><r>pek<s n="adv"/></r></p></e>
-       <e><p><l>بۇنىڭدىن<s n="adv"/></l><r>bundan<s n="adv"/></r></p></e>
+       <e><p><l>بۇنىڭدىن<s n="adv"/></l><r>bu<s n="prn"/><s n="dem"/><s n="abl"/></r></p></e>
        <e><p><l>شۇڭا<s n="adv"/></l><r>şundandır<b/>ki<s n="adv"/></r></p></e>
        <e><p><l>ياشا<s n="v"/><s n="iv"/></l><r>yaşa<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>قاتناش<s n="v"/><s n="iv"/></l><r>katıl<s n="v"/><s n="iv"/></r></p></e>
@@ -700,7 +703,7 @@
        <e><p><l>نيۇ-يورك<s n="np"/><s n="top"/></l><r>New<b/>York<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ئىران<s n="np"/><s n="top"/></l><r>İran<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>قاراقاش<s n="np"/><s n="top"/></l><r>Karakaş<s n="np"/><s n="top"/></r></p></e>
-       <e><p><l>بۇنىڭدا<s n="adv"/></l><r>bunda<s n="adv"/></r></p></e>
+       <e><p><l>بۇنىڭدا<s n="adv"/></l><r>bu<s n="prn"/><s n="dem"/><s n="loc"/></r></p></e>
        <e><p><l>ئەكسىچە<s n="adv"/></l><r>aksi<b/>halde<s n="adv"/></r></p></e>
        <e><p><l>ئۇنداق<s n="adv"/></l><r>öyle<s n="adv"/></r></p></e>
        <e><p><l>مەلۇمكى<s n="adv"/></l><r>malum<b/>ki<s n="adv"/></r></p></e>
@@ -1111,7 +1114,7 @@
        <e><p><l>بىرگە<s n="adv"/></l><r>birlikte<s n="adv"/></r></p></e>
        <e><p><l>بەلكى<s n="adv"/></l><r>belki<s n="adv"/></r></p></e>
        <e><p><l>دەرھال<s n="adv"/></l><r>derhal<s n="adv"/></r></p></e>
-       <e><p><l>ئۇنىڭدىن<s n="adv"/></l><r>ondan<s n="adv"/></r></p></e>
+       <e><p><l>ئۇنىڭدىن<s n="adv"/></l><r>o<s n="prn"/><s n="dem"/><s n="abl"/></r></p></e>
        <e><p><l>تېخى<s n="adv"/></l><r>halen<s n="adv"/></r></p></e>
        <e><p><l>جۈملىدىن<s n="adv"/></l><r>cümleten<s n="adv"/></r></p></e>
        <e><p><l>پۈتۈنلەي<s n="adv"/></l><r>büsbütün<s n="adv"/></r></p></e>
@@ -2492,7 +2495,6 @@
       <e><p><l>تەدبىر<s n="n"/></l><r>usul<s n="n"/></r></p></e>
       <e><p><l>ئۇيات<s n="n"/></l><r>utanç<s n="n"/></r></p></e>
       <e><p><l>ۋىجدان<s n="n"/></l><r>utanç<s n="n"/></r></p></e>
-      <e><p><l>ئەزا<s n="n"/></l><r>üye<s n="n"/></r></p></e>
       <e><p><l>تەجرىبە<s n="n"/></l><r>uygulama<s n="n"/></r></p></e>
       <e><p><l>ئۇيقۇ<s n="n"/></l><r>uyku<s n="n"/></r></p></e>
       <e><p><l>كاسا<s n="n"/></l><r>uyluk<s n="n"/></r></p></e>
@@ -2645,7 +2647,7 @@
        <e><p><l>قازاقىستان<s n="np"/><s n="top"/></l><r>Kazakistan<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>تاجىكىستان<s n="np"/><s n="top"/></l><r>Tacikistan<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>شەرقىي<b/>تۈركىستان<s n="np"/><s n="top"/></l><r>Doğu<b/>Türkistan<s n="np"/><s n="top"/></r></p></e>
-       <e><p><l>ئاڧغانىستان<s n="np"/><s n="top"/></l><r>Afganistan<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>ئافغانىستان<s n="np"/><s n="top"/></l><r>Afganistan<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>قىرغىزىستان<s n="np"/><s n="top"/></l><r>Kırgızistan<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>جۇڭخۇا<s n="np"/><s n="top"/></l><r>Çin<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>كەشمىر<s n="np"/><s n="top"/></l><r>Keşmir<s n="np"/><s n="top"/></r></p></e>
