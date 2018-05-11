@@ -24,5 +24,5 @@ if __name__ == "__main__":
     rev  = sorted([x[::-1] for x in map(entrify,lines) if len(x)>2])
     entries = [x[::-1] for x in rev]
     for e in entries:
-        if e not in items:
+        if e.strip() not in items:
             print(e)
