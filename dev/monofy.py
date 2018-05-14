@@ -1,8 +1,10 @@
 import sys, os
 
 def monofy(line):
-    dic = { '<s n="adj"/>':'A1','<s n="adv"/>':"ADV",'<s n="n"/>':"N1",
-            '<s n="np"/><s n="top"/>':"NP-TOP",'<s n="post"/>':"POST",
+    dic = { '<s n="adj"/>':'A1',
+'<s n="adv"/>':"ADV",'<s n="n"/>':"N1",
+            '<s n="np"/><s n="top"/>':"NP-TOP",
+'<s n="post"/>':"POST",
             '<s n="np"/><s n="cog"/><s n="mf"/>':"NP-COG",
             '<s n="np"/><s n="org"/>':"NP-ORG",
             '<s n="prn"/><s n="itg"/>':"PRON-ITG",
@@ -15,7 +17,9 @@ def monofy(line):
             '<s n="np"/><s n="ant"/><s n="m"/>':'NP-ANT-M',
             '<s n="np"/><s n="ant"/><s n="f"/>':'NP-ANT-F',
             '<s n="cnjadv"/>':"CA",
-            '<s n="v"/><s n="tv"/>':"V-TV"}
+            '<s n="v"/><s n="tv"/>':"V-TV",
+	    '<s n="det"/><s n="qnt"/>':"DET-QNT"
+}
 
 
     word = line.partition("<l>")[2].partition("<s")[0]
