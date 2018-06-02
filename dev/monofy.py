@@ -25,21 +25,24 @@ def monofy(line,left=True):
         word = line.partition("<l>")[2].partition("<s")[0]
         tags= "".join(line.partition("<s")[1:]).partition("</l>")[0]
     else:
-        word = line.partition("<r>")[2].partition("<s")[0]
-        tags= "".join(line.partition("<r>")[2].partition("<s")[1:]).partition("</r>")[0]
+        word = line.partition("<s")[0]
+        tags= "".join(line.partition("<s")[1:]).partition("</r>")[0]
     word = word.replace("<b/>","% ")
     entry = word + ":" + word + " " + dic[tags] + " ; !"
     return entry
 
 
 if __name__=="__main__":
-    d = os.path.dirname(__file__)
-    filename = os.path.join(d, '../../apertium-uig/apertium-uig.uig.lexc')
-    text = open(filename).read()
     left = True
     if "-tur" in sys.argv: left=False
+    d = os.path.dirname(__file__)
+    if left:
+        filename = os.path.join(d, '../../apertium-uig/apertium-uig.uig.lexc')
+    else:
+        filename = os.path.join(d, '../../apertium-tur/apertium-tur.tur.lexc')
+    text = open(filename).read()
     for line in sys.stdin.readlines():
-        if "<e><p><l>" in line:
+        if "<" in line:
             try:
                 m = monofy(line,left)
                 if m not in text:
