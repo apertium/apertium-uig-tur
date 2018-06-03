@@ -154,7 +154,8 @@
       <e><p><l>باش<s n="n"/></l><r>baş<s n="n"/></r></p></e>
 
        <e><p><l>ئارال<s n="n"/></l><r>ada<s n="n"/></r></p></e>
-       <e><p><l>رىم<s n="n"/></l><r>Roma<s n="n"/></r></p></e>
+       <e><p><l>رىم<s n="n"/></l><r>Rum<s n="n"/></r></p></e>
+       <e><p><l>رىم<s n="np"/><s n="top"/></l><r>Roma<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>قىسقارتىلما<s n="n"/></l><r>kısaltma<s n="n"/></r></p></e>
        <e><p><l>قىسقارتىلما<s n="adj"/></l><r>kısa<s n="adj"/></r></p></e>
        <e><p><l>ئىسلاملىشىش<s n="n"/></l><r>müslümanlaşma<s n="n"/></r></p></e>
@@ -188,7 +189,8 @@
        <e><p><l>ئورۇن<s n="n"/></l><r>konum<s n="n"/></r></p></e>
        <e><p><l>قىسىم<s n="n"/></l><r>kısım<s n="n"/></r></p></e>
        <e><p><l>خان<s n="n"/></l><r>han<s n="n"/></r></p></e>
-       <e><p><l>ئالپ<b/>ئارسلان<s n="n"/></l><r>alp<b/>arslan<s n="n"/></r></p></e>
+       <e><p><l>ئالپ<s n="np"/><s n="ant"/><s n="m"/></l><r>alp<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>ئارسلان<s n="np"/><s n="ant"/><s n="m"/></l><r>arslan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>زامان<s n="n"/></l><r>zaman<s n="n"/></r></p></e>
        <e><p><l>سۇلتان<s n="n"/></l><r>sultan<s n="n"/></r></p></e>
        <e><p><l>ئۇنۋان<s n="n"/></l><r>ünvan<s n="n"/></r></p></e>
@@ -526,7 +528,7 @@
        <e><p><l>تۈگىتىش<s n="n"/></l><r>tamamlama<s n="n"/></r></p></e>
        <e><p><l>لايىھەلەش<s n="n"/></l><r>planlama<s n="n"/></r></p></e>
        <e><p><l>بولماسلىق<s n="n"/></l><r>olmama<s n="n"/></r></p></e>
-       <e><p><l>كۈتۈنۈش<s n="n"/></l><r>kendine<b/>bakma<s n="n"/></r></p></e>
+       <e r="LR"><p><l>كۈتۈنۈش<s n="n"/></l><r>kendine<b/>bakma<s n="n"/></r></p></e>
        <e><p><l>داۋالىنىش<s n="n"/></l><r>tedavi<b/>olma<s n="n"/></r></p></e>
        <e><p><l>كاپالەتلەندۈرۈش<s n="n"/></l><r>garantileme<s n="n"/></r></p></e>
        <e><p><l>كېڭەيتىش<s n="n"/></l><r>genişletme<s n="n"/></r></p></e>
@@ -919,7 +921,7 @@
        <e><p><l>چەكلىمە<s n="n"/></l><r>sınırlama<s n="n"/></r></p></e>
        <e><p><l>تېما<s n="n"/></l><r>tema<s n="n"/></r></p></e>
        <e><p><l>ئۇچرىشىش<s n="n"/></l><r>karşılaşma<s n="n"/></r></p></e>
-       <e><p><l>ياۋروپا<s n="n"/></l><r>Avrupa<s n="n"/></r></p></e>
+       <e><p><l>ياۋروپا<s n="np"/><s n="top"/></l><r>Avrupa<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ماقالە<s n="n"/></l><r>makale<s n="n"/></r></p></e>
        <e><p><l>ئەدلىيە<s n="n"/></l><r>adliye<s n="n"/></r></p></e>
        <e><p><l>سەرپ<s n="n"/></l><r>masraf<s n="n"/></r></p></e>
@@ -1297,7 +1299,7 @@
        <e><p><l>ئۆزبېك<s n="n"/></l><r>Özbek<s n="n"/></r></p></e>
        <e><p><l>يوقلۇق<s n="n"/></l><r>yokluk<s n="n"/></r></p></e>
        <e><p><l>جاسۇسلۇق<s n="n"/></l><r>casusluk<s n="n"/></r></p></e>
-       <e><p><l>نوبېل<s n="n"/></l><r>Nobel<s n="n"/></r></p></e>
+       <e><p><l>نوبېل<s n="np"/><s n="al"/></l><r>Nobel<s n="np"/><s n="al"/></r></p></e>
        <e><p><l>شەكىل<s n="n"/></l><r>şekil<s n="n"/></r></p></e>
        <e><p><l>رەسىم<s n="n"/></l><r>resim<s n="n"/></r></p></e>
        <e><p><l>قوللاپ<s n="n"/></l><r>yardım<s n="n"/></r></p></e>
@@ -1714,7 +1716,7 @@
        <e><p><l>سۈ<s n="n"/></l><r>su<s n="n"/></r></p></e>
        <e><p><l>ئوۋ<s n="n"/></l><r>av<s n="n"/></r></p></e>
        <e><p><l>بۇغداي<s n="n"/></l><r>buğday<s n="n"/></r></p></e>
-       <e><p><l>ياساپ<s n="n"/></l><r>yapay<s n="n"/></r></p></e>
+       <e><p><l>ياساپ<s n="adj"/></l><r>yapay<s n="adj"/></r></p></e>
        <e><p><l>بەگ<s n="n"/></l><r>bey<s n="n"/></r></p></e>
        <e><p><l>ئوغۇز<s n="n"/></l><r>Oğuz<s n="n"/></r></p></e>
        <e><p><l>ياغ<s n="n"/></l><r>yağ<s n="n"/></r></p></e>
@@ -1802,7 +1804,7 @@
        <e><p><l>باج<s n="n"/></l><r>vergi<s n="n"/></r></p></e>
        <e><p><l>ئېكولوگىيە<s n="n"/></l><r>ekoloji<s n="n"/></r></p></e>
        <e><p><l>مېتېئورولوگىيە<s n="n"/></l><r>meteoroloji<s n="n"/></r></p></e>
-       <e><p><l>گوۋۇيۈەن<s n="n"/></l><r>Çin<b/>Devlet<b/>Konseyi<s n="n"/></r></p></e>
+       <e><p><l>گوۋۇيۈەن<s n="np"/><s n="org"/></l><r>Çin<b/>Devlet<b/>Konseyi<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>يۈكسەك<s n="n"/></l><r>yüksek<s n="n"/></r></p></e>
        <e><p><l>باشلامچىلىق<s n="n"/></l><r>önderlik<s n="n"/></r></p></e>
        <e><p><l>ۋارىسلىق<s n="n"/></l><r>varislik<s n="n"/></r></p></e>
@@ -2423,7 +2425,7 @@
        <e><p><l>ئىجرا<s n="n"/></l><r>icra<s n="n"/></r></p></e>
        <e><p><l>ئاتا<s n="n"/></l><r>ata<s n="n"/></r></p></e>
        <e><p><l>ھەپتە<s n="n"/></l><r>hafta<s n="n"/></r></p></e>
-       <e><p><l>ئاۋسترالىيە<s n="n"/></l><r>Avustralya<s n="n"/></r></p></e>
+       <e><p><l>ئاۋسترالىيە<s n="np"/><s n="top"/></l><r>Avustralya<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>جازا<s n="n"/></l><r>ceza<s n="n"/></r></p></e>
        <e><p><l>زەربە<s n="n"/></l><r>darbe<s n="n"/></r></p></e>
        <e><p><l>مۇھاكىمە<s n="n"/></l><r>muhakeme<s n="n"/></r></p></e>
@@ -2594,7 +2596,7 @@
        <e><p><l>چېن<s n="n"/></l><r>oran<s n="n"/></r></p></e>
        <e><p><l>ئىنسان<s n="n"/></l><r>insan<s n="n"/></r></p></e>
        <e><p><l>ئاخىر<s n="n"/></l><r>son<s n="n"/></r></p></e>
-       <e><p><l>ۋاشىنگتون<s n="n"/></l><r>Washington<s n="n"/></r></p></e>
+       <e><p><l>ۋاشىنگتون<s n="np"/><s n="top"/></l><r>Washington<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>سۈرگۈن<s n="n"/></l><r>sürgün<s n="n"/></r></p></e>
        <e><p><l>ئايال<s n="n"/></l><r>kadın<s n="n"/></r></p></e>
        <e><p><l>قارار<s n="n"/></l><r>karar<s n="n"/></r></p></e>
@@ -2668,7 +2670,6 @@
 
       <e><p><l>جۇمھۇرباشقان<s n="n"/></l><r>cumhurbaşkan<s n="n"/></r></p></e>
       <e><p><l>ئىچ<s n="n"/></l><r>iç<s n="n"/></r></p></e>
-      <e><p><l>پرىزدېنت<s n="n"/></l><r>prezident<s n="n"/></r></p></e>
       <e><p><l>جۇمھۇرىيەت<s n="n"/></l><r>cumhuriyet<s n="n"/></r></p></e>
       <e><p><l>توپراق<s n="n"/></l><r>toprak<s n="n"/></r></p></e>
       <e><p><l>دۆلەت<s n="n"/></l><r>devlet<s n="n"/></r></p></e>
@@ -2761,7 +2762,7 @@
        <e><p><l>رادىيو<s n="n"/></l><r>radyo<s n="n"/></r></p></e>
        <e><p><l>گۇرۇپپا<s n="n"/></l><r>grup<s n="n"/></r></p></e>
        <e><p><l>مۇقىملىق<s n="n"/></l><r>istikrar<s n="n"/></r></p></e>
-       <e><p><l>بىرلەشكەن<b/>دۆلەتلەر<b/>تەشكىلاتى<s n="n"/></l><r>Birleşmiş<b/>Milletler<s n="n"/></r></p></e>
+       <e><p><l>بىرلەشكەن<b/>دۆلەتلەر<b/>تەشكىلاتى<s n="np"/><s n="org"/></l><r>Birleşmiş<b/>Milletler<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>كاتىپ<s n="n"/></l><r>sekreter<s n="n"/></r></p></e>
        <e><p><l>شائىر<s n="n"/></l><r>şair<s n="n"/></r></p></e>
        <e><p><l>ھېس<s n="n"/></l><r>his<s n="n"/></r></p></e>
@@ -2772,7 +2773,7 @@
        <e><p><l>قانات<s n="n"/></l><r>kanat<s n="n"/></r></p></e>
        <e><p><l>ھايات<s n="n"/></l><r>hayat<s n="n"/></r></p></e>
        <e><p><l>باھا<s n="n"/></l><r>fiyat<s n="n"/></r></p></e>
-       <e><p><l>ئەخمەت<s n="n"/></l><r>Ahmet<s n="n"/></r></p></e>
+       <e><p><l>ئەخمەت<s n="np"/><s n="ant"/><s n="m"/></l><r>Ahmet<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>ھۆكۈمەت<s n="n"/></l><r>hükümet<s n="n"/></r></p></e>
        <e><p><l>خەۋپسىزلىك<s n="n"/></l><r>emniyet<s n="n"/></r></p></e>
        <e><p><l>چاغ<s n="n"/></l><r>vakit<s n="n"/></r></p></e>
@@ -2863,7 +2864,7 @@
 
 
        <e><p><l>سوئال<s n="n"/></l><r>soru<s n="n"/></r></p></e>
-       <e><p><l>دېگەندەك<s n="n"/></l><r>eksiksiz<s n="n"/></r></p></e>
+       <e><p><l>دېگەندەك<s n="adj"/></l><r>eksiksiz<s n="adj"/></r></p></e>
        <e><p><l>نورۇز<s n="n"/></l><r>Nevruz<s n="n"/></r></p></e>
        <e><p><l>ئېتىقاد<s n="n"/></l><r>inanç<s n="n"/></r></p></e>
        <e><p><l>تەتقىقاتچى<s n="n"/></l><r>araştırmacı<s n="n"/></r></p></e>
