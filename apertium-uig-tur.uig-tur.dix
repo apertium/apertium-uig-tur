@@ -2901,6 +2901,135 @@
        <e><p><l>تارقات<s n="v"/><s n="tv"/></l><r>dağıt<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ساقلا<s n="v"/><s n="tv"/></l><r>koru<s n="v"/><s n="tv"/></r></p></e>
 
+       <e><p><l>بىردىنبىر<s n="adj"/></l><r>yegâne<s n="adj"/></r></p></e>
+       <e><p><l>نېپىز<s n="adj"/></l><r>zarif<s n="adj"/></r></p></e>
+       <e><p><l>بىرىنجى<s n="adj"/></l><r>birinci<s n="adj"/></r></p></e>
+       <e><p><l>كىرەكلىك<s n="adj"/></l><r>gerekli<s n="adj"/></r></p></e>
+       <e><p><l>كلاسسىك<s n="adj"/></l><r>klasik<s n="adj"/></r></p></e>
+       <e><p><l>بىرىنجى<s n="adj"/></l><r>ilk<s n="adj"/></r></p></e>
+       <e><p><l>بىرىنچى<s n="adj"/></l><r>ilk<s n="adj"/></r></p></e>
+       <e><p><l>ئىجتىمائى<s n="adj"/></l><r>toplumsal<s n="adj"/></r></p></e>
+       <e><p><l>ئاسساسلىك<s n="adj"/></l><r>temel<s n="adj"/></r></p></e>
+       <e><p><l>ئاسساسلىك<s n="adj"/></l><r>makul<s n="adj"/></r></p></e>
+       <e><p><l>قەدىم<s n="adj"/></l><r>kadim<s n="adj"/></r></p></e>
+       <e><p><l>قەدىمقى<s n="adj"/></l><r>kadim<s n="adj"/></r></p></e>
+       <e><p><l>ئامان<s n="adj"/></l><r>esen<s n="adj"/></r></p></e>
+       <e><p><l>كىيىنكى<s n="adj"/></l><r>son<s n="adj"/></r></p></e>
+       <e><p><l>جۈملە<s n="adj"/></l><r>bütün<s n="adj"/></r></p></e>
+       <e><p><l>ﮬﻪﺭ<s n="adj"/></l><r>her<s n="adj"/></r></p></e>
+       <e><p><l>ﻫﻪﺭ<s n="adj"/></l><r>her<s n="adj"/></r></p></e>
+       <e><p><l>بوغۇملۇق<s n="adj"/></l><r>boğumlu<s n="adj"/></r></p></e>
+       <e><p><l>قويۇق<s n="adj"/></l><r>koyu<s n="adj"/></r></p></e>
+       <e><p><l>كىرەكسىز<s n="adj"/></l><r>gereksiz<s n="adj"/></r></p></e>
+       <e><p><l>كېرەكسىز<s n="adj"/></l><r>gereksiz<s n="adj"/></r></p></e>
+       <e><p><l>شېرىكسىز<s n="adj"/></l><r>eşsiz<s n="adj"/></r></p></e>
+       <e><p><l>ياش<s n="adj"/></l><r>genç<s n="adj"/></r></p></e>
+       <e><p><l>ئامان<s n="adj"/></l><r>sağ<s n="adj"/></r></p></e>
+       <e><p><l>پروگراممىلىق<s n="adj"/></l><r>programlı<s n="adj"/></r></p></e>
+       <e><p><l>ئاتلىق<s n="adj"/></l><r>atlı<s n="adj"/></r></p></e>
+       <e><p><l>ياغلىق<s n="adj"/></l><r>yağlı<s n="adj"/></r></p></e>
+       <e><p><l>بوش<s n="adj"/></l><r>boş<s n="adj"/></r></p></e>
+       <e><p><l>ئىلىپ<s n="np"/><s n="ant"/><s n="m"/></l><r>Elif<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>ئېلىپ<s n="np"/><s n="ant"/><s n="m"/></l><r>Elif<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>بۇغراخان<s n="np"/><s n="ant"/><s n="m"/></l><r>Buğrahan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>زوردۇن<s n="np"/><s n="ant"/><s n="m"/></l><r>Zordun<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>بۇن<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
+       <e><p><l>يىگىرمە<s n="num"/></l><r>yirmi<s n="num"/></r></p></e>
+       <e><p><l>ناھىيە<s n="n"/></l><r>kasaba<s n="n"/></r></p></e>
+       <e><p><l>فرانسۇزچە<s n="n"/></l><r>Fransızca<s n="n"/></r></p></e>
+       <e><p><l>كەيىن<s n="n"/></l><r>sonra<s n="n"/></r></p></e>
+       <e><p><l>سۇڭپىياز<s n="n"/></l><r>pırasa<s n="n"/></r></p></e>
+       <e><p><l>خېمىرتۇرۇچ<s n="n"/></l><r>maya<s n="n"/></r></p></e>
+       <e><p><l>بوۋاي<s n="n"/></l><r>dede<s n="n"/></r></p></e>
+       <e><p><l>قەبىلە<s n="n"/></l><r>kabile<s n="n"/></r></p></e>
+       <e><p><l>جۈملە<s n="n"/></l><r>cümle<s n="n"/></r></p></e>
+       <e><p><l>تەھلىل<s n="n"/></l><r>inceleme<s n="n"/></r></p></e>
+       <e><p><l>تەھرىر<s n="n"/></l><r>düzeltme<s n="n"/></r></p></e>
+       <e><p><l>سۈرۈك<s n="n"/></l><r>süre<s n="n"/></r></p></e>
+       <e><p><l>مۇئەسسەسە<s n="n"/></l><r>müessese<s n="n"/></r></p></e>
+       <e><p><l>كۆكتات<s n="n"/></l><r>sebze<s n="n"/></r></p></e>
+       <e><p><l>ھىندى<s n="n"/></l><r>Hintçe<s n="n"/></r></p></e>
+       <e><p><l>ئىتىراپ<s n="n"/></l><r>itiraf<s n="n"/></r></p></e>
+       <e><p><l>ئىلىپ<s n="n"/></l><r>elif<s n="n"/></r></p></e>
+       <e><p><l>ئېلىپ<s n="n"/></l><r>elif<s n="n"/></r></p></e>
+       <e><p><l>كەشپىيات<s n="n"/></l><r>keşif<s n="n"/></r></p></e>
+       <e><p><l>شاھ<s n="n"/></l><r>şah<s n="n"/></r></p></e>
+       <e><p><l>كەيىن<s n="n"/></l><r>geri<s n="n"/></r></p></e>
+       <e><p><l>سۈي<s n="n"/></l><r>Sui<s n="n"/></r></p></e>
+       <e><p><l>ئوتلاق<s n="n"/></l><r>otlak<s n="n"/></r></p></e>
+       <e><p><l>سامساق<s n="n"/></l><r>sarımsak<s n="n"/></r></p></e>
+       <e><p><l>پۇت<s n="n"/></l><r>ayak<s n="n"/></r></p></e>
+       <e><p><l>كىرەك<s n="n"/></l><r>gerek<s n="n"/></r></p></e>
+       <e><p><l>يۇرەك<s n="n"/></l><r>yürek<s n="n"/></r></p></e>
+       <e><p><l>كاتولىك<s n="n"/></l><r>Katolik<s n="n"/></r></p></e>
+       <e><p><l>بۇغا<s n="n"/></l><r>geyik<s n="n"/></r></p></e>
+       <e><p><l>كۆكتۈرك<s n="n"/></l><r>Göktürk<s n="n"/></r></p></e>
+       <e><p><l>قارلۇق<s n="n"/></l><r>Karluk<s n="n"/></r></p></e>
+       <e><p><l>دوكتورلۇق<s n="n"/></l><r>doktorluk<s n="n"/></r></p></e>
+       <e><p><l>ھۆددىگەرلىك<s n="n"/></l><r>sorumluluk<s n="n"/></r></p></e>
+       <e><p><l>تىجارەتچىلەر<s n="n"/></l><r>tüccarlık<s n="n"/></r></p></e>
+       <e><p><l>زەنجىۋىل<s n="n"/></l><r>zencefil<s n="n"/></r></p></e>
+       <e><p><l>پەش<s n="n"/></l><r>virgül<s n="n"/></r></p></e>
+       <e><p><l>دەۋام<s n="n"/></l><r>devam<s n="n"/></r></p></e>
+       <e><p><l>رېجىم<s n="n"/></l><r>rejim<s n="n"/></r></p></e>
+       <e><p><l>ئىنىستىتۇت<s n="n"/></l><r>kurum<s n="n"/></r></p></e>
+       <e><p><l>سېلىش<s n="n"/></l><r>yapım<s n="n"/></r></p></e>
+       <e><p><l>ئىبن<s n="n"/></l><r>ibn<s n="n"/></r></p></e>
+       <e><p><l>مۇئەللىم<s n="n"/></l><r>öğretmen<s n="n"/></r></p></e>
+       <e><p><l>كەپتەر<s n="n"/></l><r>güvercin<s n="n"/></r></p></e>
+       <e><p><l>دەپنە<s n="n"/></l><r>defin<s n="n"/></r></p></e>
+       <e><p><l>ئىجازەت<s n="n"/></l><r>izin<s n="n"/></r></p></e>
+       <e><p><l>ياپونلۇق<s n="n"/></l><r>Japon<s n="n"/></r></p></e>
+       <e><p><l>ئاقىۋەت<s n="n"/></l><r>son<s n="n"/></r></p></e>
+       <e><p><l>قوغۇن<s n="n"/></l><r>kavun<s n="n"/></r></p></e>
+       <e><p><l>تىياتىر<s n="n"/></l><r>tiyatro<s n="n"/></r></p></e>
+       <e><p><l>سەۋەپ<s n="n"/></l><r>sebep<s n="n"/></r></p></e>
+       <e><p><l>تىجارەتچى<s n="n"/></l><r>tüccar<s n="n"/></r></p></e>
+       <e><p><l>سۈيدۈك<s n="n"/></l><r>idrar<s n="n"/></r></p></e>
+       <e><p><l>ئەكىس<s n="n"/></l><r>akis<s n="n"/></r></p></e>
+       <e><p><l>ئاقىۋەت<s n="n"/></l><r>akıbet<s n="n"/></r></p></e>
+       <e><p><l>قانۇنىيەت<s n="n"/></l><r>kanuniyet<s n="n"/></r></p></e>
+       <e><p><l>تەخت<s n="n"/></l><r>taht<s n="n"/></r></p></e>
+       <e><p><l>ھىندى<s n="n"/></l><r>Hint<s n="n"/></r></p></e>
+       <e><p><l>بۆرە<s n="n"/></l><r>kurt<s n="n"/></r></p></e>
+       <e><p><l>ۋۇجۇت<s n="n"/></l><r>vücut<s n="n"/></r></p></e>
+       <e><p><l>پۇت<s n="n"/></l><r>put<s n="n"/></r></p></e>
+       <e><p><l>ھۆددىگەر<s n="n"/></l><r>sorumlu<s n="n"/></r></p></e>
+       <e><p><l>پولو<s n="n"/></l><r>pilav<s n="n"/></r></p></e>
+       <e><p><l>پولۇ<s n="n"/></l><r>pilav<s n="n"/></r></p></e>
+       <e><p><l>تەقسىم<s n="n"/></l><r>pay<s n="n"/></r></p></e>
+       <e><p><l>ياغلىق<s n="n"/></l><r>bez<s n="n"/></r></p></e>
+       <e><p><l>تىز<s n="n"/></l><r>diz<s n="n"/></r></p></e>
+       <e><p><l>فرانسۇز<s n="n"/></l><r>Fransız<s n="n"/></r></p></e>
+       <e><p><l>ئۆچ<s n="n"/></l><r>öç<s n="n"/></r></p></e>
+       <e><p><l>سۈرۈك<s n="n"/></l><r>sürü<s n="n"/></r></p></e>
+       <e><p><l>دەۋالاشقۇچى<s n="n"/></l><r>davacı<s n="n"/></r></p></e>
+       <e><p><l>ئاتلىق<s n="n"/></l><r>atlı<s n="n"/></r></p></e>
+       <e><p><l>ئىلاھ<s n="n"/></l><r>tanrı<s n="n"/></r></p></e>
+       <e><p><l>ئاش<s n="n"/></l><r>aş<s n="n"/></r></p></e>
+       <e><p><l>تا<s n="cnjcoo"/></l><r>ta<s n="cnjcoo"/></r></p></e>
+       <e><p><l>بىلەنمۇ<s n="cnjcoo"/></l><r>ile<b/>de<s n="cnjcoo"/></r></p></e>
+       <e><p><l>ﻳﻪﻧﻰ<s n="cnjcoo"/></l><r>yani<s n="cnjcoo"/></r></p></e>
+       <e><p><l>ياۋرۇپا<s n="np"/><s n="top"/></l><r>Avrupa<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>روسىيە<s n="np"/><s n="top"/></l><r>Rusya<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>جۇڭگۇ<s n="np"/><s n="top"/></l><r>Çin<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>پارىژ<s n="np"/><s n="top"/></l><r>Paris<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>نىمە<s n="prn"/><s n="pers"/></l><r>ne<s n="prn"/><s n="pers"/></r></p></e>
+       <e><p><l>كەيىن<s n="adv"/></l><r>sonra<s n="adv"/></r></p></e>
+       <e><p><l>پەش<s n="adv"/></l><r>gizlice<s n="adv"/></r></p></e>
+       <e><p><l>ئومۇمەن<s n="adv"/></l><r>genellikle<s n="adv"/></r></p></e>
+       <e><p><l>جۈملە<s n="adv"/></l><r>cümleten<s n="adv"/></r></p></e>
+       <e><p><l>كۈل<s n="v"/><s n="iv"/></l><r>gül<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>سېلىن<s n="v"/><s n="iv"/></l><r>yapıl<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>بۆلۈن<s n="v"/><s n="iv"/></l><r>bölün<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>دەۋالا<s n="v"/><s n="iv"/></l><r>dava<b/>aç<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>دەۋالاش<s n="v"/><s n="iv"/></l><r>davalaş<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>تەقسىم<b/>قىل<s n="v"/><s n="tv"/></l><r>böl<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>ياسا<s n="v"/><s n="tv"/></l><r>yap<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>يۇغۇر<s n="v"/><s n="tv"/></l><r>yoğur<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>ئالدا<s n="v"/><s n="tv"/></l><r>aldat<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>شۇغۇللا<s n="v"/><s n="tv"/></l><r>meşgul<b/>et<s n="v"/><s n="tv"/></r></p></e>
+
 
       <e><p><l>ئۇيات<s n="n"/></l><r>abide<s n="n"/></r></p></e>
       <e><p><l>ۋىجدان<s n="n"/></l><r>vicdan<s n="n"/></r></p></e>
