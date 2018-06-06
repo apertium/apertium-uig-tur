@@ -189,8 +189,9 @@
        <e><p><l>ئورۇن<s n="n"/></l><r>konum<s n="n"/></r></p></e>
        <e><p><l>قىسىم<s n="n"/></l><r>kısım<s n="n"/></r></p></e>
        <e><p><l>خان<s n="n"/></l><r>han<s n="n"/></r></p></e>
-       <e><p><l>ئالپ<s n="np"/><s n="ant"/><s n="m"/></l><r>alp<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-       <e><p><l>ئارسلان<s n="np"/><s n="ant"/><s n="m"/></l><r>arslan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>ئالپ<s n="np"/><s n="ant"/><s n="m"/></l><r>Alp<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>ئارسلان<s n="np"/><s n="ant"/><s n="m"/></l><r>Arslan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>ئارسلان<s n="n"/></l><r>Arslan<s n="n"/></r></p></e>
        <e><p><l>زامان<s n="n"/></l><r>zaman<s n="n"/></r></p></e>
        <e><p><l>سۇلتان<s n="n"/></l><r>sultan<s n="n"/></r></p></e>
        <e><p><l>ئۇنۋان<s n="n"/></l><r>ünvan<s n="n"/></r></p></e>
@@ -1667,7 +1668,7 @@
        <e><p><l>مەنزىرىلىك<s n="adj"/></l><r>manzaralı<s n="adj"/></r></p></e>
        <e><p><l>سىرتقى<s n="adj"/></l><r>dış<s n="adj"/></r></p></e>
        <e><p><l>ئىسا<s n="np"/><s n="ant"/><s n="m"/></l><r>İsa<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-       <e><p><l>مەلىكە<s n="np"/><s n="ant"/><s n="m"/></l><r>Melike<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>مەلىكە<s n="np"/><s n="ant"/><s n="f"/></l><r>Melike<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
        <e><p><l>سۇتۇق<s n="np"/><s n="ant"/><s n="m"/></l><r>Satuk<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>ھاشىم<s n="np"/><s n="ant"/><s n="m"/></l><r>Haşim<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>تۇرغۇنجان<s n="np"/><s n="ant"/><s n="m"/></l><r>Turguncan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -5047,7 +5048,7 @@
       <e><p><l>ئۆزگەر<s n="v"/><s n="iv"/></l><r>değiş<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>ئۆزگەرت<s n="v"/><s n="tv"/></l><r>değiştir<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>تېتى<s n="v"/><s n="iv"/></l><r>şaşır<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>ئۆتكۈز<s n="v"/><s n="tv"/></l><r>g<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>ئۆتكۈز<s n="v"/><s n="tv"/></l><r>geçir<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>تاپشۇر<s n="v"/><s n="tv"/></l><r>devret<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>تاپشۇر<s n="v"/><s n="tv"/></l><r>sun<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>تەر<s n="v"/><s n="tv"/></l><r>topla<s n="v"/><s n="tv"/></r></p></e>
