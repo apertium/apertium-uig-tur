@@ -66,7 +66,7 @@
     <sdef n="neg"             c="Negative"/>
     <sdef n="emph"            c="Emphatic"/>
     <sdef n="gna_neg"         c="neg verbal adverb"/>
-
+    <sdef n="dub"             c="Dubitative"/>
     <sdef n="pass"            c="Passive"/>
 
     <sdef n="sint"            c="Synthetic (of adjectives)"/>
@@ -93,6 +93,12 @@
   </sdefs>
 
    <section id="main" type="standard">
+
+      <!-- SECTION: Copula -->
+      <e r="LR"><p><l>ىئ<s n="cop"/></l><r> </r></p></e>
+      <e r="LR"><p><l>ئىكەن<s n="cop"/><s n="dub"/></l><r></r></p></e>
+      <e r="LR"><p><l>ئەمەس<s n="cop"/><s n="neg"/></l><r></r></p></e>
+
 
       <!-- SECTION: Conjunctions -->
       <e><p><l>ۋە<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
@@ -251,6 +257,7 @@
        <e><p><l>ئىنتايىن<s n="adv"/></l><r>gayet<s n="adv"/></r></p></e>
        <!-- HACK: fix later -->
        <e r="LR"><p><l>ئېرۇر<s n="v"/><s n="iv"/><s n="imp"/></l><r>ol<s n="v"/><s n="iv"/><s n="fut"/></r></p></e>
+
        <e><p><l>ئېنىقلان<s n="v"/><s n="iv"/></l><r>açıklan<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ئۇچراي<s n="v"/><s n="iv"/></l><r>karşılaş<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ئورا<s n="v"/><s n="tv"/></l><r>çevrele<s n="v"/><s n="tv"/></r></p></e>
@@ -3309,7 +3316,6 @@
        <e><p><l>كىيىنكى<s n="adj"/></l><r>son<s n="adj"/></r></p></e>
        <e><p><l>جۈملە<s n="adj"/></l><r>bütün<s n="adj"/></r></p></e>
        <e><p><l>ﮬﻪﺭ<s n="adj"/></l><r>her<s n="adj"/></r></p></e>
-       <e><p><l>ﻫﻪﺭ<s n="adj"/></l><r>her<s n="adj"/></r></p></e>
        <e><p><l>بوغۇملۇق<s n="adj"/></l><r>boğumlu<s n="adj"/></r></p></e>
        <e><p><l>قويۇق<s n="adj"/></l><r>koyu<s n="adj"/></r></p></e>
        <e><p><l>كىرەكسىز<s n="adj"/></l><r>gereksiz<s n="adj"/></r></p></e>
@@ -3326,7 +3332,7 @@
        <e><p><l>بۇغراخان<s n="np"/><s n="ant"/><s n="m"/></l><r>Buğrahan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>زوردۇن<s n="np"/><s n="ant"/><s n="m"/></l><r>Zordun<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>بۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
-       <e><p><l>her<s n="det"/><s n="dem"/></l><r>her<s n="det"/><s n="dem"/></r></p></e>
+       <e><p><l>ھەر<s n="det"/><s n="dem"/></l><r>her<s n="det"/><s n="dem"/></r></p></e>
        <e><p><l>يىگىرمە<s n="num"/></l><r>yirmi<s n="num"/></r></p></e>
        <e><p><l>ناھىيە<s n="n"/></l><r>kasaba<s n="n"/></r></p></e>
        <e><p><l>فرانسۇزچە<s n="n"/></l><r>Fransızca<s n="n"/></r></p></e>
