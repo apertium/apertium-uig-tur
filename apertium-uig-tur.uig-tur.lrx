@@ -9,6 +9,16 @@
       <select lemma="çaplı" tags="adj"/>
     </match>
   </rule>
+
+  <rule>
+    <match tags="np.top.*"/>
+    <match lemma="رەئىس" tags="n.*">
+      <select lemma="başkan" tags="n.*"/>
+    </match>
+  </rule>
+
+
+
 </rules>
 
 <!-- 
