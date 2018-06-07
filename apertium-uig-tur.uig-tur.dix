@@ -662,6 +662,7 @@
        <e><p><l>ئۇيۇش<s n="v"/><s n="iv"/></l><r>örgütlen<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>دۇچ<b/>بول<s n="v"/><s n="iv"/></l><r>karşılaş<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>دۇچ<b/>كەل<s n="v"/><s n="iv"/></l><r>karşılaş<s n="v"/><s n="iv"/></r></p></e>
+     <e><p><l>دۇچ<b/>كەلگەنلىك<s n="n"/></l><r>karşılaşma<s n="n"/></r></p></e>
        <e><p><l>ئۇيۇش<s n="v"/><s n="iv"/></l><r>birleş<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>تۈگەت<s n="v"/><s n="tv"/></l><r>tamamla<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>لايىھەلە<s n="v"/><s n="tv"/></l><r>planla<s n="v"/><s n="tv"/></r></p></e>
@@ -1286,6 +1287,7 @@
        <e><p><l>پ<b/>ي<b/>د<s n="np"/><s n="org"/></l><r>PYD<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>پ<b/>د<b/>ي<s n="np"/><s n="org"/></l><r>PDY<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>ئە<b/>ئا<b/>ر<s n="np"/><s n="org"/></l><r>EAR<s n="np"/><s n="org"/></r></p></e>
+       <e><p><l>ئا<b/>ر<s n="np"/><s n="org"/></l><r>AR<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>ي<b/>پ<b/>گ<s n="np"/><s n="org"/></l><r>YPG<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>پ<b/>ك<b/>ك<s n="np"/><s n="org"/></l><r>PKK<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>ك<b/>ج<b/>ك<s n="np"/><s n="org"/></l><r>KCK<s n="np"/><s n="org"/></r></p></e>
@@ -1312,12 +1314,21 @@
        <e><p><l>پ<b/>ت<b/>ت<s n="np"/><s n="org"/></l><r>PTT<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>س<b/>س<b/>س<b/>ر<s n="np"/><s n="org"/></l><r>SSCB<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ش<b/>ئۇ<b/>ئا<b/>ر<s n="np"/><s n="org"/></l><r>Sincan<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>ئۇ<b/>ئا<b/>ر<s n="np"/><s n="org"/></l><r>Sincan<s n="np"/><s n="top"/></r></p></e>
 
+<!-- To be examined again to work out their additional uses, but these are mostly for the "phonology" pages of wiki that talk about voice change etc and some strange Chinese law (?) stuff -->
        <e><p><l>ئا<s n="n"/></l><r>A<s n="n"/></r></p></e>
        <e><p><l>س<s n="n"/></l><r>S<s n="n"/></r></p></e>
        <e><p><l>ز<s n="n"/></l><r>Z<s n="n"/></r></p></e>
+       <e><p><l>ر<s n="n"/></l><r>R<s n="n"/></r></p></e>
+       <e><p><l>ت<s n="n"/></l><r>T<s n="n"/></r></p></e>
+       <e><p><l>د<s n="n"/></l><r>D<s n="n"/></r></p></e>
+       <e><p><l>ك<s n="n"/></l><r>K<s n="n"/></r></p></e>
+       <e><p><l>ج<s n="n"/></l><r>C<s n="n"/></r></p></e>
+       <e><p><l>پ<s n="n"/></l><r>P<s n="n"/></r></p></e>
 
        <e><p><l>mp3<s n="n"/></l><r>mp3<s n="n"/></r></p></e>
+       <e><p><l>EX360<s n="n"/></l><r>EX360<s n="n"/></r></p></e>
        <e><p><l>د<b/>ي<b/>ئا<s n="n"/></l><r>DNA<s n="n"/></r></p></e>
        <e><p><l>د<b/>ۋ<b/>د<s n="n"/></l><r>DVD<s n="n"/></r></p></e>
        <e><p><l>ق<s n="n"/></l><r>K<s n="n"/></r></p></e>
@@ -1334,6 +1345,10 @@
        <e><p><l>ئەلەيھىسسالام<s n="n"/></l><r>Aleyhisselam<s n="n"/></r></p></e>
        <e><p><l>ئى<s n="ij"/></l><r>ey<s n="ij"/></r></p></e>
        <e><p><l>ئەزىز<s n="np"/><s n="ant"/><s n="m"/></l><r>Aziz<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>ما<s n="np"/><s n="ant"/><s n="m"/></l><r>Ma<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>داجېڭ<s n="np"/><s n="cog"/><s n="mf"/></l><r>Dajeng<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+
+
        <e><p><l>پونكىت<s n="n"/></l><r>nokta<s n="n"/></r></p></e>
        <e><p><l>مېدىيا<s n="n"/></l><r>medya<s n="n"/></r></p></e>
        <e><p><l>سۈرە<s n="n"/></l><r>sure<s n="n"/></r></p></e>
@@ -1553,11 +1568,13 @@
        <e><p><l>تۈرتكە<s n="n"/></l><r>dürtü<s n="n"/></r></p></e>
        <e><p><l>پولشا<s n="np"/><s n="top"/></l><r>Polonya<s n="np"/><s n="top"/></r></p></e>
 	<e r="LR"><p><l>بۇنىڭغا<s n="adv"/></l><r>bu<s n="prn"/><s n="dem"/><s n="dat"/></r></p></e>
+	<e r="LR"><p><l>بۇندىن<s n="adv"/></l><r>bu<s n="prn"/><s n="dem"/><s n="abl"/></r></p></e>
        <e><p><l>بىرلىكتە<s n="adv"/></l><r>birlikte<s n="adv"/></r></p></e>
        <e><p><l>ئۆستۈر<s n="v"/><s n="iv"/></l><r>neden<b/>ol<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>بەلگىلەن<s n="v"/><s n="iv"/></l><r>belirlen<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>مۇكەممەللەش<s n="v"/><s n="iv"/></l><r>mükemmelleş<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ئىتتىپاقلاش<s n="v"/><s n="iv"/></l><r>birleş<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>ئىتتىپاقلاش<s n="v"/><s n="iv"/></l><r>birlik<b/>ol<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ئۆگىنىپ<b/>قال<s n="v"/><s n="iv"/></l><r>alış<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ئەمەلىيلەشتۈر<s n="v"/><s n="tv"/></l><r>uygula<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئەمەلىيلەش<s n="v"/><s n="tv"/></l><r>doğrula<s n="v"/><s n="tv"/></r></p></e>
@@ -2593,7 +2610,9 @@
        <e><p><l>باشلان<s n="v"/><s n="iv"/></l><r>başlan<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ئالاقىلىش<s n="v"/><s n="iv"/></l><r>haberleş<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>شېرىكلىش<s n="v"/><s n="iv"/></l><r>birlikte<b/>çalış<s n="v"/><s n="iv"/></r></p></e>
-       <e><p><l>ئىشلە<s n="v"/><s n="iv"/></l><r>çalış<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>ئىشلە<s n="v"/><s n="tv"/></l><r>yap<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>ئىشلە<s n="v"/><s n="tv"/></l><r>çalış<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>ئىشلە<s n="v"/><s n="v"/></l><r>çalış<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>سال<s n="v"/><s n="tv"/></l><r>sal<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>بەر<s n="v"/><s n="tv"/></l><r>ver<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئاڭلات<s n="v"/><s n="tv"/></l><r>duyur<s n="v"/><s n="tv"/></r></p></e>
@@ -5223,7 +5242,6 @@
       <e><p><l>كۆيدۈر<s n="v"/><s n="tv"/></l><r>yak<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>يېلىن<s n="v"/><s n="iv"/></l><r>yalvar<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>ئورنات<s n="v"/><s n="tv"/></l><r>yerleştir<s n="v"/><s n="tv"/></r></p></e>
-      <e><p><l>ئىشلى<s n="v"/><s n="tv"/></l><r>yap<s n="v"/><s n="tv"/></r></p></e>
 	<e><p><l>كۆمەكلەش<s n="v"/><s n="iv"/></l><r>yardım<b/>et<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>توختى<s n="v"/><s n="iv"/></l><r>dur<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>ياي<s n="v"/><s n="tv"/></l><r>yay<s n="v"/><s n="tv"/></r></p></e>
