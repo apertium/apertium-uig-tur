@@ -1329,7 +1329,7 @@
 
        <e><p><l>mp3<s n="n"/></l><r>mp3<s n="n"/></r></p></e>
        <e><p><l>EX360<s n="n"/></l><r>EX360<s n="n"/></r></p></e>
-       <e><p><l>د<b/>ي<b/>ئا<s n="n"/></l><r>DNA<s n="n"/></r></p></e>
+       <e><p><l>د<b/>ن<b/>ئا<s n="n"/></l><r>DNA<s n="n"/></r></p></e>
        <e><p><l>د<b/>ۋ<b/>د<s n="n"/></l><r>DVD<s n="n"/></r></p></e>
        <e><p><l>ق<s n="n"/></l><r>K<s n="n"/></r></p></e>
        <e><p><l>ت<b/>ۋ<s n="n"/></l><r>televizyon<s n="n"/></r></p></e>
@@ -2122,6 +2122,8 @@
        <e><p><l>سادىق<s n="np"/><s n="ant"/><s n="m"/></l><r>Sadık<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>دانىيار<s n="np"/><s n="ant"/><s n="m"/></l><r>Daniyar<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>غەيرەت<s n="np"/><s n="ant"/><s n="m"/></l><r>Gayret<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>دالاي<s n="np"/><s n="ant"/><s n="m"/></l><r>Dalay<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>لاما<s n="np"/><s n="cog"/><s n="mf"/></l><r>Lama<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
        <e><p><l>قاتلام<s n="n"/></l><r>tabaka<s n="n"/></r></p></e>
        <e><p><l>مۇداپىئەلىنىش<s n="n"/></l><r>savunma<s n="n"/></r></p></e>
        <e><p><l>قۇتۇلدۇرۇش<s n="n"/></l><r>kurtarma<s n="n"/></r></p></e>
@@ -2579,6 +2581,7 @@
        <e><p><l>نىزام<s n="n"/></l><r>nizam<s n="n"/></r></p></e>
        <e><p><l>خانىم<s n="n"/></l><r>hanım<s n="n"/></r></p></e>
        <e><p><l>مەيدان<s n="n"/></l><r>meydan<s n="n"/></r></p></e>
+       <e><p><l>مايدان<s n="n"/></l><r>meydan<s n="n"/></r></p></e>
        <e><p><l>ئېلان<s n="n"/></l><r>ilan<s n="n"/></r></p></e>
        <e><p><l>بايان<s n="n"/></l><r>beyan<s n="n"/></r></p></e>
        <e><p><l>بۈگۈن<s n="n"/></l><r>bugün<s n="n"/></r></p></e>
@@ -5058,6 +5061,12 @@
        <e><p><l>غەرب<s n="n"/></l><r>batı<s n="n"/></r></p></e>
        <e><p><l>ئېغىز<s n="n"/></l><r>geçiş<s n="n"/></r></p></e>
        <e><p><l>ېچىش<s n="n"/></l><r>açış<s n="n"/></r></p></e>
+       <e><p><l>ئوڭ<s n="n"/></l><r>sağ<s n="n"/></r></p></e>
+       <e><p><l>ئوڭ<s n="n"/></l><r>gerçek<s n="n"/></r></p></e>
+       <e><p><l>ئوڭ<s n="adj"/></l><r>sağ<s n="adj"/></r></p></e>
+       <e><p><l>ئوڭ<s n="adj"/></l><r>doğru<s n="adj"/></r></p></e>
+       <e><p><l>ئوڭ<s n="adj"/></l><r>gerçek<s n="adj"/></r></p></e>
+       <e><p><l>ئوڭ<s n="n"/></l><r>doğru<s n="n"/></r></p></e>
  
       <!-- SECTION: Adverbs -->
       <e><p><l>ئەڭ<s n="adv"/></l><r>en<s n="adv"/></r></p></e>
