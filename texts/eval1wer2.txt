@@ -1,0 +1,28 @@
+Test file: 'pilavuigtur2.txt'
+Reference file 'pilavtr.txt'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 497
+Number of words in test: 511
+Number of unknown words (marked with a star) in test: 
+Percentage of unknown words: 0.00 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 255
+Word error rate (WER): 51.31 %
+Number of position-independent correct words: 271
+Position-independent word error rate (PER): 48.29 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 255
+Word Error Rate (WER): 51.31 %
+Number of position-independent correct words: 271
+Position-independent word error rate (PER): 48.29 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 0
+Percentage of unknown words that were free rides: 0%
