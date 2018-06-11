@@ -17,6 +17,11 @@
     </match>
   </rule>
 
+<rule>
+    <match lemma="پائالىيەت" tags="n.*">
+      <select lemma="etkinlik" tags="n.*"/>
+    </match>
+  </rule>
 
 
 </rules>
