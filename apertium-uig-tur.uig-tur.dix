@@ -1076,6 +1076,8 @@
        <e><p><l>تائام<s n="n"/></l><r>yemek<s n="n"/></r></p></e>
        <e><p><l>مۇلايىملىق<s n="n"/></l><r>mülayimlik<s n="n"/></r></p></e>
        <e><p><l>پائالىيەت<s n="n"/></l><r>etkinlik<s n="n"/></r></p></e>
+       <e><p><l>پائالىيەت<s n="n"/></l><r>faaliyet<s n="n"/></r></p></e>
+
        <e><p><l>قۇيرۇق<s n="n"/></l><r>kuyruk<s n="n"/></r></p></e>
        <e><p><l>كۆپۈك<s n="n"/></l><r>köpük<s n="n"/></r></p></e>
        <e><p><l>كۆپۈكچى<s n="n"/></l><r>köpükçük<s n="n"/></r></p></e>
@@ -2213,7 +2215,6 @@
        <e><p><l>دوكلات<s n="n"/></l><r>konferans<s n="n"/></r></p></e>
        <e><p><l>فېۋرال<s n="n"/></l><r>Şubat<s n="n"/></r></p></e>
        <e><p><l>مۇناسىۋەت<s n="n"/></l><r>münasebet<s n="n"/></r></p></e>
-       <e><p><l>پائالىيەت<s n="n"/></l><r>faaliyet<s n="n"/></r></p></e>
        <e><p><l>مارت<s n="n"/></l><r>Mart<s n="n"/></r></p></e>
        <e><p><l>قۇرۇلتاي<s n="n"/></l><r>kurultay<s n="n"/></r></p></e>
        <e><p><l>قېتىمقى<s n="n"/></l><r>kez<s n="n"/></r></p></e>
@@ -3910,6 +3911,7 @@
       <e><p><l>ئوت<s n="n"/></l><r>ateş<s n="n"/></r></p></e>
       <e><p><l>ئىندېكس<s n="n"/></l><r>atıf<s n="n"/></r></p></e>
       <e><p><l>ئات<s n="n"/></l><r>at<s n="n"/></r></p></e>
+      <e><p><l>ئات<s n="n"/></l><r>ad<s n="n"/></r></p></e>
       <e><p><l>ئاتوم<s n="n"/></l><r>atom<s n="n"/></r></p></e>
       <e><p><l>ھەقىقىي<s n="adj"/></l><r>hakiki<s n="adj"/></r></p></e>
       <e><p><l>ياۋرو<s n="n"/></l><r>avro<s n="n"/></r></p></e>
