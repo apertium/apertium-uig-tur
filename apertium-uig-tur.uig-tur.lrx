@@ -23,6 +23,20 @@
     </match>
   </rule>
 
+<rule>
+    <match tags="n.nom.*"/>
+    <match lemma="قىل" tags="v.*">
+      <select lemma="et" tags="v.*"/>
+    </match>
+  </rule>
+
+<rule>
+    <match tags="n.acc.*"/>
+    <match lemma="قىل" tags="v.*">
+      <select lemma="yap" tags="v.*"/>
+    </match>
+  </rule>
+
 
 </rules>
 
