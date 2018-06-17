@@ -64,8 +64,8 @@
   </rule>
 
 <rule>
-    <match lemma="كىشى" tags="n.*">
-      <select lemma="kişi" tags="n.*"/>
+    <match lemma="كىشىلىك" tags="n.*">
+      <select lemma="kişilik" tags="n.*"/>
     </match>
   </rule>
 
