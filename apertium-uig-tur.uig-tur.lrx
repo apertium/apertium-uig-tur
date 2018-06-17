@@ -18,6 +18,14 @@
   </rule>
 
 <rule>
+    <match lemma="شەھەر" tags="n.*">
+      <select lemma="belediye" tags="n.*"/>
+    </match>
+    <match lemma="باشلىق"/>
+  </rule>
+
+
+<rule>
     <match lemma="پائالىيەت" tags="n.*">
       <select lemma="etkinlik" tags="n.*"/>
     </match>
@@ -34,6 +42,12 @@
     <match tags="n.acc.*"/>
     <match lemma="قىل" tags="v.*">
       <select lemma="yap" tags="v.*"/>
+    </match>
+  </rule>
+
+<rule>
+    <match lemma="كىشى" tags="n.*">
+      <select lemma="kişi" tags="n.*"/>
     </match>
   </rule>
 
