@@ -23,7 +23,12 @@
     </match>
     <match lemma="باشلىق"/>
   </rule>
-
+<rule>
+    <match lemma="بەك" tags="adv.*">
+      <select lemma="çok" tags="adv.*"/>
+    </match>
+    <match lemma="ياخشى"/>
+  </rule>
 
 <rule>
     <match lemma="پائالىيەت" tags="n.*">
@@ -32,9 +37,22 @@
   </rule>
 
 <rule>
+    <match lemma="قول" tags="n.*">
+      <select lemma="el" tags="n.*"/>
+    </match>
+  </rule>
+
+<rule>
     <match tags="n.nom.*"/>
     <match lemma="قىل" tags="v.*">
       <select lemma="et" tags="v.*"/>
+    </match>
+  </rule>
+
+<rule>
+    <match tags="n.*acc.*"/>
+    <match lemma="تونۇشتۇر" tags="v.*">
+      <select lemma="tanıt" tags="v.*"/>
     </match>
   </rule>
 
