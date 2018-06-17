@@ -1368,8 +1368,6 @@
        <e><p><l>گۇۋاھلىق<s n="n"/></l><r>şahitlik<s n="n"/></r></p></e>
        <e><p><l>تازىلاش<s n="n"/></l><r>temizlik<s n="n"/></r></p></e>
        <e><p><l>گۆكتۈرك<s n="n"/></l><r>Göktürk<s n="n"/></r></p></e>
-       <e><p><l>بۇزغۇنچىلىق<s n="n"/></l><r>bozgunculuk<s n="n"/></r></p></e>
-       <e><p><l>تونۇش<s n="n"/></l><r>tanıdık<s n="n"/></r></p></e>
        <e><p><l>ئەسىل<s n="n"/></l><r>asıl<s n="n"/></r></p></e>
        <e><p><l>قىرغىنچىلىق<s n="n"/></l><r>katliam<s n="n"/></r></p></e>
        <e><p><l>ئىنتىزام<s n="n"/></l><r>intizam<s n="n"/></r></p></e>
@@ -1608,7 +1606,6 @@
        <e><p><l>ئورۇنلاشتۇر<s n="v"/><s n="tv"/></l><r>düzenle<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>يامانلا<s n="v"/><s n="tv"/></l><r>kötüle<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>كۈچەيت<s n="v"/><s n="tv"/></l><r>güçlendir<s n="v"/><s n="tv"/></r></p></e>
-       <e><p><l>تونۇشتۇر<s n="v"/><s n="tv"/></l><r>tanıştır<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>داۋالا<s n="v"/><s n="tv"/></l><r>tedavi<b/>et<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>تەمىنلە<s n="v"/><s n="tv"/></l><r>temin<b/>et<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>تونۇ<s n="v"/><s n="tv"/></l><r>tanı<s n="v"/><s n="tv"/></r></p></e>
@@ -4628,6 +4625,7 @@
        <e><p><l>ئەلۋەتتە<s n="adv"/></l><r>elbette<s n="adv"/></r></p></e>
        <e><p><l>ئەمدى<s n="adv"/></l><r>şimdi<s n="adv"/></r></p></e>
        <e><p><l>بەك<s n="adv"/></l><r>pek<s n="adv"/></r></p></e>
+       <e><p><l>بەك<s n="adv"/></l><r>çok<s n="adv"/></r></p></e>
        <e><p><l>بارغانسېرى<s n="adv"/></l><r>giderek<s n="adv"/></r></p></e>
        <e><p><l>تېز<s n="adv"/></l><r>çabuk<s n="adv"/></r></p></e>
        <e><p><l>بىۋاسىتە<s n="adv"/></l><r>doğrudan<s n="adv"/></r></p></e>
@@ -5103,7 +5101,7 @@
       <e><p><l>كىيىم<s n="n"/></l><r>elbise<s n="n"/></r></p></e>
       <e><p><l>ئەلچى<s n="n"/></l><r>elçi<s n="n"/></r></p></e>
       <e><p><l>قايغۇ<s n="n"/></l><r>elem<s n="n"/></r></p></e>
-      <e><p><l>خەلق<s n="n"/></l><r>el<s n="n"/></r></p></e>
+      <e><p><l>خەلق<s n="n"/></l><r>halk<s n="n"/></r></p></e>
       <e><p><l>قول<s n="n"/></l><r>el<s n="n"/></r></p></e>
       <e><p><l>ئەمگەك<s n="n"/></l><r>emek<s n="n"/></r></p></e>
       <e><p><l>بۇيرۇق<s n="n"/></l><r>buyruk<s n="n"/></r></p></e>
@@ -6267,7 +6265,6 @@
        <e><p><l>ھالال<s n="adj"/></l><r>helal<s n="adj"/></r></p></e>
        <e><p><l>نورمال<s n="adj"/></l><r>normal<s n="adj"/></r></p></e>
        <e><p><l>ناھىيەلىك<s n="adj"/></l><r>yerel<s n="adj"/></r></p></e>
-       <e><p><l>گۈزەل<s n="adj"/></l><r>güzel<s n="adj"/></r></p></e>
        <e><p><l>تاقابىل<s n="adj"/></l><r>mukabil<s n="adj"/></r></p></e>
        <e><p><l>ئادىل<s n="adj"/></l><r>adil<s n="adj"/></r></p></e>
        <e><p><l>ھاسىل<s n="adj"/></l><r>hasıl<s n="adj"/></r></p></e>
