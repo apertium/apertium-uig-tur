@@ -1089,7 +1089,6 @@
        <e><p><l>قىياپەت<s n="n"/></l><r>görünüm<s n="n"/></r></p></e>
        <e><p><l>تېتىش<s n="n"/></l><r>tadım<s n="n"/></r></p></e> <!-- tatmak olacak -->
        <e><p><l>قويچى<s n="n"/></l><r>çoban<s n="n"/></r></p></e>
-       <e><p><l>شەھەر<b/>باشلىق<s n="n"/></l><r>belediye<b/>başkan<s n="n"/></r></p></e>
        <e><p><l>گۆشنان<s n="n"/></l><r>göşnan<s n="n"/></r></p></e>
        <e><p><l>رېستوران<s n="n"/></l><r>restoran<s n="n"/></r></p></e>
        <e><p><l>ئۆتمەيلا<s n="adv"/></l><r>geçmeden<s n="adv"/></r></p></e>
@@ -3575,6 +3574,8 @@
        <e><p><l>تاراتقۇ<s n="n"/></l><r>yayın<s n="n"/></r></p></e>
        <e><p><l>ئاپتور<s n="n"/></l><r>yazar<s n="n"/></r></p></e>
        <e><p><l>شەھىر<s n="n"/></l><r>şehir<s n="n"/></r></p></e>
+       <e><p><l>شەھىر<s n="n"/></l><r>belediye<s n="n"/></r></p></e>
+      <e><p><l>شەھەر<s n="n"/></l><r>belediye<s n="n"/></r></p></e>
        <e><p><l>باتۇر<s n="n"/></l><r>bahadır<s n="n"/></r></p></e>
        <e><p><l>تۈرمە<s n="n"/></l><r>hapis<s n="n"/></r></p></e>
        <e><p><l>بوكس<s n="n"/></l><r>boks<s n="n"/></r></p></e>
