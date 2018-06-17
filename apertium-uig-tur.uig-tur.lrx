@@ -50,7 +50,7 @@
   </rule>
 
 <rule>
-    <match tags="n.*acc.*"/>
+    <match tags="n.*.acc.*"/>
     <match lemma="تونۇشتۇر" tags="v.*">
       <select lemma="tanıt" tags="v.*"/>
     </match>
