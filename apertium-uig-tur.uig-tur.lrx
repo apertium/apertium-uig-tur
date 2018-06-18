@@ -23,11 +23,40 @@
     </match>
     <match lemma="باشلىق"/>
   </rule>
+
+<rule>
+    <match lemma="غايەت" tags="adv.*">
+      <select lemma="oldukça" tags="adv.*"/>
+    </match>
+    <match tags="adj.*"/>
+  </rule>
+
 <rule>
     <match lemma="بەك" tags="adv.*">
       <select lemma="çok" tags="adv.*"/>
     </match>
     <match lemma="ياخشى"/>
+  </rule>
+
+<rule>
+    <match lemma="پروگرامما" tags="n.*">
+      <select lemma="program" tags="n.*"/>
+    </match>
+    <match lemma="تارقات"/>
+  </rule>
+
+<rule>
+    <match lemma="پروگرامما"/>
+    <match lemma="تارقات" tags="v.*">
+      <select lemma="yayınla" tags="v.*"/>
+    </match>
+  </rule>
+
+<rule>
+    <match lemma="زور" tags="adj">
+      <select lemma="büyük" tags="adj"/>
+    </match>
+    <match tags="n.*"/>
   </rule>
 
 <rule>
@@ -64,8 +93,27 @@
   </rule>
 
 <rule>
+    <match lemma="ئۆتكۈزۈل" tags="v.*">
+      <select lemma="düzenlen" tags="v.*"/>
+    </match>
+  </rule>
+
+<rule>
+    <match lemma="ئۆتكۈز" tags="v.*">
+      <select lemma="düzenle" tags="v.*"/>
+    </match>
+  </rule>
+
+
+<rule>
     <match lemma="كىشىلىك" tags="n.*">
       <select lemma="kişilik" tags="n.*"/>
+    </match>
+  </rule>
+
+<rule>
+    <match lemma="مىڭ" tags="num.*">
+      <select lemma="bin" tags="num.*"/>
     </match>
   </rule>
 

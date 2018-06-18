@@ -1421,7 +1421,7 @@
        <e><p><l>ھەقىقەتەن<s n="adv"/></l><r>hakikaten<s n="adv"/></r></p></e>
        <e><p><l>ۋاكالىتەن<s n="adv"/></l><r>vekaleten<s n="adv"/></r></p></e>
        <e><p><l>كۈنىگە<s n="adv"/></l><r>her<b/>gün<s n="adv"/></r></p></e>
-       <e><p><l>غايەت<s n="adv"/></l><r>gayet<s n="adv"/></r></p></e>
+       <e><p><l>غايەت<s n="adv"/></l><r>oldukça<s n="adv"/></r></p></e>
        <e><p><l>دېرەكسىز<s n="adv"/></l><r>belirtisiz<s n="adv"/></r></p></e>
        <e><p><l>ئىشلەن<s n="v"/><s n="iv"/></l><r>yapıl<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ئەسكەرتىل<s n="v"/><s n="iv"/></l><r>uyarıl<s n="v"/><s n="iv"/></r></p></e>
@@ -3861,6 +3861,7 @@
        <e><p><l>مەزكۇر<s n="adj"/></l><r>bahsedilen<s n="adj"/></r></p></e>
        <e><p><l>ھەر<s n="adj"/></l><r>her<s n="adj"/></r></p></e>
        <e><p><l>زور<s n="adj"/></l><r>zor<s n="adj"/></r></p></e>
+       <e><p><l>زور<s n="adj"/></l><r>büyük<s n="adj"/></r></p></e>
        <e><p><l>ئەركىن<s n="adj"/></l><r>özgür<s n="adj"/></r></p></e>
        <e><p><l>قاتتىق<s n="adj"/></l><r>katı<s n="adj"/></r></p></e>
        <e><p><l>ئەپەندى<s n="n"/></l><r>efendi<s n="n"/></r></p></e>
@@ -4173,7 +4174,7 @@
        <e><p><l>باس<s n="v"/><s n="tv"/></l><r>bas<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئاڭلات<s n="v"/><s n="tv"/></l><r>ilan<b/>et<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>كۆزەت<s n="v"/><s n="tv"/></l><r>gözet<s n="v"/><s n="tv"/></r></p></e>
-       <e><p><l>تارقىت<s n="v"/><s n="tv"/></l><r>dağıt<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>تارقات<s n="v"/><s n="tv"/></l><r>dağıt<s n="v"/><s n="tv"/></r></p></e>
 
        <e><p><l>كونا<s n="adj"/></l><r>eski<s n="adj"/></r></p></e>
        <e><p><l>ئىسىملىك<s n="adj"/></l><r>isimli<s n="adj"/></r></p></e>
@@ -4639,7 +4640,7 @@
        <e><p><l>يۆتكە<s n="v"/><s n="tv"/></l><r>değiştir<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>كۆر<s n="v"/><s n="tv"/></l><r>gör<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>يۈرگۈز<s n="v"/><s n="tv"/></l><r>yürüt<s n="v"/><s n="tv"/></r></p></e>
-       <e><p><l>تارقات<s n="v"/><s n="tv"/></l><r>dağıt<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>تارقات<s n="v"/><s n="tv"/></l><r>yayınla<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ساقلا<s n="v"/><s n="tv"/></l><r>koru<s n="v"/><s n="tv"/></r></p></e>
 
        <e><p><l>بىردىنبىر<s n="adj"/></l><r>yegâne<s n="adj"/></r></p></e>
@@ -5665,6 +5666,7 @@
       <e><p><l>مەمەدانا<s n="n"/></l><r>profesyonel<s n="n"/></r></p></e>
       <e><p><l>كونسىپىك<s n="n"/></l><r>program<s n="n"/></r></p></e>
       <e><p><l>پروگرامما<s n="n"/></l><r>proje<s n="n"/></r></p></e>
+      <e><p><l>پروگرامما<s n="n"/></l><r>program<s n="n"/></r></p></e>
       <e><p><l>مۇراسىم<s n="n"/></l><r>prosedür<s n="n"/></r></p></e>
       <e><p><l>نارازىلىق<s n="n"/></l><r>protesto<s n="n"/></r></p></e>
       <e><p><l>بال<s n="n"/></l><r>puan<s n="n"/></r></p></e>
