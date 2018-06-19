@@ -6,7 +6,6 @@ def concordance(filename,keyword,n=30,rtl=True):
     dots = "("+ "." * n + ")"
     keyword = "(" + keyword.strip() + "\w*" +  ")"
     exp = re.compile(dots + keyword + dots)
-    matches= []
     with open(filename) as infile:
         for line in infile:
             e = exp.search(line)
