@@ -3,7 +3,7 @@ import re
 
 def concordance(filename,keyword,n=30,rtl=True):
     RED,END,BOLD = '\033[91m','\033[0m','\033[1m'
-    dots = "(" + "".join(["." for i in range(0,n)]) + ")"
+    dots = "("+ "." * n + ")"
     keyword = "(" + keyword.strip() + "\w*" +  ")"
     exp = re.compile(dots + keyword + dots)
     matches= []
