@@ -11,8 +11,8 @@ def concordance(filename,keyword,n=30,rtl=True):
             e = exp.search(line)
             if not e:
                 continue
-            fspace = "".join([" " for i in range(0,8-(len(e.group(2))-len(keyword)))] )
-            nspace = "        "
+            fspace = " " * (8-(len(e.group(2))-len(keyword)))
+            nspace = " " * 8
             if rtl:
                 out = e.group(3) + fspace +RED + BOLD +  e.group(2) + END+ nspace + e.group(1)
             else:
