@@ -3895,7 +3895,6 @@
        <e><p><l>بۇيان<s n="adv"/></l><r>bu<b/>yana<s n="adv"/></r></p></e>
        <e><p><l>كېيىن<s n="adv"/></l><r>sonra<s n="adv"/></r></p></e>
        <e><p><l>يەنىمۇ<s n="adv"/></l><r>yine<b/>de<s n="adv"/></r></p></e>
-       <e><p><l>مۇنداق<s n="adv"/></l><r>böyle<s n="adv"/></r></p></e>
        <e><p><l>يەنە<s n="adv"/></l><r>yine<s n="adv"/></r></p></e>
        <e><p><l>ھازىر<s n="adv"/></l><r>şimdi<s n="adv"/></r></p></e>
        <e><p><l>ئىلگىرى<s n="adv"/></l><r>ileri<s n="adv"/></r></p></e>
@@ -3991,6 +3990,7 @@
        <e><p><l>نېفىت<s n="n"/></l><r>petrol<s n="n"/></r></p></e>
        <e><p><l>خروم<s n="n"/></l><r>krom<s n="n"/></r></p></e>
        <e><p><l>قېتىم<s n="n"/></l><r>sefer<s n="n"/></r></p></e>
+       <e><p><l>قېتىم<s n="n"/></l><r>kere<s n="n"/></r></p></e>
        <e><p><l>تۈر<s n="n"/></l><r>tür<s n="n"/></r></p></e>
        <e><p><l>چىگرا<s n="n"/></l><r>sınır<s n="n"/></r></p></e>
        <e><p><l>چېگرا<s n="n"/></l><r>sınır<s n="n"/></r></p></e>
@@ -4236,6 +4236,7 @@
        <e><p><l>سۆزلە<s n="v"/><s n="tv"/></l><r>söyle<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>تەشكىل<b/>قىل<s n="v"/><s n="tv"/></l><r>teşkil<b/>et<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>يەتكۈزۈش<s n="n"/></l><r>iletim<s n="n"/></r></p></e>
+       <e><p><l>ھېس<b/>قىل<s n="v"/><s n="tv"/></l><r>hisset<s n="v"/><s n="tv"/></r></p></e>
 
 
        <e><p><l>قىزىقارلىق<s n="adj"/></l><r>komik<s n="adj"/></r></p></e>
@@ -4323,7 +4324,6 @@
        <e><p><l>پاختا<s n="n"/></l><r>pamuk<s n="n"/></r></p></e>
        <e><p><l>مىنىستىرلىق<s n="n"/></l><r>bakanlık<s n="n"/></r></p></e>
        <e><p><l>از<b/>سانلىق<s n="n"/></l><r>azınlık<s n="n"/></r></p></e>
-       <e><p><l>بولغانلىق<s n="n"/></l><r>varlık<s n="n"/></r></p></e>
        <e><p><l>قارشىلىق<s n="n"/></l><r>karşılık<s n="n"/></r></p></e>
        <e><p><l>ۋەكىل<s n="n"/></l><r>vekil<s n="n"/></r></p></e>
        <e><p><l>رول<s n="n"/></l><r>rol<s n="n"/></r></p></e>
@@ -4676,6 +4676,7 @@
        <e><p><l>زوردۇن<s n="np"/><s n="ant"/><s n="m"/></l><r>Zordun<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>بۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
        <e><p><l>ھەر<s n="det"/><s n="dem"/></l><r>her<s n="det"/><s n="dem"/></r></p></e>
+       <e><p><l>ئەنە<s n="det"/><s n="dem"/></l><r>işte<s n="det"/><s n="dem"/></r></p></e>
        <e><p><l>يىگىرمە<s n="num"/></l><r>yirmi<s n="num"/></r></p></e>
        <e><p><l>ناھىيە<s n="n"/></l><r>kasaba<s n="n"/></r></p></e>
        <e><p><l>فرانسۇزچە<s n="n"/></l><r>Fransızca<s n="n"/></r></p></e>
@@ -5187,6 +5188,7 @@
       <e><p><l>كېمە<s n="n"/></l><r>gemi<s n="n"/></r></p></e>
       <e><p><l>ياش<s n="n"/></l><r>genç<s n="n"/></r></p></e>
       <e><p><l>ئومۇمىي<s n="n"/></l><r>genel<s n="n"/></r></p></e>
+      <e><p><l>ئەر-ئايال<s n="n"/></l><r>karı<b/>koca<s n="n"/></r></p></e>
       <e><p><l>گېن<s n="n"/></l><r>gen<s n="n"/></r></p></e>
       <e><p><l>چىنلىق<s n="n"/></l><r>gerçeklik<s n="n"/></r></p></e>
       <e><p><l>راست<s n="adj"/></l><r>gerçek<s n="adj"/></r></p></e>
@@ -5847,6 +5849,8 @@
       <e><p><l>تۈلكە<s n="n"/></l><r>tilki<s n="n"/></r></p></e>
       <e><p><l>تىرناق<s n="n"/></l><r>tırnak<s n="n"/></r></p></e>
       <e><p><l>خىل<s n="n"/></l><r>tohum<s n="n"/></r></p></e>
+      <e><p><l>خىل<s n="n"/></l><r>tür<s n="n"/></r></p></e>
+     <e><p><l>خىل<s n="adj"/></l><r>türlü<s n="adj"/></r></p></e>
       <e><p><l>تون<s n="n"/></l><r>ton<s n="n"/></r></p></e>
       <e><p><l>توننا<s n="n"/></l><r>ton<s n="n"/></r></p></e>
       <e><p><l>پومزەك<s n="n"/></l><r>toplam<s n="n"/></r></p></e>
@@ -6173,6 +6177,8 @@
        <e><p><l>قىس<s n="v"/><s n="tv"/></l><r>sık<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>كىيگۈز<s n="v"/><s n="tv"/></l><r>giydir<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>تۈگە<s n="v"/><s n="tv"/></l><r>bitir<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>تۈگە<s n="v"/><s n="iv"/></l><r>bit<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>تۈگە<s n="v"/><s n="iv"/></l><r>bitiril<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>كۆركەملەشتۈر<s n="v"/><s n="tv"/></l><r>güzelleştir<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>قىس<s n="v"/><s n="tv"/></l><r>kıs<s n="v"/><s n="tv"/></r></p></e>
 
@@ -6485,6 +6491,7 @@
        <e><p><l>نېكىل<s n="n"/></l><r>nikel<s n="n"/></r></p></e>
        <e><p><l>قۇملۇق<s n="n"/></l><r>çöl<s n="n"/></r></p></e>
        <e><p><l>يەر<s n="n"/></l><r>yer<s n="n"/></r></p></e>
+       <e><p><l>يەر<s n="n"/></l><r>sıra<s n="n"/></r></p></e>
        <e><p><l>مىس<s n="n"/></l><r>bakır<s n="n"/></r></p></e>
        <e><p><l>ئوكيان<s n="n"/></l><r>okyanus<s n="n"/></r></p></e>
        <e><p><l>سۇ<s n="n"/></l><r>su<s n="n"/></r></p></e>

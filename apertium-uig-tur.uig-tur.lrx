@@ -17,6 +17,32 @@
     </match>
   </rule>
 
+ <rule>
+    <match lemma="ھەر"/>
+    <match lemma="خىل" tags="adj.*">
+      <select lemma="türlü" tags="adj.*"/>
+    </match>
+  </rule>
+
+<rule>
+    <or>
+    <match lemma="پولۇ"/>
+    <match lemma="پولو"/>
+    </or>
+    <match lemma="ئەت" tags="v.*">
+      <select lemma="hazırla" tags="v.*"/>
+    </match>
+  </rule>
+
+
+ <rule>
+    <match tags="num.*"/>
+    <match lemma="قېتىم" tags="n.*">
+      <select lemma="kere" tags="n.*"/>
+    </match>
+  </rule>
+
+
 <rule>
     <match lemma="شەھەر" tags="n.*">
       <select lemma="belediye" tags="n.*"/>
@@ -62,6 +88,12 @@
 <rule>
     <match lemma="پائالىيەت" tags="n.*">
       <select lemma="etkinlik" tags="n.*"/>
+    </match>
+  </rule>
+
+<rule>
+    <match lemma="ياش" tags="n.*">
+      <select lemma="genç" tags="n.*"/>
     </match>
   </rule>
 
