@@ -3181,6 +3181,7 @@
        <e><p><l>خوتەن<s n="np"/><s n="top"/></l><r>Hotan<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>تەيۋەن<s n="np"/><s n="top"/></l><r>Tayvan<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ھەرقايسى<s n="prn"/><s n="qnt"/></l><r>herkes<s n="prn"/><s n="qnt"/></r></p></e>
+       <e><p><l>ھەرقايسى<s n="det"/><s n="qnt"/></l><r>bütün<s n="det"/><s n="qnt"/></r></p></e>
        <e><p><l>قەدەر<s n="post"/></l><r>kadar<s n="post"/></r></p></e>
        <e><p><l>ناھايىتى<s n="adv"/></l><r>pek<s n="adv"/></r></p></e>
        <e r="LR"><p><l>بۇنىڭدىن<s n="adv"/></l><r>bu<s n="prn"/><s n="dem"/><s n="abl"/></r></p></e>
@@ -3266,7 +3267,6 @@
        <e><p><l>ئىنگلىز<s n="n"/></l><r>İngiliz<s n="n"/></r></p></e>
        <e><p><l>تەلەپپۇز<s n="n"/></l><r>telaffuz<s n="n"/></r></p></e>
        <e><p><l>ھېكايە<s n="n"/></l><r>öykü<s n="n"/></r></p></e>
-       <e><p><l>يات<s n="n"/></l><r>yabancı<s n="n"/></r></p></e>
        <e><p><l>قايىل<s n="n"/></l><r>saygı<s n="n"/></r></p></e>
        <e><p><l>ئامېرىكىلىق<s n="n"/></l><r>Amerikalı<s n="n"/></r></p></e>
        <e><p><l>سېرىق<s n="n"/></l><r>sarı<s n="n"/></r></p></e>
@@ -3964,7 +3964,7 @@
        <e><p><l>ھەم<s n="adv"/></l><r>hem<s n="adv"/></r></p></e>
        <e><p><l>بۈگۈن<s n="adv"/></l><r>bugün<s n="adv"/></r></p></e>
        <e><p><l>يۇقىرى<s n="adv"/></l><r>yukarı<s n="adv"/></r></p></e>
-
+    <e><p><l>يۇقىرى<s n="adj"/></l><r>yüksek<s n="adj"/></r></p></e>
 
 
 
@@ -5056,6 +5056,7 @@
       <e><p><l>دىن<s n="n"/></l><r>din<s n="n"/></r></p></e>
       <e><p><l>دىنوزاۋر<s n="n"/></l><r>dinozor<s n="n"/></r></p></e>
       <e><p><l>دىپلومات<s n="n"/></l><r>diplomat<s n="n"/></r></p></e>
+      <e><p><l>چەت<s n="adj"/></l><r>yabancı<s n="adj"/></r></p></e>
       <e><p><l>چەت<s n="n"/></l><r>dışarı<s n="n"/></r></p></e>
       <e><p><l>دالا<s n="n"/></l><r>dışarı<s n="n"/></r></p></e>
       <e><p><l>سىرت<s n="n"/></l><r>dışarı<s n="n"/></r></p></e>
@@ -5372,7 +5373,6 @@
       <e><p><l>ئاۋام<s n="n"/></l><r>kamu<s n="n"/></r></p></e>
       <e><p><l>لۇغەت<s n="n"/></l><r>kamus<s n="n"/></r></p></e>
       <e><p><l>دەلىل<s n="n"/></l><r>kanıt<s n="n"/></r></p></e>
-      <e><p><l>بوي<s n="n"/></l><r>kan<s n="n"/></r></p></e>
       <e><p><l>قانۇن<s n="n"/></l><r>kanun<s n="n"/></r></p></e>
       <e><p><l>ئىشىك<s n="n"/></l><r>kapı<s n="n"/></r></p></e>
       <e><p><l>يولۋاس<s n="n"/></l><r>kaplan<s n="n"/></r></p></e>
@@ -5552,7 +5552,6 @@
       <e><p><l>مۆلچەر<s n="n"/></l><r>miktar<s n="n"/></r></p></e>
       <e><p><l>مىللەت<s n="n"/></l><r>millet<s n="n"/></r></p></e>
       <e><p><l>مىللىي<s n="adj"/></l><r>milli<s n="adj"/></r></p></e>
-      <e><p><l>ئەل<s n="n"/></l><r>millet<s n="n"/></r></p></e>
       <e><p><l>مىراس<s n="n"/></l><r>miras<s n="n"/></r></p></e>
       <e><p><l>جەز<s n="n"/></l><r>mis<s n="n"/></r></p></e>
       <e><p><l>پىلىموت<s n="n"/></l><r>mitralyöz<s n="n"/></r></p></e>
@@ -5701,7 +5700,6 @@
       <e><p><l>سورۇن<s n="n"/></l><r>yer<s n="n"/></r></p></e>
       <e><p><l>سورۇن<s n="n"/></l><r>toplantı<s n="n"/></r></p></e>
       <e><p><l>ھەيۋە<s n="n"/></l><r>saha<s n="n"/></r></p></e>
-      <e><p><l>ئەل<s n="n"/></l><r>sahip<s n="n"/></r></p></e>
       <e><p><l>تەقسىر<s n="n"/></l><r>bey<s n="n"/></r></p></e>
       <e><p><l>ئاھالە<s n="n"/></l><r>ahali<s n="n"/></r></p></e>
       <e><p><l>سەھنە<s n="n"/></l><r>sahne<s n="n"/></r></p></e>
@@ -5929,7 +5927,6 @@
       <e><p><l>ئويدۇرما<s n="n"/></l><r>yalan<s n="n"/></r></p></e>
       <e><p><l>جاۋاب<s n="n"/></l><r>yanıt<s n="n"/></r></p></e>
       <e><p><l>قۇرۇلۇش<s n="n"/></l><r>yapım<s n="n"/></r></p></e>
-      <e><p><l>بوي<s n="n"/></l><r>boy<s n="n"/></r></p></e>
       <e><p><l>ئىمارەت<s n="n"/></l><r>yapı<s n="n"/></r></p></e>
       <e><p><l>ياپراقچە<s n="n"/></l><r>yaprak<s n="n"/></r></p></e>
       <e><p><l>پايدا<s n="n"/></l><r>yarar<s n="n"/></r></p></e>
@@ -6003,7 +6000,6 @@
       <e><p><l>ياۋروپا<s n="np"/><s n="top"/></l><r>Avrupa<s n="np"/><s n="top"/></r></p></e>
 
       <e><p><l>جۇڭگو<s n="np"/><s n="top"/></l><r>Çin<s n="np"/><s n="top"/></r></p></e>
-      <e><p><l>خىتاي<s n="np"/><s n="top"/></l><r>Çin<s n="np"/><s n="top"/></r></p></e>
 
        <e><p><l>ئەركەشتام<s n="np"/><s n="top"/></l><r>Erkeştam<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>تۇرپان<s n="np"/><s n="top"/></l><r>Turfan<s n="np"/><s n="top"/></r></p></e>
