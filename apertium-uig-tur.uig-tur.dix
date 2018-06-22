@@ -1391,7 +1391,6 @@
        <e><p><l>ۋىرۇس<s n="n"/></l><r>virüs<s n="n"/></r></p></e>
        <e><p><l>شەخس<s n="n"/></l><r>şahıs<s n="n"/></r></p></e>
        <e><p><l>ئىمپورت<s n="n"/></l><r>ithalat<s n="n"/></r></p></e>
-       <e><p><l>ئىمپورت<s n="n"/></l><r>ithalat<s n="n"/></r></p></e>
        <e><p><l>ھەرىكەت<s n="n"/></l><r>hareket<s n="n"/></r></p></e>
        <e><p><l>ھەيئەت<s n="n"/></l><r>heyet<s n="n"/></r></p></e>
        <e><p><l>يۇرت<s n="n"/></l><r>yurt<s n="n"/></r></p></e>
@@ -1556,8 +1555,6 @@
        <e><p><l>مەنپەئەت<s n="n"/></l><r>çıkar<s n="n"/></r></p></e>
        <e><p><l>پالاتا<s n="n"/></l><r>meclis<s n="n"/></r></p></e>
        <e><p><l>لېكسىيە<s n="n"/></l><r>konferans<s n="n"/></r></p></e>
-       <e><p><l>ئىمپورت<s n="n"/></l><r>ithalat<s n="n"/></r></p></e>
-       <e><p><l>ئىمپورت<s n="n"/></l><r>ithalat<s n="n"/></r></p></e>
        <e><p><l>پۇرسەت<s n="n"/></l><r>fırsat<s n="n"/></r></p></e>
        <e><p><l>ھەرىكەت<s n="n"/></l><r>hareket<s n="n"/></r></p></e>
        <e><p><l>مۇلازىمەت<s n="n"/></l><r>mülazemet<s n="n"/></r></p></e>
@@ -1686,7 +1683,6 @@
        <e><p><l>سۈرە<s n="n"/></l><r>sure<s n="n"/></r></p></e>
        <e><p><l>فوتو<s n="n"/></l><r>fotoğraf<s n="n"/></r></p></e>
        <e><p><l>ئاللاھ<s n="n"/></l><r>Allah<s n="n"/></r></p></e>
-       <e><p><l>ئىكەنلىك<s n="n"/></l><r>olduk<s n="n"/></r></p></e>
        <e><p><l>بوشلۇق<s n="n"/></l><r>boşluk<s n="n"/></r></p></e>
        <e><p><l>شاخ<s n="n"/></l><r>dal<s n="n"/></r></p></e>
        <e><p><l>ۋىدېئو<s n="n"/></l><r>video<s n="n"/></r></p></e>
@@ -4374,7 +4370,7 @@
        <e><p><l>ئاقسۇ<s n="np"/><s n="top"/></l><r>Aksu<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>بۇرۇن<s n="post"/></l><r>önce<s n="post"/></r></p></e>
        <e><p><l>دائىر<s n="post"/></l><r>dair<s n="post"/></r></p></e>
-       <e><p><l>يەنىلا<s n="adv"/></l><r>hala<s n="adv"/></r></p></e>
+       <e><p><l>يەنىلا<s n="adv"/></l><r>hâlâ<s n="adv"/></r></p></e>
        <e><p><l>شۇنداق<s n="adv"/></l><r>şöyle<s n="adv"/></r></p></e>
        <e><p><l>قايتا<s n="adv"/></l><r>yine<s n="adv"/></r></p></e>
        <e><p><l>بىرگە<s n="adv"/></l><r>birlikte<s n="adv"/></r></p></e>

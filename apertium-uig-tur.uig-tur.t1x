@@ -7,6 +7,22 @@
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
+
+    <def-cat n="gna_rsub">
+      <cat-item tags="v.*.gna_rsub.*"/>
+      <cat-item tags="v.*.*.ger_rsub.*"/>
+      <cat-item tags="vaux.ger_rsub.*"/>
+      <cat-item tags="vaux.*.ger_rsub.*"/>
+      <cat-item tags="v.*.gna_rsub2.*"/>
+      <cat-item tags="v.*.*.ger_rsub2.*"/>
+      <cat-item tags="vaux.ger_rsub2.*"/>
+      <cat-item tags="vaux.*.ger_rsub2.*"/>
+      <cat-item tags="v.*.gna_rsub3.*"/>
+      <cat-item tags="v.*.*.ger_rsub3.*"/>
+      <cat-item tags="vaux.ger_rsub3.*"/>
+      <cat-item tags="vaux.*.ger_rsub3.*"/>
+    </def-cat>
+
   </section-def-cats>
 
   <section-def-attrs>
@@ -46,6 +62,24 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="regla: gna_rsub (bolghan → olan)">
+      <pattern>
+        <pattern-item n="gna_rsub"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="1" side="tl" part="gpr_rsub"/>
+          <lit v="gpr_rsub"/>
+        </let>
+        <out>
+          <lu>
+            <lit-tag v="gpr_rsub"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
   </section-rules>
 </transfer>
 
