@@ -142,27 +142,32 @@
       </action>
     </rule>
 
-    <rule comment="regla: Comparative (köprek → daha çok)">
+    <rule comment="REGLA: comparative (yaxşırek -> daha iyi)">
       <pattern>
         <pattern-item n="comp"/>
       </pattern>
       <action>
         <let>
-          <clip pos="1" side="tl" part="a_cmp"/>
-          <lit v=""/>
+          <clip pos="1" side="tl" part="a_cmp"/><lit v=""/>
         </let>
         <out>
-          <lu>
-            <lit v="daha"/>
-            <lit-tag v="adv"/>
-          </lu>
-          <b/>
-          <lu>
-            <clip pos="1" side="tl" part="whole"/>
-          </lu>
+          <chunk name="a" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SA"/></tag>
+            </tags>
+	<lu>
+		<lit v="daha"/><lit-tag v="adv"/>
+	</lu>
+		<b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
         </out>
       </action>
     </rule>
+
+
 
   </section-rules>
 </transfer>
