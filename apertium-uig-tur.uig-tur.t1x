@@ -86,6 +86,7 @@
       <attr-item tags="ifi"/>
       <attr-item tags="fut"/>
       <attr-item tags="past"/>
+      <attr-item tags="past2"/>
       <attr-item tags="gna_neg2"/>
     </def-attr>
 
@@ -176,13 +177,23 @@
         <pattern-item n="past"/>
       </pattern>
       <action>
+	<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="past"/>
+        </let>
         <out>
         <chunk name="v" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>
           <lu>
-             <clip pos="1" side="tl" part="whole"/>
+		<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+	     <lit-tag v="past"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.ifi"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
           </lu>
    	 </chunk>
         </out>
