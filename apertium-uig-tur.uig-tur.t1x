@@ -86,7 +86,9 @@
       <attr-item tags="ifi"/>
       <attr-item tags="fut"/>
       <attr-item tags="past"/>
+      <attr-item tags="gna_neg2"/>
     </def-attr>
+
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
     </def-attr>
@@ -152,6 +154,10 @@
         <pattern-item n="gna_neg"/>
       </pattern>
       <action>
+   <let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="gna_neg"/>
+        </let>
            <out>
         <chunk name="v" case="caseFirstWord">
             <tags>
@@ -213,9 +219,7 @@
         <pattern-item n="comp"/>
       </pattern>
       <action>
-        <let>
-          <clip pos="1" side="tl" part="a_cmp"/><lit v=""/>
-        </let>
+     
         <out>
           <chunk name="a" case="caseFirstWord">
             <tags>
