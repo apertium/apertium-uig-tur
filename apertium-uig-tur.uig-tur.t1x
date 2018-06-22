@@ -30,6 +30,13 @@
 	<cat-item tags="vaux.gna_neg2.*"/>
     </def-cat>
 
+    <def-cat n="aorp">
+	<cat-item tags="v.*.aorp.*"/>
+	<cat-item tags="v.*.*.aorp.*"/>
+	<cat-item tags="vaux.*.aorp.*"/>
+	<cat-item tags="vaux.aorp.*"/>
+    </def-cat>
+
     <def-cat n="comp">
 	<cat-item tags="adj.rek"/>
 	<cat-item tags="adj.rek.*"/>
@@ -49,6 +56,10 @@
 	<cat-item tags="v.*.*.past2.*"/>
 	<cat-item tags="vaux.*.past2.*"/>
 	<cat-item tags="vaux.past2.*"/>
+    </def-cat>
+
+    <def-cat n="vaux">
+	<cat-item tags="vaux.*"/>
     </def-cat>
 
   </section-def-cats>
@@ -140,6 +151,23 @@
         <let>
           <clip pos="1" side="tl" part="past"/>
           <lit-tag v="past"/>
+        </let>
+        <out>
+          <lu>
+             <clip pos="1" side="tl" part="whole"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: aor perf (bolatti → olurdu)">
+      <pattern>
+        <pattern-item n="aorp"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="1" side="tl" part="aor"/>
+          <lit-tag v="aor"/>
         </let>
         <out>
           <lu>
