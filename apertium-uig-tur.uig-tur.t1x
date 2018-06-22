@@ -23,6 +23,13 @@
       <cat-item tags="vaux.*.ger_rsub3.*"/>
     </def-cat>
 
+    <def-cat n="gna_neg">
+	<cat-item tags="v.*.gna_neg2.*"/>
+	<cat-item tags="v.*.*.gna_neg2.*"/>
+	<cat-item tags="vaux.*.gna_neg2.*"/>
+	<cat-item tags="vaux.gna_neg2.*"/>
+    </def-cat>
+
   </section-def-cats>
 
   <section-def-attrs>
@@ -71,6 +78,23 @@
         <let>
           <clip pos="1" side="tl" part="gpr_rsub"/>
           <lit-tag v="gpr_rsub"/>
+        </let>
+        <out>
+          <lu>
+             <clip pos="1" side="tl" part="whole"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: gna_neg (bolmastin → olmadan)">
+      <pattern>
+        <pattern-item n="gna_neg"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="1" side="tl" part="gpr_neg"/>
+          <lit-tag v="gpr_neg"/>
         </let>
         <out>
           <lu>
