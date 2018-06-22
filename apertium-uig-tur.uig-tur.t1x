@@ -70,11 +70,11 @@
       <action>
         <let>
           <clip pos="1" side="tl" part="gpr_rsub"/>
-          <lit v="gpr_rsub"/>
+          <lit-tag v="gpr_rsub"/>
         </let>
         <out>
           <lu>
-            <lit-tag v="gpr_rsub"/>
+             <clip pos="1" side="tl" part="whole"/>
           </lu>
         </out>
       </action>
