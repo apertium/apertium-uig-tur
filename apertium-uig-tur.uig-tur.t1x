@@ -37,6 +37,13 @@
 	<cat-item tags="adj.*.rek.*"/>
     </def-cat>
 
+    <def-cat n="compn">
+	<cat-item tags="n.rek"/>
+	<cat-item tags="n.rek.*"/>
+	<cat-item tags="n.*rek"/>
+	<cat-item tags="n.*.rek.*"/>
+    </def-cat>
+
     <def-cat n="past">
 	<cat-item tags="v.*.past2*"/>
 	<cat-item tags="v.*.*.past2.*"/>
@@ -167,6 +174,30 @@
       </action>
     </rule>
 
+<rule comment="REGLA: comparative for nouns (güzelrek -> daha güzel)">
+      <pattern>
+        <pattern-item n="compn"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="1" side="tl" part="a_cmp"/><lit v=""/>
+        </let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+	<lu>
+		<lit v="daha"/><lit-tag v="adv"/>
+	</lu>
+		<b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
 
   </section-rules>
