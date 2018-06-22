@@ -128,18 +128,6 @@
   </rule>
 
 <rule>
-    <match lemma="خىتاي" tags="n.top*">
-      <select lemma="Çin" tags="n.top*"/>
-    </match>
-  </rule>
-
-<rule>
-    <match lemma="خىتاي" tags="n.pl*">
-      <select lemma="Çinli" tags="n.pl*"/>
-    </match>
-  </rule>
-
-<rule>
     <match lemma="قول" tags="n.*">
       <select lemma="el" tags="n.*"/>
     </match>
