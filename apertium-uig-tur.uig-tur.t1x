@@ -33,14 +33,14 @@
     <def-cat n="comp">
 	<cat-item tags="adj.rek"/>
 	<cat-item tags="adj.rek.*"/>
-	<cat-item tags="adj.*rek"/>
+	<cat-item tags="adj.*.rek"/>
 	<cat-item tags="adj.*.rek.*"/>
     </def-cat>
 
     <def-cat n="compn">
 	<cat-item tags="n.rek"/>
 	<cat-item tags="n.rek.*"/>
-	<cat-item tags="n.*rek"/>
+	<cat-item tags="n.*.rek"/>
 	<cat-item tags="n.*.rek.*"/>
     </def-cat>
 
