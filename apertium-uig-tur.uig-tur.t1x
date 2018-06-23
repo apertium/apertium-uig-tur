@@ -30,6 +30,13 @@
 	<cat-item tags="vaux.gna_neg2"/>
     </def-cat>
 
+    <def-cat n="ger_past">
+	<cat-item tags="v.*.ger_past2.*"/>
+	<cat-item tags="v.*.*.ger_past2.*"/>
+	<cat-item tags="vaux.*.ger_past2.*"/>
+	<cat-item tags="vaux.ger_past2.*"/>
+    </def-cat>
+
     <def-cat n="aorp">
 	<cat-item tags="v.*.aorp.*"/>
 	<cat-item tags="v.*.*.aorp.*"/>
@@ -107,6 +114,7 @@
       <attr-item tags="past"/>
       <attr-item tags="past2"/>
       <attr-item tags="gna_neg2"/>
+      <attr-item tags="ger_past2"/>
     </def-attr>
 
     <def-attr n="a_cas">
@@ -184,6 +192,28 @@
    <let>
           <clip pos="1" side="tl" part="a_tns"/>
 	<lit-tag v="gna_neg"/>
+        </let>
+           <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+             <clip pos="1" side="tl" part="whole"/>
+          </lu>
+	  </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: ger_past (boliwatqanliqini → olduğunu)"> <!--without further inflection ("boliwatqanliq") this rather means oluş/olmak, so it might need further treatment -->
+      <pattern>
+        <pattern-item n="ger_past"/>
+      </pattern>
+      <action>
+   <let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="ger_past"/>
         </let>
            <out>
         <chunk name="v" case="caseFirstWord">
