@@ -23,6 +23,13 @@
       <cat-item tags="vaux.*.gpr_rsub3.*"/>
     </def-cat>
 
+    <def-cat n="ger_pabs">
+      <cat-item tags="v.*.ger_pabs.*"/>
+      <cat-item tags="v.*.*.ger_pabs.*"/>
+      <cat-item tags="vaux.ger_pabs.*"/>
+      <cat-item tags="vaux.*.ger_pabs.*"/>
+    </def-cat>
+
     <def-cat n="gna_neg">
 	<cat-item tags="v.*.gna_neg2"/>
 	<cat-item tags="v.*.*.gna_neg2"/>
@@ -166,6 +173,28 @@
               <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="regla: ger_pabs (bolghan → olmuş)">
+        <pattern>
+        <pattern-item n="ger_pabs"/>
+      </pattern>
+      <action>
+           <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+	     <lit-tag v="ger_pabs"/>
+	     <clip pos="1" side="tl" part="a_cas"/>
+          </lu>
+	  </chunk>
         </out>
       </action>
     </rule>
