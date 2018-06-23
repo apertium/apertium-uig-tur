@@ -8,19 +8,19 @@
       <cat-item tags="sent"/>
     </def-cat>
 
-    <def-cat n="gna_rsub">
-      <cat-item tags="v.*.gna_rsub.*"/>
-      <cat-item tags="v.*.*.ger_rsub.*"/>
-      <cat-item tags="vaux.ger_rsub.*"/>
-      <cat-item tags="vaux.*.ger_rsub.*"/>
-      <cat-item tags="v.*.gna_rsub2.*"/>
-      <cat-item tags="v.*.*.ger_rsub2.*"/>
-      <cat-item tags="vaux.ger_rsub2.*"/>
-      <cat-item tags="vaux.*.ger_rsub2.*"/>
-      <cat-item tags="v.*.gna_rsub3.*"/>
-      <cat-item tags="v.*.*.ger_rsub3.*"/>
-      <cat-item tags="vaux.ger_rsub3.*"/>
-      <cat-item tags="vaux.*.ger_rsub3.*"/>
+    <def-cat n="gpr_rsub">
+      <cat-item tags="v.*.gpr_rsub.*"/>
+      <cat-item tags="v.*.*.gpr_rsub.*"/>
+      <cat-item tags="vaux.gpr_rsub.*"/>
+      <cat-item tags="vaux.*.gpr_rsub.*"/>
+      <cat-item tags="v.*.gpr_rsub2.*"/>
+      <cat-item tags="v.*.*.gpr_rsub2.*"/>
+      <cat-item tags="vaux.gpr_rsub2.*"/>
+      <cat-item tags="vaux.*.gpr_rsub2.*"/>
+      <cat-item tags="v.*.gpr_rsub3.*"/>
+      <cat-item tags="v.*.*.gpr_rsub3.*"/>
+      <cat-item tags="vaux.gpr_rsub3.*"/>
+      <cat-item tags="vaux.*.gpr_rsub3.*"/>
     </def-cat>
 
     <def-cat n="gna_neg">
@@ -115,6 +115,9 @@
       <attr-item tags="past2"/>
       <attr-item tags="gna_neg2"/>
       <attr-item tags="ger_past2"/>
+      <attr-item tags="gpr_rsub"/>
+      <attr-item tags="gpr_rsub2"/>
+      <attr-item tags="gpr_rsub3"/>
     </def-attr>
 
     <def-attr n="a_cas">
@@ -167,19 +170,24 @@
       </action>
     </rule>
 
-    <rule comment="regla: gna_rsub (bolghan → olan)">
-      <pattern>
-        <pattern-item n="gna_rsub"/>
+    <rule comment="regla: gpr_rsub (bolghan → olan)">
+        <pattern>
+        <pattern-item n="gpr_rsub"/>
       </pattern>
       <action>
-        <let>
-          <clip pos="1" side="tl" part="gpr_rsub"/>
-          <lit-tag v="gpr_rsub"/>
+   <let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="gpr_rsub"/>
         </let>
-        <out>
+           <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
           <lu>
              <clip pos="1" side="tl" part="whole"/>
           </lu>
+	  </chunk>
         </out>
       </action>
     </rule>
