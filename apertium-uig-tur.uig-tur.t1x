@@ -38,17 +38,36 @@
     </def-cat>
 
     <def-cat n="comp">
-	<cat-item tags="adj.rek"/>
-	<cat-item tags="adj.rek.*"/>
-	<cat-item tags="adj.*.rek"/>
-	<cat-item tags="adj.*.rek.*"/>
+	<cat-item tags="adj.comp"/>
+	<cat-item tags="adj.comp.*"/>
+	<cat-item tags="adj.*.comp"/>
+	<cat-item tags="adj.*.comp.*"/>
     </def-cat>
 
     <def-cat n="compn">
-	<cat-item tags="n.rek"/>
-	<cat-item tags="n.rek.*"/>
-	<cat-item tags="n.*.rek"/>
-	<cat-item tags="n.*.rek.*"/>
+	<cat-item tags="n.comp"/>
+	<cat-item tags="n.comp.*"/>
+	<cat-item tags="n.*.comp"/>
+	<cat-item tags="n.*.comp.*"/>
+    </def-cat>
+
+    <def-cat n="kadar">
+	<cat-item tags="n.che"/>
+	<cat-item tags="n.che.*"/>
+	<cat-item tags="n.*.che"/>
+	<cat-item tags="n.*.che.*"/>
+	<cat-item tags="num.che"/>
+	<cat-item tags="num.che.*"/>
+	<cat-item tags="num.*.che"/>
+	<cat-item tags="num.*.che.*"/>
+	<cat-item tags="n.dek"/>
+	<cat-item tags="n.dek.*"/>
+	<cat-item tags="n.*.dek"/>
+	<cat-item tags="n.*.dek.*"/>
+	<cat-item tags="num.dek"/>
+	<cat-item tags="num.dek.*"/>
+	<cat-item tags="num.*.dek"/>
+	<cat-item tags="num.*.dek.*"/>
     </def-cat>
 
     <def-cat n="past">
@@ -95,8 +114,15 @@
     </def-attr>
 
     <def-attr n="a_cmp">
-      <attr-item tags="rek"/>
+      <attr-item tags="comp"/>
     </def-attr>
+
+    <def-attr n="a_kadar">
+      <attr-item tags="dek"/>
+      <attr-item tags="che"/>
+    </def-attr>
+
+
 
   </section-def-attrs>
 
@@ -225,19 +251,19 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: comparative (yaxşırek -> daha iyi)">
+    <rule comment="REGLA: comparative (yaxşıraq -> daha iyi)">
       <pattern>
         <pattern-item n="comp"/>
       </pattern>
       <action>
-     
         <out>
           <chunk name="a" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SA"/></tag>
             </tags>
 	<lu>
-		<lit v="daha"/><lit-tag v="adv"/>
+		<lit v="daha"/>
+		<lit-tag v="adv"/>
 	</lu>
 		<b/>
             <lu>
@@ -273,6 +299,31 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: -che/-dek (besh-che -> beş kadar)">
+      <pattern>
+        <pattern-item n="kadar"/>
+      </pattern>
+      <action>
+ <let>
+          <clip pos="1" side="tl" part="a_kadar"/><lit v=""/>
+        </let>
+        <out>
+          <chunk name="a" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag> <!--needs to be applied to num as well -->
+            </tags>
+		<lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+<b/>
+	<lu>
+		<lit v="kadar"/>
+		<lit-tag v="post"/>
+	</lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
   </section-rules>
 </transfer>
