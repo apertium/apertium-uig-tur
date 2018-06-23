@@ -175,17 +175,18 @@
         <pattern-item n="gpr_rsub"/>
       </pattern>
       <action>
-   <let>
-          <clip pos="1" side="tl" part="a_tns"/>
-	<lit-tag v="gpr_rsub"/>
-        </let>
            <out>
         <chunk name="v" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>
           <lu>
-             <clip pos="1" side="tl" part="whole"/>
+		<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+	     <lit-tag v="gpr_rsub"/>
+	     <lit-tag v="subst"/>
+	     <clip pos="1" side="tl" part="a_cas"/>
           </lu>
 	  </chunk>
         </out>
