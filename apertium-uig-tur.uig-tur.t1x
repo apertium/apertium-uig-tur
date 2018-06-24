@@ -23,6 +23,18 @@
       <cat-item tags="vaux.*.gpr_rsub3.*"/>
     </def-cat>
 
+    <def-cat n="prog">
+      <cat-item tags="v.*.aor.*"/>
+      <cat-item tags="v.*.*.aor.*"/>
+      <cat-item tags="vaux.aor.*"/>
+      <cat-item tags="vaux.*.aor.*"/>
+      <cat-item tags="v.*.prog.*"/>
+      <cat-item tags="v.*.*.prog.*"/>
+      <cat-item tags="vaux.prog.*"/>
+      <cat-item tags="vaux.*.prog.*"/>
+
+    </def-cat>
+
     <def-cat n="ger_pabs">
       <cat-item tags="v.*.ger_pabs.*"/>
       <cat-item tags="v.*.*.ger_pabs.*"/>
@@ -115,6 +127,8 @@
 
 
     <def-attr n="a_tns">
+      <attr-item tags="aor"/>
+      <attr-item tags="prog"/>
       <attr-item tags="aorp"/>
       <attr-item tags="ifi"/>
       <attr-item tags="fut"/>
@@ -173,6 +187,34 @@
               <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: aor/prog (bolımen/bolıwatımen → oluyorum)">
+      <pattern>
+        <pattern-item n="prog"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="prog"/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	     <clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+	     <lit-tag v="prog"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
         </out>
       </action>
     </rule>
