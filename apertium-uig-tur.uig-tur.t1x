@@ -8,6 +8,13 @@
       <cat-item tags="sent"/>
     </def-cat>
 
+
+    <def-cat n="cop">
+      <cat-item tags="v.*.cop.*"/>
+      <cat-item tags="cop.*"/>
+    </def-cat>
+
+
     <def-cat n="gpr_rsub">
       <cat-item tags="v.*.gpr_rsub.*"/>
       <cat-item tags="v.*.*.gpr_rsub.*"/>
@@ -139,6 +146,7 @@
       <attr-item tags="gpr_rsub"/>
       <attr-item tags="gpr_rsub2"/>
       <attr-item tags="gpr_rsub3"/>
+      <attr-item tags="cop"/>
     </def-attr>
 
     <def-attr n="a_cas">
@@ -187,6 +195,33 @@
               <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+<rule comment="regla: i-di (idi → idi)">
+      <pattern>
+        <pattern-item n="cop"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="cop"/>
+        </let>
+        <out>
+        <chunk name="cop" case="caseFirstWord">
+            <tags>
+              <tag>
+	<lit-tag v="SV"/>
+		</tag>
+            </tags>
+          <lu>
+	     <lit v="i"/>
+	     <lit-tag v="cop.ifi"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
         </out>
       </action>
     </rule>
