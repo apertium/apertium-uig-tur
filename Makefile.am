@@ -18,6 +18,7 @@ TARGETS_COMMON =		\
 	$(PREFIX1).autolex.bin	\
 	$(PREFIX1).autogen.bin	\
 	$(PREFIX1).autopgen.bin	\
+	$(PREFIX1).autotrl.bin	\
 	$(PREFIX1).t1x.bin	\
 	$(PREFIX1).t2x.bin	\
 	$(PREFIX1).t3x.bin	\
@@ -192,6 +193,14 @@ $(PREFIX1).autopgen.bin: $(AP_SRC2)/$(LANG2).autopgen.bin
 
 $(PREFIX2).autopgen.bin: $(AP_SRC1)/$(LANG1).autopgen.bin
 	cp $< $@
+
+###############################################################################
+## Transliteration dictionaries
+###############################################################################
+
+$(PREFIX1).autotrl.bin: $(BASENAME).alpha.dix
+	lt-comp lr $< $@
+
 
 ###############################################################################
 ## Distribution
