@@ -1,0 +1,39 @@
+<dictionary>
+<alphabet/>
+<section id="main" type="inconditional">
+<e r="LR"><p><l>ئ</l><r></r></p></e>
+<e><p><l>ا</l><r>a</r></p></e>
+<e r="LR"><p><l>ە</l><r></r></p></e>
+<e><p><l>ب</l><r>b</r></p></e>
+<e><p><l>پ</l><r>p</r></p></e>
+<e><p><l>ت</l><r>t</r></p></e>
+<e><p><l>ج</l><r>c</r></p></e>
+<e><p><l>چ</l><r>ç</r></p></e>
+<e><p><l>خ</l><r>h</r></p></e>
+<e><p><l>د</l><r>d</r></p></e>
+<e><p><l>ر</l><r>r</r></p></e>
+<e><p><l>ز</l><r>z</r></p></e>
+<e><p><l>ژ</l><r>j</r></p></e>
+<e><p><l>س</l><r>s</r></p></e>
+<e><p><l>ش</l><r>ş</r></p></e>
+<e><p><l>غ</l><r>ğ</r></p></e>
+<e><p><l>ف</l><r>f</r></p></e>
+<e><p><l>ق</l><r>q</r></p></e>
+<e><p><l>ك</l><r>k</r></p></e>
+<e><p><l>گ</l><r>g</r></p></e>
+<e><p><l>ڭ</l><r>n</r></p></e>
+<e><p><l>ل</l><r>l</r></p></e>
+<e><p><l>م</l><r>m</r></p></e>
+<e><p><l>ن</l><r>n</r></p></e>
+<e><p><l>ھ</l><r>h</r></p></e>
+<e><p><l>و</l><r>u</r></p></e>
+<e><p><l>ۇ</l><r>u</r></p></e>
+<e><p><l>ۆ</l><r>u</r></p></e>
+<e><p><l>ۈ</l><r>u</r></p></e>
+<e><p><l>ۋ</l><r>v</r></p></e>
+<e><p><l>ې</l><r>i</r></p></e>
+<e><p><l>ى</l><r>i</r></p></e>
+<e><p><l>ي</l><r>ye</r></p></e>
+<e><p><l>ک</l><r>q</r></p></e>
+</section>
+</dictionary>
