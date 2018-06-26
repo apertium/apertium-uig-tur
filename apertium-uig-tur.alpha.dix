@@ -3,7 +3,7 @@
 <section id="main" type="inconditional">
 <e r="LR"><p><l>ئ</l><r></r></p></e>
 <e><p><l>ا</l><r>a</r></p></e>
-<e r="LR"><p><l>ە</l><r></r></p></e>
+<e><p><l>ە</l><r>e</r></p></e>
 <e><p><l>ب</l><r>b</r></p></e>
 <e><p><l>پ</l><r>p</r></p></e>
 <e><p><l>ت</l><r>t</r></p></e>
@@ -33,7 +33,7 @@
 <e><p><l>ۋ</l><r>v</r></p></e>
 <e><p><l>ې</l><r>i</r></p></e>
 <e><p><l>ى</l><r>i</r></p></e>
-<e><p><l>ي</l><r>ye</r></p></e>
+<e><p><l>ي</l><r>y</r></p></e>
 <e><p><l>ک</l><r>q</r></p></e>
 </section>
 </dictionary>
