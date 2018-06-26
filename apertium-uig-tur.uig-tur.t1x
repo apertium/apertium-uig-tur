@@ -14,6 +14,11 @@
       <cat-item tags="cop.*"/>
     </def-cat>
 
+    <def-cat n="copdub">
+      <cat-item tags="v.*.cop.*.dub.*"/>
+      <cat-item tags="cop.*.dub.*"/>
+    </def-cat>
+
 
     <def-cat n="gpr_rsub">
       <cat-item tags="v.*.gpr_rsub.*"/>
@@ -39,7 +44,6 @@
       <cat-item tags="v.*.*.prog.*"/>
       <cat-item tags="vaux.prog.*"/>
       <cat-item tags="vaux.*.prog.*"/>
-
     </def-cat>
 
     <def-cat n="ger_pabs">
@@ -147,7 +151,9 @@
       <attr-item tags="gpr_rsub2"/>
       <attr-item tags="gpr_rsub3"/>
       <attr-item tags="cop"/>
+      <attr-item tags="dub"/>
     </def-attr>
+
 
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
@@ -219,6 +225,32 @@
           <lu>
 	     <lit v="i"/>
 	     <lit-tag v="cop.ifi"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: i-ken (iken → (i)miş)"> <!-- somehow translates to idi, needs to be fixed -->
+      <pattern>
+        <pattern-item n="copdub"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="cop"/>
+        </let>
+        <out>
+        <chunk name="cop" case="caseFirstWord">
+            <tags>
+              <tag>
+	<lit-tag v="SV"/>
+		</tag>
+            </tags>
+          <lu>
+	     <lit v="i"/>
+	     <lit-tag v="cop.dub.aor"/>
 	     <clip pos="1" side="tl" part="a_pers_nbr"/>
           </lu>
    	 </chunk>
