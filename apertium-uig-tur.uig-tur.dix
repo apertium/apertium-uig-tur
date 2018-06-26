@@ -95,12 +95,12 @@
    <section id="main" type="standard">
 
       <!-- SECTION: Copula -->
-      <e r="LR"><p><l>ىئ<s n="cop"/></l><r> </r></p></e>
-      <e r="LR"><p><l>ىې<s n="cop"/></l><r> </r></p></e>
+      <e r="LR"><p><l>ئى<s n="cop"/></l><r> </r></p></e>
+      <e r="LR"><p><l>ئې<s n="cop"/></l><r> </r></p></e>
       <e r="LR"><p><l>ئىكەن<s n="cop"/><s n="dub"/></l><r> </r></p></e>
       <e r="LR"><p><l>ئەمەس<s n="cop"/><s n="neg"/></l><r> </r></p></e>
       
-      <!-- weird grammaticalization, will be handled in transfer -->
+      <!-- needs a twol rule that deletes word-final [l] when inflected with -(u)ptu  -->
       <e r="LR"><p><l>قا<s n="v"/><s n="iv"/></l><r> </r></p></e>
 
 
@@ -3144,7 +3144,7 @@
        <e><p><l>تەتقىقات<s n="n"/></l><r>inceleme<s n="n"/></r></p></e>
        <e><p><l>كومىتېت<s n="n"/></l><r>komite<s n="n"/></r></p></e>
        <e><p><l>ئەزا<s n="n"/></l><r>üye<s n="n"/></r></p></e>
-       <e><p><l>ھەمكارلىق<s n="n"/></l><r>işbirliği<s n="n"/></r></p></e>
+       <e><p><l>ھەمكارلىق<s n="n"/></l><r>işbirlik<s n="n"/></r></p></e>
        <e><p><l>بىخەتەرلىك<s n="n"/></l><r>güvenlik<s n="n"/></r></p></e>
        <e><p><l>ئىتتىپاق<s n="n"/></l><r>birlik<s n="n"/></r></p></e>
        <e><p><l>ھەل<s n="n"/></l><r>hal<s n="n"/></r></p></e>
@@ -5754,7 +5754,6 @@
       <e><p><l>پاشا<s n="n"/></l><r>paşa<s n="n"/></r></p></e>
       <e><p><l>سەپەر<s n="n"/></l><r>sefer<s n="n"/></r></p></e>
       <e><p><l>سىياسەت<s n="n"/></l><r>siyaset<s n="n"/></r></p></e>
-      <e><p><l>ئىدىش<s n="n"/></l><r>kap<b/>kacak<s n="n"/></r></p></e>
       <e><p><l>داستىخان<s n="n"/></l><r>sofra<s n="n"/></r></p></e>
       <e><p><l>تال<s n="n"/></l><r>söğüt<s n="n"/></r></p></e>
       <e><p><l>سوڭ<s n="n"/></l><r>son<s n="n"/></r></p></e>
