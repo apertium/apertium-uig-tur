@@ -70,6 +70,13 @@
 	<cat-item tags="vaux.ger_past2.*"/>
     </def-cat>
 
+   <def-cat n="gna_when">
+	<cat-item tags="v.*.gna_when2"/>
+	<cat-item tags="v.*.*.gna_when2"/>
+	<cat-item tags="vaux.*.gna_when2"/>
+	<cat-item tags="vaux.gna_when2"/>
+    </def-cat>
+
     <def-cat n="aorp">
 	<cat-item tags="v.*.aorp.*"/>
 	<cat-item tags="v.*.*.aorp.*"/>
@@ -153,6 +160,7 @@
       <attr-item tags="gpr_rsub"/>
       <attr-item tags="gpr_rsub2"/>
       <attr-item tags="gpr_rsub3"/>
+      <attr-item tags="gna_when2"/>
     </def-attr>
 
     <def-attr n="a_cop">
@@ -373,6 +381,28 @@
    <let>
           <clip pos="1" side="tl" part="a_tns"/>
 	<lit-tag v="gna_neg"/>
+        </let>
+           <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+             <clip pos="1" side="tl" part="whole"/>
+          </lu>
+	  </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: gna_when2 (bolghanda → olunca)">
+      <pattern>
+        <pattern-item n="gna_when"/>
+      </pattern>
+      <action>
+   <let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="gna_when"/>
         </let>
            <out>
         <chunk name="v" case="caseFirstWord">
