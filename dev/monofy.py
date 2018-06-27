@@ -40,7 +40,7 @@ if __name__=="__main__":
         filename = os.path.join(d, '../../apertium-uig/apertium-uig.uig.lexc')
     else:
         filename = os.path.join(d, '../../apertium-tur/apertium-tur.tur.lexc')
-    text = open(filename).read()
+    text = "".join([x for x in open(filename).readlines() if "V-TD" not in x])
     for line in sys.stdin.readlines():
         if "<" in line:
             try:
@@ -50,3 +50,4 @@ if __name__=="__main__":
             except KeyError:
                 print("Unknown tags:",line)
                 continue
+
