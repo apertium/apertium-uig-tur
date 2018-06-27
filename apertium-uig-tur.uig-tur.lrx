@@ -141,6 +141,13 @@
   </rule>
 
 <rule>
+    <match tags="n.nom.*"/>
+    <match lemma="كېسەل" tags="n.*">
+      <select lemma="hastalık" tags="n.*"/>
+    </match>
+  </rule>
+
+<rule>
     <match tags="n.*.acc.*"/>
     <match lemma="تونۇشتۇر" tags="v.*">
       <select lemma="tanıt" tags="v.*"/>
