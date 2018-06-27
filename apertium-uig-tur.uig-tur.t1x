@@ -15,8 +15,12 @@
     </def-cat>
 
     <def-cat n="copdub">
-      <cat-item tags="v.*.cop.*.dub.*"/>
-      <cat-item tags="cop.*.dub.*"/>
+      <cat-item tags="cop.dub.*"/>
+    </def-cat>
+
+
+    <def-cat n="cop-ifi">
+      <cat-item tags="cop.ifi.*"/>
     </def-cat>
 
 
@@ -208,7 +212,7 @@
 
 <rule comment="regla: i-di (idi → idi)">
       <pattern>
-        <pattern-item n="cop"/>
+        <pattern-item n="cop-ifi"/>
       </pattern>
       <action>
 	<let>
