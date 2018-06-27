@@ -10,7 +10,7 @@
 
 
     <def-cat n="cop-neg">
-      <cat-item tags="cop.neg*"/>
+      <cat-item tags="cop.neg.*"/>
     </def-cat>
 
     <def-cat n="cop-dub">
@@ -292,7 +292,9 @@
           <lu>
 	     <lit v="değil"/>
 	     <lit-tag v="adj"/>
-	<lit-tag v="cop.aor"/>
+	     <lit v="+i"/>
+	<lit-tag v="cop"/>
+	     <clip pos="1" side="tl" part="a_tns"/>
 	     <clip pos="1" side="tl" part="a_pers_nbr"/>
           </lu>
    	 </chunk>
