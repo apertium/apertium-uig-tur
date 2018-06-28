@@ -9,6 +9,10 @@
     </def-cat>
 
 
+    <def-cat n="prn_ref">
+      <cat-item tags="prn.ref.*"/>
+    </def-cat>
+
     <def-cat n="adjdur">
       <cat-item tags="adj.dur"/>
     </def-cat>
@@ -197,6 +201,11 @@
 
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
+      <attr-item tags="gen"/>
+      <attr-item tags="dat"/>
+      <attr-item tags="acc"/>
+      <attr-item tags="abl"/>
+      <attr-item tags="loc"/>
     </def-attr>
 
     <def-attr n="a_cmp">
@@ -696,6 +705,26 @@
       </action>
     </rule>
 
+<rule comment="regla: prn_ref (öz → kendi)">
+      <pattern>
+        <pattern-item n="prn_ref"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+             <clip pos="1" side="tl" part="lem"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_cas"/>
+          </lu>
+  </chunk>
+        </out>
+      </action>
+    </rule>
 
   </section-rules>
 </transfer>
