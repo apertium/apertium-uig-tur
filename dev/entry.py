@@ -13,11 +13,13 @@ def entrify(line):
 "Pronoun":'<s n="prn"/><s n="pers"/>',
 "top":'<s n="np"/><s n="top"/>',
 "tv":'<s n="v"/><s n="tv"/>',
-"ant":'<s n="ant"/><s n="m"/>',
-"cog":'<s n="cog"/><s n="mf"/>',
+"ant":'<s n="np"/><s n="ant"/><s n="m"/>',
+"antf":'<s n="np"/><s n="ant"/><s n="f"/>',
+"cog":'<s n="np"/><s n="cog"/><s n="mf"/>',
 "interj":'<s n="ij"/>',
 "org":'<s n="np"/><s n="org"/>',
-"num":'<s n="num"/>'
+"num":'<s n="num"/>',
+"det":'<s n="det"/><s n="dem"/>'
 }
     epl, rpe, lr = "       <e><p><l>", "</r></p></e>", "</l><r>"
     out = ""
