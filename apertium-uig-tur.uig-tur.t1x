@@ -117,6 +117,17 @@
 	<cat-item tags="num.*.dek.*"/>
     </def-cat>
 
+    <def-cat n="ter">
+	<cat-item tags="n.ter"/>
+	<cat-item tags="n.ter.*"/>
+	<cat-item tags="n.*.ter"/>
+	<cat-item tags="n.*.ter.*"/>
+	<cat-item tags="v.*.ter*"/>
+	<cat-item tags="v.*.*.ter.*"/>
+	<cat-item tags="vaux.*.ter.*"/>
+	<cat-item tags="vaux.ter.*"/>
+    </def-cat>
+
     <def-cat n="past1">
 	<cat-item tags="v.*.past*"/>
 	<cat-item tags="v.*.*.past.*"/>
@@ -173,7 +184,6 @@
     <def-attr n="a_cop">
       <attr-item tags="cop"/>
       <attr-item tags="dub"/>
-      <attr-item tags="neg"/>
     </def-attr>
 
 
@@ -190,6 +200,9 @@
       <attr-item tags="che"/>
     </def-attr>
 
+    <def-attr n="a_ter">
+      <attr-item tags="ter"/>
+    </def-attr>
 
 
   </section-def-attrs>
@@ -604,6 +617,34 @@
         </out>
       </action>
     </rule>
+
+<rule comment="REGLA: -ghiche (shimal-ghiche -> şimale kadar)">
+      <pattern>
+        <pattern-item n="ter"/>
+      </pattern>
+      <action>
+ <let>
+          <clip pos="1" side="tl" part="a_ter"/>
+<lit-tag v="dat"/>
+        </let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag> 
+            </tags>
+		<lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+<b/>
+	<lu>
+		<lit v="kadar"/>
+		<lit-tag v="post"/>
+	</lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
   </section-rules>
 </transfer>
