@@ -3171,8 +3171,8 @@
        <e><p><l>كانادا<s n="np"/><s n="top"/></l><r>Kanada<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>خوتەن<s n="np"/><s n="top"/></l><r>Hotan<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>تەيۋەن<s n="np"/><s n="top"/></l><r>Tayvan<s n="np"/><s n="top"/></r></p></e>
-       <e><p><l>ھەرقايسى<s n="prn"/><s n="qnt"/></l><r>herkes<s n="prn"/><s n="qnt"/></r></p></e>
-       <e><p><l>ھەرقايسى<s n="det"/><s n="qnt"/></l><r>bütün<s n="det"/><s n="qnt"/></r></p></e>
+
+       <e><p><l>ھەرقايسى<s n="adj"/></l><r>bütün<s n="adj"/></r></p></e>
        <e><p><l>قەدەر<s n="post"/></l><r>kadar<s n="post"/></r></p></e>
        <e><p><l>ناھايىتى<s n="adv"/></l><r>pek<s n="adv"/></r></p></e>
        <e r="LR"><p><l>بۇنىڭدىن<s n="adv"/></l><r>bu<s n="prn"/><s n="dem"/><s n="abl"/></r></p></e>
