@@ -130,14 +130,8 @@
     </def-cat>
 
     <def-cat n="che">
-	<cat-item tags="v.che"/>
-	<cat-item tags="v.che.*"/>
-	<cat-item tags="v.*.che"/>
-	<cat-item tags="v.*.che.*"/>
-	<cat-item tags="vaux.che"/>
-	<cat-item tags="vaux.che.*"/>
-	<cat-item tags="vaux.*.che"/>
-	<cat-item tags="vaux.*.che.*"/>
+	<cat-item tags="v.*.ger.*.che"/>
+	<cat-item tags="vaux.*.ger.*.che.*"/>
     </def-cat>
 
     <def-cat n="ter">
