@@ -129,6 +129,17 @@
 	<cat-item tags="num.*.dek.*"/>
     </def-cat>
 
+    <def-cat n="che">
+	<cat-item tags="v.che"/>
+	<cat-item tags="v.che.*"/>
+	<cat-item tags="v.*.che"/>
+	<cat-item tags="v.*.che.*"/>
+	<cat-item tags="vaux.che"/>
+	<cat-item tags="vaux.che.*"/>
+	<cat-item tags="vaux.*.che"/>
+	<cat-item tags="vaux.*.che.*"/>
+    </def-cat>
+
     <def-cat n="ter">
 	<cat-item tags="n.ter"/>
 	<cat-item tags="n.ter.*"/>
@@ -645,6 +656,39 @@
       </action>
     </rule>
 
+<rule comment="REGLA: -che (déyishiche -> dediğine göre)">
+      <pattern>
+        <pattern-item n="che"/>
+      </pattern>
+      <action>
+ 	<let>
+          <clip pos="1" side="tl" part="che"/>
+	<lit-tag v=""/>
+        </let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag> 
+            </tags>
+		<lu>
+             <clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+	<lit-tag v="gpr_past"/>
+	<lit-tag v="subst"/>
+	<lit-tag v="px3sp"/>
+	<lit-tag v="dat"/>
+            </lu>
+		<b/>
+		<lu>
+		<lit v="göre"/>
+		<lit-tag v="post"/>
+		</lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 <rule comment="REGLA: -ghiche (shimal-ghiche -> şimale kadar)">
       <pattern>
         <pattern-item n="ter"/>
@@ -671,6 +715,8 @@
         </out>
       </action>
     </rule>
+
+
 
     <rule comment="regla: dur (ibarettur → ibarettir)">
         <pattern>
