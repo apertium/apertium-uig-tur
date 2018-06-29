@@ -707,7 +707,7 @@
           <lu>
 	<clip pos="1" side="tl" part="lem"/>
              <lit-tag v="n"/>
-	     <lit-tag v="nom"/>
+	     <clip pos="1" side="tl" part="a_cas"/>
 	     <lit-tag v="dur"/>
           </lu>
 	  </chunk>
