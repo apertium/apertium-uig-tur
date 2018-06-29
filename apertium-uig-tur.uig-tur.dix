@@ -2758,7 +2758,7 @@
        <e><p><l>ھەپىلەش<s n="v"/><s n="iv"/></l><r>yalvar<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ۋارقىر<s n="v"/><s n="iv"/></l><r>bağır<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ۋارقىرىش<s n="v"/><s n="iv"/></l><r>bağırış<s n="v"/><s n="iv"/></r></p></e>
-       <e><p><l>بەسلەش<s n="v"/><s n="iv"/></l><r>tartış<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>بەسلەش<s n="v"/><s n="tv"/></l><r>tartış<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>پىچىرلا<s n="v"/><s n="tv"/></l><r>fısılda<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>بويا<s n="v"/><s n="tv"/></l><r>boyla<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>پۈك<s n="v"/><s n="tv"/></l><r>bük<s n="v"/><s n="tv"/></r></p></e>
@@ -4595,7 +4595,7 @@
        <e><p><l>داۋاملاشتۇر<s n="v"/><s n="tv"/></l><r>sürdür<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئالدۇر<s n="v"/><s n="tv"/></l><r>aldır<s n="v"/><s n="tv"/></r></p></e>
 
-
+       <e><p><l>ئۆزگىچە<s n="adj"/></l><r>başka<s n="adj"/></r></p></e>
        <e><p><l>سوئال<s n="n"/></l><r>soru<s n="n"/></r></p></e>
        <e><p><l>دېگەندەك<s n="adj"/></l><r>eksiksiz<s n="adj"/></r></p></e>
        <e><p><l>نورۇز<s n="n"/></l><r>Nevruz<s n="n"/></r></p></e>
@@ -6669,7 +6669,7 @@
       <e><p><l>كۈت<s n="v"/><s n="tv"/></l><r>bekle<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>تەمتىرە<s n="v"/><s n="iv"/></l><r>şaşır<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>ئۇيال<s n="v"/><s n="iv"/></l><r>utan<s n="v"/><s n="iv"/></r></p></e>
-      <e><p><l>تارتىش<s n="v"/><s n="iv"/></l><r>tartış<s n="v"/><s n="tv"/></r></p></e>
+      <e><p><l>تارتىش<s n="v"/><s n="tv"/></l><r>tartış<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>ئۇخلا<s n="v"/><s n="iv"/></l><r>uyu<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>كەچۈر<s n="v"/><s n="tv"/></l><r>özür<b/>dile<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>تاشلىۋەت<s n="v"/><s n="tv"/></l><r>bırak<s n="v"/><s n="tv"/></r></p></e>
