@@ -186,6 +186,14 @@
     </match>
   </rule>
 
+<rule>
+    <match lemma="ھەممىسى" tags="prn.qnt">
+      <select lemma="hepsi" tags="prn.qnt"/>
+    </match>
+  </rule>
+
+
+
 
 </rules>
 
