@@ -233,8 +233,11 @@
       <attr-item tags="ter"/>
     </def-attr>
 
-    <def-attr n="a_opt">
+    <def-attr n="a_neg">
       <attr-item tags="neg"/>
+    </def-attr>
+
+    <def-attr n="a_pass">
       <attr-item tags="pass"/>
     </def-attr>
 
@@ -374,7 +377,8 @@
 	     <clip pos="1" side="tl" part="lem"/>
              <lit-tag v="v"/>
              <clip pos="1" side="tl" part="a_tra"/>
- 	     <clip pos="1" side="tl" part="a_opt"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
 	     <lit-tag v="prog"/>
 	     <lit v="+i"/>
 	     <lit-tag v="cop.aor"/>
@@ -399,7 +403,8 @@
 	<clip pos="1" side="tl" part="lem"/>
              <lit-tag v="v"/>
              <clip pos="1" side="tl" part="a_tra"/>
- 	     <clip pos="1" side="tl" part="a_opt"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
 	     <lit-tag v="ger_pabs"/>
 	     <clip pos="1" side="tl" part="a_cas"/>
           </lu>
@@ -422,7 +427,8 @@
 		<clip pos="1" side="tl" part="lem"/>
              <lit-tag v="v"/>
              <clip pos="1" side="tl" part="a_tra"/>
- 	     <clip pos="1" side="tl" part="a_opt"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
 	     <lit-tag v="gpr_rsub"/>
 	     <lit-tag v="subst"/>
 	     <clip pos="1" side="tl" part="a_cas"/>
@@ -516,7 +522,8 @@
 		<clip pos="1" side="tl" part="lem"/>
              <lit-tag v="v"/>
              <clip pos="1" side="tl" part="a_tra"/>
- 	     <clip pos="1" side="tl" part="a_opt"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
 	     <lit-tag v="past"/>
 	     <lit v="+i"/>
 	     <lit-tag v="cop.aor"/>
@@ -545,7 +552,8 @@
 		<clip pos="1" side="tl" part="lem"/>
              <lit-tag v="v"/>
              <clip pos="1" side="tl" part="a_tra"/>
- 	     <clip pos="1" side="tl" part="a_opt"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
 	     <lit-tag v="past"/>
 	     <lit v="+i"/>
 	     <lit-tag v="cop.ifi"/>
@@ -571,7 +579,8 @@
              <clip pos="1" side="tl" part="lem"/>
              <lit-tag v="v"/>
              <clip pos="1" side="tl" part="a_tra"/>
- 	     <clip pos="1" side="tl" part="a_opt"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
 	     <lit-tag v="aor"/>
 	     <lit v="+i"/>
 	     <lit-tag v="cop.ifi"/>
