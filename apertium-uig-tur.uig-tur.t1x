@@ -202,6 +202,14 @@
       <attr-item tags="cop"/>
     </def-attr>
 
+<def-attr n="a_pos">
+      <attr-item tags="px1sg"/>
+      <attr-item tags="px2sg"/>
+      <attr-item tags="px3sg"/>
+      <attr-item tags="px1pl"/>
+      <attr-item tags="px2pl"/>
+      <attr-item tags="px3pl"/>
+    </def-attr>
 
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
@@ -767,9 +775,12 @@
             </tags>
           <lu>
              <clip pos="1" side="tl" part="lem"/>
-	     <lit v="+i"/>
-	     <lit-tag v="cop.aor"/>
+	     <lit-tag v="prn_ref"/>
+	     <clip pos="1" side="tl" part="a_pos"/>
 	     <clip pos="1" side="tl" part="a_cas"/>
+             <lit v="+i"/>
+	     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
           </lu>
   </chunk>
         </out>
