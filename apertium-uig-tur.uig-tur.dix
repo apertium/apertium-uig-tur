@@ -43,6 +43,7 @@
     <sdef n="p3"              c="3rd person"/>
 
     <sdef n="px3sp"           c="3rd p. possessive"/>
+    <sdef n="px3sg"           c="3rd p. singular possessive"/>
 
     <sdef n="f"               c="Feminine"/>
     <sdef n="m"               c="Masculine"/>
@@ -3883,7 +3884,7 @@
        <e><p><l>يۈز<s n="n"/></l><r>yüz<s n="n"/></r></p></e>
        <e><p><l>تور<s n="n"/></l><r>ağ<s n="n"/></r></p></e>
        <e><p><l>ئۆز<s n="prn"/><s n="ref"/></l><r>kendi<s n="prn"/><s n="pers"/></r></p></e>
-       <e><p><l>ئۆز<s n="prn"/><s n="ref"/><s n="px3sp"/></l><r>kendi<s n="prn"/><s n="pers"/></r></p></e>
+       <e><p><l>ئۆز<s n="prn"/><s n="ref"/><s n="px3sp"/></l><r>kendi<s n="prn"/><s n="pers"/><s n="px3sg"/></r></p></e>
        <e><p><l>ئۇلار<s n="prn"/><s n="pers"/></l><r>onlar<s n="prn"/><s n="pers"/></r></p></e>
        <e><p><l>شۇ<s n="prn"/><s n="pers"/></l><r>şu<s n="prn"/><s n="pers"/></r></p></e>
        <e><p><l>ھەقتە<s n="post"/></l><r>hakkında<s n="post"/></r></p></e>
