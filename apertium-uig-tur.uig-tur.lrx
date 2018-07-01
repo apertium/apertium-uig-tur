@@ -192,7 +192,17 @@
     </match>
   </rule>
 
+<rule>
+    <match lemma="ئى" tags="v.iv.ger_past.*">
+      <select lemma="ol" tags="v.iv.ger_past.*"/>
+    </match>
+  </rule>
 
+<rule>
+    <match lemma="ئى" tags="cop.*">
+      <select lemma="ol" tags="cop.*"/>
+    </match>
+  </rule>
 
 
 </rules>

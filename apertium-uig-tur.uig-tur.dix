@@ -105,7 +105,7 @@
       
       <!-- needs a twol rule that deletes word-final [l] when inflected with -(u)ptu  -->
       <e r="LR"><p><l>قا<s n="v"/><s n="iv"/></l><r> </r></p></e>
-
+       <e><p><l>ئى<s n="v"/><s n="iv"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e> <!-- ikenlikini = olduğunu -->
 
       <!-- SECTION: Conjunctions -->
       <e><p><l>ۋە<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
@@ -2754,7 +2754,7 @@
        <e><p><l>بەرىبىر<s n="adv"/></l><r>beraber<s n="adv"/></r></p></e>
        <e><p><l>بوشا<s n="v"/><s n="iv"/></l><r>gevşe<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>بوشا<s n="v"/><s n="iv"/></l><r>boşal<s n="v"/><s n="iv"/></r></p></e>
-       <e><p><l>بولۇش<s n="v"/><s n="iv"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e>
+
        <e><p><l>بوشا<s n="v"/><s n="iv"/></l><r>bırakıl<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ھاياجانلان<s n="v"/><s n="iv"/></l><r>heyecanlan<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>بېزەل<s n="v"/><s n="iv"/></l><r>düzenlen<s n="v"/><s n="iv"/></r></p></e>
