@@ -34,6 +34,17 @@
       <cat-item tags="cop.ifi.*"/>
     </def-cat>
 
+  <def-cat n="fut">
+      <cat-item tags="v.*.fut.*"/>
+      <cat-item tags="v.*.*.fut.*"/>
+      <cat-item tags="vaux.fut.*"/>
+      <cat-item tags="vaux.*.fut.*"/>
+      <cat-item tags="v.*.fut.*"/>
+      <cat-item tags="v.*.*.fut.*"/>
+      <cat-item tags="vaux.fut.*"/>
+      <cat-item tags="vaux.*.fut.*"/>
+    </def-cat>
+
 
     <def-cat n="gpr_rsub">
       <cat-item tags="v.*.gpr_rsub.*"/>
@@ -200,6 +211,10 @@
 
     <def-attr n="a_cop">
       <attr-item tags="cop"/>
+    </def-attr>
+
+  <def-attr n="a_dub">
+      <attr-item tags="dub"/>
     </def-attr>
 
 <def-attr n="a_pos">
@@ -380,6 +395,37 @@
  	     <clip pos="1" side="tl" part="a_pass"/>
  	     <clip pos="1" side="tl" part="a_neg"/>
 	     <lit-tag v="prog"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: fut (bolmaqchimen → olacağım)">
+      <pattern>
+        <pattern-item n="fut"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="fut"/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	     <clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+             <lit-tag v="fut"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+ 	     <clip pos="1" side="tl" part="a_dub"/>
 	     <lit v="+i"/>
 	     <lit-tag v="cop.aor"/>
 	     <clip pos="1" side="tl" part="a_pers_nbr"/>
@@ -788,7 +834,6 @@
 	     <lit-tag v="ref"/>
 	     <clip pos="1" side="tl" part="a_pos"/>
 	     <clip pos="1" side="tl" part="a_cas"/>
-            
           </lu>
   </chunk>
         </out>
