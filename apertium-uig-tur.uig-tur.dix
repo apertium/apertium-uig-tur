@@ -3098,7 +3098,6 @@
        <e><p><l>دېموكرات<s n="n"/></l><r>demokrat<s n="n"/></r></p></e>
        <e><p><l>ۋاكالەت<s n="n"/></l><r>vekalet<s n="n"/></r></p></e>
        <e><p><l>تۇرمۇھەممەت<s n="np"/><s n="ant"/><s n="m"/></l><r>Turmuhammet<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-       <e><p><l>ۋىلايىتىت<s n="n"/></l><r>vilayet<s n="n"/></r></p></e>
        <e><p><l>چۆپ<s n="n"/></l><r>ot<s n="n"/></r></p></e>
        <e><p><l>ئانتروپوتومىيە<s n="n"/></l><r>insan<b/>vücut<s n="n"/></r></p></e>
        <e><p><l>ئامما<s n="n"/></l><r>kamu<s n="n"/></r></p></e>
@@ -4517,6 +4516,8 @@
        <e><p><l>ھايات<s n="n"/></l><r>hayat<s n="n"/></r></p></e>
        <e><p><l>باھا<s n="n"/></l><r>fiyat<s n="n"/></r></p></e>
        <e><p><l>ئەخمەت<s n="np"/><s n="ant"/><s n="m"/></l><r>Ahmet<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+  <e><p><l>گۇ<s n="np"/><s n="ant"/><s n="m"/></l><r>Gu<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+  <e><p><l>خالمۇرات<s n="np"/><s n="ant"/><s n="m"/></l><r>Halmurat<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>ھۆكۈمەت<s n="n"/></l><r>hükümet<s n="n"/></r></p></e>
        <e><p><l>خەۋپسىزلىك<s n="n"/></l><r>emniyet<s n="n"/></r></p></e>
        <e><p><l>چاغ<s n="n"/></l><r>vakit<s n="n"/></r></p></e>
@@ -4599,12 +4600,15 @@
        <e><p><l>كۈچە<s n="v"/><s n="tv"/></l><r>zorla<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>مۇستەھكەملە<s n="v"/><s n="tv"/></l><r>sabitle<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئۆزلەشتۈر<s n="v"/><s n="tv"/></l><r>benimse<s n="v"/><s n="tv"/></r></p></e>
+  <e><p><l>بۇل<s n="v"/><s n="tv"/></l><r>ol<s n="v"/><s n="tv"/></r></p></e>
+  <e><p><l>چۈشۈرۋال<s n="v"/><s n="tv"/></l><r>ol<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>سېتىۋال<s n="v"/><s n="tv"/></l><r>satın<b/>al<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئۆزلەشتۈر<s n="v"/><s n="tv"/></l><r>al<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئىتتىپاقلاشتۇر<s n="v"/><s n="tv"/></l><r>birleştir<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>داۋاملاشتۇر<s n="v"/><s n="tv"/></l><r>sürdür<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئالدۇر<s n="v"/><s n="tv"/></l><r>aldır<s n="v"/><s n="tv"/></r></p></e>
 
+       <e><p><l>قارلىق<s n="adj"/></l><r>karlı<s n="adj"/></r></p></e>
        <e><p><l>ئۆزگىچە<s n="adj"/></l><r>başka<s n="adj"/></r></p></e>
        <e><p><l>سوئال<s n="n"/></l><r>soru<s n="n"/></r></p></e>
        <e><p><l>دېگەندەك<s n="adj"/></l><r>eksiksiz<s n="adj"/></r></p></e>
@@ -4624,7 +4628,8 @@
        <e><p><l>شاڭخەي<s n="np"/><s n="top"/></l><r>Şangay<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ئاندىن<s n="adv"/></l><r>sonra<s n="adv"/></r></p></e>
        <e><p><l>بىللە<s n="adv"/></l><r>birlikte<s n="adv"/></r></p></e>
-       <e><p><l>ئەلۋەتتە<s n="adv"/></l><r>elbette<s n="adv"/></r></p></e>
+       <e><p><l>دەپمۇ<s n="adv"/></l><r>diyerek<s n="adv"/></r></p></e>
+   <e><p><l>ئەلۋەتتە<s n="adv"/></l><r>elbette<s n="adv"/></r></p></e>
        <e><p><l>ئەمدى<s n="adv"/></l><r>şimdi<s n="adv"/></r></p></e>
        <e><p><l>بەك<s n="adv"/></l><r>pek<s n="adv"/></r></p></e>
        <e><p><l>بەك<s n="adv"/></l><r>çok<s n="adv"/></r></p></e>
@@ -4681,7 +4686,9 @@
        <e><p><l>يىگىرمە<s n="num"/></l><r>yirmi<s n="num"/></r></p></e>
        <e><p><l>ناھىيە<s n="n"/></l><r>kasaba<s n="n"/></r></p></e>
        <e><p><l>فرانسۇزچە<s n="n"/></l><r>Fransızca<s n="n"/></r></p></e>
-       <e><p><l>كەيىن<s n="n"/></l><r>sonra<s n="n"/></r></p></e>
+ <e><p><l>سۇئاستى<s n="n"/></l><r>sualtı<s n="n"/></r></p></e>
+ <e><p><l>ئاكتىيور<s n="n"/></l><r>aktör<s n="n"/></r></p></e> 
+      <e><p><l>كەيىن<s n="n"/></l><r>sonra<s n="n"/></r></p></e>
        <e><p><l>سۇڭپىياز<s n="n"/></l><r>pırasa<s n="n"/></r></p></e>
        <e><p><l>خېمىرتۇرۇچ<s n="n"/></l><r>maya<s n="n"/></r></p></e>
        <e><p><l>بوۋاي<s n="n"/></l><r>dede<s n="n"/></r></p></e>
@@ -5408,7 +5415,6 @@
       <e><p><l>كاللەك<s n="n"/></l><r>kesek<s n="n"/></r></p></e>
       <e><p><l>بۆلەكلەر<s n="n"/></l><r>kesim<s n="n"/></r></p></e>
       <e><p><l>زاپچاس<s n="n"/></l><r>kesim<s n="n"/></r></p></e>
-      <e><p><l>ۋىلايەت<s n="n"/></l><r>kesim<s n="n"/></r></p></e>
       <e><p><l>كۆرسەتكۈچ<s n="n"/></l><r>kılavuz<s n="n"/></r></p></e>
       <e><p><l>شەمشەر<s n="n"/></l><r>kılıç<s n="n"/></r></p></e>
       <e><p><l>بەئەينى<s n="n"/></l><r>kılık<s n="n"/></r></p></e>
