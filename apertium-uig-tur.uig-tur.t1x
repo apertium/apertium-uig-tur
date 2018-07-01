@@ -226,6 +226,10 @@
       <attr-item tags="dub"/>
     </def-attr>
 
+<def-attr n="a_pl">
+      <attr-item tags="pl"/>
+    </def-attr>
+
 <def-attr n="a_pos">
       <attr-item tags="px1sg"/>
       <attr-item tags="px2sg"/>
@@ -461,6 +465,7 @@
  	     <clip pos="1" side="tl" part="a_pass"/>
  	     <clip pos="1" side="tl" part="a_neg"/>
 	     <lit-tag v="ger_pabs"/>
+	     <clip pos="1" side="tl" part="a_pl"/>
 	     <clip pos="1" side="tl" part="a_cas"/>
           </lu>
 	  </chunk>
@@ -489,6 +494,7 @@
         </out>
       </action>
     </rule>
+
     <rule comment="regla: gpr_rsub (bolghan → olan)">
         <pattern>
         <pattern-item n="gpr_rsub"/>
@@ -507,6 +513,7 @@
  	     <clip pos="1" side="tl" part="a_neg"/>
 	     <lit-tag v="gpr_rsub"/>
 	     <lit-tag v="subst"/>
+	     <clip pos="1" side="tl" part="a_pl"/>
 	     <clip pos="1" side="tl" part="a_cas"/>
           </lu>
 	  </chunk>

@@ -1788,6 +1788,7 @@
        <e><p><l>يوقلۇق<s n="n"/></l><r>yokluk<s n="n"/></r></p></e>
        <e><p><l>جاسۇسلۇق<s n="n"/></l><r>casusluk<s n="n"/></r></p></e>
        <e><p><l>نوبېل<s n="np"/><s n="al"/></l><r>Nobel<s n="np"/><s n="al"/></r></p></e>
+       <e><p><l>ئەتەبەتۇل<b/>ھەقايىق<s n="np"/><s n="al"/></l><r>Atabetül<b/>Hakayık<s n="np"/><s n="al"/></r></p></e>
        <e><p><l>شەكىل<s n="n"/></l><r>şekil<s n="n"/></r></p></e>
        <e><p><l>رەسىم<s n="n"/></l><r>resim<s n="n"/></r></p></e>
        <e><p><l>قوللاپ<s n="n"/></l><r>yardım<s n="n"/></r></p></e>
@@ -1950,6 +1951,7 @@
        <e><p><l>تاپشۇرغۇچى<s n="n"/></l><r>teslimci<s n="n"/></r></p></e>
        <e><p><l>ۋاندېرۋالىس<b/>رادىئوسى<s n="n"/></l><r>Van<b/>der<b/>Waals<b/>kuvveti<s n="n"/></r></p></e>
        <e><p><l>مىنگو<s n="np"/><s n="top"/></l><r>Çin<b/>Cumhuriyeti<s n="np"/><s n="top"/></r></p></e>
+     <e><p><l>قاراخانىيلار<s n="np"/><s n="top"/></l><r>Karahanlılar<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ماتېماتىك<s n="n"/></l><r>matematikçi<s n="n"/></r></p></e>
        <e><p><l>ئىسسىق<s n="n"/></l><r>sıcak<s n="n"/></r></p></e>
        <e><p><l>تەكشىلىك<s n="n"/></l><r>düzenlilik<s n="n"/></r></p></e>
@@ -2841,7 +2843,7 @@
        <e><p><l>تۇرق<s n="n"/></l><r>şekil<s n="n"/></r></p></e>
        <e><p><l>تەزىم<s n="n"/></l><r>selam<s n="n"/></r></p></e>
        <e><p><l>دەستە<s n="n"/></l><r>tutam<s n="n"/></r></p></e>
-       <e><p><l>دائىرس<s n="n"/></l><r>kurum<s n="n"/></r></p></e>
+       <e><p><l>دائىرە<s n="n"/></l><r>kurum<s n="n"/></r></p></e>
        <e><p><l>چاقماق<s n="n"/></l><r>yıldırım<s n="n"/></r></p></e>
        <e><p><l>تۈتۈن<s n="n"/></l><r>duman<s n="n"/></r></p></e>
        <e><p><l>تۇش<s n="n"/></l><r>yan<s n="n"/></r></p></e>
