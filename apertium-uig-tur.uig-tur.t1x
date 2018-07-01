@@ -80,6 +80,10 @@
       <cat-item tags="v.*.*.gpr_fut.*"/>
       <cat-item tags="vaux.gpr_fut.*"/>
       <cat-item tags="vaux.*.gpr_fut.*"/>
+      <cat-item tags="v.*.gpr_fut2.*"/>
+      <cat-item tags="v.*.*.gpr_fut2.*"/>
+      <cat-item tags="vaux.gpr_fut2.*"/>
+      <cat-item tags="vaux.*.gpr_fut2.*"/>
     </def-cat>
 
     <def-cat n="gna_neg">
@@ -211,6 +215,7 @@
       <attr-item tags="gpr_rsub3"/>
       <attr-item tags="gna_when2"/>
       <attr-item tags="gpr_fut"/>
+      <attr-item tags="gpr_fut2"/>
     </def-attr>
 
     <def-attr n="a_cop">
