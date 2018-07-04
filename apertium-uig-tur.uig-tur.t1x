@@ -68,6 +68,14 @@
       <cat-item tags="vaux.*.prog.*"/>
     </def-cat>
 
+    <def-cat n="prog2">
+    <cat-item tags="v.*.prog2.*"/>
+      <cat-item tags="v.*.*.prog2.*"/>
+      <cat-item tags="vaux.prog2.*"/>
+      <cat-item tags="vaux.*.prog2.*"/>
+    </def-cat>
+
+
     <def-cat n="ger_pabs">
       <cat-item tags="v.*.ger_pabs.*"/>
       <cat-item tags="v.*.*.ger_pabs.*"/>
@@ -203,6 +211,7 @@
     <def-attr n="a_tns">
       <attr-item tags="aor"/>
       <attr-item tags="prog"/>
+      <attr-item tags="prog2"/>
       <attr-item tags="aorp"/>
       <attr-item tags="ifi"/>
       <attr-item tags="fut"/>
@@ -410,6 +419,36 @@
 	     <lit-tag v="prog"/>
 	     <lit v="+i"/>
 	     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: prog2 (boluwatattı → oluyordu)">
+      <pattern>
+        <pattern-item n="prog2"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="prog"/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	     <clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="prog"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.ifi"/>
 	     <clip pos="1" side="tl" part="a_pers_nbr"/>
           </lu>
    	 </chunk>
