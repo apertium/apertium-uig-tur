@@ -194,6 +194,10 @@
 	<cat-item tags="v.*.*.past4.*"/>
 	<cat-item tags="vaux.*.past4.*"/>
 	<cat-item tags="vaux.past4.*"/>
+	<cat-item tags="v.*.past5.*"/>
+	<cat-item tags="v.*.*.past5.*"/>
+	<cat-item tags="vaux.*.past5.*"/>
+	<cat-item tags="vaux.past5.*"/>
     </def-cat>
 
  
@@ -232,6 +236,7 @@
       <attr-item tags="past2"/>
       <attr-item tags="past3"/>
       <attr-item tags="past4"/>
+      <attr-item tags="past5"/>
       <attr-item tags="gna_neg2"/>
       <attr-item tags="ger_past2"/>
       <attr-item tags="gpr_rsub"/>
@@ -701,7 +706,7 @@
       </action>
     </rule>
 
-<rule comment="regla: past4 (boptıken → olmuşmuş)">
+<rule comment="regla: past4 (boptıken/bolğaniken → olmuşmuş)">
       <pattern>
         <pattern-item n="past4"/>
       </pattern>
