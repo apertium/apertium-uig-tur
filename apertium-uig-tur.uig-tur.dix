@@ -105,9 +105,7 @@
       <e r="LR"><p><l>ئې<s n="cop"/></l><r> </r></p></e>
       <e r="LR"><p><l>ئىكەن<s n="cop"/><s n="dub"/></l><r> </r></p></e>
       <e r="LR"><p><l>ئەمەس<s n="cop"/><s n="neg"/></l><r> </r></p></e>
-      
-      <!-- needs a twol rule that deletes word-final [l] when inflected with -(u)ptu  -->
-      <e r="LR"><p><l>قا<s n="v"/><s n="iv"/></l><r> </r></p></e>
+     
        <e><p><l>ئى<s n="v"/><s n="iv"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e> <!-- ikenlikini = olduğunu -->
 
       <!-- SECTION: Conjunctions -->
@@ -324,8 +322,6 @@
        <e><p><l>دىيىشىگە<s n="adv"/></l><r>der<b/>demez<s n="adv"/></r></p></e>
        <e><p><l>قىينال<s n="v"/><s n="iv"/></l><r>acı<b/>çek<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ئاچ<s n="v"/><s n="iv"/></l><r>acık<s n="v"/><s n="iv"/></r></p></e>
-       <e><p><l>قا<s n="v"/><s n="iv"/></l><r>kal<s n="v"/><s n="iv"/></r></p></e>
-       <e><p><l>كە<s n="v"/><s n="iv"/></l><r>gel<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ھېرىپ<b/>كەت<s n="v"/><s n="iv"/></l><r>yorul<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ھېساپلان<s n="v"/><s n="iv"/></l><r>sayıl<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>چىدا<s n="v"/><s n="iv"/></l><r>dayan<s n="v"/><s n="iv"/></r></p></e>
@@ -428,7 +424,7 @@
        <e><p><l>رەخت<s n="n"/></l><r>kumaş<s n="n"/></r></p></e>
        <e><p><l>كېتىش<s n="n"/></l><r>gidiş<s n="n"/></r></p></e>
        <e><p><l>فېننىگ<s n="n"/></l><r>kuruş<s n="n"/></r></p></e>
-       <e><p><l>ھېچكىم<s n="prn"/><s n="pers"/></l><r>kimse<s n="prn"/><s n="pers"/></r></p></e>
+       <e><p><l>ھېچكىم<s n="prn"/><s n="qnt"/></l><r>kimse<s n="prn"/><s n="qnt"/></r></p></e>
        <e><p><l>بىرى<s n="prn"/><s n="misc"/></l><r>biri<s n="prn"/><s n="ind"/></r></p></e>
        <e><p><l>ھېچنېمە<s n="prn"/><s n="neg"/></l><r>hiçbir<b/>şey<s n="prn"/><s n="neg"/></r></p></e>
        <e><p><l>جىمجىت<s n="adv"/></l><r>usulca<s n="adv"/></r></p></e>
@@ -3635,7 +3631,6 @@
        <e><p><l>مەززە<s n="n"/></l><r>tat<s n="n"/></r></p></e>
        <e><p><l>ئىززەت<s n="n"/></l><r>izzet<s n="n"/></r></p></e>
        <e><p><l>يىيىش<s n="n"/></l><r>yiyiş<s n="n"/></r></p></e>
-       <e><p><l>ھىچبىر<s n="prn"/><s n="pers"/></l><r>hiçbir<s n="prn"/><s n="pers"/></r></p></e>
        <e><p><l>زاتىدىنلا<s n="adv"/></l><r>doğuştan<s n="adv"/></r></p></e>
        <e><p><l>زاتىدىنلا<s n="adv"/></l><r>kendiliğinden<s n="adv"/></r></p></e>
        <e><p><l>تۇنجۇق<s n="v"/><s n="iv"/></l><r>boğul<s n="v"/><s n="iv"/></r></p></e>
@@ -4084,6 +4079,7 @@
        <e><p><l>ئالاھىدە<s n="adj"/></l><r>özel<s n="adj"/></r></p></e>
        <e><p><l>يېقىن<s n="adj"/></l><r>yakın<s n="adj"/></r></p></e>
        <e><p><l>ئېغىر<s n="adj"/></l><r>ağır<s n="adj"/></r></p></e>
+       <e><p><l>بەزى<s n="det"/><s n="qnt" /></l><r>bazı<s n="det"/><s n="qnt" /></r></p></e>      
        <e><p><l>بەزى<s n="adj"/></l><r>bazı<s n="adj"/></r></p></e>
        <e><p><l>ئىگە<s n="n"/></l><r>sahip<s n="n"/></r></p></e>
        <e><p><l>دوكتور<s n="n"/></l><r>doktor<s n="n"/></r></p></e>
@@ -5119,7 +5115,6 @@
       <e><p><l>جانىۋار<s n="n"/></l><r>canavar<s n="n"/></r></p></e>
       <e><p><l>قوڭغۇراق<s n="n"/></l><r>çancı<s n="n"/></r></p></e>
       <e><p><l>دۇمباق<s n="n"/></l><r>çan<s n="n"/></r></p></e>
-      <e><p><l>قاش<s n="n"/></l><r>can<s n="n"/></r></p></e>
       <e><p><l>قوڭغۇراق<s n="n"/></l><r>çan<s n="n"/></r></p></e>
       <e><p><l>ھۇجۇم<s n="n"/></l><r>hücum<s n="n"/></r></p></e>
       <e><p><l>ئامال<s n="n"/></l><r>çare<s n="n"/></r></p></e>
@@ -5549,7 +5544,7 @@
       <e><p><l>كېپىل<s n="n"/></l><r>kefil<s n="n"/></r></p></e>
       <e><p><l>سۆز<s n="n"/></l><r>kelime<s n="n"/></r></p></e>
       <e><p><l>كاللەك<s n="n"/></l><r>kesek<s n="n"/></r></p></e>
-      <e><p><l>بۆلەكلەر<s n="n"/></l><r>kesim<s n="n"/></r></p></e>
+      <e><p><l>بۆلەك<s n="n"/></l><r>kesim<s n="n"/></r></p></e>
       <e><p><l>زاپچاس<s n="n"/></l><r>kesim<s n="n"/></r></p></e>
       <e><p><l>كۆرسەتكۈچ<s n="n"/></l><r>kılavuz<s n="n"/></r></p></e>
       <e><p><l>شەمشەر<s n="n"/></l><r>kılıç<s n="n"/></r></p></e>
@@ -5562,7 +5557,7 @@
       <e><p><l>قىمىز<s n="n"/></l><r>kımız<s n="n"/></r></p></e>
       <e><p><l>راي<s n="n"/></l><r>kip<s n="n"/></r></p></e>
       <e><p><l>كىرپىك<s n="n"/></l><r>kirpik<s n="n"/></r></p></e>
-      <e><p><l>بۆلەكلەر<s n="n"/></l><r>kısım<s n="n"/></r></p></e>
+      <e><p><l>بۆلەك<s n="n"/></l><r>kısım<s n="n"/></r></p></e>
       <e><p><l>زاپچاس<s n="n"/></l><r>kısım<s n="n"/></r></p></e>
       <e><p><l>ئۈلۈش<s n="n"/></l><r>kısım<s n="n"/></r></p></e>
       <e><p><l>تەقسىر<s n="n"/></l><r>kişi<s n="n"/></r></p></e>
