@@ -34,7 +34,9 @@
     <sdef n="pers"            c="Personal pronoun"/>
     <sdef n="ref"             c="Reflexive pronoun"/>
     <sdef n="res"             c="Reciprocal pronoun"/>
-
+    <sdef n="misc"            c="misc. pronoun for uig.lexc"/>
+    <sdef n="recip"           c="recip. pronoun for tur.lexc"/>
+    
     <sdef n="det"             c="Determiner"/>
     <sdef n="pos"             c="Possessive"/>
 
@@ -44,7 +46,8 @@
 
     <sdef n="px3sp"           c="3rd p. possessive"/>
     <sdef n="px3sg"           c="3rd p. singular possessive"/>
-
+    <sdef n="px3pl"           c="3rd pl. possessive"/>
+   
     <sdef n="f"               c="Feminine"/>
     <sdef n="m"               c="Masculine"/>
     <sdef n="mf"              c=""/>
@@ -313,7 +316,7 @@
        <e><p><l>قېرى<s n="n"/></l><r>yaşlı<s n="n"/></r></p></e>
        <e><p><l>بۇرادەر<s n="n"/></l><r>kardeş<s n="n"/></r></p></e>
        <e><p><l>ئالقىش<s n="n"/></l><r>alkış<s n="n"/></r></p></e>
-       <e><p><l>ھىچكىم<s n="prn"/><s n="pers"/></l><r>kimse<s n="prn"/><s n="pers"/></r></p></e>
+       <e><p><l>ھىچكىم<s n="prn"/><s n="qnt"/></l><r>kimse<s n="prn"/><s n="qnt"/></r></p></e>
        <e><p><l>ئىككىلىسى<s n="prn"/><s n="pers"/></l><r>ikisi<s n="prn"/><s n="pers"/></r></p></e>
        <e><p><l>ھەممەيلەن<s n="prn"/><s n="qnt"/></l><r>herkes<s n="prn"/><s n="qnt"/></r></p></e>
        <e><p><l>ھەممەيلەن<s n="adv"/></l><r>hep<b/>beraber<s n="adv"/><s n="qnt"/></r></p></e>
@@ -426,7 +429,7 @@
        <e><p><l>كېتىش<s n="n"/></l><r>gidiş<s n="n"/></r></p></e>
        <e><p><l>فېننىگ<s n="n"/></l><r>kuruş<s n="n"/></r></p></e>
        <e><p><l>ھېچكىم<s n="prn"/><s n="pers"/></l><r>kimse<s n="prn"/><s n="pers"/></r></p></e>
-       <e><p><l>بىرى<s n="prn"/><s n="pers"/></l><r>biri<s n="prn"/><s n="pers"/></r></p></e>
+       <e><p><l>بىرى<s n="prn"/><s n="misc"/></l><r>biri<s n="prn"/><s n="ind"/></r></p></e>
        <e><p><l>ھېچنېمە<s n="prn"/><s n="neg"/></l><r>hiçbir<b/>şey<s n="prn"/><s n="neg"/></r></p></e>
        <e><p><l>جىمجىت<s n="adv"/></l><r>usulca<s n="adv"/></r></p></e>
        <e><p><l>زادىلا<s n="adv"/></l><r>asla<s n="adv"/></r></p></e>
@@ -1112,7 +1115,7 @@
        <e><p><l>نورماندى<s n="np"/><s n="top"/></l><r>Normandy<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>قىزىلتاغ<s n="np"/><s n="top"/></l><r>Kızıldağ<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>نېمى<s n="prn"/><s n="pers"/></l><r>ne<s n="prn"/><s n="pers"/></r></p></e>
-       <e><p><l>نەگە<s n="prn"/><s n="pers"/></l><r>ne<s n="prn"/><s n="pers"/></r></p></e>
+       <e><p><l>نەگە<s n="prn"/><s n="itg"/></l><r>ne<s n="adv"/><s n="itg"/></r></p></e>
        <e><p><l>مەڭ<s n="prn"/><s n="pers"/></l><r>ben<s n="prn"/><s n="pers"/></r></p></e>
        <e><p><l>ناھايتى<s n="adv"/></l><r>en<b/>fazla<s n="adv"/></r></p></e>
        <e><p><l>ناھايتى<s n="adv"/></l><r>olsa<b/>olsa<s n="adv"/></r></p></e>
@@ -1264,7 +1267,7 @@
        <e><p><l>قىبرىس<s n="np"/><s n="top"/></l><r>Kıbrıs<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ئانادولۇ<s n="np"/><s n="top"/></l><r>Anadolu<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>مۇنبىچ<s n="np"/><s n="top"/></l><r>Münbiç<s n="np"/><s n="top"/></r></p></e>
-       <e><p><l>بىرسى<s n="prn"/><s n="pers"/></l><r>birisi<s n="prn"/><s n="pers"/></r></p></e>
+       <e><p><l>بىرسى<s n="prn"/><s n="pers"/></l><r>birisi<s n="prn"/><s n="ind"/><s n="px3sp" /></r></p></e>
        <e><p><l>توغرۇلۇق<s n="post"/></l><r>hakkında<s n="post"/></r></p></e>
        <e><p><l>بىلەن<s n="post"/></l><r>ile<s n="post"/></r></p></e>
        <e><p><l>توغرۇلۇق<s n="post"/></l><r>için<s n="post"/></r></p></e>
@@ -2668,7 +2671,7 @@
        <e><p><l>سادا<s n="n"/></l><r>yankı<s n="n"/></r></p></e>
        <e><p><l>ئۇرۇش<s n="n"/></l><r>savaş<s n="n"/></r></p></e>
        <e><p><l>ھېرىپ<s n="n"/></l><r>savaş<s n="n"/></r></p></e>
-       <e><p><l>ئىككىيلەن<s n="prn"/><s n="pers"/></l><r>ikisi<s n="prn"/><s n="pers"/></r></p></e>
+       <e><p><l>ئىككىيلەن<s n="prn"/><s n="pers"/></l><r>iki<s n="num"/><s n="px3sg"/></r></p></e>
        <e><p><l>ئىتتىك<s n="adv"/></l><r>hızlıca<s n="adv"/></r></p></e>
        <e><p><l>ئەجەپ<s n="adv"/></l><r>iyi<s n="adv"/></r></p></e>
        <e><p><l>ئەجەپ<s n="adv"/></l><r>çok<s n="adv"/></r></p></e>
@@ -2746,8 +2749,8 @@
        <e><p><l>بېقىش<s n="n"/></l><r>bakış<s n="n"/></r></p></e>
        <e><p><l>پەم<s n="n"/></l><r>anlayış<s n="n"/></r></p></e>
        <e><p><l>بالاساغۇن<s n="np"/><s n="top"/></l><r>Balasagun<s n="np"/><s n="top"/></r></p></e>
-       <e><p><l>بىرەيلەن<s n="prn"/><s n="pers"/></l><r>birileri<s n="prn"/><s n="pers"/></r></p></e>
-       <e><p><l>بىربىر<s n="prn"/><s n="pers"/></l><r>birbir<s n="prn"/><s n="pers"/></r></p></e>
+       <e r="LR"><p><l>بىرەيلەن<s n="prn"/><s n="misc"/></l><r>biri<s n="prn"/><s n="ind"/><s n="px3pl"/><s n="nom"  /></r></p></e>
+       <e><p><l>بىربىرى<s n="prn"/><s n="misc"/></l><r>birbiri<s n="prn"/><s n="recip"/></r></p></e>
        <e><p><l>تۇرۇقلۇق<s n="post"/></l><r>rağmen<s n="post"/></r></p></e>
        <e><p><l>پاللىدا<s n="adv"/></l><r>bir<b/>anda<s n="adv"/></r></p></e>
        <e><p><l>ھاسىراپ<s n="adv"/></l><r>zorla<s n="adv"/></r></p></e>
@@ -3924,7 +3927,7 @@
        <e><p><l>قىسقۇچپاقا<s n="n"/></l><r>yengeç<s n="n"/></r></p></e>
        <e><p><l>يالغانچى<s n="n"/></l><r>yalancı<s n="n"/></r></p></e>
        <e><p><l>مۈشۈكياپىلاق<s n="n"/></l><r>baykuş<s n="n"/></r></p></e>
-       <e><p><l>ئىككىلى<s n="prn"/><s n="pers"/></l><r>iki<s n="num"/></r></p></e>
+       <e><p><l>ئىككىلى<s n="prn"/><s n="qnt"/></l><r>iki<s n="num"/></r></p></e>
        <e><p><l>ھىچبىر<s n="det"/><s n="qnt"/></l><r>hiçbir<s n="det"/><s n="qnt"/></r></p></e>
        <e><p><l>نىمانچە<s n="adv"/></l><r>niye<s n="adv"/></r></p></e>
        <e><p><l>نېمانچە<s n="adv"/></l><r>niye<s n="adv"/></r></p></e>
@@ -6255,7 +6258,7 @@
        <e><p><l>كۈلۈمسىرەش<s n="n"/></l><r>gülümseyiş<s n="n"/></r></p></e>
        <e><p><l>قۇش<s n="n"/></l><r>kuş<s n="n"/></r></p></e>
        <e><p><l>كۈلكە<s n="n"/></l><r>gülüş<s n="n"/></r></p></e>
-       <e><p><l>ئۇياق<s n="prn"/><s n="pers"/></l><r>o<b/>taraf<s n="prn"/><s n="pers"/></r></p></e>
+       <e><p><l>ئۇياق<s n="prn"/><s n="adv"/></l><r>o<b/>taraf<s n="prn"/><s n="adv"/></r></p></e>
        <e><p><l>ھېچنەرسە<s n="prn"/><s n="neg"/></l><r>hiçbir<b/>şey<s n="prn"/><s n="neg"/></r></p></e>
        <e><p><l>ئالدىراش<s n="adv"/></l><r>acele<s n="adv"/></r></p></e>
        <e><p><l>تۇرۇپلا<s n="adv"/></l><r>durup<s n="adv"/></r></p></e>
