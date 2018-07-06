@@ -189,6 +189,13 @@
 	<cat-item tags="vaux.past3.*"/>
     </def-cat>
 
+<def-cat n="past4">
+	<cat-item tags="v.*.past4.*"/>
+	<cat-item tags="v.*.*.past4.*"/>
+	<cat-item tags="vaux.*.past4.*"/>
+	<cat-item tags="vaux.past4.*"/>
+    </def-cat>
+
  
 
     <def-cat n="vaux">
@@ -224,6 +231,7 @@
       <attr-item tags="past"/>
       <attr-item tags="past2"/>
       <attr-item tags="past3"/>
+      <attr-item tags="past4"/>
       <attr-item tags="gna_neg2"/>
       <attr-item tags="ger_past2"/>
       <attr-item tags="gpr_rsub"/>
@@ -663,7 +671,7 @@
       </action>
     </rule>
 
-<rule comment="regla: past2 (kétiptu/ketkenidi → gitmişti)">
+<rule comment="regla: past2-3 (kétiptu/ketkenidi → gitmişti)">
       <pattern>
         <pattern-item n="past2"/>
       </pattern>
@@ -692,6 +700,39 @@
         </out>
       </action>
     </rule>
+
+<rule comment="regla: past4 (boptıken → olmuşmuş)">
+      <pattern>
+        <pattern-item n="past4"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="past"/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+		<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="past"/>
+	     <lit-tag v="dub"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 
 
 <rule comment="regla: aor perf (bolatti → olurdu)">

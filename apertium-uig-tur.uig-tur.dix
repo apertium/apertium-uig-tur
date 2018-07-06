@@ -125,6 +125,7 @@
       	<e><p><l>ئۇ<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e>
      	<e><p><l>نە<s n="adv"/><s n="itg"/></l><r>ne<s n="adv"/><s n="itg"/></r></p></e>
 	<e><p><l>نېمە<s n="adv"/><s n="itg"/></l><r>ne<s n="adv"/><s n="itg"/></r></p></e>
+<e><p><l>نىمە<s n="adv"/><s n="itg"/></l><r>ne<s n="adv"/><s n="itg"/></r></p></e>
 	<e><p><l>قانداق<s n="adv"/><s n="itg"/></l><r>nasıl<s n="adv"/><s n="itg"/></r></p></e>
 	<e><p><l>كىم<s n="prn"/><s n="itg"/></l><r>kim<s n="prn"/><s n="itg"/></r></p></e>
 	<e><p><l>قەيەر<s n="prn"/><s n="itg"/></l><r>nere<s n="prn"/><s n="itg"/></r></p></e>
@@ -4864,7 +4865,6 @@
        <e><p><l>روسىيە<s n="np"/><s n="top"/></l><r>Rusya<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>جۇڭگۇ<s n="np"/><s n="top"/></l><r>Çin<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>پارىژ<s n="np"/><s n="top"/></l><r>Paris<s n="np"/><s n="top"/></r></p></e>
-       <e><p><l>نىمە<s n="prn"/><s n="pers"/></l><r>ne<s n="prn"/><s n="pers"/></r></p></e>
        <e><p><l>كەيىن<s n="adv"/></l><r>sonra<s n="adv"/></r></p></e>
        <e><p><l>پەش<s n="adv"/></l><r>gizlice<s n="adv"/></r></p></e>
        <e><p><l>ئومۇمەن<s n="adv"/></l><r>genellikle<s n="adv"/></r></p></e>
