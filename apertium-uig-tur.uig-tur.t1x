@@ -961,6 +961,7 @@
              <clip pos="1" side="tl" part="lem"/>
 	     <lit-tag v="prn"/>
 	     <lit-tag v="ref"/>
+	     <clip pos="1" side="tl" part="a_pl"/>
 	     <clip pos="1" side="tl" part="a_pos"/>
 	     <clip pos="1" side="tl" part="a_cas"/>
           </lu>
