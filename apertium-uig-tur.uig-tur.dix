@@ -426,7 +426,7 @@
        <e><p><l>فېننىگ<s n="n"/></l><r>kuruş<s n="n"/></r></p></e>
        <e><p><l>ھېچكىم<s n="prn"/><s n="pers"/></l><r>kimse<s n="prn"/><s n="pers"/></r></p></e>
        <e><p><l>بىرى<s n="prn"/><s n="pers"/></l><r>biri<s n="prn"/><s n="pers"/></r></p></e>
-       <e><p><l>ھېچنېمە<s n="prn"/><s n="pers"/></l><r>hiçbir<b/>şey<s n="prn"/><s n="pers"/></r></p></e>
+       <e><p><l>ھېچنېمە<s n="prn"/><s n="neg"/></l><r>hiçbir<b/>şey<s n="prn"/><s n="neg"/></r></p></e>
        <e><p><l>جىمجىت<s n="adv"/></l><r>usulca<s n="adv"/></r></p></e>
        <e><p><l>زادىلا<s n="adv"/></l><r>asla<s n="adv"/></r></p></e>
        <e><p><l>نېمىدېگەن<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
@@ -873,7 +873,7 @@
        <e><p><l>ئۇيۇش<s n="v"/><s n="iv"/></l><r>örgütlen<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>دۇچ<b/>بول<s n="v"/><s n="iv"/></l><r>karşılaş<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>دۇچ<b/>كەل<s n="v"/><s n="iv"/></l><r>karşılaş<s n="v"/><s n="iv"/></r></p></e>
-     <e><p><l>دۇچ<b/>كەلگەنلىك<s n="n"/></l><r>karşılaşma<s n="n"/></r></p></e>
+       <e><p><l>دۇچ<b/>قىل<s n="v"/><s n="iv"/></l><r>karşılaştır<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ئۇيۇش<s n="v"/><s n="iv"/></l><r>birleş<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>تۈگەت<s n="v"/><s n="tv"/></l><r>tamamla<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>لايىھەلە<s n="v"/><s n="tv"/></l><r>planla<s n="v"/><s n="tv"/></r></p></e>
@@ -2876,7 +2876,7 @@
        <e><p><l>چۈش<s n="n"/></l><r>düş<s n="n"/></r></p></e>
        <e><p><l>چاۋاك<s n="n"/></l><r>alkış<s n="n"/></r></p></e>
        <e><p><l>تاسما<s n="n"/></l><r>kayış<s n="n"/></r></p></e>
-       <e><p><l>ھېچنىمە<s n="prn"/><s n="pers"/></l><r>hiçbir<b/>şey<s n="prn"/><s n="pers"/></r></p></e>
+       <e><p><l>ھېچنىمە<s n="prn"/><s n="neg"/></l><r>hiçbir<b/>şey<s n="prn"/><s n="neg"/></r></p></e>
        <e><p><l>ھېچقانچە<s n="prn"/><s n="qnt"/></l><r>hiç<s n="prn"/><s n="qnt"/></r></p></e>
 
        <e><p><l>تېزلا<s n="adv"/></l><r>çabucak<s n="adv"/></r></p></e>
@@ -6256,7 +6256,7 @@
        <e><p><l>قۇش<s n="n"/></l><r>kuş<s n="n"/></r></p></e>
        <e><p><l>كۈلكە<s n="n"/></l><r>gülüş<s n="n"/></r></p></e>
        <e><p><l>ئۇياق<s n="prn"/><s n="pers"/></l><r>o<b/>taraf<s n="prn"/><s n="pers"/></r></p></e>
-       <e><p><l>ھېچنەرسە<s n="prn"/><s n="pers"/></l><r>hiçbir<b/>şey<s n="prn"/><s n="pers"/></r></p></e>
+       <e><p><l>ھېچنەرسە<s n="prn"/><s n="neg"/></l><r>hiçbir<b/>şey<s n="prn"/><s n="neg"/></r></p></e>
        <e><p><l>ئالدىراش<s n="adv"/></l><r>acele<s n="adv"/></r></p></e>
        <e><p><l>تۇرۇپلا<s n="adv"/></l><r>durup<s n="adv"/></r></p></e>
        <e><p><l>كۈلۈمسىرە<s n="v"/><s n="iv"/></l><r>gülümse<s n="v"/><s n="iv"/></r></p></e>

@@ -183,7 +183,13 @@
 	<cat-item tags="v.*.*.past2.*"/>
 	<cat-item tags="vaux.*.past2.*"/>
 	<cat-item tags="vaux.past2.*"/>
+	<cat-item tags="v.*.past3*"/>
+	<cat-item tags="v.*.*.past3.*"/>
+	<cat-item tags="vaux.*.past3.*"/>
+	<cat-item tags="vaux.past3.*"/>
     </def-cat>
+
+ 
 
     <def-cat n="vaux">
 	<cat-item tags="vaux.*"/>
@@ -217,6 +223,7 @@
       <attr-item tags="fut"/>
       <attr-item tags="past"/>
       <attr-item tags="past2"/>
+      <attr-item tags="past3"/>
       <attr-item tags="gna_neg2"/>
       <attr-item tags="ger_past2"/>
       <attr-item tags="gpr_rsub"/>
@@ -656,7 +663,7 @@
       </action>
     </rule>
 
-<rule comment="regla: past2 (kétiptu → gitmiş)">
+<rule comment="regla: past2 (kétiptu/ketkenidi → gitmişti)">
       <pattern>
         <pattern-item n="past2"/>
       </pattern>
