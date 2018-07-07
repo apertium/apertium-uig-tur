@@ -21,6 +21,19 @@
       <cat-item tags="n.dur"/>
     </def-cat>
 
+    <def-cat n="adjdub">
+      <cat-item tags="adj.*.dub.*"/>
+      <cat-item tags="adj.dub.*"/>
+      <cat-item tags="adj.dub"/>
+    </def-cat>
+
+    <def-cat n="ndub">
+      <cat-item tags="n.*.dub.*"/>
+      <cat-item tags="n.dub.*"/>
+      <cat-item tags="n.dub"/>
+    </def-cat>
+
+
     <def-cat n="cop-neg">
       <cat-item tags="cop.neg.*"/>
     </def-cat>
@@ -941,6 +954,51 @@
              <lit-tag v="n"/>
 	     <clip pos="1" side="tl" part="a_cas"/>
 	     <lit-tag v="dur"/>
+          </lu>
+	  </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: dub (atken → atmış)">
+      <pattern>
+        <pattern-item n="ndub"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+		<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="n"/>
+             <clip pos="1" side="tl" part="a_cas"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.dub.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: dub (yoqken → yokmuş)">
+        <pattern>
+        <pattern-item n="adjdub"/>
+      </pattern>
+      <action>
+           <out>
+        <chunk name="a" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SA"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="adj"/>
+	      <lit v="+i"/>
+	     <lit-tag v="cop.dub.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
           </lu>
 	  </chunk>
         </out>
