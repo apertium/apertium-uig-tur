@@ -33,6 +33,18 @@
       <cat-item tags="n.dub"/>
     </def-cat>
 
+<def-cat n="adjmu">
+      <cat-item tags="adj.*.postadv.*"/>
+      <cat-item tags="adj.postadv.*"/>
+      <cat-item tags="adj.postadv"/>
+    </def-cat>
+
+    <def-cat n="nmu">
+      <cat-item tags="n.*.postadv.*"/>
+      <cat-item tags="n.postadv.*"/>
+      <cat-item tags="n.postadv"/>
+    </def-cat>
+
 
     <def-cat n="cop-neg">
       <cat-item tags="cop.neg.*"/>
@@ -270,6 +282,10 @@
 
 <def-attr n="a_pl">
       <attr-item tags="pl"/>
+    </def-attr>
+
+<def-attr n="a_mu">
+      <attr-item tags="postadv"/>
     </def-attr>
 
 <def-attr n="a_pos">
@@ -910,6 +926,61 @@
 		<lit v="kadar"/>
 		<lit-tag v="post"/>
 	</lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+<rule comment="REGLA: -mu (barmu -> var da)">
+      <pattern>
+        <pattern-item n="adjmu"/>
+      </pattern>
+      <action>
+ <let>
+          <clip pos="1" side="tl" part="a_mu"/>
+<lit-tag v=""/>
+        </let>
+        <out>
+          <chunk name="a" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SA"/></tag> 
+            </tags>
+		<lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+<b/>
+	<lu>
+		<lit v="da"/>
+		<lit-tag v="postadv"/>
+	</lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: -mu (barmu -> var da)">
+      <pattern>
+        <pattern-item n="nmu"/>
+      </pattern>
+      <action>
+ <let>
+          <clip pos="1" side="tl" part="a_mu"/>
+<lit-tag v=""/>
+        </let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag> 
+            </tags>
+		<lu>
+                <clip pos="1" side="tl" part="whole"/>
+                </lu>
+	        <b/>
+	        <lu>
+		<lit v="da"/>
+		<lit-tag v="postadv"/>
+	        </lu>
           </chunk>
         </out>
       </action>

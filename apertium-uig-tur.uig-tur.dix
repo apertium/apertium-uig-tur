@@ -21,9 +21,10 @@
     <sdef n="prn"             c="Pronoun"/>
     <sdef n="tv"              c=""/>
     <sdef n="iv"              c=""/>
-    <sdef n="imp"              c=""/>
-    <sdef n="fut"              c=""/>
-    <sdef n="post"               c="Postposition"/>
+    <sdef n="imp"             c=""/>
+    <sdef n="fut"             c=""/>
+    <sdef n="post"            c="Postposition"/>
+    <sdef n="postadv"         c="Postadverbial"/>
     <sdef n="attr"            c="Attributive"/>
     <sdef n="top"             c="Toponym"/>
     <sdef n="ant"             c="Anthroponym"/>
@@ -113,7 +114,7 @@
       <e><p><l>ئەمما<s n="cnjcoo"/></l><r>ama<s n="cnjcoo"/></r></p></e>
       <e><p><l>ياكى<s n="cnjcoo"/></l><r>veya<s n="cnjcoo"/></r></p></e>
       <!-- SECTION: Postpositions -->
-
+      <e><p><l>مۇ<s n="postadv"/></l><r>da<s n="postadv"/></r></p></e>
        <e><p><l>ئارتۇق<s n="post"/></l><r>fazla<s n="post"/></r></p></e>
        <e><p><l>قاتارلىق<s n="post"/></l><r>gibi<s n="post"/></r></p></e>
        <e><p><l>بېرى<s n="post"/></l><r>beri<s n="post"/></r></p></e>
