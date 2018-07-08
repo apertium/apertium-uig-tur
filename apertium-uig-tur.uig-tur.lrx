@@ -10,6 +10,63 @@
     </match>
   </rule>
 
+<rule>
+    <match lemma="خاس" tags="adj">
+      <select lemma="özel" tags="adj"/>
+    </match>
+  </rule>
+
+<rule>
+    <match lemma="ئومۇمىي" tags="adj">
+      <select lemma="umumî" tags="adj"/>
+    </match>
+  </rule>
+
+<rule>
+    <match lemma="ھەقلىق" tags="adj">
+      <select lemma="layık" tags="adj"/>
+    </match>
+  </rule>
+
+<rule>
+    <match tags="prn.*"/>
+    <match lemma="تايان" tags="v.*">
+      <select lemma="güven" tags="v.*"/>
+    </match>
+  </rule>
+
+<rule>
+    <match lemma="قىل" tags="v.*">
+      <select lemma="et" tags="v.*"/>
+    </match>
+  </rule>
+
+<rule>
+    <match tags="n.acc.*"/>
+    <match lemma="قىل" tags="v.*">
+      <select lemma="yap" tags="v.*"/>
+    </match>
+  </rule>
+
+<rule>
+<or>
+<match lemma="غالىب"/>
+<match lemma="ئۈممەت"/>
+<match lemma="بەرىكەتلىك"/>
+</or>
+    <match lemma="قىل" tags="v.*">
+      <select lemma="kıl" tags="v.*"/>
+    </match>
+  </rule>
+
+<rule>
+    <match lemma="ئاتا" tags="n.*">
+      <select lemma="armağan" tags="n.*"/>
+    </match>
+    <match lemma="قىل"/>
+  </rule>
+
+
   <rule>
     <match tags="np.top.*"/>
     <match lemma="رەئىس" tags="n.*">
@@ -17,10 +74,23 @@
     </match>
   </rule>
 
+<rule>
+    <match lemma="ھەممە" tags="adj">
+      <select lemma="her" tags="adj"/>
+    </match>
+    <match tags="sg"/>
+  </rule>
+
  <rule>
     <match lemma="ھەر"/>
     <match lemma="خىل" tags="adj.*">
       <select lemma="türlü" tags="adj.*"/>
+    </match>
+  </rule>
+
+<rule>
+    <match lemma="بەھرىمەن قىلغۇچى" tags="adj">
+      <select lemma="yararlandıran" tags="adj"/>
     </match>
   </rule>
 
@@ -103,6 +173,14 @@
   </rule>
 
 <rule>
+    <match lemma="قىلىنىش"/>
+    <match lemma="سورا" tags="v.*">
+      <select lemma="iste" tags="v.*"/>
+    </match>
+  </rule>
+
+
+<rule>
     <match lemma="زور" tags="adj">
       <select lemma="büyük" tags="adj"/>
     </match>
@@ -112,6 +190,24 @@
 <rule>
     <match lemma="پائالىيەت" tags="n.*">
       <select lemma="etkinlik" tags="n.*"/>
+    </match>
+  </rule>
+
+<rule>
+    <match lemma="ئالقىش" tags="n.*">
+      <select lemma="övgü" tags="n.*"/>
+    </match>
+  </rule>
+
+<rule>
+    <match lemma="ھەممى" tags="prn.qnt.dat">
+      <select lemma="her şey" tags="prn.qnt.dat"/>
+    </match>
+  </rule>
+
+<rule>
+    <match lemma="ھەممە" tags="prn.qnt.dat">
+      <select lemma="her şey" tags="prn.qnt.dat"/>
     </match>
   </rule>
 
@@ -134,11 +230,23 @@
   </rule>
 
 <rule>
-    <match tags="n.nom.*"/>
-    <match lemma="قىل" tags="v.*">
-      <select lemma="et" tags="v.*"/>
+    <match lemma="ئاسمان-زېمىن" tags="n.*">
+      <select lemma="dünya" tags="n.*"/>
     </match>
   </rule>
+
+<rule>
+    <match lemma="ھەمدۇ-سانا" tags="n.*">
+      <select lemma="hamd ü sena" tags="n.*"/>
+    </match>
+  </rule>
+
+<rule>
+    <match lemma="ھېساب ئال" tags="v.*">
+      <select lemma="hesap sor" tags="v.*"/>
+    </match>
+  </rule>
+
 
 <rule>
     <match tags="n.nom.*"/>
@@ -154,12 +262,7 @@
     </match>
   </rule>
 
-<rule>
-    <match tags="n.acc.*"/>
-    <match lemma="قىل" tags="v.*">
-      <select lemma="yap" tags="v.*"/>
-    </match>
-  </rule>
+
 
 <rule>
     <match lemma="ئۆتكۈزۈل" tags="v.*">
@@ -177,6 +280,12 @@
 <rule>
     <match lemma="كىشىلىك" tags="n.*">
       <select lemma="kişilik" tags="n.*"/>
+    </match>
+  </rule>
+
+<rule>
+    <match lemma="ئادا-جۇدا" tags="adj.*">
+      <select lemma="uzak" tags="adj.*"/>
     </match>
   </rule>
 
@@ -203,6 +312,16 @@
       <select lemma="ol" tags="cop.*"/>
     </match>
   </rule>
+
+<rule>
+    <match lemma="ئۆز" tags="prn.ref.nom">
+      <select lemma="kendi" tags="det.ref"/>
+    </match>
+  </rule>
+
+
+
+
 
 
 </rules>
