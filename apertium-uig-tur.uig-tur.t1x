@@ -380,6 +380,7 @@
           <lu>
              <clip pos="1" side="tl" part="lem"/>
 	     <lit-tag v="n"/>
+	     <clip pos="1" side="tl" part="a_pl"/>
 	     <clip pos="1" side="tl" part="a_pos"/>
 	     <clip pos="1" side="tl" part="a_cas"/>
 	     <lit v="+i"/>
