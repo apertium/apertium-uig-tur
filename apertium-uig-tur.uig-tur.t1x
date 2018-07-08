@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
   <section-def-cats>
-    <def-cat n="nom">
+
+    <def-cat n="noun">
       <cat-item tags="n.*"/>
     </def-cat>
+
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -363,6 +365,31 @@
       </action>
     </rule>
 
+<rule comment="regla: nouns (almamen → elmayım)">
+      <pattern>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag>
+	<lit-tag v="SN"/>
+		</tag>
+            </tags>
+          <lu>
+             <clip pos="1" side="tl" part="lem"/>
+	     <lit-tag v="n"/>
+	     <clip pos="1" side="tl" part="a_pos"/>
+	     <clip pos="1" side="tl" part="a_cas"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
 
 <rule comment="regla: i-di (idi → idi)">
       <pattern>
@@ -1090,7 +1117,6 @@
              <clip pos="1" side="tl" part="lem"/>
 	     <lit-tag v="prn"/>
 	     <lit-tag v="ref"/>
-	     <clip pos="1" side="tl" part="a_pl"/>
 	     <clip pos="1" side="tl" part="a_pos"/>
 	     <clip pos="1" side="tl" part="a_cas"/>
           </lu>
