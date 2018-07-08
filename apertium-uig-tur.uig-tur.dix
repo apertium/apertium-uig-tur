@@ -4819,7 +4819,7 @@
        <e><p><l>پەتىۋا<s n="n"/></l><r>fetva<s n="n"/></r></p></e>
        <e><p><l>كود<s n="n"/></l><r>kod<s n="n"/></r></p></e>
        <e><p><l>ئېنگلىزچە<s n="n"/></l><r>İngilizce<s n="n"/></r></p></e>
-       <e><p><l>گۇگول<s n="n"/></l><r>Google<s n="n"/></r></p></e>
+       <e><p><l>گۇگول<s n="np"/><s n="org"/></l><r>Google<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>بىلىك<s n="n"/></l><r>bilig<s n="n"/></r></p></e>
        <e><p><l>بلوگ<s n="n"/></l><r>blog<s n="n"/></r></p></e>
        <e><p><l>مونولوگ<s n="n"/></l><r>monolog<s n="n"/></r></p></e>
