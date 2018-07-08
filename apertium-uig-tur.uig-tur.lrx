@@ -173,7 +173,7 @@
   </rule>
 
 <rule>
-    <match lemma="قىلىنىش"/>
+    <match lemma="قىل"/>
     <match lemma="سورا" tags="v.*">
       <select lemma="iste" tags="v.*"/>
     </match>
@@ -242,6 +242,12 @@
   </rule>
 
 <rule>
+    <match lemma="مېھرىبان-سانا" tags="adj">
+      <select lemma="mihriban" tags="adj"/>
+    </match>
+  </rule>
+
+<rule>
     <match lemma="ھېساب ئال" tags="v.*">
       <select lemma="hesap sor" tags="v.*"/>
     </match>
@@ -294,6 +300,13 @@
       <select lemma="bin" tags="num.*"/>
     </match>
   </rule>
+
+<rule>
+    <match lemma="باشقا" tags="adj">
+      <select lemma="başka" tags="adj"/>
+    </match>
+  </rule>
+
 
 <rule>
     <match lemma="ھەممىسى" tags="prn.qnt">
