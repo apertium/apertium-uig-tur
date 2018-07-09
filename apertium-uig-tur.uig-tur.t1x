@@ -3,7 +3,39 @@
   <section-def-cats>
 
     <def-cat n="noun">
-      <cat-item tags="n.*"/>
+      <cat-item tags="n.*.p1.*"/>
+      <cat-item tags="n.*.p2.*"/>
+      <cat-item tags="n.*.p3.*"/>
+    </def-cat>
+
+<def-cat n="properhuman">
+      <cat-item tags="np.ant.*.p1.*"/>
+      <cat-item tags="np.cog.*.p1.*"/>
+<cat-item tags="np.ant.*.p2.*"/>
+      <cat-item tags="np.cog.*.p2.*"/>
+<cat-item tags="np.ant.*.p3.*"/>
+      <cat-item tags="np.cog.*.p3.*"/>
+    </def-cat>
+
+<def-cat n="proper">
+      <cat-item tags="np.org.*"/>
+      <cat-item tags="np.al.*."/>
+      <cat-item tags="np.top.*"/>
+   <cat-item tags="np.org"/>
+      <cat-item tags="np.al"/>
+      <cat-item tags="np.top"/>
+    </def-cat>
+
+<def-cat n="adjsubst">
+      <cat-item tags="adj.*.p1.*"/>
+      <cat-item tags="adj.*.p2.*"/>
+      <cat-item tags="adj.*.p3.*"/>
+    </def-cat>
+
+<def-cat n="numsubst">
+      <cat-item tags="num.*.p1.*"/>
+      <cat-item tags="num.*.p2.*"/>
+      <cat-item tags="num.*.p3.*"/>
     </def-cat>
 
     <def-cat n="sent">
@@ -15,12 +47,12 @@
       <cat-item tags="prn.ref.*"/>
     </def-cat>
 
-    <def-cat n="adjdur">
-      <cat-item tags="adj.dur"/>
+    <def-cat n="adjgm">
+      <cat-item tags="adj.gm"/>
     </def-cat>
 
-    <def-cat n="ndur">
-      <cat-item tags="n.dur"/>
+    <def-cat n="ngm">
+      <cat-item tags="n.gm"/>
     </def-cat>
 
     <def-cat n="adjdub">
@@ -251,6 +283,24 @@
       <attr-item tags="tv"/>
     </def-attr>
 
+    <def-attr n="a_gen">
+      <attr-item tags="m"/>
+      <attr-item tags="f"/>
+      <attr-item tags="mf"/>
+    </def-attr>
+
+<def-attr n="a_kurum">
+      <attr-item tags="org"/>
+      <attr-item tags="top"/>
+      <attr-item tags="al"/>
+    </def-attr>
+
+<def-attr n="a_insan">
+      <attr-item tags="cog"/>
+      <attr-item tags="ant"/>
+    </def-attr>
+
+
 
     <def-attr n="a_tns">
       <attr-item tags="aor"/>
@@ -282,8 +332,8 @@
       <attr-item tags="dub"/>
     </def-attr>
 
- <def-attr n="a_dur">
-      <attr-item tags="dur"/>
+ <def-attr n="a_gm">
+      <attr-item tags="gm"/>
     </def-attr>
 
 <def-attr n="a_pl">
@@ -333,6 +383,10 @@
       <attr-item tags="pass"/>
     </def-attr>
 
+ <def-attr n="a_subst">
+      <attr-item tags="subst"/>
+    </def-attr>
+
 
   </section-def-attrs>
 
@@ -369,6 +423,145 @@
       </action>
     </rule>
 
+<rule comment="regla: nouns (almamen → elmayım)">
+      <pattern>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag>
+	<lit-tag v="SN"/>
+		</tag>
+            </tags>
+          <lu>
+             <clip pos="1" side="tl" part="lem"/>
+	     <lit-tag v="n"/>
+	     <clip pos="1" side="tl" part="a_pl"/>
+	     <clip pos="1" side="tl" part="a_pos"/>
+	     <clip pos="1" side="tl" part="a_cas"/>
+	     <lit v="+i"/>
+     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+	     <clip pos="1" side="tl" part="a_gm"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: humons (Oğuzmen → Oğuzum)">
+      <pattern>
+        <pattern-item n="properhuman"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag>
+	<lit-tag v="SN"/>
+		</tag>
+            </tags>
+          <lu>
+             <clip pos="1" side="tl" part="lem"/>
+	     <lit-tag v="np"/>
+	     <clip pos="1" side="tl" part="a_insan"/>
+	     <clip pos="1" side="tl" part="a_gen"/>
+	     <clip pos="1" side="tl" part="a_pl"/>
+	     <clip pos="1" side="tl" part="a_pos"/>
+	     <clip pos="1" side="tl" part="a_cas"/>
+	     <lit v="+i"/>
+     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+	     <clip pos="1" side="tl" part="a_gm"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+<rule comment="regla: humons (Oğuzmen → Oğuzum)">
+      <pattern>
+        <pattern-item n="proper"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag>
+	<lit-tag v="SN"/>
+		</tag>
+            </tags>
+          <lu>
+             <clip pos="1" side="tl" part="lem"/>
+	     <lit-tag v="np"/>
+	     <clip pos="1" side="tl" part="a_kurum"/>
+	     <clip pos="1" side="tl" part="a_pos"/>
+	     <clip pos="1" side="tl" part="a_cas"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+<rule comment="regla: adj (xoşalmen → mutluyum)">
+      <pattern>
+        <pattern-item n="adjsubst"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="a" case="caseFirstWord">
+            <tags>
+              <tag>
+	<lit-tag v="SA"/>
+		</tag>
+            </tags>
+          <lu>
+             <clip pos="1" side="tl" part="lem"/>
+	     <lit-tag v="adj"/>
+	     <clip pos="1" side="tl" part="a_subst"/>
+	     <clip pos="1" side="tl" part="a_pos"/>
+	     <clip pos="1" side="tl" part="a_cas"/>
+	     <lit v="+i"/>
+     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+	     <clip pos="1" side="tl" part="a_gm"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: num (birsen → birsin)">
+      <pattern>
+        <pattern-item n="numsubst"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag>
+	<lit-tag v="SN"/>
+		</tag>
+            </tags>
+          <lu>
+             <clip pos="1" side="tl" part="lem"/>
+	     <lit-tag v="num"/>
+	     <clip pos="1" side="tl" part="a_subst"/>
+	     <clip pos="1" side="tl" part="a_pos"/>
+	     <clip pos="1" side="tl" part="a_cas"/>
+	     <lit v="+i"/>
+     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+	     <clip pos="1" side="tl" part="a_gm"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
 
 <rule comment="regla: i-di (idi → idi)">
       <pattern>
@@ -994,9 +1187,9 @@
 
 
 
-    <rule comment="regla: dur (ibarettur → ibarettir)">
+    <rule comment="regla: gm (ibarettur → ibarettir)">
         <pattern>
-        <pattern-item n="adjdur"/>
+        <pattern-item n="adjgm"/>
       </pattern>
       <action>
            <out>
@@ -1009,16 +1202,16 @@
              <lit-tag v="adj"/>
 	     <lit-tag v="subst"/>
 	     <lit-tag v="nom"/>
-	     <lit-tag v="dur"/>
+	     <lit-tag v="gm"/>
           </lu>
 	  </chunk>
         </out>
       </action>
     </rule>
 
-    <rule comment="regla: dur (attur → addır)">
+    <rule comment="regla: gm (attur → addır)">
         <pattern>
-        <pattern-item n="ndur"/>
+        <pattern-item n="ngm"/>
       </pattern>
       <action>
            <out>
@@ -1030,7 +1223,7 @@
 	<clip pos="1" side="tl" part="lem"/>
              <lit-tag v="n"/>
 	     <clip pos="1" side="tl" part="a_cas"/>
-	     <lit-tag v="dur"/>
+	     <lit-tag v="gm"/>
           </lu>
 	  </chunk>
         </out>
@@ -1096,8 +1289,13 @@
              <clip pos="1" side="tl" part="lem"/>
 	     <lit-tag v="prn"/>
 	     <lit-tag v="ref"/>
+	     <clip pos="1" side="tl" part="a_pl"/>
 	     <clip pos="1" side="tl" part="a_pos"/>
 	     <clip pos="1" side="tl" part="a_cas"/>
+<lit v="+i"/>
+     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+	     <clip pos="1" side="tl" part="a_gm"/>
           </lu>
   </chunk>
         </out>
