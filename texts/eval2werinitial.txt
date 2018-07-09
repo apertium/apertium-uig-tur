@@ -1,0 +1,28 @@
+Test file: 'duauigtur.txt'
+Reference file 'duatur.txt'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 590
+Number of words in test: 705
+Number of unknown words (marked with a star) in test: 
+Percentage of unknown words: 0.00 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 412
+Word error rate (WER): 69.83 %
+Number of position-independent correct words: 317
+Position-independent word error rate (PER): 65.76 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 412
+Word Error Rate (WER): 69.83 %
+Number of position-independent correct words: 317
+Position-independent word error rate (PER): 65.76 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 0
+Percentage of unknown words that were free rides: 0%
