@@ -322,6 +322,8 @@
       <attr-item tags="gna_when2"/>
       <attr-item tags="gpr_fut"/>
       <attr-item tags="gpr_fut2"/>
+      <attr-item tags="ger"/>
+      <attr-item tags="ger_inf"/>
     </def-attr>
 
     <def-attr n="a_cop">
@@ -348,6 +350,7 @@
       <attr-item tags="px1sg"/>
       <attr-item tags="px2sg"/>
       <attr-item tags="px3sg"/>
+      <attr-item tags="px3sp"/>
       <attr-item tags="px1pl"/>
       <attr-item tags="px2pl"/>
       <attr-item tags="px3pl"/>
@@ -506,6 +509,35 @@
       </action>
     </rule>
 
+<!--
+<rule comment="regla: gerund (qılış → kılmak)">
+      <pattern>
+        <pattern-item n="gerund"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	     <clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="ger_inf"/>
+ 	     <clip pos="1" side="tl" part="a_cas"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+	     <clip pos="1" side="tl" part="a_gm"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+-->
 
 <rule comment="regla: adj (xoşalmen → mutluyum)">
       <pattern>
