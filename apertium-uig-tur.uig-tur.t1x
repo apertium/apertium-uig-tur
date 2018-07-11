@@ -19,7 +19,7 @@
 
 <def-cat n="proper">
       <cat-item tags="np.org.*"/>
-      <cat-item tags="np.al.*."/>
+      <cat-item tags="np.al.*"/>
       <cat-item tags="np.top.*"/>
    <cat-item tags="np.org"/>
       <cat-item tags="np.al"/>
@@ -485,7 +485,7 @@
     </rule>
 
 
-<rule comment="regla: humons (Oğuzmen → Oğuzum)">
+<rule comment="regla: nonhuman (türkiye → türkiye)">
       <pattern>
         <pattern-item n="proper"/>
       </pattern>
