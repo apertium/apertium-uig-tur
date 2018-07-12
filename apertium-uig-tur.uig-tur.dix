@@ -125,6 +125,7 @@
 
       <!-- SECTION: Pronouns -->
       	<e><p><l>ئۇ<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e>
+	<e><p><l>ئا<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e>
      	<e><p><l>نە<s n="adv"/><s n="itg"/></l><r>ne<s n="adv"/><s n="itg"/></r></p></e>
 	<e><p><l>نېمە<s n="adv"/><s n="itg"/></l><r>ne<s n="adv"/><s n="itg"/></r></p></e>
 
@@ -4322,7 +4323,7 @@
        <e><p><l>قالسا<s n="post"/></l><r>sonra<s n="post"/></r></p></e>
        <e><p><l>شۇنداقلا<s n="adv"/></l><r>şu<b/>halde<s n="adv"/></r></p></e>
        <e><p><l>ھېساپلا<s n="v"/><s n="tv"/></l><r>hesapla<s n="v"/><s n="tv"/></r></p></e>
-       <e><p><l>ھېساپلىن<s n="v"/><s n="iv"/></l><r>hesaplan<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>ھېساپلان<s n="v"/><s n="iv"/></l><r>hesaplan<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>تەكشۈر<s n="v"/><s n="tv"/></l><r>incele<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>تاقى<s n="v"/><s n="tv"/></l><r>it<s n="v"/><s n="tv"/></r></p></e>
 
