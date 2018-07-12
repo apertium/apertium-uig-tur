@@ -842,7 +842,7 @@
        <e><p><l>ئىگىز<s n="adj"/></l><r>uzun<s n="adj"/></r></p></e>
        <e><p><l>قالايمىقان<s n="adj"/></l><r>şaşkın<s n="adj"/></r></p></e>
        <e><p><l>ۋاجىب<s n="adj"/></l><r>vacip<s n="adj"/></r></p></e>
-       <e><p><l>بۇخىل<s n="adj"/></l><r>bu<b/>tür<s n="adj"/></r></p></e>
+       <e r="LR"><p><l>بۇخىل<s n="adj"/></l><r>bu<b/>tür<s n="adj"/></r></p></e>
        <e><p><l>ناتايىن<s n="adj"/></l><r>belirsiz<s n="adj"/></r></p></e>
        <e><p><l>ماركىلىق<s n="adj"/></l><r>markalı<s n="adj"/></r></p></e>
        <e><p><l>كەڭرى<s n="adj"/></l><r>geniş<s n="adj"/></r></p></e>
@@ -1858,7 +1858,7 @@
        <e><p><l>غەرپ<s n="n"/></l><r>batı<s n="n"/></r></p></e>
        <e><p><l>ئامرىكا<s n="np"/><s n="top"/></l><r>Amerika<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>كەبى<s n="post"/></l><r>gibi<s n="post"/></r></p></e>
-       <e><p><l>بولمىسىمۇ<s n="adv"/></l><r>olmasa<b/>da<s n="adv"/></r></p></e>
+       <e r="LR"><p><l>بولمىسىمۇ<s n="adv"/></l><r>olmasa<b/>da<s n="adv"/></r></p></e>
        <e><p><l>مەخپى<s n="adv"/></l><r>gizlice<s n="adv"/></r></p></e>
        <e><p><l>مەخپىي<s n="adv"/></l><r>gizlice<s n="adv"/></r></p></e>
        <e><p><l>ئاللىبۇرۇن<s n="adv"/></l><r>zaten<s n="adv"/></r></p></e>
@@ -4962,7 +4962,9 @@
        <e><p><l>ئەنەس<s n="np"/><s n="ant"/><s n="m"/></l><r>Enes<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>ئۇممۇ<s n="np"/><s n="ant"/><s n="f"/></l><r>Ümmü<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
        <e><p><l>يازما<s n="n"/></l><r>yazma<s n="n"/></r></p></e>
-       <e><p><l>مۇستەملىكە<s n="n"/></l><r>müstemlike<s n="n"/></r></p></e>
+       <e><p><l>مۇستەملىكە<s n="n"/></l><r>müstemleke<s n="n"/></r></p></e>
+       <e><p><l>مۇستەملىكە<s n="n"/></l><r>manda<s n="n"/></r></p></e>
+       <e><p><l>مۇستەملىكە<s n="n"/></l><r>sömürge<s n="n"/></r></p></e>
        <e><p><l>چېكىلىش<s n="n"/></l><r>işleme<s n="n"/></r></p></e>
        <e><p><l>جەمئىيەتشۇناس<s n="n"/></l><r>sosyolog<s n="n"/></r></p></e>
        <e><p><l>سەئۇدىي<s n="n"/></l><r>Suudi<s n="n"/></r></p></e>
