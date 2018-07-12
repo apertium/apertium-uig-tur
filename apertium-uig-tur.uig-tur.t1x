@@ -127,6 +127,13 @@
       <cat-item tags="vaux.*.prog.*"/>
     </def-cat>
 
+    <def-cat n="aor">
+      <cat-item tags="v.*.aor2.*"/>
+      <cat-item tags="v.*.*.aor2.*"/>
+      <cat-item tags="vaux.aor2.*"/>
+      <cat-item tags="vaux.*.aor2.*"/>
+    </def-cat>
+
     <def-cat n="prog2">
     <cat-item tags="v.*.prog2.*"/>
       <cat-item tags="v.*.*.prog2.*"/>
@@ -304,6 +311,7 @@
 
     <def-attr n="a_tns">
       <attr-item tags="aor"/>
+      <attr-item tags="aor2"/>
       <attr-item tags="prog"/>
       <attr-item tags="prog2"/>
       <attr-item tags="aorp"/>
@@ -697,6 +705,37 @@
  	     <clip pos="1" side="tl" part="a_pass"/>
  	     <clip pos="1" side="tl" part="a_neg"/>
 	     <lit-tag v="prog"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+<rule comment="regla: true aorist (bolar → olur)">
+      <pattern>
+        <pattern-item n="aor"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="aor"/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	     <clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="aor"/>
 	     <lit v="+i"/>
 	     <lit-tag v="cop.aor"/>
 	     <clip pos="1" side="tl" part="a_pers_nbr"/>

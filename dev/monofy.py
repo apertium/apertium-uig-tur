@@ -8,6 +8,7 @@ def monofy(line,left=True):
 	    '<s n="post"/>':"POST",
             '<s n="np"/><s n="cog"/><s n="mf"/>':"NP-COG-MF",
             '<s n="np"/><s n="org"/>':"NP-ORG",
+            '<s n="np"/><s n="al"/>':"NP-AL",
             '<s n="prn"/><s n="itg"/>':"PRON-ITG",
             '<s n="prn"/><s n="pers"/>':"PRON-PERS",
             '<s n="det"/><s n="itg"/>':"DET-ITG",
