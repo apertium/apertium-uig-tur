@@ -1853,6 +1853,36 @@
        <e><p><l>ئورتاقلاش<s n="v"/><s n="tv"/></l><r>ortaklaş<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئورتاقلاش<s n="v"/><s n="tv"/></l><r>paylaş<s n="v"/><s n="tv"/></r></p></e>
 
+
+      <e><p><l>ھېيىت<s n="np"/><s n="cog"/><s n="mf"/></l><r>Heyit<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+       <e><p><l>بىھۇدە<s n="adj"/></l><r>beyhude<s n="adj"/></r></p></e>
+       <e><p><l>شەرەپلىك<s n="adj"/></l><r>şerefli<s n="adj"/></r></p></e>
+       <e><p><l>تىپىك<s n="adj"/></l><r>tipik<s n="adj"/></r></p></e>
+       <e><p><l>شەرئىي<s n="adj"/></l><r>şerî<s n="adj"/></r></p></e>
+       <e><p><l>رەزىيەللاھۇ<s n="ij"/></l><r>radıyullahu<s n="ij"/></r></p></e>
+       <e><p><l>تېمۇر<s n="np"/><s n="ant"/><s n="m"/></l><r>Temür<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>ھ<s n="n"/></l><r>H<s n="n"/></r></p></e>
+       <e><p><l>جانابى<b/>ئاللاھ<s n="n"/></l><r>Cenab-ı<b/>Allah<s n="n"/></r></p></e>
+       <e><p><l>ئىسلاھ<s n="n"/></l><r>ıslah<s n="n"/></r></p></e>
+       <e><p><l>كىرگۈزگۈچ<s n="n"/></l><r>girici<s n="n"/></r></p></e>
+       <e><p><l>يارلىق<s n="n"/></l><r>arazi<s n="n"/></r></p></e>
+       <e><p><l>نادانلىق<s n="n"/></l><r>cahillik<s n="n"/></r></p></e>
+       <e><p><l>پاسىق<s n="n"/></l><r>fasık<s n="n"/></r></p></e>
+       <e><p><l>غۇسل<s n="n"/></l><r>gusul<s n="n"/></r></p></e>
+       <e><p><l>ھېيتگاھ<s n="n"/></l><r>alan<s n="n"/></r></p></e>
+       <e><p><l>ھىسابات<s n="n"/></l><r>hesap<s n="n"/></r></p></e>
+       <e><p><l>ش<s n="n"/></l><r>Ş<s n="n"/></r></p></e>
+       <e><p><l>سەئىدىيە<s n="np"/><s n="top"/></l><r>Seidiye<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>تىخىمۇ<s n="adv"/></l><r>daha<b/>da<s n="adv"/></r></p></e>
+       <e><p><l>تىخى<s n="adv"/></l><r>daha<s n="adv"/></r></p></e>
+       <e><p><l>بىھۇدە<s n="adv"/></l><r>beyhude<s n="adv"/></r></p></e>
+       <e><p><l>تۆۋەنلە<s n="v"/><s n="iv"/></l><r>alçal<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>ئۇلاش<s n="v"/><s n="iv"/></l><r>bağlan<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>قىرائەت<b/>قىل<s n="v"/><s n="iv"/></l><r>Kuran<b/>oku<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>قىرائەت<b/>ئوقۇ<s n="v"/><s n="iv"/></l><r>Kuran<b/>oku<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>ئۇلاش<s n="v"/><s n="iv"/></l><r>ulaş<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>تۆۋەنلەت<s n="v"/><s n="tv"/></l><r>alçalt<s n="v"/><s n="tv"/></r></p></e>
+
        <e><p><l>نەۋائىي<s n="np"/><s n="cog"/><s n="mf"/></l><r>Nevai<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
        <e><p><l>ئۇسەيمىن<s n="np"/><s n="cog"/><s n="mf"/></l><r>Useymin<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
        <e><p><l>ئىككىنجى<s n="adj"/></l><r>ikinci<s n="adj"/></r></p></e>
@@ -1868,6 +1898,7 @@
        <e><p><l>ئىشقىلىپ<s n="ij"/></l><r>her<b/>neyse<s n="ij"/></r></p></e>
        <e><p><l>ئەسسالامۇ<s n="ij"/></l><r>esselamu<s n="ij"/></r></p></e>
        <e><p><l>ئەللامە<s n="np"/><s n="ant"/><s n="m"/></l><r>Ellame<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>ئابدۇشۈكۇر<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdüşşükür<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>زەئىف<s n="np"/><s n="ant"/><s n="m"/></l><r>Raif<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>ئۇمەر<s n="np"/><s n="ant"/><s n="m"/></l><r>Ömer<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>كەتمەنباي<s n="np"/><s n="ant"/><s n="m"/></l><r>Ketmenbay<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
