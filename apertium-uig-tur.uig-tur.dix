@@ -266,6 +266,34 @@
     <e><p><l>قىل<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>قىل<s n="v"/><s n="tv"/></l><r>kıl<s n="v"/><s n="tv"/></r></p></e>
 
+ <e><p><l>ئەسما<s n="np"/><s n="ant"/><s n="f"/></l><r>Esma<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+       <e><p><l>ئەشئەرىي<s n="np"/><s n="cog"/><s n="mf"/></l><r>Eşeri<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+       <e><p><l>قۇتبىلىك<s n="np"/><s n="org"/></l><r>Kutbilik<s n="np"/><s n="org"/></r></p></e>
+       <e><p><l>مۇھاكەمەتۇل<b/>لۇغەتەين<s n="np"/><s n="al"/></l><r>Muhakemetul<b/>Lugateyn<s n="np"/><s n="al"/></r></p></e>
+       <e><p><l>دىۋانە<s n="adj"/></l><r>divane<s n="adj"/></r></p></e>
+       <e><p><l>ئەبجەش<s n="adj"/></l><r>karışık<s n="adj"/></r></p></e>
+       <e><p><l>بىلگۈچى<s n="adj"/></l><r>bilen<s n="adj"/></r></p></e>
+       <e><p><l>مۇقەررەر<s n="adj"/></l><r>kesin<s n="adj"/></r></p></e>
+       <e><p><l>تەتۈر<s n="adj"/></l><r>karşıt<s n="adj"/></r></p></e>
+       <e><p><l>ئاللاھۇئەكبەر<s n="ij"/></l><r>Allahu<b/>Ekber<s n="ij"/></r></p></e>
+       <e><p><l>ھايا<s n="n"/></l><r>haya<s n="n"/></r></p></e>
+       <e><p><l>مۇرتەد<s n="n"/></l><r>mürted<s n="n"/></r></p></e>
+       <e><p><l>ئۆپكە<s n="n"/></l><r>öfke<s n="n"/></r></p></e>
+       <e><p><l>دىۋانە<s n="n"/></l><r>divane<s n="n"/></r></p></e>
+       <e><p><l>كەشىپ<s n="n"/></l><r>keşif<s n="n"/></r></p></e>
+       <e><p><l>مۇشرىكلىك<s n="n"/></l><r>müşriklik<s n="n"/></r></p></e>
+       <e><p><l>مۇقەررەرلىك<s n="n"/></l><r>kesinlik<s n="n"/></r></p></e>
+       <e><p><l>مۇشرىك<s n="n"/></l><r>müşrik<s n="n"/></r></p></e>
+       <e><p><l>كىسەل<s n="n"/></l><r>hastlalık<s n="n"/></r></p></e>
+       <e><p><l>كارۋان<s n="n"/></l><r>kervan<s n="n"/></r></p></e>
+       <e><p><l>ئېھتىيات<s n="n"/></l><r>ihtiyat<s n="n"/></r></p></e>
+       <e><p><l>زىننەت<s n="n"/></l><r>zinnet<s n="n"/></r></p></e>
+       <e><p><l>خۇپتەن<s n="n"/></l><r>yatsı<s n="n"/></r></p></e>
+       <e><p><l>ۋەجى<s n="n"/></l><r>açı<s n="n"/></r></p></e>
+       <e><p><l>كار<s n="n"/></l><r>iş<s n="n"/></r></p></e>
+       <e><p><l>ۋەياكى<s n="cnjcoo"/></l><r>veya<s n="cnjcoo"/></r></p></e>
+       <e><p><l>بۇيرى<s n="v"/><s n="tv"/></l><r>gönder<s n="v"/><s n="tv"/></r></p></e>
+
 
        <e><p><l>بىچارە<s n="adj"/></l><r>biçare<s n="adj"/></r></p></e>
        <e><p><l>قاملىشىدىغاندەك<s n="adj"/></l><r>olacak<b/>gibi<s n="adj"/></r></p></e>
@@ -1898,7 +1926,6 @@
        <e><p><l>ئىشقىلىپ<s n="ij"/></l><r>her<b/>neyse<s n="ij"/></r></p></e>
        <e><p><l>ئەسسالامۇ<s n="ij"/></l><r>esselamu<s n="ij"/></r></p></e>
        <e><p><l>ئەللامە<s n="np"/><s n="ant"/><s n="m"/></l><r>Ellame<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-<e><p><l>ئابدۇشۈكۇر<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdüşşükür<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>زەئىف<s n="np"/><s n="ant"/><s n="m"/></l><r>Raif<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>ئۇمەر<s n="np"/><s n="ant"/><s n="m"/></l><r>Ömer<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>كەتمەنباي<s n="np"/><s n="ant"/><s n="m"/></l><r>Ketmenbay<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
