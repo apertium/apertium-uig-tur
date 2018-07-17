@@ -17,6 +17,7 @@ TARGETS_COMMON =		\
 	$(PREFIX1).autobil.bin	\
 	$(PREFIX1).autolex.bin	\
 	$(PREFIX1).autogen.bin	\
+	$(PREFIX1).autogen.hfst \
 	$(PREFIX1).autopgen.bin	\
 	$(PREFIX1).autotrl.bin	\
 	$(PREFIX1).t1x.bin	\

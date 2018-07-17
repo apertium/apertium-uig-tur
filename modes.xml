@@ -37,8 +37,8 @@
         <file name="apertium-uig-tur.uig-tur.t4x"/>
         <file name="uig-tur.t4x.bin"/>
       </program>
-      <program name="lt-proc $1">
-        <file name="uig-tur.autogen.bin"/>
+      <program name="hfst-proc $1">
+        <file name="uig-tur.autogen.hfst"/>
       </program>
 <!--      <program name="lt-proc -p">
         <file name="uig-tur.autopgen.bin"/>
@@ -80,8 +80,8 @@
         <file name="apertium-uig-tur.uig-tur.t4x"/>
         <file name="uig-tur.t4x.bin"/>
       </program>
-      <program name="lt-proc $1">
-        <file name="uig-tur.autogen.bin"/>
+      <program name="hfst-proc $1">
+        <file name="uig-tur.autogen.hfst"/>
       </program>
       <program name="lt-proc -t">
         <file name="uig-tur.autotrl.bin"/>
