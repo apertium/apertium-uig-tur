@@ -15,6 +15,7 @@
     <sdef n="cnjadv"          c="Adverbial conjunction"/>
     <sdef n="pr"              c="Preposition"/>
     <sdef n="adv"             c="Adverb"/>
+    <sdef n="sym"             c="Symbol"/>
     <sdef n="ij"              c="Interjection"/>
     <sdef n="adj"             c="Adjective"/>
     <sdef n="barb"            c="Barbarisme"/>
@@ -7744,6 +7745,7 @@
       <!-- SECTION: Punctuation -->
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+      <e><re>[%]</re><p><l><s n="sym"/></l><r><s n="sym"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
       <e r="LR"><re>[a-zü]+</re>          <p><l><s n="barb"/></l>  <r><s n="barb"/></r></p></e>
       <e><p><l>،<s n="cm"/></l>  <r>,<s n="cm"/></r></p></e>

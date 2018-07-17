@@ -127,6 +127,19 @@
     </pipeline>
   </mode>
 
+  <mode name="uig-tur-disam-debug">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="uig-tur.automorf.bin"/>
+      </program>
+      <program name="cg-conv -a -l"/>
+      <program name="vislcg3 --trace --grammar">
+        <file name="uig-tur.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
 
 
   <!-- tur → uig -->
