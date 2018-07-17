@@ -2,6 +2,10 @@
 <transfer default="chunk">
   <section-def-cats>
 
+    <def-cat n="default">
+      <cat-item tags="*"/>
+    </def-cat>
+
     <def-cat n="noun">
       <cat-item tags="n.*.p1.*"/>
       <cat-item tags="n.*.p2.*"/>
@@ -403,13 +407,29 @@
     </def-attr>
 
 
+    <def-attr n="a_np_acr">
+      <attr-item tags="np"/>
+      <attr-item tags="acr"/>
+    </def-attr>
+
 
   </section-def-attrs>
 
-
   <section-def-vars>
     <def-var n="number"/>
+    <def-var n="caseFirstWord"/>
+    <def-var n="caseSecondWord"/>
+    <def-var n="EOS" v="true"/>
   </section-def-vars>
+
+  <section-def-lists>
+ <def-list n="en_majuscules">
+      <list-item v="Pazartesi"/>
+      <list-item v="Cuma"/>
+ </def-list>
+
+  </section-def-lists>
+
 
   <section-def-macros>
     <def-macro n="test" npar="1">
@@ -418,6 +438,66 @@
             <lit v=""/>
           </let>
     </def-macro>
+
+
+  <def-macro n="f_first_word1" npar="1"><!--nova versió 8-febr-08  -->
+      
+	  <choose>
+	    <when>
+	      <test>
+		<equal> 
+		  <var n="EOS"/>
+		  <lit v="true"/>
+		</equal> 
+	      </test>
+	      <choose>
+		<when>
+		  <test>
+		    <and>
+		       <equal>
+			<clip pos="1" side="sl" part="a_np_acr"/>
+			<lit v=""/>
+		      </equal>
+		      <not>
+			<in>
+			  <clip pos="1" side="tl" part="lem"/>
+			  <list n="en_majuscules"/>
+			</in>
+		      </not> 	      
+		    </and>
+		  </test>
+		  <modify-case>
+		    <clip pos="1" side="tl" part="lem"/>
+		    <lit v="aa"/>
+		  </modify-case>
+		</when>
+	      </choose>
+	      <let>
+		<var n="caseFirstWord"/>
+		<lit v="Aa"/>
+	      </let>
+	    </when>
+	    <otherwise> 
+	      <let>
+		<var n="caseFirstWord"/>
+		<lit v="aa"/>
+	      </let>
+	    </otherwise>
+	  </choose>
+<!--	</when>
+	<otherwise>
+	  <let>
+	    <var n="caseFirstWord"/>
+	    <lit v="aa"/>
+	  </let>
+	</otherwise>
+      </choose>-->
+      <let>
+	<var n="EOS"/>
+	<lit v="false"/>
+      </let>
+    </def-macro>
+
   </section-def-macros>
 
   <section-rules>
@@ -426,6 +506,15 @@
         <pattern-item n="sent"/>
       </pattern>
       <action>
+        <choose>
+          <when>
+            <test><not><or>
+                  <equal><clip pos="1" side="sl" part="lem"/><lit v=";"/></equal>
+                  <equal><clip pos="1" side="sl" part="lem"/><lit v=":"/></equal>
+                </or></not></test>
+            <let><var n="EOS"/><lit v="true"/></let>
+          </when>
+        </choose>
         <out>
           <chunk name="sent" case="caseFirstWord">
             <tags>
@@ -444,6 +533,7 @@
         <pattern-item n="noun"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
         <out>
         <chunk name="n" case="caseFirstWord">
             <tags>
@@ -472,6 +562,7 @@
         <pattern-item n="properhuman"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
         <out>
         <chunk name="n" case="caseFirstWord">
             <tags>
@@ -503,6 +594,7 @@
         <pattern-item n="proper"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
         <out>
         <chunk name="n" case="caseFirstWord">
             <tags>
@@ -557,6 +649,7 @@
         <pattern-item n="adjsubst"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
         <out>
         <chunk name="a" case="caseFirstWord">
             <tags>
@@ -585,6 +678,7 @@
         <pattern-item n="numsubst"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
         <out>
         <chunk name="n" case="caseFirstWord">
             <tags>
@@ -613,6 +707,7 @@
         <pattern-item n="cop-ifi"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
 	<let>
           <clip pos="1" side="tl" part="a_cop"/>
 	<lit-tag v="cop"/>
@@ -639,6 +734,7 @@
         <pattern-item n="cop-dub"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
 	<let>
           <clip pos="1" side="tl" part="a_cop"/>
 	<lit-tag v="cop"/>
@@ -665,6 +761,7 @@
         <pattern-item n="cop-neg"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
 	<let>
           <clip pos="1" side="tl" part="a_cop"/>
 	<lit-tag v=""/>
@@ -694,6 +791,7 @@
         <pattern-item n="prog"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
 	<let>
           <clip pos="1" side="tl" part="a_tns"/>
 	<lit-tag v="prog"/>
@@ -726,6 +824,7 @@
         <pattern-item n="aor"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
 	<let>
           <clip pos="1" side="tl" part="a_tns"/>
 	<lit-tag v="aor"/>
@@ -757,6 +856,7 @@
         <pattern-item n="prog2"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
 	<let>
           <clip pos="1" side="tl" part="a_tns"/>
 	<lit-tag v="prog"/>
@@ -788,6 +888,7 @@
         <pattern-item n="fut"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
 	<let>
           <clip pos="1" side="tl" part="a_tns"/>
 	<lit-tag v="fut"/>
@@ -820,6 +921,7 @@
         <pattern-item n="ger_pabs"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
            <out>
         <chunk name="v" case="caseFirstWord">
             <tags>
@@ -847,6 +949,7 @@
         <pattern-item n="gpr_fut"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
    <let>
           <clip pos="1" side="tl" part="a_tns"/>
 	<lit-tag v="ger_fut"/>
@@ -869,6 +972,7 @@
         <pattern-item n="gpr_rsub"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
            <out>
         <chunk name="v" case="caseFirstWord">
             <tags>
@@ -897,6 +1001,7 @@
         <pattern-item n="gna_neg"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
    <let>
           <clip pos="1" side="tl" part="a_tns"/>
 	<lit-tag v="gna_neg"/>
@@ -919,6 +1024,7 @@
         <pattern-item n="gna_when"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
    <let>
           <clip pos="1" side="tl" part="a_tns"/>
 	<lit-tag v="gna_when"/>
@@ -941,6 +1047,7 @@
         <pattern-item n="ger_past"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
    <let>
           <clip pos="1" side="tl" part="a_tns"/>
 	<lit-tag v="ger_past"/>
@@ -963,6 +1070,7 @@
         <pattern-item n="past1"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
 	<let>
           <clip pos="1" side="tl" part="a_tns"/>
 	<lit-tag v="past"/>
@@ -994,6 +1102,7 @@
         <pattern-item n="past2"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
 	<let>
           <clip pos="1" side="tl" part="a_tns"/>
 	<lit-tag v="past"/>
@@ -1025,6 +1134,7 @@
         <pattern-item n="past4"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
 	<let>
           <clip pos="1" side="tl" part="a_tns"/>
 	<lit-tag v="past"/>
@@ -1059,6 +1169,7 @@
         <pattern-item n="aorp"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="v" case="caseFirstWord">
             <tags>
@@ -1086,6 +1197,7 @@
         <pattern-item n="comp"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
         <let>
           <clip pos="1" side="tl" part="a_cmp"/><lit v=""/>
         </let>
@@ -1111,6 +1223,7 @@
         <pattern-item n="compn"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
         <let>
           <clip pos="1" side="tl" part="a_cmp"/><lit v=""/>
         </let>
@@ -1136,6 +1249,7 @@
         <pattern-item n="kadar"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
  <let>
           <clip pos="1" side="tl" part="a_kadar"/><lit v=""/>
         </let>
@@ -1162,6 +1276,7 @@
         <pattern-item n="che"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
  	<let>
           <clip pos="1" side="tl" part="che"/>
 	<lit-tag v=""/>
@@ -1195,6 +1310,7 @@
         <pattern-item n="ter"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
  <let>
           <clip pos="1" side="tl" part="a_ter"/>
 <lit-tag v="dat"/>
@@ -1223,6 +1339,7 @@
         <pattern-item n="adjmu"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
  <let>
           <clip pos="1" side="tl" part="a_mu"/>
 <lit-tag v=""/>
@@ -1250,6 +1367,7 @@
         <pattern-item n="nmu"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
  <let>
           <clip pos="1" side="tl" part="a_mu"/>
 <lit-tag v=""/>
@@ -1279,6 +1397,7 @@
         <pattern-item n="adjgm"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
            <out>
         <chunk name="a" case="caseFirstWord">
             <tags>
@@ -1301,6 +1420,7 @@
         <pattern-item n="ngm"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
            <out>
         <chunk name="n" case="caseFirstWord">
             <tags>
@@ -1322,6 +1442,7 @@
         <pattern-item n="ndub"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
         <out>
         <chunk name="n" case="caseFirstWord">
             <tags>
@@ -1345,6 +1466,7 @@
         <pattern-item n="adjdub"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
            <out>
         <chunk name="a" case="caseFirstWord">
             <tags>
@@ -1367,6 +1489,7 @@
         <pattern-item n="prn_ref"/>
       </pattern>
       <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
         <out>
           <chunk name="n" case="caseFirstWord">
             <tags>
@@ -1384,6 +1507,26 @@
         </out>
       </action>
     </rule>
+
+<rule comment="regla: default">
+      <pattern>
+        <pattern-item n="default"/>
+      </pattern>
+      <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
+        <out>
+          <chunk name="w" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SX"/></tag>
+            </tags>
+          <lu>
+	     <clip pos="1" side="tl" part="whole"/>
+          </lu>
+  </chunk>
+        </out>
+      </action>
+    </rule>
+
 
   </section-rules>
 </transfer>
