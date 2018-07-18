@@ -578,10 +578,6 @@
 	     <clip pos="1" side="tl" part="a_pl"/>
 	     <clip pos="1" side="tl" part="a_pos"/>
 	     <clip pos="1" side="tl" part="a_cas"/>
-	     <lit v="+i"/>
-     <lit-tag v="cop.aor"/>
-	     <clip pos="1" side="tl" part="a_pers_nbr"/>
-	     <clip pos="1" side="tl" part="a_gm"/>
           </lu>
    	 </chunk>
         </out>
