@@ -178,6 +178,17 @@
 	<cat-item tags="vaux.ger_past2.*"/>
     </def-cat>
 
+    <def-cat n="ger_pastnom">
+	<cat-item tags="v.*.ger_past.*.nom.*"/>
+	<cat-item tags="v.*.*.ger_past.*.nom.*"/>
+	<cat-item tags="vaux.*.ger_past.*.nom.*"/>
+	<cat-item tags="vaux.ger_past.*.nom.*"/>
+	<cat-item tags="v.*.ger_past2.*.nom.*"/>
+	<cat-item tags="v.*.*.ger_past2.*nom.*"/>
+	<cat-item tags="vaux.*.ger_past2.*.nom.*"/>
+	<cat-item tags="vaux.ger_past2.*.nom.*"/>
+    </def-cat>
+
    <def-cat n="gna_when">
 	<cat-item tags="v.*.gna_when2"/>
 	<cat-item tags="v.*.*.gna_when2"/>
@@ -331,6 +342,7 @@
       <attr-item tags="past4"/>
       <attr-item tags="past5"/>
       <attr-item tags="gna_neg2"/>
+      <attr-item tags="ger_past"/>
       <attr-item tags="ger_past2"/>
       <attr-item tags="gpr_rsub"/>
       <attr-item tags="gpr_rsub2"/>
@@ -1064,6 +1076,40 @@
             </tags>
           <lu>
              <clip pos="1" side="tl" part="whole"/>
+          </lu>
+	  </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: ger_past for nom (boliwatqanliqi/bolghanliqi → olduğu)"> 
+      <pattern>
+        <pattern-item n="ger_pastnom"/>
+      </pattern>
+      <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
+   <let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="ger_past"/>
+        </let>
+           <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+           <lu>
+      <clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="ger_past"/>
+ 	     <clip pos="1" side="tl" part="a_pos"/>
+ 	     <clip pos="1" side="tl" part="a_cas"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
           </lu>
 	  </chunk>
         </out>
