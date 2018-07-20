@@ -175,6 +175,13 @@
 	<cat-item tags="vaux.gna_neg2"/>
     </def-cat>
 
+ <def-cat n="gna_neg3">
+	<cat-item tags="v.*.gna_neg3.*"/>
+	<cat-item tags="v.*.*.gna_neg3.*"/>
+	<cat-item tags="vaux.*.gna_neg3.*"/>
+	<cat-item tags="vaux.gna_neg3.*"/>
+    </def-cat>
+
     <def-cat n="ger_past">
 	<cat-item tags="v.*.ger_past2.*"/>
 	<cat-item tags="v.*.*.ger_past2.*"/>
@@ -346,6 +353,7 @@
       <attr-item tags="past4"/>
       <attr-item tags="past5"/>
       <attr-item tags="gna_neg2"/>
+      <attr-item tags="gna_neg3"/>
       <attr-item tags="ger_past"/>
       <attr-item tags="ger_past2"/>
       <attr-item tags="gpr_rsub"/>
@@ -1034,6 +1042,39 @@
             </tags>
           <lu>
              <clip pos="1" side="tl" part="whole"/>
+          </lu>
+	  </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: gna_neg3 (bolmasliq → olmama)">
+      <pattern>
+        <pattern-item n="gna_neg3"/>
+      </pattern>
+      <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
+   <let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v=""/>
+        </let>
+           <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="neg"/>
+	     <lit-tag v="ger"/>
+ 	     <clip pos="1" side="tl" part="a_pos"/>
+ 	     <clip pos="1" side="tl" part="a_cas"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
           </lu>
 	  </chunk>
         </out>
