@@ -51,6 +51,10 @@
       <cat-item tags="prn.ref.*"/>
     </def-cat>
 
+<def-cat n="prn_refpl">
+      <cat-item tags="prn.ref.pl.px3sp.*"/>
+    </def-cat>
+
     <def-cat n="adjgm">
       <cat-item tags="adj.gm"/>
     </def-cat>
@@ -1566,6 +1570,33 @@
       </action>
     </rule>
 
+<rule comment="regla: prn_ref (özliri → kendileri)">
+      <pattern>
+        <pattern-item n="prn_refpl"/>
+      </pattern>
+      <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
+<let>
+          <clip pos="1" side="tl" part="a_pl"/>
+	<lit-tag v=""/>
+        </let>       
+ <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+             <clip pos="1" side="tl" part="lem"/>
+	     <lit-tag v="prn"/>
+	     <lit-tag v="ref"/>
+	     <lit-tag v="px3pl"/>
+	     <clip pos="1" side="tl" part="a_cas"/>
+          </lu>
+  </chunk>
+        </out>
+      </action>
+    </rule>
+
 <rule comment="regla: prn_ref (öz → kendi)">
       <pattern>
         <pattern-item n="prn_ref"/>
@@ -1589,6 +1620,8 @@
         </out>
       </action>
     </rule>
+
+
 
 <rule comment="regla: default">
       <pattern>
