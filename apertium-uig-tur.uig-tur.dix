@@ -149,6 +149,8 @@
 	<e><p><l>قانچە<s n="det"/><s n="qnt"/></l><r>kaç<s n="det"/><s n="qnt"/></r></p></e>
 
 	<e><p><l>بۇ<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/><s n="dem"/></r></p></e>
+     <e><p><l>شۈ<s n="prn"/><s n="dem"/></l><r>şu<s n="prn"/><s n="dem"/></r></p></e>
+     <e><p><l>ئۈ<s n="prn"/><s n="dem"/></l><r>o<s n="prn"/><s n="dem"/></r></p></e>
 <e><p><l>قايسى<s n="prn"/><s n="itg"/></l><r>hangi<s n="prn"/><s n="itg"/></r></p></e>
        <e><p><l>قاچان<s n="adv"/><s n="itg"/></l><r>ne<b/>zaman<s n="adv"/><s n="itg"/></r></p></e>
 	<e><p><l>قانچىلىك<s n="prn"/><s n="itg"/></l><r>ne<b/>kadar<s n="prn"/><s n="itg"/></r></p></e>
@@ -157,10 +159,10 @@
 
       <!-- SECTION: Determiners -->
        <e><p><l>مۇنۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
-
+     <e><p><l>شۈ<s n="det"/><s n="dem"/></l><r>şu<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>بۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
 <e><p><l>قايسى<s n="det"/><s n="itg"/></l><r>hangi<s n="det"/><s n="itg"/></r></p></e>
-
+     <e><p><l>ئۈ<s n="det"/><s n="dem"/></l><r>o<s n="det"/><s n="dem"/></r></p></e>
       <!-- SECTION: Numerals -->
       <e><p><l>بىر<s n="num"/></l><r>bir<s n="num"/></r></p></e>
       <e><p><l>ئىككى<s n="num"/></l><r>iki<s n="num"/></r></p></e>
@@ -1182,7 +1184,7 @@
        <e><p><l>ئەمىن<s n="np"/><s n="ant"/><s n="m"/></l><r>Emin<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>ئانار<s n="np"/><s n="ant"/><s n="m"/></l><r>Anar<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>ئابدۇقادىر<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdulkadir<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-       <e><p><l>شۈ<s n="det"/><s n="dem"/></l><r>şu<s n="det"/><s n="dem"/></r></p></e>
+  
        <e><p><l>تۈگىتىش<s n="n"/></l><r>tamamlama<s n="n"/></r></p></e>
        <e><p><l>لايىھەلەش<s n="n"/></l><r>planlama<s n="n"/></r></p></e>
        <e r="LR"><p><l>كۈتۈنۈش<s n="n"/></l><r>kendine<b/>bakma<s n="n"/></r></p></e>
