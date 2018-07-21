@@ -1833,7 +1833,7 @@
        <e><p><l>سەن<s n="prn"/><s n="pers"/></l><r>sen<s n="prn"/><s n="pers"/></r></p></e>
        <e><p><l>سىلەر<s n="prn"/><s n="pers"/></l><r>siz<s n="prn"/><s n="pers"/></r></p></e>
        <e r="LR"><p><l>ئۇنداقتا<s n="adv"/></l><r>o<s n="prn"/><s n="dem"/><s n="loc"/></r></p></e>
-       <e><p><l>شۇنىڭغا<s n="adv"/></l><r>şu<s n="prn"/><s n="dem"/><s n="dat"/></r></p></e>
+     
        <e><p><l>ئاستا<s n="adv"/></l><r>yavaşça<s n="adv"/></r></p></e>
        <e><p><l>پەۋقۇلئاددە<s n="adv"/></l><r>fevkalade<s n="adv"/></r></p></e>
        <e><p><l>ئۈزلۈكسىز<s n="adv"/></l><r>sürekli<s n="adv"/></r></p></e>
@@ -2420,7 +2420,6 @@
 
 	<e r="LR"><p><l>قارىماي<s n="adv"/></l><r>bak<s n="v"/><s n="iv"/><s n="gna_neg"/></r></p></e>
 
-       <e r="LR"><p><l>شۇنىڭدىن<s n="adv"/></l><r>şu<s n="prn"/><s n="dem"/><s n="abl"/></r></p></e>
        <e><p><l>تۈنۈگۈن<s n="adv"/></l><r>dün<s n="adv"/></r></p></e>
        <e><p><l>پەقەتلا<s n="adv"/></l><r>büsbütün<s n="adv"/></r></p></e>
        <e><p><l>قايتىدىن<s n="adv"/></l><r>tekrar<s n="adv"/></r></p></e>
@@ -2505,8 +2504,7 @@
        <e><p><l>تۈرتكە<s n="n"/></l><r>güdü<s n="n"/></r></p></e>
        <e><p><l>تۈرتكە<s n="n"/></l><r>dürtü<s n="n"/></r></p></e>
        <e><p><l>پولشا<s n="np"/><s n="top"/></l><r>Polonya<s n="np"/><s n="top"/></r></p></e>
-	<e r="LR"><p><l>بۇنىڭغا<s n="adv"/></l><r>bu<s n="prn"/><s n="dem"/><s n="dat"/></r></p></e>
-	<e r="LR"><p><l>بۇندىن<s n="adv"/></l><r>bu<s n="prn"/><s n="dem"/><s n="abl"/></r></p></e>
+	
        <e><p><l>بىرلىكتە<s n="adv"/></l><r>birlikte<s n="adv"/></r></p></e>
        <e><p><l>ئۆستۈر<s n="v"/><s n="iv"/></l><r>neden<b/>ol<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>بەلگىلەن<s n="v"/><s n="iv"/></l><r>belirlen<s n="v"/><s n="iv"/></r></p></e>
@@ -3794,7 +3792,6 @@
        <e><p><l>ھەرقايسى<s n="adj"/></l><r>bütün<s n="adj"/></r></p></e>
        <e><p><l>قەدەر<s n="post"/></l><r>kadar<s n="post"/></r></p></e>
        <e><p><l>ناھايىتى<s n="adv"/></l><r>pek<s n="adv"/></r></p></e>
-       <e r="LR"><p><l>بۇنىڭدىن<s n="adv"/></l><r>bu<s n="prn"/><s n="dem"/><s n="abl"/></r></p></e>
        <e><p><l>شۇڭا<s n="adv"/></l><r>şundandır<b/>ki<s n="adv"/></r></p></e>
        <e><p><l>ۋىتامىن<b/>ب<s n="n"/></l><r>vitamin<b/>B<s n="n"/></r></p></e>
        <e><p><l>ۋىتامىن<s n="n"/></l><r>vitamin<s n="n"/></r></p></e>
@@ -4547,7 +4544,7 @@
        <e><p><l>نيۇ-يورك<s n="np"/><s n="top"/></l><r>New<b/>York<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ئىران<s n="np"/><s n="top"/></l><r>İran<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>قاراقاش<s n="np"/><s n="top"/></l><r>Karakaş<s n="np"/><s n="top"/></r></p></e>
-       <e r="LR"><p><l>بۇنىڭدا<s n="adv"/></l><r>bu<s n="prn"/><s n="dem"/><s n="loc"/></r></p></e>
+ 
        <e><p><l>ئەكسىچە<s n="adv"/></l><r>aksi<b/>halde<s n="adv"/></r></p></e>
        <e><p><l>ئۇنداق<s n="adv"/></l><r>öyle<s n="adv"/></r></p></e>
        <e><p><l>مەلۇمكى<s n="adv"/></l><r>malum<b/>ki<s n="adv"/></r></p></e>
@@ -5295,7 +5292,7 @@
        <e><p><l>بىرگە<s n="adv"/></l><r>birlikte<s n="adv"/></r></p></e>
        <e><p><l>بەلكى<s n="adv"/></l><r>belki<s n="adv"/></r></p></e>
        <e><p><l>دەرھال<s n="adv"/></l><r>derhal<s n="adv"/></r></p></e>
-       <e r="LR"><p><l>ئۇنىڭدىن<s n="adv"/></l><r>o<s n="prn"/><s n="dem"/><s n="abl"/></r></p></e>
+ 
        <e><p><l>تېخى<s n="adv"/></l><r>halen<s n="adv"/></r></p></e>
        <e><p><l>جۈملىدىن<s n="adv"/></l><r>cümleten<s n="adv"/></r></p></e>
        <e><p><l>پۈتۈنلەي<s n="adv"/></l><r>büsbütün<s n="adv"/></r></p></e>
