@@ -405,6 +405,11 @@
       <attr-item tags="loc"/>
     </def-attr>
 
+    <def-attr n="a_nbr">
+      <attr-item tags="pl"/>
+    </def-attr>
+
+
     <def-attr n="a_cmp">
       <attr-item tags="comp"/>
     </def-attr>
@@ -635,6 +640,7 @@
              <clip pos="1" side="tl" part="lem"/>
 	     <lit-tag v="np"/>
 	     <clip pos="1" side="tl" part="a_kurum"/>
+	     <clip pos="1" side="tl" part="a_nbr"/>
 	     <clip pos="1" side="tl" part="a_pos"/>
 	     <clip pos="1" side="tl" part="a_cas"/>
           </lu>

@@ -100,6 +100,12 @@
     <sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
   </sdefs>
 
+   <pardefs>
+     <pardef n="n-n_px">
+       <e><p><l></l><r><s n="px3sp"/></r></p></e>
+     </pardef>
+   </pardefs>
+
    <section id="main" type="standard">
 
       <!-- SECTION: Copula -->
@@ -4939,7 +4945,8 @@
        <e><p><l>تۇرغاۋۇت<s n="np"/><s n="top"/></l><r>Turgavut<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>قاراسۇ<s n="np"/><s n="top"/></l><r>Karasu<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>شىڭشىڭشيا<s n="np"/><s n="top"/></l><r>Şingşingşia<s n="np"/><s n="top"/></r></p></e>
-       <e><p><l>تەڭرىتاغ<s n="np"/><s n="top"/></l><r>Tanrı<b/>Dağı<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>تەڭرىتاغ<s n="np"/><s n="top"/></l><r>Tanrı<b/>Dağı<s n="np"/><s n="top"/><s n="pl"/></r></p><par n="n-n_px"/></e>
+       <e><p><l>تەڭرىتاغلىرى<s n="np"/><s n="top"/></l><r>Tanrı<b/>Dağı<s n="np"/><s n="top"/><s n="pl"/></r></p><par n="n-n_px"/></e>
        <e><p><l>قالسا<s n="post"/></l><r>sonra<s n="post"/></r></p></e>
        <e><p><l>شۇنداقلا<s n="adv"/></l><r>şu<b/>halde<s n="adv"/></r></p></e>
        <e><p><l>ھېساپلا<s n="v"/><s n="tv"/></l><r>hesapla<s n="v"/><s n="tv"/></r></p></e>
@@ -7382,7 +7389,6 @@
        <e><p><l>كۆكنۇر<s n="np"/><s n="top"/></l><r>Çinghay<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ئالتاي<s n="np"/><s n="top"/></l><r>Altay<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ئارايۇلتۇز<s n="np"/><s n="top"/></l><r>Arayultuz<s n="np"/><s n="top"/></r></p></e>
-       <e><p><l>تەڭرىتاغلىرى<s n="np"/><s n="top"/></l><r>Tanrı<b/>Dağları<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>بۇرسا<s n="np"/><s n="top"/></l><r>Bursa<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>كونيا<s n="np"/><s n="top"/></l><r>Konya<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>رۇمئەلى<s n="np"/><s n="top"/></l><r>Rumeli<s n="np"/><s n="top"/></r></p></e>
