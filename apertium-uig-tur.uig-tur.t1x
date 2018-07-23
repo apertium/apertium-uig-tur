@@ -221,11 +221,11 @@
 	<cat-item tags="adj.*.comp.*"/>
     </def-cat>
 
-    <def-cat n="compn">
-	<cat-item tags="n.comp"/>
-	<cat-item tags="n.comp.*"/>
-	<cat-item tags="n.*.comp"/>
-	<cat-item tags="n.*.comp.*"/>
+    <def-cat n="compadv">
+	<cat-item tags="adv.comp"/>
+	<cat-item tags="adv.comp.*"/>
+	<cat-item tags="adv.*.comp"/>
+	<cat-item tags="adv.*.comp.*"/>
     </def-cat>
 
     <def-cat n="kadar">
@@ -1325,8 +1325,8 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: comparative (yaxşıraq -> daha iyi)">
-<pattern>
+<rule comment="REGLA: comparative for adj ( xoşalraq -> daha mutlu)">
+      <pattern>
         <pattern-item n="comp"/>
       </pattern>
       <action>
@@ -1335,9 +1335,9 @@
           <clip pos="1" side="tl" part="a_cmp"/><lit v=""/>
         </let>
         <out>
-          <chunk name="a" case="caseFirstWord">
+          <chunk name="n" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SA"/></tag>
+              <tag><lit-tag v="SN"/></tag>
             </tags>
 	<lu>
 		<lit v="daha"/><lit-tag v="adv"/>
@@ -1351,9 +1351,9 @@
       </action>
     </rule>
 
-<rule comment="REGLA: comparative for nouns (güzelrek -> daha güzel)">
+<rule comment="REGLA: comparative for adv ( kéyinrek -> daha sonra)">
       <pattern>
-        <pattern-item n="compn"/>
+        <pattern-item n="compadv"/>
       </pattern>
       <action>
         <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
