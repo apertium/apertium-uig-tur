@@ -109,8 +109,8 @@
    <section id="main" type="standard">
 
       <!-- SECTION: Copula -->
-      <e r="LR"><p><l>ئى<s n="cop"/></l><r> </r></p></e>
-      <e r="LR"><p><l>ئې<s n="cop"/></l><r> </r></p></e>
+      <e><p><l>ئى<s n="cop"/></l><r>i<s n="cop"/></r></p></e>
+      <e><p><l>ئې<s n="cop"/></l><r>i<s n="cop"/></r></p></e>
       <e r="LR"><p><l>ئىكەن<s n="cop"/><s n="dub"/></l><r> </r></p></e>
       <e r="LR"><p><l>ئەمەس<s n="cop"/><s n="neg"/></l><r> </r></p></e>
      
