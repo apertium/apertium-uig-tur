@@ -165,6 +165,8 @@
 
 <e><p><l>قانچىلىك<s n="adv"/><s n="itg"/></l><r>ne<b/>kadar<s n="adv"/><s n="itg"/></r></p></e>
 
+<e><p><l>ھەربىر<s n="pron"/><s n="qnt"/></l><r>her<b/>bir<s n="pron"/><s n="qnt"/></r></p></e>
+
       <!-- SECTION: Determiners -->
        <e><p><l>مۇنۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
      <e><p><l>شۈ<s n="det"/><s n="dem"/></l><r>şu<s n="det"/><s n="dem"/></r></p></e>
@@ -174,6 +176,10 @@
 <e><p><l>ئاۋۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
 	<e><p><l>نەچچە<s n="det"/><s n="qnt"/></l><r>kaç<s n="det"/><s n="qnt"/></r></p></e>
 	<e><p><l>قانچە<s n="det"/><s n="qnt"/></l><r>kaç<s n="det"/><s n="qnt"/></r></p></e>
+
+   <e><p><l>ھەر<b/>بىر<s n="det"/><s n="qnt"/></l><r>her<b/>bir<s n="det"/><s n="qnt"/></r></p></e>
+       <e><p><l>ھەربىر<s n="det"/><s n="qnt"/></l><r>her<b/>bir<s n="det"/><s n="qnt"/></r></p></e>
+ 
       <!-- SECTION: Numerals -->
       <e><p><l>بىر<s n="num"/></l><r>bir<s n="num"/></r></p></e>
       <e><p><l>ئىككى<s n="num"/></l><r>iki<s n="num"/></r></p></e>
@@ -2842,8 +2848,7 @@
        <e><p><l>ئوخشاشلا<s n="adj"/></l><r>aynı<s n="adj"/></r></p></e>
        <e><p><l>ئابدۇخالىق<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdulhalik<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>توم<s n="np"/><s n="ant"/><s n="m"/></l><r>Tom<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-       <e><p><l>ھەر<b/>بىر<s n="det"/><s n="qnt"/></l><r>her<b/>bir<s n="det"/><s n="qnt"/></r></p></e>
-       <e><p><l>ھەربىر<s n="det"/><s n="qnt"/></l><r>her<b/>bir<s n="det"/><s n="qnt"/></r></p></e>
+    
        <e><p><l>قىرىق<s n="num"/></l><r>kırk<s n="num"/></r></p></e>
        <e><p><l>بۇددا<s n="n"/></l><r>Buda<s n="n"/></r></p></e>
        <e><p><l>قايناش<s n="n"/></l><r>kaynama<s n="n"/></r></p></e>
