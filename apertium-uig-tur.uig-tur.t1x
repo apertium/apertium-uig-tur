@@ -566,6 +566,7 @@
       </action>
     </rule>
 
+<!--
 <rule comment="regla: nouns (almamen → elmayım)">
       <pattern>
         <pattern-item n="noun"/>
@@ -648,8 +649,9 @@
         </out>
       </action>
     </rule>
+-->
 
-<!--
+<!-- this will stay, not about copula
 <rule comment="regla: gerund (qılış → kılmak)">
       <pattern>
         <pattern-item n="gerund"/>
@@ -678,7 +680,7 @@
       </action>
     </rule>
 -->
-
+<!--
 <rule comment="regla: adj (xoşalmen → mutluyum)">
       <pattern>
         <pattern-item n="adjsubst"/>
@@ -736,6 +738,7 @@
         </out>
       </action>
     </rule>
+-->
 
 <rule comment="regla: i-di (idi → idi)">
       <pattern>
