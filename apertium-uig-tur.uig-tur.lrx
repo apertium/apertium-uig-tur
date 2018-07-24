@@ -327,7 +327,6 @@
     </match>
   </rule>
 
-
 <rule>
     <match lemma="ئى" tags="v.iv.ger_past.*">
       <select lemma="ol" tags="v.iv.ger_past.*"/>
