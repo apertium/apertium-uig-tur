@@ -656,6 +656,7 @@
        <e><p><l>ئىنسانئوغلى<s n="n"/></l><r>insanoğlu<s n="n"/></r></p></e>
        <e><p><l>بۆز<s n="n"/></l><r>bez<s n="n"/></r></p></e>
        <e><p><l>خۇلاسە<s n="n"/></l><r>sonuç<s n="n"/></r></p></e>
+       
        <e><p><l>نەغمىچى<s n="n"/></l><r>şarkıcı<s n="n"/></r></p></e>
        <e><p><l>مىسىرلىق<s n="n"/></l><r>Mısırlı<s n="n"/></r></p></e>
        <e><p><l>تىرىلىش<s n="n"/></l><r>diriliş<s n="n"/></r></p></e>
@@ -664,6 +665,7 @@
        <e><p><l>كىمدەكىم<s n="adv"/></l><r>kim<s n="adv"/></r></p></e>
        <e><p><l>ئەبەدىلئەبەدگىچە<s n="adv"/></l><r>ebediyen<s n="adv"/></r></p></e>
        <e><p><l>خاتىرىلەن<s n="v"/><s n="iv"/></l><r>anıl<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>خۇلاسە<b/>قىل<s n="v"/><s n="tv"/></l><r>özetle<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ياندۇر<s n="v"/><s n="tv"/></l><r>yak<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>بەجا<b/>قىل<s n="v"/><s n="tv"/></l><r>yerine<b/>getir<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>چاق<s n="v"/><s n="tv"/></l><r>kır<s n="v"/><s n="tv"/></r></p></e>
@@ -1798,7 +1800,7 @@
        <e><p><l>قىبرىس<s n="np"/><s n="top"/></l><r>Kıbrıs<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ئانادولۇ<s n="np"/><s n="top"/></l><r>Anadolu<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>مۇنبىچ<s n="np"/><s n="top"/></l><r>Münbiç<s n="np"/><s n="top"/></r></p></e>
-       <e><p><l>بىرسى<s n="prn"/><s n="pers"/></l><r>birisi<s n="prn"/><s n="ind"/><s n="px3sp"/><s n="nom"/></r></p></e>
+       <e><p><l>بىرسى<s n="prn"/><s n="qnt"/></l><r>birisi<s n="prn"/><s n="qnt"/></r></p></e>
        <e><p><l>توغرۇلۇق<s n="post"/></l><r>hakkında<s n="post"/></r></p></e>
        <e><p><l>بىلەن<s n="post"/></l><r>ile<s n="post"/></r></p></e>
        <e><p><l>توغرۇلۇق<s n="post"/></l><r>için<s n="post"/></r></p></e>
@@ -1881,7 +1883,7 @@
        <e><p><l>ۋەھىي<s n="n"/></l><r>vahiy<s n="n"/></r></p></e>
        <e><p><l>جەمەت<s n="n"/></l><r>soy<s n="n"/></r></p></e>
        <e><p><l>گەز<s n="n"/></l><r>gez<s n="n"/></r></p></e>
-       <e><p><l>بەيت-سائىدالىق<s n="n"/></l><r>Beysaidalı<s n="n"/></r></p></e>
+       <e><p><l>بەيت-سائىدالىق<s n="n"/></l><r>Beytsaidalı<s n="n"/></r></p></e>
        <e><p><l>خۇداي<s n="n"/></l><r>Tanrı<s n="n"/></r></p></e>
        <e><p><l>ئەرش<s n="n"/></l><r>arş<s n="n"/></r></p></e>
        <e><p><l>بەيت-سائىدا<s n="np"/><s n="top"/></l><r>Beytsaida<s n="np"/><s n="top"/></r></p></e>
@@ -1975,7 +1977,7 @@
        <e><p><l>قوچقار<s n="n"/></l><r>koç<s n="n"/></r></p></e>
        <e><p><l>پەرىسىي<s n="n"/></l><r>Ferisî<s n="n"/></r></p></e>
        <e><p><l>پادا<s n="n"/></l><r>sürü<s n="n"/></r></p></e>
-       <e><p><l>نىجات<s n="n"/></l><r>kurtarıcı<s n="n"/></r></p></e>
+       <e><p><l>نىجات<s n="n"/></l><r>kurtuluş<s n="n"/></r></p></e>
        <e><p><l>قورام<s n="n"/></l><r>taş<s n="n"/></r></p></e>
        <e><p><l>نىجاتلىق<s n="n"/></l><r>kurtuluş<s n="n"/></r></p></e>
        <e><p><l>موئاب<s n="np"/><s n="top"/></l><r>Moab<s n="np"/><s n="top"/></r></p></e>
