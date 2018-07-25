@@ -479,61 +479,27 @@
 
 
   <def-macro n="f_first_word1" npar="1"><!--nova versió 8-febr-08  -->
-      
-	  <choose>
-	    <when>
-	      <test>
-		<equal> 
-		  <var n="EOS"/>
-		  <lit v="true"/>
-		</equal> 
-	      </test>
+    <choose>
+      <when>
+	      <test><equal> <var n="EOS"/><lit v="true"/></equal></test>
 	      <choose>
 		<when>
 		  <test>
 		    <and>
-		       <equal>
-			<clip pos="1" side="sl" part="a_np_acr"/>
-			<lit v=""/>
-		      </equal>
-		      <not>
-			<in>
-			  <clip pos="1" side="tl" part="lem"/>
-			  <list n="en_majuscules"/>
-			</in>
-		      </not> 	      
+                      <equal><clip pos="1" side="sl" part="a_np_acr"/><lit v=""/></equal>
+		      <not><in><clip pos="1" side="tl" part="lem"/><list n="en_majuscules"/></in></not> 	      
 		    </and>
 		  </test>
-		  <modify-case>
-		    <clip pos="1" side="tl" part="lem"/>
-		    <lit v="aa"/>
-		  </modify-case>
+		  <modify-case><clip pos="1" side="tl" part="lem"/><lit v="aa"/></modify-case>
 		</when>
 	      </choose>
-	      <let>
-		<var n="caseFirstWord"/>
-		<lit v="Aa"/>
-	      </let>
+	      <let><var n="caseFirstWord"/><lit v="Aa"/></let>
 	    </when>
 	    <otherwise> 
-	      <let>
-		<var n="caseFirstWord"/>
-		<lit v="aa"/>
-	      </let>
+	      <let><var n="caseFirstWord"/><lit v="aa"/></let>
 	    </otherwise>
-	  </choose>
-<!--	</when>
-	<otherwise>
-	  <let>
-	    <var n="caseFirstWord"/>
-	    <lit v="aa"/>
-	  </let>
-	</otherwise>
-      </choose>-->
-      <let>
-	<var n="EOS"/>
-	<lit v="false"/>
-      </let>
+      </choose>
+      <let><var n="EOS"/><lit v="false"/></let>
     </def-macro>
 
   </section-def-macros>
