@@ -2528,7 +2528,6 @@
        <e><p><l>ئابدۇشۈكۇر<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdüşşükür<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
   <e><p><l>ئابدۇشۇكۇر<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdüşşükür<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>مەسئۇد<s n="np"/><s n="ant"/><s n="m"/></l><r>Mesut<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-       <e><p><l>ن<s n="n"/></l><r>N<s n="n"/></r></p></e>
        <e><p><l>توۋا<s n="n"/></l><r>tövbe<s n="n"/></r></p></e>
        <e><p><l>پىتىر<s n="n"/></l><r>fitre<s n="n"/></r></p></e>
        <e><p><l>كومېتەت<s n="n"/></l><r>komite<s n="n"/></r></p></e>
@@ -8402,6 +8401,7 @@
       <e r="LR"><re>[a-zü]+</re>          <p><l><s n="barb"/></l>  <r><s n="barb"/></r></p></e>
       <e><p><l>،<s n="cm"/></l>  <r>,<s n="cm"/></r></p></e>
       <e><p><l>؛<s n="sent"/></l>  <r>;<s n="sent"/></r></p></e>
+      <e><p><l>℃<s n="sym"/></l>  <r>°C<s n="sym"/></r></p></e>
       <e><re>[0-9]+</re>          <p><l><s n="num"/></l>  <r><s n="num"/></r></p></e>
    </section>
 </dictionary>
