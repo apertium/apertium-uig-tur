@@ -167,6 +167,11 @@
 
 <e><p><l>ھەربىر<s n="prn"/><s n="qnt"/></l><r>her<b/>bir<s n="prn"/><s n="qnt"/></r></p></e>
 <e><p><l>ھېچقايسى<s n="prn"/><s n="qnt"/></l><r>kimse<s n="prn"/><s n="qnt"/></r></p></e>
+    <e><p><l>ئىككىلى<s n="prn"/><s n="qnt"/></l><r>iki<s n="num"/></r></p></e>
+       
+<e><p><l>ھىچبىر<s n="prn"/><s n="qnt"/></l><r>hiçbir<s n="prn"/><s n="qnt"/></r></p></e>
+
+<e><p><l>ھېچبىر<s n="prn"/><s n="qnt"/></l><r>hiçbir<s n="prn"/><s n="neg"/></r></p></e>
 
       <!-- SECTION: Determiners -->
        <e><p><l>مۇنۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
@@ -180,7 +185,8 @@
 
    <e><p><l>ھەر<b/>بىر<s n="det"/><s n="qnt"/></l><r>her<b/>bir<s n="det"/><s n="qnt"/></r></p></e>
        <e><p><l>ھەربىر<s n="det"/><s n="qnt"/></l><r>her<b/>bir<s n="det"/><s n="qnt"/></r></p></e>
- 
+ <e><p><l>ھىچبىر<s n="det"/><s n="qnt"/></l><r>hiçbir<s n="det"/><s n="neg"/></r></p></e>
+<e><p><l>ھېچبىر<s n="det"/><s n="qnt"/></l><r>hiçbir<s n="det"/><s n="neg"/></r></p></e>
       <!-- SECTION: Numerals -->
       <e><p><l>بىر<s n="num"/></l><r>bir<s n="num"/></r></p></e>
       <e><p><l>ئىككى<s n="num"/></l><r>iki<s n="num"/></r></p></e>
@@ -5156,9 +5162,7 @@
        <e><p><l>قىسقۇچپاقا<s n="n"/></l><r>yengeç<s n="n"/></r></p></e>
        <e><p><l>يالغانچى<s n="n"/></l><r>yalancı<s n="n"/></r></p></e>
        <e><p><l>مۈشۈكياپىلاق<s n="n"/></l><r>baykuş<s n="n"/></r></p></e>
-       <e><p><l>ئىككىلى<s n="prn"/><s n="qnt"/></l><r>iki<s n="num"/></r></p></e>
-       <e><p><l>ھىچبىر<s n="det"/><s n="qnt"/></l><r>hiçbir<s n="det"/><s n="neg"/></r></p></e>
-<e><p><l>ھېچبىر<s n="det"/><s n="qnt"/></l><r>hiçbir<s n="det"/><s n="neg"/></r></p></e>
+   
        <e><p><l>نىمانچە<s n="adv"/></l><r>niye<s n="adv"/></r></p></e>
        <e><p><l>نېمانچە<s n="adv"/></l><r>niye<s n="adv"/></r></p></e>
        <e><p><l>نىمىشقا<s n="adv"/></l><r>neden<s n="adv"/></r></p></e>
@@ -5564,6 +5568,7 @@
        <e><p><l>شىۋېتسىيە<s n="np"/><s n="top"/></l><r>İsveç<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>بىر<s n="prn"/><s n="pers"/></l><r>bir<s n="prn"/><s n="pers"/></r></p></e>
        <e><p><l>سىز<s n="prn"/><s n="pers"/></l><r>siz<s n="prn"/><s n="pers"/></r></p></e>
+  <e><p><l>سىلى<s n="prn"/><s n="pers"/></l><r>siz<s n="prn"/><s n="pers"/></r></p></e>
        <e><p><l>بارغانچە<s n="adv"/></l><r>gittikçe<s n="adv"/></r></p></e>
        <e><p><l>ھازىرغا<s n="adv"/></l><r>şimdilik<s n="adv"/></r></p></e>
        <e><p><l>قالماي<s n="adv"/></l><r>kalmadan<s n="adv"/></r></p></e>
