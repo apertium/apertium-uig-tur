@@ -122,6 +122,10 @@
       <cat-item tags="v.*.*.gpr_rsub3.*"/>
       <cat-item tags="vaux.gpr_rsub3.*"/>
       <cat-item tags="vaux.*.gpr_rsub3.*"/>
+     <cat-item tags="v.*.gpr_rsub4.*"/>
+      <cat-item tags="v.*.*.gpr_rsub4.*"/>
+      <cat-item tags="vaux.gpr_rsub4.*"/>
+      <cat-item tags="vaux.*.gpr_rsub4.*"/>
     </def-cat>
 
     <def-cat n="prog">
@@ -359,6 +363,7 @@
       <attr-item tags="gpr_rsub"/>
       <attr-item tags="gpr_rsub2"/>
       <attr-item tags="gpr_rsub3"/>
+      <attr-item tags="gpr_rsub4"/>
       <attr-item tags="gna_when2"/>
       <attr-item tags="gpr_fut"/>
       <attr-item tags="gpr_fut2"/>
