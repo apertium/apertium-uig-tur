@@ -55,6 +55,10 @@
       <cat-item tags="prn.ref.pl.px3sp.*"/>
     </def-cat>
 
+<def-cat n="plfrm">
+      <cat-item tags="prn.pers.p2.frm.pl.*"/>
+    </def-cat>
+
     <def-cat n="adjgm">
       <cat-item tags="adj.gm"/>
     </def-cat>
@@ -1638,6 +1642,34 @@
 	     <clip pos="1" side="tl" part="a_cas"/>
           </lu>
   </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: 2plfrm (siler → siz)">
+      <pattern>
+        <pattern-item n="plfrm"/>
+      </pattern>
+      <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
+   <let>
+          <clip pos="1" side="tl" part="a_frm"/>
+	<lit-tag v=""/>
+        </let>
+           <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lem"/>
+	     <lit-tag v="prn"/>
+	     <lit-tag v="pers"/>
+	     <lit-tag v="p2"/>
+	     <lit-tag v="pl"/>
+	     <clip pos="1" side="tl" part="a_cas"/>
+          </lu>
+	  </chunk>
         </out>
       </action>
     </rule>
