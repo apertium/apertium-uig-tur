@@ -303,6 +303,12 @@
   </rule>
 
 <rule>
+    <match lemma="سۆزلە" tags="v.*">
+      <select lemma="konuş" tags="v.*"/>
+    </match>
+  </rule>
+
+<rule>
     <match lemma="ئادا-جۇدا" tags="adj.*">
       <select lemma="uzak" tags="adj.*"/>
     </match>
