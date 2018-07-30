@@ -1964,6 +1964,8 @@
        <e><p><l>سۆزلەش<s n="v"/><s n="iv"/></l><r>sözleş<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>توقۇن<s n="v"/><s n="tv"/></l><r>dokun<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>تەۋرەت<s n="v"/><s n="tv"/></l><r>titret<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>مۇبارەكلە<s n="v"/><s n="tv"/></l><r>kutla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>خاتىرلە<s n="v"/><s n="tv"/></l><r>an<s n="v"/><s n="tv"/></r></p></e>
 
        <e><p><l>شەن<s n="np"/><s n="cog"/><s n="mf"/></l><r>Şen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
        <e><p><l>ئايدىن<s n="np"/><s n="cog"/><s n="mf"/></l><r>Aydın<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -2611,7 +2613,8 @@
        <e><p><l>جىنايى<s n="adj"/></l><r>cinayi<s n="adj"/></r></p></e>
        <e><p><l>ئېشىنچا<s n="adj"/></l><r>artık<s n="adj"/></r></p></e>
        <e><p><l>كونكرېت<s n="adj"/></l><r>açık<s n="adj"/></r></p></e>
-       <e><p><l>تېببىي<s n="adj"/></l><r>doğal<s n="adj"/></r></p></e>
+       <e><p><l>تېببىي<s n="adj"/></l><r>tıbbî<s n="adj"/></r></p></e>
+       <e><p><l>تىببىي<s n="adj"/></l><r>tıbbî<s n="adj"/></r></p></e>
        <e><p><l>ھۆججەتلىك<s n="adj"/></l><r>bölgesel<s n="adj"/></r></p></e>
        <e><p><l>نامرات<s n="adj"/></l><r>yoksul<s n="adj"/></r></p></e>
        <e><p><l>بەھرىمەن<s n="adj"/></l><r>yararlanan<s n="adj"/></r></p></e>
@@ -5304,6 +5307,7 @@
        <e><p><l>ساھە<s n="n"/></l><r>alan<s n="n"/></r></p></e>
        <e><p><l>ھەيران<s n="n"/></l><r>hayran<s n="n"/></r></p></e>
        <e><p><l>ۋەتەن<s n="n"/></l><r>vatan<s n="n"/></r></p></e>
+       <e><p><l>ۋەتەنسىز<s n="adj"/></l><r>vatansız<s n="adj"/></r></p></e>
        <e><p><l>تاراتقۇ<s n="n"/></l><r>yayın<s n="n"/></r></p></e>
        <e><p><l>ئاپتور<s n="n"/></l><r>yazar<s n="n"/></r></p></e>
        <e><p><l>شەھىر<s n="n"/></l><r>şehir<s n="n"/></r></p></e>
@@ -6695,6 +6699,7 @@
        <e><p><l>تىلاۋەت<b/>قىل<s n="v"/><s n="tv"/></l><r>oku<s n="v"/><s n="tv"/></r></p></e>
 
     <e><p><l>ھەجەر<s n="np"/><s n="ant"/><s n="f"/></l><r>Hacer<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+       <e><p><l>باقى<s n="np"/><s n="cog"/><s n="mf"/></l><r>Bakî<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
        <e><p><l>قەشقەرى<s n="np"/><s n="cog"/><s n="mf"/></l><r>Kaşgari<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
        <e><p><l>ئەزھەر<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ezher<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
        <e><p><l>ئىدىقۇت<s n="np"/><s n="cog"/><s n="mf"/></l><r>İdikut<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -7977,7 +7982,6 @@
       <e><p><l>يىلتىز<s n="n"/></l><r>mazeret<s n="n"/></r></p></e>
       <e><p><l>ياردەم<s n="n"/></l><r>medet<s n="n"/></r></p></e>
       <e><p><l>ماكان<s n="n"/></l><r>mekan<s n="n"/></r></p></e>
-      <e><p><l>خەت<s n="n"/></l><r>mektup<s n="n"/></r></p></e>
       <e><p><l>مەملىكەت<s n="n"/></l><r>memleket<s n="n"/></r></p></e>
       <e><p><l>ئەل<s n="n"/></l><r>memleket<s n="n"/></r></p></e>
       <e><p><l>ئەزا<s n="n"/></l><r>mensup<s n="n"/></r></p></e>
@@ -8011,6 +8015,7 @@
       <e><p><l>مۆلچەر<s n="n"/></l><r>miktar<s n="n"/></r></p></e>
       <e><p><l>مىللەت<s n="n"/></l><r>millet<s n="n"/></r></p></e>
       <e><p><l>مىللىي<s n="adj"/></l><r>milli<s n="adj"/></r></p></e>
+      <e r="LR"><p><l>مىللي<s n="adj"/></l><r>milli<s n="adj"/></r></p></e>
       <e><p><l>مىراس<s n="n"/></l><r>miras<s n="n"/></r></p></e>
       <e><p><l>جەز<s n="n"/></l><r>mis<s n="n"/></r></p></e>
       <e><p><l>پىلىموت<s n="n"/></l><r>mitralyöz<s n="n"/></r></p></e>
@@ -9198,6 +9203,7 @@
       <e><p><l>يوشۇرۇنچە<s n="adj"/></l><r>gizlice<s n="adv"/></r></p></e>
 <e><p><l>يوشۇرۇن<s n="adj"/></l><r>saklı<s n="adj"/></r></p></e>
       <e><p><l>سۇن<s n="v"/><s n="tv"/></l><r>uzat<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>سۇن<s n="v"/><s n="tv"/></l><r>sun<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>سۇن<s n="v"/><s n="iv"/></l><r>kırıl<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>سىڭ<s n="v"/><s n="iv"/></l><r>sin<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>سەمرى<s n="v"/><s n="iv"/></l><r>semir<s n="v"/><s n="iv"/></r></p></e>
