@@ -121,6 +121,7 @@
       <e><p><l>ئەمما<s n="cnjcoo"/></l><r>ama<s n="cnjcoo"/></r></p></e>
       <e><p><l>ياكى<s n="cnjcoo"/></l><r>veya<s n="cnjcoo"/></r></p></e>
       <!-- SECTION: Postpositions -->
+      <e><p><l>سىز<s n="post"/></l><r>sız<s n="post"/></r></p></e>
       <e><p><l>مۇ<s n="postadv"/></l><r>da<s n="postadv"/></r></p></e>
       <e><p><l>كى<s n="cnjadv"/></l><r>ki<s n="cnjadv"/></r></p></e>
        <e><p><l>ئارتۇق<s n="post"/></l><r>fazla<s n="post"/></r></p></e>
@@ -6198,7 +6199,7 @@
        <e><p><l>تەنقىدلە<s n="v"/><s n="tv"/></l><r>eleştir<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>باس<s n="v"/><s n="tv"/></l><r>bas<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئاڭلات<s n="v"/><s n="tv"/></l><r>ilan<b/>et<s n="v"/><s n="tv"/></r></p></e>
-       <e><p><l>كۆزەت<s n="v"/><s n="tv"/></l><r>gözet<s n="v"/><s n="tv"/></r></p></e>
+   
        <e><p><l>تارقات<s n="v"/><s n="tv"/></l><r>dağıt<s n="v"/><s n="tv"/></r></p></e>
 
        <e><p><l>كونا<s n="adj"/></l><r>eski<s n="adj"/></r></p></e>
@@ -6408,6 +6409,7 @@
 
 
        <e><p><l>كۆزەتكۈچى<s n="n"/></l><r>gözlemci<s n="n"/></r></p></e>
+       <e><p><l>كۆزەتكۈچى<s n="n"/></l><r>ekran<s n="n"/></r></p></e>
        <e><p><l>ئوقۇغۇچى<s n="n"/></l><r>öğrenci<s n="n"/></r></p></e>
        <e><p><l>تەنقىد<s n="n"/></l><r>eleştiri<s n="n"/></r></p></e>
        <e><p><l>پارتكوم<s n="n"/></l><r>parti<b/>komitesi<s n="n"/></r></p></e>
@@ -7803,6 +7805,8 @@
       <e><p><l>ئىسىم<s n="n"/></l><r>isim<s n="n"/></r></p></e>
       <e><p><l>دەلىل<s n="n"/></l><r>ispat<s n="n"/></r></p></e>
       <e><p><l>ئىشسىزلىق<s n="n"/></l><r>işsizlik<s n="n"/></r></p></e>
+      <e><p><l>ئىشسىز<s n="n"/></l><r>işsiz<s n="n"/></r></p></e>
+      <e><p><l>ئىشسىز<s n="adj"/></l><r>işsiz<s n="adj"/></r></p></e>
       <e><p><l>ستاتىستىكىلىماق<s n="n"/></l><r>istatistik<s n="n"/></r></p></e>
       <e><p><l>تىلەك<s n="n"/></l><r>istek<s n="n"/></r></p></e>
       <e><p><l>مەلۇمات<s n="n"/></l><r>istihbarat<s n="n"/></r></p></e>
@@ -9138,6 +9142,7 @@
       <e><p><l>چۈش<s n="v"/><s n="iv"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>ئاتلان<s n="v"/><s n="iv"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>كىي<s n="v"/><s n="tv"/></l><r>giy<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>كىيىش<s n="v"/><s n="tv"/></l><r>giy<s n="v"/><s n="tv"/></r></p></e>
       <e><p><l>كۆچ<s n="v"/><s n="iv"/></l><r>göç<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>كۆرۈن<s n="v"/><s n="iv"/></l><r>görün<s n="v"/><s n="iv"/></r></p></e>
       <e><p><l>بىل<s n="v"/><s n="tv"/></l><r>bil<s n="v"/><s n="tv"/></r></p></e>

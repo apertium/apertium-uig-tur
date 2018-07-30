@@ -218,6 +218,12 @@
   </rule>
 
 <rule>
+    <match lemma="خىتايچە" tags="n.nom">
+      <select lemma="Çince" tags="n.nom"/>
+    </match>
+  </rule>
+
+<rule>
     <match lemma="ياش" tags="n.*">
       <select lemma="genç" tags="n.*"/>
     </match>
