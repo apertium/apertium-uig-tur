@@ -1561,7 +1561,6 @@
        <e><p><l>ئامىرىكا<s n="np"/><s n="top"/></l><r>Amerika<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>غەززە<s n="np"/><s n="top"/></l><r>Gazze<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>دىگۈدەك<s n="adv"/></l><r>nerdeyse<s n="adv"/></r></p></e>
-       <e><p><l>دېگۈدەك<s n="adv"/></l><r>nerdeyse<s n="adv"/></r></p></e>
        <e><p><l>كېرەككى<s n="adv"/></l><r>gerek<b/>ki<s n="adv"/></r></p></e>
        <e><p><l>ئىپادىلە<s n="v"/><s n="tv"/></l><r>ifade<b/>et<s n="v"/><s n="tv"/></r></p></e>
    <e><p><l>ئىپادىلى<s n="v"/><s n="tv"/></l><r>ifade<b/>et<s n="v"/><s n="tv"/></r></p></e>
@@ -3331,6 +3330,7 @@
        <e><p><l>تۇتاش<s n="adj"/></l><r>bağlı<s n="adj"/></r></p></e>
        <e><p><l>مەۋلۈدە<s n="np"/><s n="ant"/><s n="f"/></l><r>Mevlüde<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
        <e><p><l>شى<s n="np"/><s n="ant"/><s n="m"/></l><r>Şi<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>نى<s n="np"/><s n="ant"/><s n="m"/></l><r>Ni<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>ئامانگۈل<s n="np"/><s n="ant"/><s n="m"/></l><r>Amangül<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>قېيۇم<s n="np"/><s n="ant"/><s n="m"/></l><r>Keyum<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>قۇربانجان<s n="np"/><s n="ant"/><s n="m"/></l><r>Kurbancan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -6477,7 +6477,7 @@
        <e><p><l>بەلكى<s n="adv"/></l><r>belki<s n="adv"/></r></p></e>
        <e><p><l>دەرھال<s n="adv"/></l><r>derhal<s n="adv"/></r></p></e>
  
-       <e><p><l>تېخى<s n="adv"/></l><r>halen<s n="adv"/></r></p></e>
+       <e><p><l>تېخى<s n="adv"/></l><r>daha<s n="adv"/></r></p></e>
        <e><p><l>جۈملىدىن<s n="adv"/></l><r>cümleten<s n="adv"/></r></p></e>
        <e><p><l>پۈتۈنلەي<s n="adv"/></l><r>büsbütün<s n="adv"/></r></p></e>
        <e><p><l>ھېچقانداق<s n="adv"/></l><r>hiçbir<b/>türlü<s n="adv"/></r></p></e>

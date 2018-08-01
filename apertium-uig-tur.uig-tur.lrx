@@ -218,8 +218,8 @@
   </rule>
 
 <rule>
-    <match lemma="خىتايچە" tags="n.nom">
-      <select lemma="Çince" tags="n.nom"/>
+    <match lemma="خىتايچە" tags="n.*">
+      <select lemma="Çince" tags="n.*"/>
     </match>
   </rule>
 
@@ -307,6 +307,7 @@
       <select lemma="konuş" tags="v.*"/>
     </match>
   </rule>
+
 
 <rule>
     <match lemma="ئادا-جۇدا" tags="adj.*">
