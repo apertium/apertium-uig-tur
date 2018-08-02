@@ -25,6 +25,7 @@ def monofy(line,left=True):
 	    '<s n="det"/><s n="dem"/>':"DET-DEM",
 	    '<s n="cog"/><s n="mf"/>':"NP-COG-MF",
             '<s n="prn"/><s n="qnt"/>':"PRON-QNT",
+            '<s n="prn"/><s n="dem"/>':"PRON-DEM",
             '<s n="num"/><s n="num"/>':"NUM"
 }
 

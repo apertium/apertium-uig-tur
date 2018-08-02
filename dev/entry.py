@@ -18,6 +18,7 @@ def entrify(line):
 "cog":'<s n="np"/><s n="cog"/><s n="mf"/>',
 "interj":'<s n="ij"/>',
 "org":'<s n="np"/><s n="org"/>',
+"al":'<s n="np"/><s n="al"/>',
 "num":'<s n="num"/>',
 "det":'<s n="det"/><s n="dem"/>'
 }
