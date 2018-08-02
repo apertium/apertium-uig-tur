@@ -30,10 +30,9 @@
       <cat-item tags="np.top"/>
     </def-cat>
 
-<def-cat n="adjsubst">
-      <cat-item tags="adj.*.p1.*"/>
-      <cat-item tags="adj.*.p2.*"/>
-      <cat-item tags="adj.*.p3.*"/>
+<def-cat n="adjfrmposs">
+     <cat-item tags="adj.*.px2pl.frm.*"/>
+      <cat-item tags="adj.px2pl.frm.*"/>
     </def-cat>
 
 <def-cat n="numsubst">
@@ -63,6 +62,11 @@
       <cat-item tags="n.*.px2pl.frm.*"/>
       <cat-item tags="n.px2pl.frm.*"/>
     </def-cat>
+
+<def-cat n="prnreffrm">
+      <cat-item tags="prn.ref.px2pl.frm.*"/>
+    </def-cat>
+
 
     <def-cat n="adjgm">
       <cat-item tags="adj.gm"/>
@@ -1698,6 +1702,61 @@
              <clip pos="1" side="tl" part="lem"/>
 	     <lit-tag v="n"/>
 	     <clip pos="1" side="tl" part="a_pl"/>
+	     <lit-tag v="px2pl"/>
+	     <clip pos="1" side="tl" part="a_cas"/>
+          </lu>
+	  </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: adjfrmposs (almangız → elmanız)">
+      <pattern>
+        <pattern-item n="adjfrmposs"/>
+      </pattern>
+      <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
+   <let>
+          <clip pos="1" side="tl" part="a_frm"/>
+	<lit-tag v=""/>
+        </let>
+           <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lem"/>
+	     <lit-tag v="adj"/>
+	     <lit-tag v="subst"/>
+	     <clip pos="1" side="tl" part="a_pl"/>
+	     <lit-tag v="px2pl"/>
+	     <clip pos="1" side="tl" part="a_cas"/>
+          </lu>
+	  </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: prnfreffrm (özingiz → kendiniz)">
+      <pattern>
+        <pattern-item n="prnreffrm"/>
+      </pattern>
+      <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
+   <let>
+          <clip pos="1" side="tl" part="a_frm"/>
+	<lit-tag v=""/>
+        </let>
+           <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lem"/>
+	     <lit-tag v="prn"/>
+	     <lit-tag v="ref"/>
 	     <lit-tag v="px2pl"/>
 	     <clip pos="1" side="tl" part="a_cas"/>
           </lu>

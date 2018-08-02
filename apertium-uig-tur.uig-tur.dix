@@ -697,7 +697,6 @@
        <e><p><l>بەكلا<s n="adv"/></l><r>epey<s n="adv"/></r></p></e>
        <e><p><l>بىردەم<s n="adv"/></l><r>biraz<s n="adv"/></r></p></e>
        <e><p><l>زادىلا<s n="adv"/></l><r>hiç<s n="adv"/></r></p></e>
-       <e><p><l>تېخىمۇ<s n="adv"/></l><r>daha<b/>da<s n="adv"/></r></p></e>
        <e><p><l>كۆڭۈللۈك<s n="adv"/></l><r>gönüllü<s n="adv"/></r></p></e>
        <e><p><l>چاقنا<s n="v"/><s n="iv"/></l><r>parla<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>چۆچ<s n="v"/><s n="iv"/></l><r>sıçra<s n="v"/><s n="iv"/></r></p></e>
@@ -2902,7 +2901,6 @@
        <e><p><l>EX360<s n="n"/></l><r>EX360<s n="n"/></r></p></e>
        <e><p><l>د<b/>ن<b/>ئا<s n="n"/></l><r>DNA<s n="n"/></r></p></e>
        <e><p><l>د<b/>ۋ<b/>د<s n="n"/></l><r>DVD<s n="n"/></r></p></e>
-       <e><p><l>ق<s n="n"/></l><r>K<s n="n"/></r></p></e>
        <e><p><l>ت<b/>ۋ<s n="n"/></l><r>televizyon<s n="n"/></r></p></e>
        <e><p><l>ك<b/>د<s n="n"/></l><r>KD<s n="n"/></r></p></e>
        <e><p><l>ك<b/>م<s n="n"/></l><r>kilometre<s n="n"/></r></p></e>
@@ -2991,7 +2989,6 @@
        <e><p><l>غۇسل<s n="n"/></l><r>gusul<s n="n"/></r></p></e>
        <e><p><l>ھېيتگاھ<s n="n"/></l><r>alan<s n="n"/></r></p></e>
        <e><p><l>ھىسابات<s n="n"/></l><r>hesap<s n="n"/></r></p></e>
-       <e><p><l>ش<s n="n"/></l><r>Ş<s n="n"/></r></p></e>
        <e><p><l>سەئىدىيە<s n="np"/><s n="top"/></l><r>Seidiye<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>تىخىمۇ<s n="adv"/></l><r>daha<b/>da<s n="adv"/></r></p></e>
        <e><p><l>تىخى<s n="adv"/></l><r>daha<s n="adv"/></r></p></e>
@@ -5229,6 +5226,7 @@
        <e><p><l>ئېكولوگىيە<s n="n"/></l><r>ekoloji<s n="n"/></r></p></e>
        <e><p><l>مېتېئورولوگىيە<s n="n"/></l><r>meteoroloji<s n="n"/></r></p></e>
        <e><p><l>گوۋۇيۈەن<s n="np"/><s n="org"/></l><r>Çin<b/>Devlet<b/>Konseyi<s n="np"/><s n="org"/></r></p></e>
+<e><p><l>گوۋۇيۈئەن<s n="np"/><s n="org"/></l><r>Çin<b/>Devlet<b/>Konseyi<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>يۈكسەك<s n="n"/></l><r>yüksek<s n="n"/></r></p></e>
        <e><p><l>باشلامچىلىق<s n="n"/></l><r>önderlik<s n="n"/></r></p></e>
        <e><p><l>ۋارىسلىق<s n="n"/></l><r>varislik<s n="n"/></r></p></e>
@@ -6211,7 +6209,6 @@
        <e><p><l>ئاغدۇر<s n="v"/><s n="tv"/></l><r>çevir<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئاساسلا<s n="v"/><s n="tv"/></l><r>kur<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>تاپشۇرۇۋال<s n="v"/><s n="tv"/></l><r>teslim<b/>et<s n="v"/><s n="tv"/></r></p></e>
-       <e><p><l>كېڭەيتىل<s n="v"/><s n="tv"/></l><r>genişlet<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئىشلەپچىقار<s n="v"/><s n="tv"/></l><r>üret<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>يۈرۈت<s n="v"/><s n="tv"/></l><r>yürüt<s n="v"/><s n="tv"/></r></p></e>
 
