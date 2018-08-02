@@ -346,6 +346,7 @@
        <e><p><l>كەرىموف<s n="np"/><s n="cog"/><s n="mf"/></l><r>Kerimov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
        <e><p><l>ئاۋىئاتسىيە<s n="np"/><s n="org"/></l><r>Aviyatsiya<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>ئىنتېرپول<s n="np"/><s n="org"/></l><r>İnterpol<s n="np"/><s n="org"/></r></p></e>
+       <e><p><l>كومپارتىيە<s n="np"/><s n="org"/></l><r>Komünist<b/>Partisi<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>تۇغقان<s n="adj"/></l><r>akraba<s n="adj"/></r></p></e>
        <e><p><l>ئەتىگەنلىك<s n="adj"/></l><r>sabahki<s n="adj"/></r></p></e>
        <e><p><l>زۆرۈرىي<s n="adj"/></l><r>gerekli<s n="adj"/></r></p></e>
@@ -3451,7 +3452,7 @@
        <e><p><l>ئال<s n="n"/></l><r>hile<s n="n"/></r></p></e>
        <e><p><l>فوتوسۈرەت<s n="n"/></l><r>fotoğraf<s n="n"/></r></p></e>
        <e><p><l>نورمالسىزلىق<s n="n"/></l><r>anomali<s n="n"/></r></p></e>
-       <e><p><l>تەنتەربىيە<s n="n"/></l><r>beden<b/>eğitimi<s n="n"/></r></p></e>
+       <e><p><l>تەنتەربىيە<s n="n"/></l><r>spor<s n="n"/></r></p></e>
        <e><p><l>شياۋمى<s n="np"/><s n="org"/></l><r>Xiaomi<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>نەزەرىيە<s n="n"/></l><r>öneri<s n="n"/></r></p></e>
        <e><p><l>شۇجى<s n="n"/></l><r>sekreter<s n="n"/></r></p></e>
@@ -6322,7 +6323,7 @@
        <e><p><l>خاتا<s n="n"/></l><r>hata<s n="n"/></r></p></e>
        <e><p><l>گەپ<s n="n"/></l><r>laf<s n="n"/></r></p></e>
        <e><p><l>سەئۇدى<s n="n"/></l><r>Suudi<s n="n"/></r></p></e>
-       <e><p><l>كومپارتىيە<s n="n"/></l><r>Komünist<b/>Partisi<s n="n"/></r></p></e>
+
        <e><p><l>غازى<s n="n"/></l><r>gazi<s n="n"/></r></p></e>
        <e><p><l>دېھقان<s n="n"/></l><r>çiftçi<s n="n"/></r></p></e>
        <e><p><l>ئايروپىلان<s n="n"/></l><r>uçak<s n="n"/></r></p></e>
