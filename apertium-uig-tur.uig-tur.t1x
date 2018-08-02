@@ -1551,7 +1551,7 @@
         </out>
       </action>
     </rule>
-
+<!--
 <rule comment="regla: dub (atken → atmış)">
       <pattern>
         <pattern-item n="ndub"/>
@@ -1598,7 +1598,7 @@
         </out>
       </action>
     </rule>
-
+-->
 <rule comment="regla: prn_ref (özliri → kendileri)">
       <pattern>
         <pattern-item n="prn_refpl"/>
