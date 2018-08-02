@@ -61,6 +61,7 @@
 
 <def-cat n="frmposs">
       <cat-item tags="n.*.px2pl.frm.*"/>
+      <cat-item tags="n.px2pl.frm.*"/>
     </def-cat>
 
     <def-cat n="adjgm">
