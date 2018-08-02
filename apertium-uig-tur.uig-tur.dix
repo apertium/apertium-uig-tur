@@ -2565,6 +2565,7 @@
        <e><p><l>كۈت<s n="v"/><s n="tv"/></l><r>bekle<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>تازىلا<s n="v"/><s n="tv"/></l><r>temizle<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئاتا<s n="v"/><s n="tv"/></l><r>an<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>ئاتال<s n="v"/><s n="iv"/></l><r>anıl<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ئاگاھلاندۇر<s n="v"/><s n="tv"/></l><r>bildir<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>كۈچەيت<s n="v"/><s n="tv"/></l><r>güçlendir<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>تونۇشتۇر<s n="v"/><s n="tv"/></l><r>tanıştır<s n="v"/><s n="tv"/></r></p></e>
@@ -3330,7 +3331,8 @@
        <e><p><l>تۇتاش<s n="adj"/></l><r>bağlı<s n="adj"/></r></p></e>
        <e><p><l>مەۋلۈدە<s n="np"/><s n="ant"/><s n="f"/></l><r>Mevlüde<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
        <e><p><l>شى<s n="np"/><s n="ant"/><s n="m"/></l><r>Şi<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-       <e><p><l>نى<s n="np"/><s n="ant"/><s n="m"/></l><r>Ni<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>لى<s n="np"/><s n="ant"/><s n="m"/></l><r>Li<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>نى<s n="np"/><s n="ant"/><s n="f"/></l><r>Ni<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
        <e><p><l>ئامانگۈل<s n="np"/><s n="ant"/><s n="m"/></l><r>Amangül<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>قېيۇم<s n="np"/><s n="ant"/><s n="m"/></l><r>Keyum<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>قۇربانجان<s n="np"/><s n="ant"/><s n="m"/></l><r>Kurbancan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -5050,7 +5052,6 @@
        <e><p><l>ۋېن<s n="np"/><s n="ant"/><s n="m"/></l><r>Wen<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>ھۈسەن<s n="np"/><s n="ant"/><s n="m"/></l><r>Hüseyin<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>ئېلشات<s n="np"/><s n="ant"/><s n="m"/></l><r>Elşat<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-       <e><p><l>ن<s n="n"/></l><r>N<s n="n"/></r></p></e>
        <e><p><l>يىغىۋېلىش<s n="n"/></l><r>toplanma<s n="n"/></r></p></e>
        <e><p><l>ۋاسىتى<s n="n"/></l><r>vasıta<s n="n"/></r></p></e>
        <e><p><l>تىزىملىك<s n="n"/></l><r>liste<s n="n"/></r></p></e>
@@ -6573,7 +6574,6 @@
        <e><p><l>ناھىيە<s n="n"/></l><r>ilçe<s n="n"/></r></p></e>
        <e><p><l>كەچۈرۈم<s n="n"/></l><r>af<s n="n"/></r></p></e>
        <e><p><l>ئېتىراپ<s n="n"/></l><r>itiraf<s n="n"/></r></p></e>
-       <e><p><l>لى<s n="n"/></l><r>Li<s n="n"/></r></p></e>
        <e><p><l>خىتاي<s n="n"/></l><r>Çinli<s n="n"/></r></p></e>
        <e><p><l>كۆرسىتىش<s n="n"/></l><r>gösteri<s n="n"/></r></p></e>
        <e><p><l>تەرجىمە<s n="n"/></l><r>çeviri<s n="n"/></r></p></e>
@@ -6767,7 +6767,6 @@
        <e><p><l>زىنا<s n="n"/></l><r>zina<s n="n"/></r></p></e>
        <e><p><l>ئۇستاز<s n="n"/></l><r>usta<s n="n"/></r></p></e>
        <e><p><l>مەسلە<s n="n"/></l><r>mesele<s n="n"/></r></p></e>
-       <e><p><l>ئېيتىش<s n="n"/></l><r>deme<s n="n"/></r></p></e>
        <e><p><l>ئىستىخارە<s n="n"/></l><r>istihare<s n="n"/></r></p></e>
        <e><p><l>رەددىيە<s n="n"/></l><r>reddiye<s n="n"/></r></p></e>
        <e><p><l>سوۋغا<s n="n"/></l><r>hediye<s n="n"/></r></p></e>

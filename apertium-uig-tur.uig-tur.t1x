@@ -59,6 +59,10 @@
       <cat-item tags="prn.pers.p2.frm.pl.*"/>
     </def-cat>
 
+<def-cat n="frmposs">
+      <cat-item tags="n.*.px2pl.frm.*"/>
+    </def-cat>
+
     <def-cat n="adjgm">
       <cat-item tags="adj.gm"/>
     </def-cat>
@@ -1667,6 +1671,33 @@
 	     <lit-tag v="pers"/>
 	     <lit-tag v="p2"/>
 	     <lit-tag v="pl"/>
+	     <clip pos="1" side="tl" part="a_cas"/>
+          </lu>
+	  </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: frmposs (almangız → elmanız)">
+      <pattern>
+        <pattern-item n="frmposs"/>
+      </pattern>
+      <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
+   <let>
+          <clip pos="1" side="tl" part="a_frm"/>
+	<lit-tag v=""/>
+        </let>
+           <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lem"/>
+	     <lit-tag v="n"/>
+	     <clip pos="1" side="tl" part="a_pl"/>
+	     <lit-tag v="px2pl"/>
 	     <clip pos="1" side="tl" part="a_cas"/>
           </lu>
 	  </chunk>
