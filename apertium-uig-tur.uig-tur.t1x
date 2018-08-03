@@ -63,6 +63,20 @@
       <cat-item tags="n.px2pl.frm.*"/>
     </def-cat>
 
+<def-cat n="gerfrmposs">
+      <cat-item tags="v.iv.*.ger.px2pl.frm.*"/>
+      <cat-item tags="v.*.*.ger.px2pl.frm.*"/>
+      <cat-item tags="vaux.*.ger.px2pl.frm.*"/>
+
+      <cat-item tags="v.iv.*.ger_past.px2pl.frm.*"/>
+      <cat-item tags="v.*.*.ger_past.px2pl.frm.*"/>
+      <cat-item tags="vaux.*.ger_past.px2pl.frm.*"/>
+
+      <cat-item tags="v.iv.*.ger_fut.px2pl.frm.*"/>
+      <cat-item tags="v.*.*.ger_fut.px2pl.frm.*"/>
+      <cat-item tags="vaux.*.ger_fut.px2pl.frm.*"/>
+    </def-cat>
+
 <def-cat n="prnreffrm">
       <cat-item tags="prn.ref.px2pl.frm.*"/>
     </def-cat>
@@ -1748,6 +1762,38 @@
            <lu>
              <clip pos="1" side="tl" part="lem"/>
 	     <lit-tag v="n"/>
+	     <clip pos="1" side="tl" part="a_pl"/>
+	     <lit-tag v="px2pl"/>
+	     <clip pos="1" side="tl" part="a_cas"/>
+          </lu>
+	  </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: gerund frmposs (bolğanlıqıngız → olduğunuz)">
+      <pattern>
+        <pattern-item n="gerfrmposs"/>
+      </pattern>
+      <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
+   <let>
+          <clip pos="1" side="tl" part="a_frm"/>
+	<lit-tag v=""/>
+        </let>
+           <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lem"/>
+	     <lit-tag v="v"/>
+	     <clip pos="1" side="tl" part="a_tra"/>
+	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <clip pos="1" side="tl" part="a_tns"/>
 	     <clip pos="1" side="tl" part="a_pl"/>
 	     <lit-tag v="px2pl"/>
 	     <clip pos="1" side="tl" part="a_cas"/>
