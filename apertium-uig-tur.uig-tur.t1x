@@ -318,6 +318,15 @@
 	<cat-item tags="v.tv.*.imp.p2.sg.frm"/>
     </def-cat>
 
+ <def-cat n="ififrm">
+	<cat-item tags="vaux.ifi.p2.sg.frm"/>
+	<cat-item tags="v.iv.ifi.p2.sg.frm"/>
+	<cat-item tags="v.tv.ifi.p2.sg.frm"/>
+<cat-item tags="vaux.*.ifi.p2.sg.frm"/>
+	<cat-item tags="v.iv.*.ifi.p2.sg.frm"/>
+	<cat-item tags="v.tv.*.ifi.p2.sg.frm"/>
+    </def-cat>
+
     <def-cat n="vaux">
 	<cat-item tags="vaux.*"/>
     </def-cat>
@@ -1180,6 +1189,37 @@
  	     <clip pos="1" side="tl" part="a_abil"/>
  	     <clip pos="1" side="tl" part="a_neg"/>
 	     <lit-tag v="imp"/>
+	     <lit-tag v="p2"/>
+	     <lit-tag v="pl"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: 2sg formal ifi (boldıngız → oldunuz)">
+      <pattern>
+        <pattern-item n="ififrm"/>
+      </pattern>
+      <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
+   <let>
+          <clip pos="1" side="tl" part="a_frm"/>
+	<lit-tag v=""/>
+        </let>
+       <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+		<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="ifi"/>
 	     <lit-tag v="p2"/>
 	     <lit-tag v="pl"/>
           </lu>
