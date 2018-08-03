@@ -313,6 +313,9 @@
 	<cat-item tags="vaux.imp.p2.sg.frm"/>
 	<cat-item tags="v.iv.imp.p2.sg.frm"/>
 	<cat-item tags="v.tv.imp.p2.sg.frm"/>
+<cat-item tags="vaux.*.imp.p2.sg.frm"/>
+	<cat-item tags="v.iv.*.imp.p2.sg.frm"/>
+	<cat-item tags="v.tv.*.imp.p2.sg.frm"/>
     </def-cat>
 
     <def-cat n="vaux">
