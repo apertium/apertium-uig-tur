@@ -71,10 +71,11 @@
       <cat-item tags="v.iv.*.ger_past.px2pl.frm.*"/>
       <cat-item tags="v.*.*.ger_past.px2pl.frm.*"/>
       <cat-item tags="vaux.*.ger_past.px2pl.frm.*"/>
+    </def-cat>
 
-      <cat-item tags="v.iv.*.ger_fut.px2pl.frm.*"/>
-      <cat-item tags="v.*.*.ger_fut.px2pl.frm.*"/>
-      <cat-item tags="vaux.*.ger_fut.px2pl.frm.*"/>
+<def-cat n="gerfutfrmposs">
+      <cat-item tags="v.*.*.gpr_fut2.px2pl.frm.*"/>
+      <cat-item tags="vaux.*.gpr_fut2.px2pl.frm.*"/>
     </def-cat>
 
 <def-cat n="prnreffrm">
@@ -996,6 +997,39 @@
       </action>
     </rule>
 
+<rule comment="regla: gerund fut frmposs (bolıdığanlıqıngız → olacağınız)">
+      <pattern>
+        <pattern-item n="gerfutfrmposs"/>
+      </pattern>
+      <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
+   <let>
+          <clip pos="1" side="tl" part="a_frm"/>
+	<lit-tag v=""/>
+        </let>
+           <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lem"/>
+	     <lit-tag v="v"/>
+	     <clip pos="1" side="tl" part="a_tra"/>
+	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="ger_fut"/>
+	     <clip pos="1" side="tl" part="a_pl"/>
+	     <lit-tag v="px2pl"/>
+	     <clip pos="1" side="tl" part="a_cas"/>
+          </lu>
+	  </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 <rule comment="regla: gpr_fut (bolıdığan → olacak)">
       <pattern>
         <pattern-item n="gpr_fut"/>
@@ -1802,6 +1836,7 @@
         </out>
       </action>
     </rule>
+
 
 <rule comment="regla: adjfrmposs (almangız → elmanız)">
       <pattern>
