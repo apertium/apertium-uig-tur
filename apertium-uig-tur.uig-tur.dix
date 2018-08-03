@@ -176,16 +176,23 @@
 <e><p><l>ھېچبىر<s n="prn"/><s n="qnt"/></l><r>hiçbir<s n="prn"/><s n="neg"/></r></p></e>
 
       <!-- SECTION: Determiners -->
+       <e><p><l>مۇنۇ<s n="det"/><s n="dem"/></l><r>işte<b/>bu<s n="det"/><s n="dem"/></r></p></e>
+       <e><p><l>ئۇشبۇ<s n="det"/><s n="dem"/></l><r>işbu<s n="det"/><s n="dem"/></r></p></e>
+ <e><p><l>ماۋۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
+       <e><p><l>بىرئاز<s n="det"/><s n="dem"/></l><r>biraz<s n="det"/><s n="dem"/></r></p></e>
        <e><p><l>مۇنۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
-     <e><p><l>شۈ<s n="det"/><s n="dem"/></l><r>şu<s n="det"/><s n="dem"/></r></p></e>
+     <e><p><l>شۇ<s n="det"/><s n="dem"/></l><r>şu<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>بۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
 <e><p><l>قايسى<s n="det"/><s n="itg"/></l><r>hangi<s n="det"/><s n="itg"/></r></p></e>
      <e><p><l>ئۇ<s n="det"/><s n="dem"/></l><r>o<s n="det"/><s n="dem"/></r></p></e>
 <e><p><l>ئاۋۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
 	<e><p><l>نەچچە<s n="det"/><s n="qnt"/></l><r>kaç<s n="det"/><s n="qnt"/></r></p></e>
 	<e><p><l>قانچە<s n="det"/><s n="qnt"/></l><r>kaç<s n="det"/><s n="qnt"/></r></p></e>
-
-   <e><p><l>ھەر<b/>بىر<s n="det"/><s n="qnt"/></l><r>her<b/>bir<s n="det"/><s n="qnt"/></r></p></e>
+       <e><p><l>ھەر<s n="det"/><s n="dem"/></l><r>her<s n="det"/><s n="dem"/></r></p></e>
+       <e><p><l>بارچە<s n="det"/><s n="dem"/></l><r>her<s n="det"/><s n="dem"/></r></p></e>
+       <e><p><l>ھەرچە<s n="det"/><s n="dem"/></l><r>her<s n="det"/><s n="dem"/></r></p></e>
+       <e><p><l>ئەنە<s n="det"/><s n="dem"/></l><r>işte<s n="det"/><s n="dem"/></r></p></e>
+       <e><p><l>ھەر<b/>بىر<s n="det"/><s n="qnt"/></l><r>her<b/>bir<s n="det"/><s n="qnt"/></r></p></e>
        <e><p><l>ھەربىر<s n="det"/><s n="qnt"/></l><r>her<b/>bir<s n="det"/><s n="qnt"/></r></p></e>
  <e><p><l>ھىچبىر<s n="det"/><s n="qnt"/></l><r>hiçbir<s n="det"/><s n="neg"/></r></p></e>
 <e><p><l>ھېچبىر<s n="det"/><s n="qnt"/></l><r>hiçbir<s n="det"/><s n="neg"/></r></p></e>
@@ -2894,11 +2901,11 @@
        <e><p><l>ز<s n="n"/></l><r>Z<s n="n"/></r></p></e>
        <e><p><l>ر<s n="n"/></l><r>R<s n="n"/></r></p></e>
        <e><p><l>ت<s n="n"/></l><r>T<s n="n"/></r></p></e>
-       <e><p><l>د<s n="n"/></l><r>D<s n="n"/></r></p></e>
+       <e><p><l>ۋ<s n="n"/></l><r>V<s n="n"/></r></p></e>
        <e><p><l>ج<s n="n"/></l><r>C<s n="n"/></r></p></e>
        <e><p><l>پ<s n="n"/></l><r>P<s n="n"/></r></p></e>
        <e><p><l>ى<s n="n"/></l><r>I<s n="n"/></r></p></e>
-       <e><p><l>ۋ<s n="n"/></l><r>V<s n="n"/></r></p></e>
+       <e><p><l>ي<s n="n"/></l><r>Y<s n="n"/></r></p></e>
 
        <e><p><l>mp3<s n="n"/></l><r>mp3<s n="n"/></r></p></e>
        <e><p><l>EX360<s n="n"/></l><r>EX360<s n="n"/></r></p></e>
@@ -3023,7 +3030,7 @@
        <e><p><l>كەتمەنباي<s n="np"/><s n="ant"/><s n="m"/></l><r>Ketmenbay<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>ئابدۇلئەزىز<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdülaziz<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>كۆرەش<s n="np"/><s n="ant"/><s n="m"/></l><r>Küreş<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-       <e><p><l>ئۇشبۇ<s n="det"/><s n="dem"/></l><r>işbu<s n="det"/><s n="dem"/></r></p></e>
+
        <e><p><l>كۆرەش<s n="n"/></l><r>kavga<s n="n"/></r></p></e>
        <e><p><l>تائالا<s n="n"/></l><r>Teala<s n="n"/></r></p></e>
        <e><p><l>ساھابە<s n="n"/></l><r>sahabe<s n="n"/></r></p></e>
@@ -3619,7 +3626,7 @@
        <e><p><l>مەسئۇت<s n="np"/><s n="ant"/><s n="m"/></l><r>Mesut<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>ئايتۇغدى<s n="np"/><s n="ant"/><s n="m"/></l><r>Aydoğdu<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>ئاھۇ<s n="np"/><s n="ant"/><s n="f"/></l><r>Ahu<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
-       <e><p><l>مۇنۇ<s n="det"/><s n="dem"/></l><r>işte<b/>bu<s n="det"/><s n="dem"/></r></p></e>
+
        <e><p><l>ئاتمىش<s n="num"/></l><r>altmış<s n="num"/></r></p></e>
        <e><p><l>كەررە<s n="n"/></l><r>defa<s n="n"/></r></p></e>
        <e><p><l>ئاپا<s n="n"/></l><r>hala<s n="n"/></r></p></e>
@@ -5462,8 +5469,7 @@
        <e><p><l>ئوڭايسىز<s n="adj"/></l><r>utandırıcı<s n="adj"/></r></p></e>
        <e><p><l>ئە<s n="ij"/></l><r>e<s n="ij"/></r></p></e>
        <e><p><l>ۋۇي<s n="ij"/></l><r>hey<s n="ij"/></r></p></e>
-       <e><p><l>ماۋۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
-       <e><p><l>بىرئاز<s n="det"/><s n="dem"/></l><r>biraz<s n="det"/><s n="dem"/></r></p></e>
+      
        <e><p><l>ساقا<s n="n"/></l><r>saka<s n="n"/></r></p></e>
        <e><p><l>مېڭىش<s n="n"/></l><r>gitme<s n="n"/></r></p></e>
        <e><p><l>چىۋىن<s n="n"/></l><r>sinek<s n="n"/></r></p></e>
@@ -6289,6 +6295,7 @@
        <e><p><l>تارباغاتاي<s n="np"/><s n="top"/></l><r>Tarbagatay<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>مېنىڭچە<s n="adv"/></l><r>bence<s n="adv"/></r></p></e>
        <e><p><l>مىنىڭچە<s n="adv"/></l><r>bence<s n="adv"/></r></p></e>
+       <e><p><l>ئۇنىڭچە<s n="adv"/></l><r>ona<b/>göre<s n="adv"/></r></p></e>
        <e><p><l>ﺋﻪﯓ<s n="adv"/></l><r>en<s n="adv"/></r></p></e>
        <e><p><l>بېسىل<s n="v"/><s n="iv"/></l><r>basıl<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>تارقىتىل<s n="v"/><s n="iv"/></l><r>dağıtıl<s n="v"/><s n="iv"/></r></p></e>
@@ -7241,9 +7248,7 @@
        <e><p><l>ئېلىپ<s n="np"/><s n="ant"/><s n="m"/></l><r>Elif<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
        <e><p><l>بۇغراخان<s n="np"/><s n="ant"/><s n="m"/></l><r>Buğrahan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>زوردۇن<s n="np"/><s n="ant"/><s n="m"/></l><r>Zordun<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-       <e><p><l>بۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
-       <e><p><l>ھەر<s n="det"/><s n="dem"/></l><r>her<s n="det"/><s n="dem"/></r></p></e>
-       <e><p><l>ئەنە<s n="det"/><s n="dem"/></l><r>işte<s n="det"/><s n="dem"/></r></p></e>
+
        <e><p><l>يىگىرمە<s n="num"/></l><r>yirmi<s n="num"/></r></p></e>
        <e><p><l>ناھىيە<s n="n"/></l><r>kasaba<s n="n"/></r></p></e>
        <e><p><l>فرانسۇزچە<s n="n"/></l><r>Fransızca<s n="n"/></r></p></e>
