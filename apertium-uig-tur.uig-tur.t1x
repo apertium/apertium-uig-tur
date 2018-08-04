@@ -63,6 +63,11 @@
       <cat-item tags="n.px2pl.frm.*"/>
     </def-cat>
 
+<def-cat n="npfrmposs">
+      <cat-item tags="np.*.px2pl.frm.*"/>
+      <cat-item tags="np.*.*.px2pl.frm.*"/>
+    </def-cat>
+
 <def-cat n="gerfrmposs">
       <cat-item tags="v.iv.*.ger.px2pl.frm.*"/>
       <cat-item tags="v.*.*.ger.px2pl.frm.*"/>
@@ -1796,6 +1801,34 @@
            <lu>
              <clip pos="1" side="tl" part="lem"/>
 	     <lit-tag v="n"/>
+	     <clip pos="1" side="tl" part="a_pl"/>
+	     <lit-tag v="px2pl"/>
+	     <clip pos="1" side="tl" part="a_cas"/>
+          </lu>
+	  </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: np frmposs (yanfongıngız → yanfonunuz)">
+      <pattern>
+        <pattern-item n="npfrmposs"/>
+      </pattern>
+      <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
+   <let>
+          <clip pos="1" side="tl" part="a_frm"/>
+	<lit-tag v=""/>
+        </let>
+           <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+           <lu>
+             <clip pos="1" side="tl" part="lem"/>
+	     <lit-tag v="np"/>
+	     <clip pos="1" side="tl" part="a_kurum"/>
 	     <clip pos="1" side="tl" part="a_pl"/>
 	     <lit-tag v="px2pl"/>
 	     <clip pos="1" side="tl" part="a_cas"/>
