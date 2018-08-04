@@ -179,7 +179,7 @@
        <e><p><l>مۇنۇ<s n="det"/><s n="dem"/></l><r>işte<b/>bu<s n="det"/><s n="dem"/></r></p></e>
        <e><p><l>ئۇشبۇ<s n="det"/><s n="dem"/></l><r>işbu<s n="det"/><s n="dem"/></r></p></e>
  <e><p><l>ماۋۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
-       <e><p><l>بىرئاز<s n="det"/><s n="dem"/></l><r>biraz<s n="det"/><s n="dem"/></r></p></e>
+       <e><p><l>بىرئاز<s n="det"/><s n="qnt"/></l><r>biraz<s n="det"/><s n="qnt"/></r></p></e>
        <e><p><l>مۇنۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
      <e><p><l>شۇ<s n="det"/><s n="dem"/></l><r>şu<s n="det"/><s n="dem"/></r></p></e>
       <e><p><l>بۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
@@ -5529,7 +5529,7 @@
        <e><p><l>يوللان<s n="v"/><s n="iv"/></l><r>yollan<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>مۆكۈن<s n="v"/><s n="iv"/></l><r>gizlen<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>بېسىق<s n="v"/><s n="iv"/></l><r>sakinleş<s n="v"/><s n="iv"/></r></p></e>
-       <e><p><l>ئۇرۇن<s n="v"/><s n="tv"/></l><r>başla<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>ئۇرۇن<s n="v"/><s n="iv"/></l><r>başla<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>مۆكۈ<s n="v"/><s n="tv"/></l><r>gizle<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئۇرۇن<s n="v"/><s n="tv"/></l><r>dene<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئوغرىلا<s n="v"/><s n="tv"/></l><r>çal<s n="v"/><s n="tv"/></r></p></e>
@@ -6602,7 +6602,7 @@
        <e><p><l>قارىتىل<s n="v"/><s n="iv"/></l><r>yönlen<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>قايتۇر<s n="v"/><s n="tv"/></l><r>geri<b/>çevir<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>توختال<s n="v"/><s n="iv"/></l><r>dur<s n="v"/><s n="iv"/></r></p></e>
-       <e><p><l>قارات<s n="v"/><s n="iv"/></l><r>baktır<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>قارات<s n="v"/><s n="tv"/></l><r>baktır<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئېرىش<s n="v"/><s n="iv"/></l><r>eriş<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ئېيت<s n="v"/><s n="tv"/></l><r>de<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>كۆزەت<s n="v"/><s n="tv"/></l><r>gözetle<s n="v"/><s n="tv"/></r></p></e>
@@ -9160,7 +9160,7 @@
  
       <!-- SECTION: Adverbs -->
       <e><p><l>ئەڭ<s n="adv"/></l><r>en<s n="adv"/></r></p></e>
-
+       <e><p><l>كېيىنچە<s n="adv"/></l><r>ardından<s n="adv"/></r></p></e>
       <!-- SECTION: Verbs -->
 
       <e><p><l>تۇر<s n="vaux"/></l><r>dur<s n="v"/><s n="iv"/></r></p></e>
