@@ -354,7 +354,7 @@
        <e><p><l>كەرىموف<s n="np"/><s n="cog"/><s n="mf"/></l><r>Kerimov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
        <e><p><l>ئاۋىئاتسىيە<s n="np"/><s n="org"/></l><r>Aviyatsiya<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>ئىنتېرپول<s n="np"/><s n="org"/></l><r>İnterpol<s n="np"/><s n="org"/></r></p></e>
-       <e><p><l>كومپارتىيە<s n="np"/><s n="org"/></l><r>Komünist<b/>Partisi<s n="np"/><s n="org"/></r></p></e>
+       <e><p><l>كومپارتىيە<s n="np"/><s n="org"/></l><r>Komünist<b/>Parti<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>گومىنداڭ<s n="np"/><s n="org"/></l><r>Milliyetçi<b/>Çin<b/>Partisi<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>تۇغقان<s n="adj"/></l><r>akraba<s n="adj"/></r></p></e>
        <e><p><l>ئەتىگەنلىك<s n="adj"/></l><r>sabahki<s n="adj"/></r></p></e>
@@ -727,7 +727,7 @@
        <e><p><l>ئاس<s n="v"/><s n="tv"/></l><r>as<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>سىز<s n="v"/><s n="tv"/></l><r>çiz<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>سىزچە<s n="adv"/></l><r>sizce<s n="adv"/></r></p></e>
-
+       <e><p><l>سىزنىڭچە<s n="adv"/></l><r>sizce<s n="adv"/></r></p></e>
        <e><p><l>بويىچە<s n="post"/></l><r>boyunca<s n="post"/></r></p></e>
        <e><p><l>ئىچ<s n="n"/></l><r>iç<s n="n"/></r></p></e>
        <e><p><l>كۈنىمىزدە<s n="adv"/></l><r>günümüzde<s n="adv"/></r></p></e>
@@ -5091,6 +5091,7 @@
        <e><p><l>يا<s n="cnjcoo"/></l><r>ya<s n="cnjcoo"/></r></p></e>
        <e><p><l>ئاشۇنداق<s n="post"/></l><r>gibi<s n="post"/></r></p></e>
        <e><p><l>مەنچە<s n="adv"/></l><r>bence<s n="adv"/></r></p></e>
+       <e><p><l>مىنچە<s n="adv"/></l><r>bence<s n="adv"/></r></p></e>
        <e><p><l>بىۋاستە<s n="adv"/></l><r>doğrudan<s n="adv"/></r></p></e>
        <e><p><l>تۇتاش<s n="v"/><s n="iv"/></l><r>bitişik<b/>ol<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>تۈزۈل<s n="v"/><s n="iv"/></l><r>kurul<s n="v"/><s n="iv"/></r></p></e>
