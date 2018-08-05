@@ -163,17 +163,19 @@
 
  <def-cat n="abilgpr_rsub">
       <cat-item tags="v.*.abil.gpr_rsub.*"/>
-      <cat-item tags="v.*.*.abil.gpr_rsub.*"/>
+      <cat-item tags="v.*.abil.*.gpr_rsub.*"/>
       <cat-item tags="vaux.abil.gpr_rsub.*"/>
-      <cat-item tags="vaux.*.abil.gpr_rsub.*"/>
+      <cat-item tags="vaux.abil.*.gpr_rsub.*"/>
+
       <cat-item tags="v.*.abil.gpr_rsub3.*"/>
-      <cat-item tags="v.*.*.abil.gpr_rsub3.*"/>
+      <cat-item tags="v.*.abil.*.gpr_rsub3.*"/>
       <cat-item tags="vaux.abil.gpr_rsub3.*"/>
-      <cat-item tags="vaux.*.abil.gpr_rsub3.*"/>
-     <cat-item tags="v.*.abil.gpr_rsub4.*"/>
-      <cat-item tags="v.*.*.abil.gpr_rsub4.*"/>
+      <cat-item tags="vaux.abil.*.gpr_rsub3.*"/>
+
+      <cat-item tags="v.*.abil.gpr_rsub4.*"/>
+      <cat-item tags="v.*.abil.*.gpr_rsub4.*"/>
       <cat-item tags="vaux.abil.gpr_rsub4.*"/>
-      <cat-item tags="vaux.*.abil.gpr_rsub4.*"/>
+      <cat-item tags="vaux.abil.*.gpr_rsub4.*"/>
     </def-cat>
 
     <def-cat n="prog">
@@ -1114,7 +1116,7 @@
  	     <clip pos="1" side="tl" part="a_pass"/>
  	     <clip pos="1" side="tl" part="a_abil"/>
  	     <clip pos="1" side="tl" part="a_neg"/>
-	     <lit-tag v="gpr_impf"/>
+	     <lit-tag v="ger_impf"/>
 	     <clip pos="1" side="tl" part="a_pl"/>
 	     <clip pos="1" side="tl" part="a_pos"/>
 	     <clip pos="1" side="tl" part="a_cas"/>
