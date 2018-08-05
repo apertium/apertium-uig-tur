@@ -173,7 +173,7 @@
        
 <e><p><l>ھىچبىر<s n="prn"/><s n="qnt"/></l><r>hiçbir<s n="prn"/><s n="qnt"/></r></p></e>
 
-<e><p><l>ھېچبىر<s n="prn"/><s n="qnt"/></l><r>hiçbir<s n="prn"/><s n="neg"/></r></p></e>
+<e><p><l>ھېچبىر<s n="prn"/><s n="qnt"/></l><r>hiçbir<s n="prn"/><s n="qnt"/></r></p></e>
 
       <!-- SECTION: Determiners -->
        <e><p><l>مۇنۇ<s n="det"/><s n="dem"/></l><r>işte<b/>bu<s n="det"/><s n="dem"/></r></p></e>
@@ -1573,6 +1573,7 @@
        <e><p><l>كېرەككى<s n="adv"/></l><r>gerek<b/>ki<s n="adv"/></r></p></e>
        <e><p><l>ئىپادىلە<s n="v"/><s n="tv"/></l><r>ifade<b/>et<s n="v"/><s n="tv"/></r></p></e>
    <e><p><l>ئىپادىلى<s n="v"/><s n="tv"/></l><r>ifade<b/>et<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>يېمەكلىك<s n="n"/></l><r>yemeklik<s n="n"/></r></p></e>
 
 
        <e><p><l>نىشانلىق<s n="adj"/></l><r>işaretli<s n="adj"/></r></p></e>
@@ -6434,7 +6435,6 @@
        <e><p><l>بولغاچ<s n="n"/></l><r>olma<s n="n"/></r></p></e>
        <e><p><l>ئەنگىلىيە<s n="np"/><s n="top"/></l><r>İngiltere<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>سىرت<s n="post"/></l><r>başka<s n="post"/></r></p></e>
-       <e><p><l>يۇقۇرى<s n="adv"/></l><r>yukarı<s n="adv"/></r></p></e>
        <e><p><l>شۇغۇللان<s n="v"/><s n="iv"/></l><r>meşgul<b/>ol<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>تول<s n="v"/><s n="iv"/></l><r>dol<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ئىشلىتىل<s n="v"/><s n="iv"/></l><r>kullanıl<s n="v"/><s n="iv"/></r></p></e>

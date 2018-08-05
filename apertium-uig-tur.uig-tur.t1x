@@ -161,6 +161,21 @@
       <cat-item tags="vaux.*.gpr_rsub4.*"/>
     </def-cat>
 
+ <def-cat n="abilgpr_rsub">
+      <cat-item tags="v.*.abil.gpr_rsub.*"/>
+      <cat-item tags="v.*.*.abil.gpr_rsub.*"/>
+      <cat-item tags="vaux.abil.gpr_rsub.*"/>
+      <cat-item tags="vaux.*.abil.gpr_rsub.*"/>
+      <cat-item tags="v.*.abil.gpr_rsub3.*"/>
+      <cat-item tags="v.*.*.abil.gpr_rsub3.*"/>
+      <cat-item tags="vaux.abil.gpr_rsub3.*"/>
+      <cat-item tags="vaux.*.abil.gpr_rsub3.*"/>
+     <cat-item tags="v.*.abil.gpr_rsub4.*"/>
+      <cat-item tags="v.*.*.abil.gpr_rsub4.*"/>
+      <cat-item tags="vaux.abil.gpr_rsub4.*"/>
+      <cat-item tags="vaux.*.abil.gpr_rsub4.*"/>
+    </def-cat>
+
     <def-cat n="prog">
       <cat-item tags="v.*.aor.*"/>
       <cat-item tags="v.*.*.aor.*"/>
@@ -1081,6 +1096,34 @@
       </action>
     </rule>
 
+<rule comment="regla: abil-gpr_rsub (bolalghan → olabilen)">
+        <pattern>
+        <pattern-item n="abilgpr_rsub"/>
+      </pattern>
+      <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
+           <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+		<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="gpr_impf"/>
+	     <clip pos="1" side="tl" part="a_pl"/>
+	     <clip pos="1" side="tl" part="a_pos"/>
+	     <clip pos="1" side="tl" part="a_cas"/>
+          </lu>
+	  </chunk>
+        </out>
+      </action>
+    </rule>
+
     <rule comment="regla: gpr_rsub (bolghan → olan)">
         <pattern>
         <pattern-item n="gpr_rsub"/>
@@ -1109,6 +1152,8 @@
         </out>
       </action>
     </rule>
+
+
 
 <rule comment="regla: gna_neg (bolmastin → olmadan)">
       <pattern>
