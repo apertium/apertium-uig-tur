@@ -463,7 +463,6 @@
        <e><p><l>زاپاس<s n="n"/></l><r>rezerv<s n="n"/></r></p></e>
        <e><p><l>گاز<s n="n"/></l><r>gaz<s n="n"/></r></p></e>
        <e><p><l>ئىزنا<s n="n"/></l><r>iz<s n="n"/></r></p></e>
-       <e><p><l>باشلا<s n="n"/></l><r>başına<b/>geç<s n="n"/></r></p></e>
        <e><p><l>باشلانغۇچ<s n="n"/></l><r>başlangıç<s n="n"/></r></p></e>
        <e><p><l>ئوسمان<s n="n"/></l><r>Osmanlı<s n="n"/></r></p></e>
        <e><p><l>جەھەت<s n="n"/></l><r>açı<s n="n"/></r></p></e>
@@ -583,7 +582,7 @@
        <e><p><l>ھىچكىم<s n="prn"/><s n="qnt"/></l><r>kimse<s n="prn"/><s n="qnt"/></r></p></e>
        <e><p><l>ئىككىلىسى<s n="prn"/><s n="pers"/></l><r>ikisi<s n="prn"/><s n="pers"/></r></p></e>
        <e><p><l>ھەممەيلەن<s n="prn"/><s n="qnt"/></l><r>herkes<s n="prn"/><s n="qnt"/></r></p></e>
-       <e><p><l>ھەممەيلەن<s n="adv"/></l><r>hep<b/>beraber<s n="adv"/><s n="qnt"/></r></p></e>
+       <e><p><l>ھەممەيلەن<s n="adv"/></l><r>hep<b/>beraber<s n="adv"/></r></p></e>
        <e><p><l>شۇ<b/>يەردىلا<s n="adv"/></l><r>oracıkta<s n="adv"/></r></p></e>
        <e><p><l>دىيىشىگە<s n="adv"/></l><r>der<b/>demez<s n="adv"/></r></p></e>
        <e><p><l>قىينال<s n="v"/><s n="iv"/></l><r>acı<b/>çek<s n="v"/><s n="iv"/></r></p></e>
@@ -2907,6 +2906,7 @@
        <e><p><l>ى<s n="n"/></l><r>I<s n="n"/></r></p></e>
        <e><p><l>ي<s n="n"/></l><r>Y<s n="n"/></r></p></e>
 
+       <e><p><l>پى<s n="n"/></l><r>pi<s n="n"/></r></p></e>
        <e><p><l>mp3<s n="n"/></l><r>mp3<s n="n"/></r></p></e>
        <e><p><l>EX360<s n="n"/></l><r>EX360<s n="n"/></r></p></e>
        <e><p><l>د<b/>ن<b/>ئا<s n="n"/></l><r>DNA<s n="n"/></r></p></e>
@@ -5911,7 +5911,6 @@
   <e><p><l>ئۆزە<s n="prn"/><s n="ref"/></l><r>kendi<s n="prn"/><s n="ref"/></r></p></e>
    <e><p><l>ئوز<s n="prn"/><s n="ref"/></l><r>kendi<s n="prn"/><s n="ref"/></r></p></e>
  <e><p><l>ئۈز<s n="prn"/><s n="ref"/></l><r>kendi<s n="prn"/><s n="ref"/></r></p></e>
-       <e><p><l>ئۇلار<s n="prn"/><s n="pers"/></l><r>onlar<s n="prn"/><s n="pers"/></r></p></e>
        <e><p><l>شۇ<s n="prn"/><s n="pers"/></l><r>şu<s n="prn"/><s n="pers"/></r></p></e>
        <e><p><l>ھەقتە<s n="post"/></l><r>hakkında<s n="post"/></r></p></e>
        <e><p><l>ئارقىلىق<s n="post"/></l><r>aracılığıyla<s n="post"/></r></p></e>
@@ -7147,7 +7146,6 @@
        <e><p><l>خاسىيەت<s n="n"/></l><r>haysiyet<s n="n"/></r></p></e>
        <e><p><l>ماۋزۇ<s n="n"/></l><r>mevzu<s n="n"/></r></p></e>
        <e><p><l>جەنۇپ<s n="n"/></l><r>güney<s n="n"/></r></p></e>
-       <e><p><l>چ<s n="n"/></l><r>Ç<s n="n"/></r></p></e>
        <e><p><l>داڭدار<s n="n"/></l><r>ünlü<s n="n"/></r></p></e>
        <e><p><l>قازى<s n="n"/></l><r>kadı<s n="n"/></r></p></e>
        <e><p><l>گىرمانىيە<s n="np"/><s n="top"/></l><r>Almanya<s n="np"/><s n="top"/></r></p></e>
@@ -8992,6 +8990,9 @@
        <e><p><l>توققۇز<s n="num"/></l><r>dokuz<s n="num"/></r></p></e>
        <e><p><l>ئوتتۇرىچە<s n="n"/></l><r>ortalama<s n="n"/></r></p></e>
        <e><p><l>خەنزۇچە<s n="n"/></l><r>Çince<s n="n"/></r></p></e>
+       <e><p><l>جوڭگوچە<s n="n"/></l><r>Çince<s n="n"/></r></p></e>
+       <e><p><l>جوڭگۇچە<s n="n"/></l><r>Çince<s n="n"/></r></p></e>
+       <e><p><l>جۇڭگۇچە<s n="n"/></l><r>Çince<s n="n"/></r></p></e>
        <e><p><l>سۇلالە<s n="n"/></l><r>sülale<s n="n"/></r></p></e>
        <e><p><l>مەھكىمە<s n="n"/></l><r>mahkeme<s n="n"/></r></p></e>
        <e><p><l>كۇۋادىرات<b/>كىلومەتىر<s n="n"/></l><r>kilometrekare<s n="n"/></r></p></e>

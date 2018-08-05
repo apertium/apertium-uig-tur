@@ -311,6 +311,13 @@
 	<cat-item tags="vaux.ter.*"/>
     </def-cat>
 
+
+   <def-cat n="adjter">
+	<cat-item tags="adj.ter.*"/>
+	<cat-item tags="adj.*.ter.*"/>
+<cat-item tags="adj.ter"/>
+	<cat-item tags="adj.*.ter"/>
+    </def-cat>
     <def-cat n="past1">
 	<cat-item tags="v.*.past.*"/>
 	<cat-item tags="v.*.*.past.*"/>
@@ -1582,6 +1589,28 @@
       </action>
     </rule>
 
+<rule comment="REGLA: adj -ghiche (yiraq-ghiche -> uzağa)">
+      <pattern>
+        <pattern-item n="adjter"/>
+      </pattern>
+      <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
+ <let>
+          <clip pos="1" side="tl" part="a_ter"/>
+<lit-tag v="dat"/>
+        </let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag> 
+            </tags>
+		<lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
 <rule comment="REGLA: -mu (barmu -> var da)">
       <pattern>
