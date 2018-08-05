@@ -219,6 +219,7 @@
        <e><p><l>ئارال<s n="n"/></l><r>ada<s n="n"/></r></p></e>
        <e><p><l>ئارال<s n="n"/></l><r>ada<s n="n"/></r></p></e>
        <e><p><l>رىمچە<s n="n"/></l><r>Rumca<s n="n"/></r></p></e>
+       <e><p><l>شىنجاڭچە<s n="n"/></l><r>Sincanlı<s n="n"/></r></p></e>
        <e><p><l>رىم<s n="n"/></l><r>Rum<s n="n"/></r></p></e>
        <e><p><l>رىم<s n="np"/><s n="top"/></l><r>Roma<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>قىسقارتىلما<s n="n"/></l><r>kısaltma<s n="n"/></r></p></e>
@@ -1403,7 +1404,6 @@
        <e><p><l>مۇز<s n="n"/></l><r>buz<s n="n"/></r></p></e>
        <e><p><l>ئەقىدە<s n="n"/></l><r>inanç<s n="n"/></r></p></e>
        <e><p><l>ئۆتۈش<s n="n"/></l><r>geçiş<s n="n"/></r></p></e>
-       <e><p><l>بولىدىغانلىق<s n="n"/></l><r>oluş<s n="n"/></r></p></e>
        <e><p><l>يېغىن<s n="n"/></l><r>yağış<s n="n"/></r></p></e>
        <e><p><l>چەرچەن<s n="np"/><s n="top"/></l><r>Çerçen<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>جوڭگۇ<s n="np"/><s n="top"/></l><r>Çin<s n="np"/><s n="top"/></r></p></e>
@@ -5322,6 +5322,7 @@
        <e><p><l>قەييىم<s n="np"/><s n="cog"/><s n="mf"/></l><r>Keyyim<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
        <e><p><l>كوراگان<s n="np"/><s n="cog"/><s n="mf"/></l><r>Koragan<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
        <e><p><l>مىليونلىغان<s n="adj"/></l><r>milyonlarca<s n="adj"/></r></p></e>
+       <e><p><l>مىليونلارچە<s n="adj"/></l><r>milyonlarca<s n="adj"/></r></p></e>
        <e><p><l>شىددەتلىك<s n="adj"/></l><r>şiddetli<s n="adj"/></r></p></e>
        <e><p><l>قىزغىن<s n="adj"/></l><r>sıcak<s n="adj"/></r></p></e>
        <e><p><l>كىشلىك<s n="adj"/></l><r>kişisel<s n="adj"/></r></p></e>
@@ -6297,6 +6298,7 @@
        <e><p><l>مېنىڭچە<s n="adv"/></l><r>bence<s n="adv"/></r></p></e>
        <e><p><l>مىنىڭچە<s n="adv"/></l><r>bence<s n="adv"/></r></p></e>
        <e><p><l>ئۇنىڭچە<s n="adv"/></l><r>ona<b/>göre<s n="adv"/></r></p></e>
+       <e><p><l>ئۇلارچە<s n="adv"/></l><r>onlara<b/>göre<s n="adv"/></r></p></e>
        <e><p><l>ﺋﻪﯓ<s n="adv"/></l><r>en<s n="adv"/></r></p></e>
        <e><p><l>بېسىل<s n="v"/><s n="iv"/></l><r>basıl<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>تارقىتىل<s n="v"/><s n="iv"/></l><r>dağıtıl<s n="v"/><s n="iv"/></r></p></e>
@@ -6578,6 +6580,7 @@
        <e><p><l>قارىش<s n="n"/></l><r>bakış<s n="n"/></r></p></e>
        <e><p><l>ھالبۇكى<s n="cnjcoo"/></l><r>halbuki<s n="cnjcoo"/></r></p></e>
        <e><p><l>گەرچە<s n="cnjcoo"/></l><r>gerçi<s n="cnjcoo"/></r></p></e>
+       <e><p><l>گەرچە<s n="adv"/></l><r>gerçi<s n="adv"/></r></p></e>
        <e><p><l>گېرمانىيە<s n="np"/><s n="top"/></l><r>Almanya<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ئىلى<s n="np"/><s n="top"/></l><r>İli<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ئۆزبېكىستان<s n="np"/><s n="top"/></l><r>Özbekistan<s n="np"/><s n="top"/></r></p></e>

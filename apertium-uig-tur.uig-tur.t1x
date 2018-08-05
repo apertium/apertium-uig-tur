@@ -286,6 +286,8 @@
 	<cat-item tags="prn.dek.*"/>
 	<cat-item tags="prn.*.dek"/>
 	<cat-item tags="prn.*.dek.*"/>
+	<cat-item tags="np.*.dek"/>
+	<cat-item tags="np.*.dek.*"/>
     </def-cat>
 
     <def-cat n="che">
