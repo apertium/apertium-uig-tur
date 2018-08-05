@@ -267,27 +267,34 @@
 
     <def-cat n="kadar">
 	<cat-item tags="n.che"/>
-	<cat-item tags="n.che.*"/>
 	<cat-item tags="n.*.che"/>
-	<cat-item tags="n.*.che.*"/>
+	<cat-item tags="np.*.che"/>
+
 	<cat-item tags="num.che"/>
-	<cat-item tags="num.che.*"/>
 	<cat-item tags="num.*.che"/>
-	<cat-item tags="num.*.che.*"/>
+
+	<cat-item tags="prn.che"/>
+	<cat-item tags="prn.*.che"/>
+
 	<cat-item tags="n.dek"/>
-	<cat-item tags="n.dek.*"/>
 	<cat-item tags="n.*.dek"/>
-	<cat-item tags="n.*.dek.*"/>
-	<cat-item tags="num.dek"/>
-	<cat-item tags="num.dek.*"/>
-	<cat-item tags="num.*.dek"/>
-	<cat-item tags="num.*.dek.*"/>
-	<cat-item tags="prn.dek"/>
-	<cat-item tags="prn.dek.*"/>
-	<cat-item tags="prn.*.dek"/>
-	<cat-item tags="prn.*.dek.*"/>
 	<cat-item tags="np.*.dek"/>
-	<cat-item tags="np.*.dek.*"/>
+
+	<cat-item tags="num.dek"/>
+	<cat-item tags="num.*.dek"/>
+
+	<cat-item tags="prn.dek"/>
+	<cat-item tags="prn.*.dek"/>
+
+	<cat-item tags="adv.*.dek"/>
+	<cat-item tags="adv.dek"/>
+
+	<cat-item tags="adj.*.dek"/>
+	<cat-item tags="adj.dek"/>
+
+        <cat-item tags="v.*.dek"/>
+	<cat-item tags="vaux.*.dek"/>
+
     </def-cat>
 
     <def-cat n="che">
@@ -298,6 +305,8 @@
 <def-cat n="adjche">
 	<cat-item tags="adj.*.che"/>
 	<cat-item tags="adj.che"/>
+	<cat-item tags="adv.*.che"/>
+	<cat-item tags="adv.che"/>
     </def-cat>
 
     <def-cat n="ter">

@@ -1195,6 +1195,7 @@
        <e><p><l>تىرمىزى<s n="np"/><s n="cog"/><s n="mf"/></l><r>Tirmizî<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
        <e><p><l>دۇنياۋى<s n="adj"/></l><r>dünyevi<s n="adj"/></r></p></e>
        <e><p><l>قىشلىق<s n="adj"/></l><r>kışlık<s n="adj"/></r></p></e>
+       <e><p><l>قىشلىق<s n="n"/></l><r>kışla<s n="n"/></r></p></e>
        <e><p><l>كېلىشمەس<s n="adj"/></l><r>çirkin<s n="adj"/></r></p></e>
        <e><p><l>ساقىت<s n="adj"/></l><r>azat<s n="adj"/></r></p></e>
        <e><p><l>ئامانەت<s n="adj"/></l><r>emanet<s n="adj"/></r></p></e>
@@ -2906,6 +2907,8 @@
        <e><p><l>ى<s n="n"/></l><r>I<s n="n"/></r></p></e>
        <e><p><l>ي<s n="n"/></l><r>Y<s n="n"/></r></p></e>
 
+
+       <e><p><l>پىدا<s n="n"/></l><r>kurban<s n="n"/></r></p></e>
        <e><p><l>پى<s n="n"/></l><r>pi<s n="n"/></r></p></e>
        <e><p><l>mp3<s n="n"/></l><r>mp3<s n="n"/></r></p></e>
        <e><p><l>EX360<s n="n"/></l><r>EX360<s n="n"/></r></p></e>
@@ -6574,7 +6577,6 @@
        <e><p><l>باياناتچى<s n="n"/></l><r>sözcü<s n="n"/></r></p></e>
        <e><p><l>مەبلەغ<s n="n"/></l><r>meblağ<s n="n"/></r></p></e>
        <e><p><l>ئىنكاس<s n="n"/></l><r>akis<s n="n"/></r></p></e>
-       <e><p><l>يۇقىرى<s n="n"/></l><r>yukarı<s n="n"/></r></p></e>
        <e><p><l>قوش<s n="n"/></l><r>kuş<s n="n"/></r></p></e>
        <e><p><l>قارىش<s n="n"/></l><r>bakış<s n="n"/></r></p></e>
        <e><p><l>ھالبۇكى<s n="cnjcoo"/></l><r>halbuki<s n="cnjcoo"/></r></p></e>
