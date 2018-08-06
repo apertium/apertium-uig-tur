@@ -319,6 +319,11 @@
 	<cat-item tags="vaux.*.ger.*.che.*"/>
     </def-cat>
 
+<def-cat n="copche">
+	<cat-item tags="cop.*.*.che"/>
+	<cat-item tags="cop.*.che"/>
+    </def-cat>
+
 <def-cat n="adjche">
 	<cat-item tags="adj.*.che"/>
 	<cat-item tags="adj.che"/>
@@ -1566,6 +1571,29 @@
     <rule comment="REGLA: adj che (axirqiche-> son)">
       <pattern>
         <pattern-item n="adjche"/>
+      </pattern>
+      <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
+ <let>
+          <clip pos="1" side="tl" part="a_kadar"/>	
+	<lit v=""/>
+        </let>
+        <out>
+          <chunk name="a" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag> <!--needs to be applied to num as well -->
+            </tags>
+		<lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: cop che (axirqiche-> son)">
+      <pattern>
+        <pattern-item n="copche"/>
       </pattern>
       <action>
         <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
