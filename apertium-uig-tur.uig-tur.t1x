@@ -328,22 +328,21 @@
 
     <def-cat n="ter">
 	<cat-item tags="n.ter"/>
-	<cat-item tags="n.ter.*"/>
 	<cat-item tags="n.*.ter"/>
-	<cat-item tags="n.*.ter.*"/>
-	<cat-item tags="v.*.ter*"/>
-	<cat-item tags="v.*.*.ter.*"/>
-	<cat-item tags="vaux.*.ter.*"/>
-	<cat-item tags="vaux.ter.*"/>
+	<cat-item tags="v.*.ter"/>
+	<cat-item tags="v.*.*.ter"/>
+	<cat-item tags="vaux.*.ter"/>
+	<cat-item tags="vaux.ter"/>
+	<cat-item tags="prn.*.ter"/>
+	<cat-item tags="prn.*.*.ter"/>
     </def-cat>
 
 
    <def-cat n="adjter">
-	<cat-item tags="adj.ter.*"/>
-	<cat-item tags="adj.*.ter.*"/>
-<cat-item tags="adj.ter"/>
+	<cat-item tags="adj.ter"/>
 	<cat-item tags="adj.*.ter"/>
     </def-cat>
+
     <def-cat n="past1">
 	<cat-item tags="v.*.past.*"/>
 	<cat-item tags="v.*.*.past.*"/>
