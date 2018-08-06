@@ -329,6 +329,7 @@
     <def-cat n="ter">
 	<cat-item tags="n.ter"/>
 	<cat-item tags="n.*.ter"/>
+	<cat-item tags="np.*.ter"/>
 	<cat-item tags="num.ter"/>
 	<cat-item tags="num.*.ter"/>
 	<cat-item tags="v.*.ter"/>
