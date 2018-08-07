@@ -69,6 +69,7 @@
   <def-cat n="locsubstpx">
       <cat-item tags="n.*.loc.subst.px3sp.*"/>
       <cat-item tags="n.*.loc.subst.pl.px3sp.*"/>
+      <cat-item tags="np.*.loc.subst.px3sp.*"/>
     </def-cat>
 
 <def-cat n="adjmu">
@@ -379,9 +380,11 @@
 
 <def-attr n="a_subst_px">
       <attr-item tags="subst.px3sp"/>
-      <attr-item tags="subst.pl.px3sp"/>
     </def-attr>
 
+<def-attr n="a_subst_pl_px">
+      <attr-item tags="subst.pl.px3sp"/>
+    </def-attr>
 
     <def-attr n="a_tra">
       <attr-item tags="iv"/>
@@ -1394,6 +1397,10 @@
  <let>
           <clip pos="1" side="tl" part="a_subst_px"/>	
 	<lit-tag v="subst"/>
+        </let>
+ <let>
+          <clip pos="1" side="tl" part="a_subst_pl_px"/>	
+	<lit-tag v="subst.pl"/>
         </let>
         <out>
           <chunk name="a" case="caseFirstWord">
