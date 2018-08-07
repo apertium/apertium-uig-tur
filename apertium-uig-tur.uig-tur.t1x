@@ -6,39 +6,9 @@
       <cat-item tags="*"/>
     </def-cat>
 
-    <def-cat n="noun">
-      <cat-item tags="n.*.p1.*"/>
-      <cat-item tags="n.*.p2.*"/>
-      <cat-item tags="n.*.p3.*"/>
-    </def-cat>
-
-<def-cat n="properhuman">
-      <cat-item tags="np.ant.*.p1.*"/>
-      <cat-item tags="np.cog.*.p1.*"/>
-<cat-item tags="np.ant.*.p2.*"/>
-      <cat-item tags="np.cog.*.p2.*"/>
-<cat-item tags="np.ant.*.p3.*"/>
-      <cat-item tags="np.cog.*.p3.*"/>
-    </def-cat>
-
-<def-cat n="proper">
-      <cat-item tags="np.org.*"/>
-      <cat-item tags="np.al.*"/>
-      <cat-item tags="np.top.*"/>
-   <cat-item tags="np.org"/>
-      <cat-item tags="np.al"/>
-      <cat-item tags="np.top"/>
-    </def-cat>
-
 <def-cat n="adjfrmposs">
      <cat-item tags="adj.*.px2pl.frm.*"/>
       <cat-item tags="adj.px2pl.frm.*"/>
-    </def-cat>
-
-<def-cat n="numsubst">
-      <cat-item tags="num.*.p1.*"/>
-      <cat-item tags="num.*.p2.*"/>
-      <cat-item tags="num.*.p3.*"/>
     </def-cat>
 
     <def-cat n="sent">
@@ -96,16 +66,9 @@
       <cat-item tags="n.gm"/>
     </def-cat>
 
-    <def-cat n="adjdub">
-      <cat-item tags="adj.*.dub.*"/>
-      <cat-item tags="adj.dub.*"/>
-      <cat-item tags="adj.dub"/>
-    </def-cat>
-
-    <def-cat n="ndub">
-      <cat-item tags="n.*.dub.*"/>
-      <cat-item tags="n.dub.*"/>
-      <cat-item tags="n.dub"/>
+  <def-cat n="locsubstpx">
+      <cat-item tags="n.*.loc.subst.px3sp.*"/>
+      <cat-item tags="n.*.loc.subst.pl.px3sp.*"/>
     </def-cat>
 
 <def-cat n="adjmu">
@@ -414,6 +377,12 @@
       <attr-item tags="p2.frm.sg"/> 
     </def-attr>
 
+<def-attr n="a_subst_px">
+      <attr-item tags="subst.px3sp"/>
+      <attr-item tags="subst.pl.px3sp"/>
+    </def-attr>
+
+
     <def-attr n="a_tra">
       <attr-item tags="iv"/>
       <attr-item tags="tv"/>
@@ -631,180 +600,6 @@
         </out>
       </action>
     </rule>
-
-<!--
-<rule comment="regla: nouns (almamen → elmayım)">
-      <pattern>
-        <pattern-item n="noun"/>
-      </pattern>
-      <action>
-        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
-        <out>
-        <chunk name="n" case="caseFirstWord">
-            <tags>
-              <tag>
-	<lit-tag v="SN"/>
-		</tag>
-            </tags>
-          <lu>
-             <clip pos="1" side="tl" part="lem"/>
-	     <lit-tag v="n"/>
-	     <clip pos="1" side="tl" part="a_pl"/>
-	     <clip pos="1" side="tl" part="a_pos"/>
-	     <clip pos="1" side="tl" part="a_cas"/>
-	     <lit v="+i"/>
-     <lit-tag v="cop.aor"/>
-	     <clip pos="1" side="tl" part="a_pers_nbr"/>
-	     <clip pos="1" side="tl" part="a_gm"/>
-          </lu>
-   	 </chunk>
-        </out>
-      </action>
-    </rule>
-
-<rule comment="regla: humons (Oğuzmen → Oğuzum)">
-      <pattern>
-        <pattern-item n="properhuman"/>
-      </pattern>
-      <action>
-        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
-        <out>
-        <chunk name="n" case="caseFirstWord">
-            <tags>
-              <tag>
-	<lit-tag v="SN"/>
-		</tag>
-            </tags>
-          <lu>
-             <clip pos="1" side="tl" part="lem"/>
-	     <lit-tag v="np"/>
-	     <clip pos="1" side="tl" part="a_insan"/>
-	     <clip pos="1" side="tl" part="a_gen"/>
-	     <clip pos="1" side="tl" part="a_pl"/>
-	     <clip pos="1" side="tl" part="a_pos"/>
-	     <clip pos="1" side="tl" part="a_cas"/>
-          </lu>
-   	 </chunk>
-        </out>
-      </action>
-    </rule>
-
-
-<rule comment="regla: nonhuman (türkiye → türkiye)">
-      <pattern>
-        <pattern-item n="proper"/>
-      </pattern>
-      <action>
-        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
-        <out>
-        <chunk name="n" case="caseFirstWord">
-            <tags>
-              <tag>
-	<lit-tag v="SN"/>
-		</tag>
-            </tags>
-          <lu>
-             <clip pos="1" side="tl" part="lem"/>
-	     <lit-tag v="np"/>
-	     <clip pos="1" side="tl" part="a_kurum"/>
-	     <clip pos="1" side="tl" part="a_nbr"/>
-	     <clip pos="1" side="tl" part="a_pos"/>
-	     <clip pos="1" side="tl" part="a_cas"/>
-          </lu>
-   	 </chunk>
-        </out>
-      </action>
-    </rule>
--->
-
-<!-- this will stay, not about copula
-<rule comment="regla: gerund (qılış → kılmak)">
-      <pattern>
-        <pattern-item n="gerund"/>
-      </pattern>
-      <action>
-        <out>
-        <chunk name="v" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-            </tags>
-          <lu>
-	     <clip pos="1" side="tl" part="lem"/>
-             <lit-tag v="v"/>
-             <clip pos="1" side="tl" part="a_tra"/>
- 	     <clip pos="1" side="tl" part="a_pass"/>
- 	     <clip pos="1" side="tl" part="a_neg"/>
-	     <lit-tag v="ger_inf"/>
- 	     <clip pos="1" side="tl" part="a_cas"/>
-	     <lit v="+i"/>
-	     <lit-tag v="cop.aor"/>
-	     <clip pos="1" side="tl" part="a_pers_nbr"/>
-	     <clip pos="1" side="tl" part="a_gm"/>
-          </lu>
-   	 </chunk>
-        </out>
-      </action>
-    </rule>
--->
-<!--
-<rule comment="regla: adj (xoşalmen → mutluyum)">
-      <pattern>
-        <pattern-item n="adjsubst"/>
-      </pattern>
-      <action>
-        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
-        <out>
-        <chunk name="a" case="caseFirstWord">
-            <tags>
-              <tag>
-	<lit-tag v="SA"/>
-		</tag>
-            </tags>
-          <lu>
-             <clip pos="1" side="tl" part="lem"/>
-	     <lit-tag v="adj"/>
-	     <clip pos="1" side="tl" part="a_subst"/>
-	     <clip pos="1" side="tl" part="a_pos"/>
-	     <clip pos="1" side="tl" part="a_cas"/>
-	     <lit v="+i"/>
-     <lit-tag v="cop.aor"/>
-	     <clip pos="1" side="tl" part="a_pers_nbr"/>
-	     <clip pos="1" side="tl" part="a_gm"/>
-          </lu>
-   	 </chunk>
-        </out>
-      </action>
-    </rule>
-
-<rule comment="regla: num (birsen → birsin)">
-      <pattern>
-        <pattern-item n="numsubst"/>
-      </pattern>
-      <action>
-        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
-        <out>
-        <chunk name="n" case="caseFirstWord">
-            <tags>
-              <tag>
-	<lit-tag v="SN"/>
-		</tag>
-            </tags>
-          <lu>
-             <clip pos="1" side="tl" part="lem"/>
-	     <lit-tag v="num"/>
-	     <clip pos="1" side="tl" part="a_subst"/>
-	     <clip pos="1" side="tl" part="a_pos"/>
-	     <clip pos="1" side="tl" part="a_cas"/>
-	     <lit v="+i"/>
-     <lit-tag v="cop.aor"/>
-	     <clip pos="1" side="tl" part="a_pers_nbr"/>
-	     <clip pos="1" side="tl" part="a_gm"/>
-          </lu>
-   	 </chunk>
-        </out>
-      </action>
-    </rule>
--->
 
 <rule comment="regla: i-di (idi → idi)">
       <pattern>
@@ -1590,6 +1385,30 @@
       </action>
     </rule>
 
+   <rule comment="REGLA: loc.subst.px (deptırıdıkısı -> defterindeki)">
+      <pattern>
+        <pattern-item n="locsubstpx"/>
+      </pattern>
+      <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
+ <let>
+          <clip pos="1" side="tl" part="a_subst_px"/>	
+	<lit-tag v="subst"/>
+        </let>
+        <out>
+          <chunk name="a" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag> <!--needs to be applied to num as well -->
+            </tags>
+		<lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 
 <rule comment="REGLA: -che (déyishiche -> dediğine göre)">
       <pattern>
@@ -1778,54 +1597,7 @@
         </out>
       </action>
     </rule>
-<!--
-<rule comment="regla: dub (atken → atmış)">
-      <pattern>
-        <pattern-item n="ndub"/>
-      </pattern>
-      <action>
-        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
-        <out>
-        <chunk name="n" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SN"/></tag>
-            </tags>
-          <lu>
-		<clip pos="1" side="tl" part="lem"/>
-             <lit-tag v="n"/>
-             <clip pos="1" side="tl" part="a_cas"/>
-	     <lit v="+i"/>
-	     <lit-tag v="cop.dub.aor"/>
-	     <clip pos="1" side="tl" part="a_pers_nbr"/>
-          </lu>
-   	 </chunk>
-        </out>
-      </action>
-    </rule>
 
-<rule comment="regla: dub (yoqken → yokmuş)">
-        <pattern>
-        <pattern-item n="adjdub"/>
-      </pattern>
-      <action>
-        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
-           <out>
-        <chunk name="a" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SA"/></tag>
-            </tags>
-          <lu>
-	<clip pos="1" side="tl" part="lem"/>
-             <lit-tag v="adj"/>
-	      <lit v="+i"/>
-	     <lit-tag v="cop.dub.aor"/>
-	     <clip pos="1" side="tl" part="a_pers_nbr"/>
-          </lu>
-	  </chunk>
-        </out>
-      </action>
-    </rule>
--->
 <rule comment="regla: prn_ref (özliri → kendileri)">
       <pattern>
         <pattern-item n="prn_refpl"/>
