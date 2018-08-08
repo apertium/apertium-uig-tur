@@ -289,6 +289,8 @@
     <def-cat n="che">
 	<cat-item tags="v.*.ger.*.che"/>
 	<cat-item tags="vaux.*.ger.*.che.*"/>
+	<cat-item tags="v.*.*.che"/>
+	<cat-item tags="vaux.*.*.che.*"/>
     </def-cat>
 
 <def-cat n="adjche">
@@ -495,6 +497,7 @@
 
    <def-attr n="a_nom_kadar">
       <attr-item tags="nom.dek"/>
+      <attr-item tags="px3sp.nom.dek"/>
     </def-attr>
 
     <def-attr n="a_ter">
@@ -1059,6 +1062,10 @@
    <let>
           <clip pos="1" side="tl" part="a_tns"/>
 	<lit-tag v="ger_past"/>
+        </let>
+<let>
+          <clip pos="1" side="tl" part="a_nom_kadar"/>
+	<lit-tag v="px3sp.dat"/>
         </let>
            <out>
         <chunk name="v" case="caseFirstWord">
