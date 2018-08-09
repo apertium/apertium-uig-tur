@@ -71,6 +71,8 @@
       <cat-item tags="n.loc.subst.px3sp.*"/>
       <cat-item tags="n.loc.subst.pl.px3sp.*"/>
       <cat-item tags="n.*.loc.subst.pl.px3sp.*"/>
+      <cat-item tags="adj.subst.loc.subst.px3sp.*"/>
+      <cat-item tags="adj.subst.loc.subst.pl.px3sp.*"/>
       <cat-item tags="np.*.loc.subst.px3sp.*"/>
     </def-cat>
 
