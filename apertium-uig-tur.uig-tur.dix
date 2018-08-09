@@ -3479,6 +3479,7 @@
        <e><p><l>گۇرۇھ<s n="n"/></l><r>parti<s n="n"/></r></p></e>
        <e><p><l>ھەقق<s n="n"/></l><r>hak<s n="n"/></r></p></e>
        <e><p><l>مەنبە<s n="n"/></l><r>kaynak<s n="n"/></r></p></e>
+       <e r="LR"><p><l>مەنبەئى<s n="n"/><s n="px3sp"/></l><r>kaynak<s n="n"/><s n="px3sp"/></r></p></e>
        <e><p><l>ئەمىنلىك<s n="n"/></l><r>güvenlik<s n="n"/></r></p></e>
        <e><p><l>يېتەكچىلىك<s n="n"/></l><r>liderlik<s n="n"/></r></p></e>
        <e><p><l>نامراتلىق<s n="n"/></l><r>fakirlik<s n="n"/></r></p></e>
@@ -3530,7 +3531,7 @@
 <e><p><l>قالدۇر<s n="v"/><s n="tv"/></l><r>ayır<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>يەڭگىللە<s n="v"/><s n="tv"/></l><r>kolaylaştır<s n="v"/><s n="tv"/></r></p></e>
 
-
+       <e><p><l>ۋىكى<s n="np"/><s n="org"/></l><r>Vikipedi<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>سامسۇڭ<s n="np"/><s n="org"/></l><r>Samsung<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>يۇقارقى<s n="adj"/></l><r>yukariki<s n="adj"/></r></p></e>
        <e><p><l>ئۇمۇمىي<s n="adj"/></l><r>umumi<s n="adj"/></r></p></e>
@@ -3580,7 +3581,7 @@
        <e><p><l>قۇرداشلىق<s n="n"/></l><r>yaşıtlık<s n="n"/></r></p></e>
        <e><p><l>ئىشغال<s n="n"/></l><r>işgal<s n="n"/></r></p></e>
        <e><p><l>توپلام<s n="n"/></l><r>toplam<s n="n"/></r></p></e>
-
+       <e><p><l>جەمئى<s n="adj"/></l><r>toplam<s n="adj"/></r></p></e>
        <e><p><l>ئوتتۇرانچى<s n="adj"/></l><r>ortanca<s n="adj"/></r></p></e>
        <e><p><l>نېگاتىپ<s n="adj"/></l><r>negatif<s n="adj"/></r></p></e>
        <e><p><l>ئورۇق<s n="adj"/></l><r>zayıf<s n="adj"/></r></p></e>
@@ -3634,7 +3635,7 @@
        <e><p><l>مەسئۇت<s n="np"/><s n="ant"/><s n="m"/></l><r>Mesut<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>ئايتۇغدى<s n="np"/><s n="ant"/><s n="m"/></l><r>Aydoğdu<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>ئاھۇ<s n="np"/><s n="ant"/><s n="f"/></l><r>Ahu<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
-
+       <e><p><l>نورۇزاخۇن<s n="np"/><s n="ant"/><s n="m"/></l><r>Noruzahun<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>ئاتمىش<s n="num"/></l><r>altmış<s n="num"/></r></p></e>
        <e><p><l>كەررە<s n="n"/></l><r>defa<s n="n"/></r></p></e>
        <e><p><l>ئاپا<s n="n"/></l><r>hala<s n="n"/></r></p></e>
@@ -6802,6 +6803,7 @@
        <e><p><l>مەخلۇقات<s n="n"/></l><r>canlı<s n="n"/></r></p></e>
   <e><p><l>جەسەت<s n="n"/></l><r>ceset<s n="n"/></r></p></e>
        <e><p><l>ئومۇمىي<b/>جەھەتتىن<s n="adv"/></l><r>etraflıca<s n="adv"/></r></p></e>
+       <e><p><l>قارىشىڭىزچە<s n="adv"/></l><r>görüşünüzde<s n="adv"/></r></p></e>
        <e><p><l>ساڭىلا<s n="adv"/></l><r>yalnız<b/>sana<s n="adv"/></r></p></e>
        <e><p><l>ئەتىگەن-ئاخشاملاردا<s n="adv"/></l><r>gece<b/>gündüz<s n="adv"/></r></p></e>
        <e><p><l>ھېساب<b/>ئال<s n="v"/><s n="iv"/></l><r>hesap<b/>sor<s n="v"/><s n="iv"/></r></p></e>
@@ -8952,6 +8954,7 @@
        <e><p><l>كىشىلىك<s n="n"/></l><r>insanlık<s n="n"/></r></p></e>
        <e><p><l>كىشىلىك<s n="n"/></l><r>kişilik<s n="n"/></r></p></e>
        <e><p><l>سالامەتلىك<s n="n"/></l><r>sağlık<s n="n"/></r></p></e>
+       <e><p><l>تىمەن<s n="adj"/></l><r>sağlıklı<s n="adj"/></r></p></e>
        <e><p><l>نۆۋەتلىك<s n="n"/></l><r>mahal<s n="n"/></r></p></e>
        <e><p><l>توسۇق<s n="n"/></l><r>engel<s n="n"/></r></p></e>
        <e><p><l>نەسىل<s n="n"/></l><r>nesil<s n="n"/></r></p></e>
