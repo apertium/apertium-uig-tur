@@ -506,6 +506,10 @@
       <attr-item tags="ter"/>
     </def-attr>
 
+<def-attr n="a_ter_pl">
+      <attr-item tags="pl.ter"/>
+    </def-attr>
+
     <def-attr n="a_neg">
       <attr-item tags="neg"/>
     </def-attr>
@@ -1478,7 +1482,12 @@
         <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
  <let>
           <clip pos="1" side="tl" part="a_ter"/>
-<lit-tag v="dat"/>
+	<lit-tag v="dat"/>
+        </let>
+
+ <let>
+          <clip pos="1" side="tl" part="a_ter_pl"/>
+	<lit-tag v="pl.dat"/>
         </let>
         <out>
           <chunk name="n" case="caseFirstWord">
