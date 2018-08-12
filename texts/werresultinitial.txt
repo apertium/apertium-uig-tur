@@ -1,0 +1,28 @@
+Test file: 'wikiwertr0.txt'
+Reference file 'wikiwertur.txt'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 1068
+Number of words in test: 1105
+Number of unknown words (marked with a star) in test: 
+Percentage of unknown words: 0.00 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 394
+Word error rate (WER): 36.89 %
+Number of position-independent correct words: 731
+Position-independent word error rate (PER): 35.02 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 394
+Word Error Rate (WER): 36.89 %
+Number of position-independent correct words: 731
+Position-independent word error rate (PER): 35.02 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 0
+Percentage of unknown words that were free rides: 0%
