@@ -2310,6 +2310,7 @@
        <e><p><l>ھەرگىزمۇ<s n="cnjcoo"/></l><r>asla<b/>da<s n="cnjcoo"/></r></p></e>
        <e><p><l>بىلەن<s n="cnjcoo"/></l><r>ile<s n="cnjcoo"/></r></p></e>
        <e><p><l>ئامېرىكا<b/>قوشما<b/>شتاتلىرى<s n="np"/><s n="top"/></l><r>ABD<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>ئامېرىكا<b/>قوشما<b/>شتاتلىرى<s n="np"/><s n="top"/></l><r>ABD<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ئۇكرائىنا<s n="np"/><s n="top"/></l><r>Ukrayna<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>مەككە<s n="np"/><s n="top"/></l><r>Mekke<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ئاتلانتىك<s n="np"/><s n="top"/></l><r>Atlantik<s n="np"/><s n="top"/></r></p></e>
@@ -2456,7 +2457,7 @@
        <e><p><l>دان<s n="n"/></l><r>tane<s n="n"/></r></p></e>
        <e><p><l>قاچا<s n="n"/></l><r>kase<s n="n"/></r></p></e>
        <e><p><l>كىنايە<s n="n"/></l><r>kinaye<s n="n"/></r></p></e>
-       <e><p><l>كرېست<s n="n"/></l><r>Mesih<s n="n"/></r></p></e>
+       <e><p><l>كرېست<s n="n"/></l><r>çarmıh<s n="n"/></r></p></e>
        <e><p><l>مەسىھ<s n="n"/></l><r>Mesih<s n="n"/></r></p></e>
        <e><p><l>فىلىستىي<s n="n"/></l><r>Filistinli<s n="n"/></r></p></e>
        <e><p><l>كورىنتلىق<s n="n"/></l><r>Korintli<s n="n"/></r></p></e>
@@ -6720,6 +6721,7 @@
       <e><p><l>تارىخ<s n="n"/></l><r>tarih<s n="n"/></r></p></e>
       <e><p><l>ئوسمانلى<s n="n"/></l><r>osmanlı<s n="n"/></r></p></e>
       <e><p><l>تۈركچە<s n="n"/></l><r>türkçe<s n="n"/></r></p></e>
+      <e><p><l>يۇنانچە<s n="n"/></l><r>yunanca<s n="n"/></r></p></e>
       <e><p><l>ئىنگىلىزچە<s n="n"/></l><r>ingilizce<s n="n"/></r></p></e>
       <e><p><l>تۈرك<s n="n"/></l><r>türk<s n="n"/></r></p></e>
       <e><p><l>ئىسلام<s n="n"/></l><r>islam<s n="n"/></r></p></e>
@@ -6727,7 +6729,7 @@
       <e><p><l>ئاساسى<b/>قانۇن<s n="n"/></l><r>anayasa<s n="n"/></r></p></e>
       <e><p><l>كىچىك<b/>ئاسىيا<s n="n"/></l><r>anadolu<s n="n"/></r></p></e>
       
-
+      <e><p><l>ئاتىزم<s n="n"/></l><r>ateizm<s n="n"/></r></p></e>
        <e><p><l>قارا<s n="adj"/></l><r>kara<s n="adj"/></r></p></e>
        <e><p><l>مىڭلىغان<s n="adj"/></l><r>binlerce<s n="adj"/></r></p></e>
  <e><p><l>تۈمەنلىگەن<s n="adj"/></l><r>binlerce<s n="adj"/></r></p></e>
@@ -7768,6 +7770,7 @@
       <e><p><l>بۇيرۇق<s n="n"/></l><r>buyruk<s n="n"/></r></p></e>
       <e><p><l>پەرمان<s n="n"/></l><r>ferman<s n="n"/></r></p></e>
       <e><p><l>سانائەت<s n="n"/></l><r>endüstri<s n="n"/></r></p></e>
+      <e><p><l>گېئومېتىرىيە<s n="n"/></l><r>geometri<s n="n"/></r></p></e>
       <e><p><l>ئاخبارات<s n="n"/></l><r>ajans<s n="n"/></r></p></e>
       <e><p><l>توسقۇنلۇق<s n="n"/></l><r>engelleme<s n="n"/></r></p></e>
       <e><p><l>يېزنە<s n="n"/></l><r>enişte<s n="n"/></r></p></e>
@@ -8658,8 +8661,9 @@
       <e><p><l>ئىستانبۇل<s n="np"/><s n="top"/></l><r>İstanbul<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>ئەنقەرە<s n="np"/><s n="top"/></l><r>Ankara<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>ئاسىيا<s n="np"/><s n="top"/></l><r>Asya<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>ئوكيانىيە<s n="np"/><s n="top"/></l><r>Okyanusya<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>ياۋروپا<s n="np"/><s n="top"/></l><r>Avrupa<s n="np"/><s n="top"/></r></p></e>
-
+      <e><p><l>مارمارا<s n="np"/><s n="top"/></l><r>Marmara<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>جۇڭگو<s n="np"/><s n="top"/></l><r>Çin<s n="np"/><s n="top"/></r></p></e>
 
        <e><p><l>ئەركەشتام<s n="np"/><s n="top"/></l><r>Erkeştam<s n="np"/><s n="top"/></r></p></e>
@@ -8707,6 +8711,7 @@
        <e><p><l>ئەگىز<s n="adj"/></l><r>uzun<s n="adj"/></r></p></e>
        <e><p><l>بىرلا<s n="adj"/></l><r>bir<s n="adj"/></r></p></e>
        <e><p><l>سەبىي<s n="adj"/></l><r>toy<s n="adj"/></r></p></e>
+       <e><p><l>سەمىتىك<s n="adj"/></l><r>semitik<s n="adj"/></r></p></e>
        <e><p><l>ھۆرىيەتسىز<s n="adj"/></l><r>hürriyetsiz<s n="adj"/></r></p></e>
        <e><p><l>تۈپتۈز<s n="adj"/></l><r>dümdüz<s n="adj"/></r></p></e>
        <e><p><l>سۆرۈن<b/>تەلەت<s n="adj"/></l><r>suratsız<s n="adj"/></r></p></e>
