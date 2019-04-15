@@ -768,6 +768,40 @@
       </action>
     </rule>
 
+
+<rule comment="regla: true aorist (bolar → oluyor)">
+      <pattern>
+        <pattern-item n="aor"/>
+      </pattern>
+      <action>
+        <call-macro n="f_first_word1"><with-param pos="1"/></call-macro>
+	<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="aor"/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	     <clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="prog"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 <rule comment="regla: prog2 (boluwatattı → oluyordu)">
       <pattern>
         <pattern-item n="prog2"/>
