@@ -7,12 +7,182 @@
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
+    <def-cat n="ifi">
+      <cat-item tags="ifi.*"/>
+    </def-cat>
+    <def-cat n="past">
+      <cat-item tags="past.*"/>
+    </def-cat>
+
+
   </section-def-cats>
 
   <section-def-attrs>
+
+    <def-attr n="a_pers_nbr">
+      <attr-item tags="p1.sg"/>
+      <attr-item tags="p2.sg"/>
+      <attr-item tags="p3.sg"/>
+      <attr-item tags="p1.pl"/>
+      <attr-item tags="p2.pl"/>
+      <attr-item tags="p3.pl"/>
+      <attr-item tags="p2.frm.sg"/> 
+    </def-attr>
+
+<def-attr n="a_subst_px">
+      <attr-item tags="subst.px3sp"/>
+    </def-attr>
+
+<def-attr n="a_subst_pl_px">
+      <attr-item tags="subst.pl.px3sp"/>
+    </def-attr>
+
+    <def-attr n="a_tra">
+      <attr-item tags="iv"/>
+      <attr-item tags="tv"/>
+    </def-attr>
+
+    <def-attr n="a_gen">
+      <attr-item tags="m"/>
+      <attr-item tags="f"/>
+      <attr-item tags="mf"/>
+    </def-attr>
+
+<def-attr n="a_kurum">
+      <attr-item tags="org"/>
+      <attr-item tags="top"/>
+      <attr-item tags="al"/>
+    </def-attr>
+
+<def-attr n="a_insan">
+      <attr-item tags="cog"/>
+      <attr-item tags="ant"/>
+    </def-attr>
+
+
+
+    <def-attr n="a_tns">
+      <attr-item tags="aor"/>
+      <attr-item tags="aor2"/>
+      <attr-item tags="prog"/>
+      <attr-item tags="prog2"/>
+      <attr-item tags="aorp"/>
+      <attr-item tags="ifi"/>
+      <attr-item tags="fut"/>
+      <attr-item tags="past"/>
+      <attr-item tags="past2"/>
+      <attr-item tags="past3"/>
+      <attr-item tags="past4"/>
+      <attr-item tags="past5"/>
+      <attr-item tags="gna_neg2"/>
+      <attr-item tags="gna_neg3"/>
+      <attr-item tags="ger_past"/>
+      <attr-item tags="ger_past2"/>
+      <attr-item tags="gpr_rsub"/>
+      <attr-item tags="gpr_rsub2"/>
+      <attr-item tags="gpr_rsub3"/>
+      <attr-item tags="gpr_rsub4"/>
+      <attr-item tags="gna_when2"/>
+      <attr-item tags="gpr_fut"/>
+      <attr-item tags="gpr_fut2"/>
+      <attr-item tags="ger"/>
+      <attr-item tags="ger_inf"/>
+    </def-attr>
+
+    <def-attr n="a_cop">
+      <attr-item tags="cop"/>
+    </def-attr>
+
+  <def-attr n="a_dub">
+      <attr-item tags="dub"/>
+    </def-attr>
+
+ <def-attr n="a_gm">
+      <attr-item tags="gm"/>
+    </def-attr>
+
+<def-attr n="a_pl">
+      <attr-item tags="pl"/>
+    </def-attr>
+
+<def-attr n="a_mu">
+      <attr-item tags="postadv"/>
+    </def-attr>
+
+<def-attr n="a_pos">
+      <attr-item tags="px1sg"/>
+      <attr-item tags="px2sg"/>
+      <attr-item tags="px3sg"/>
+      <attr-item tags="px3sp"/>
+      <attr-item tags="px1pl"/>
+      <attr-item tags="px2pl"/>
+      <attr-item tags="px3pl"/>
+    </def-attr>
+
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
+      <attr-item tags="gen"/>
+      <attr-item tags="dat"/>
+      <attr-item tags="acc"/>
+      <attr-item tags="abl"/>
+      <attr-item tags="loc"/>
     </def-attr>
+
+    <def-attr n="a_nbr">
+      <attr-item tags="pl"/>
+    </def-attr>
+
+
+    <def-attr n="a_cmp">
+      <attr-item tags="comp"/>
+    </def-attr>
+
+    <def-attr n="a_kadar">
+      <attr-item tags="dek"/>
+      <attr-item tags="che"/>
+    </def-attr>
+
+   <def-attr n="a_nom_kadar">
+      <attr-item tags="nom.dek"/>
+      <attr-item tags="px3sp.nom.dek"/>
+    </def-attr>
+
+    <def-attr n="a_ter">
+      <attr-item tags="ter"/>
+    </def-attr>
+
+<def-attr n="a_ter_pl">
+      <attr-item tags="pl.ter"/>
+    </def-attr>
+
+    <def-attr n="a_neg">
+      <attr-item tags="neg"/>
+    </def-attr>
+
+    <def-attr n="a_pass">
+      <attr-item tags="pass"/>
+    </def-attr>
+
+ <def-attr n="a_subst">
+      <attr-item tags="subst"/>
+    </def-attr>
+
+ <def-attr n="a_abil">
+      <attr-item tags="abil"/>
+    </def-attr>
+
+
+ <def-attr n="a_frm">
+      <attr-item tags="frm"/>
+    </def-attr>
+
+
+    <def-attr n="a_np_acr">
+      <attr-item tags="np"/>
+      <attr-item tags="acr"/>
+    </def-attr>
+
+
   </section-def-attrs>
 
   <section-def-vars>
@@ -46,6 +216,72 @@
         </out>
       </action>
     </rule>
+
+
+<rule comment="regla: past1 (oldu → bolghan)">
+      <pattern>
+        <pattern-item n="ifi"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="past"/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+		<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="past"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: past1 (olmuş → bolghan)">
+      <pattern>
+        <pattern-item n="past"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="past"/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+		<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="past"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
   </section-rules>
 </transfer>
 
