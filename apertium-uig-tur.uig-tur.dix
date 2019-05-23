@@ -3541,7 +3541,9 @@
        <e><p><l>قاراكۆك<s n="n"/></l><r>donanma<s n="n"/></r></p></e>
        <e><p><l>تەرەققىيات<s n="n"/></l><r>kalkınma<s n="n"/></r></p></e>
        <e><p><l>ئۆي<s n="n"/></l><r>hane<s n="n"/></r></p></e>
-       <e><p><l>سىتىۋ<s n="n"/></l><r>Steve<s n="n"/></r></p></e>
+       <e><p><l>سىتىۋ<s n="np"/><s n="ant"/><s n="m"/></l><r>Steve<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>مونتهنەگرو<s n="np"/><s n="top"/></l><r>Karadağ<s n="np"/><s n="top"/></r></p></e>
+
        <e><p><l>خانىش<s n="n"/></l><r>kraliçe<s n="n"/></r></p></e>
        <e><p><l>ئۆسۈش<s n="n"/></l><r>terfi<s n="n"/></r></p></e>
        <e><p><l>ئالىي<b/>مەكتەپ<s n="n"/></l><r>kolej<s n="n"/></r></p></e>
