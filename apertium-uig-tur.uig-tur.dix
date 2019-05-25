@@ -276,6 +276,107 @@
        <e><p><l>قوشۇن<s n="n"/></l><r>ordu<s n="n"/></r></p></e>
        <e><p><l>ئانادولۇ<b/>سەلجۇق<s n="n"/></l><r>Anadolu<b/>Selçuklu<s n="n"/></r></p></e>
 
+
+<e><p><l>ۋىكتوريا<s n="np"/><s n="ant"/><s n="f"/></l><r>Victoria<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+       <e><p><l>ستون<s n="np"/><s n="cog"/><s n="mf"/></l><r>Stone<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+       <e><p><l>ئىشىق<s n="np"/><s n="cog"/><s n="mf"/></l><r>Işık<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+       <e><p><l>ئارسەنال<s n="np"/><s n="org"/></l><r>Arsenal<s n="np"/><s n="org"/></r></p></e>
+       <e><p><l>پورتو<s n="np"/><s n="org"/></l><r>Porto<s n="np"/><s n="org"/></r></p></e>
+       <e><p><l>سامسۇنسپور<s n="np"/><s n="org"/></l><r>Samsunspor<s n="np"/><s n="org"/></r></p></e>
+       <e><p><l>ئويدۇرما<s n="adj"/></l><r>takma<s n="adj"/></r></p></e>
+       <e><p><l>ئويدۇرما<s n="adj"/></l><r>uydurma<s n="adj"/></r></p></e>
+       <e><p><l>تېببىي<s n="adj"/></l><r>tıbbi<s n="adj"/></r></p></e>
+       <e><p><l>سىغىملىق<s n="adj"/></l><r>kapasiteli<s n="adj"/></r></p></e>
+       <e><p><l>پىسخولوگىيىلىك<s n="adj"/></l><r>psikolojik<s n="adj"/></r></p></e>
+       <e><p><l>مېخانىك<s n="adj"/></l><r>mekanik<s n="adj"/></r></p></e>
+       <e><p><l>ئېلېكتروماگنىتلىق<s n="adj"/></l><r>elektromanyetik<s n="adj"/></r></p></e>
+       <e><p><l>دىنىي<s n="adj"/></l><r>dinsel<s n="adj"/></r></p></e>
+       <e><p><l>ئالاھىدە<s n="adj"/></l><r>olağanüstü<s n="adj"/></r></p></e>
+       <e><p><l>فورمۇلا<b/>1<s n="np"/><s n="al"/></l><r>Formula<b/>1<s n="np"/><s n="al"/></r></p></e>
+       <e><p><l>سەرى<b/>ئا<s n="np"/><s n="al"/></l><r>Serie<b/>A<s n="np"/><s n="al"/></r></p></e>
+       <e><p><l>مۇراد<s n="np"/><s n="ant"/><s n="m"/></l><r>Murad<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>سائىد<s n="np"/><s n="ant"/><s n="m"/></l><r>Said<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>جو<s n="np"/><s n="ant"/><s n="m"/></l><r>Joe<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>سامى<s n="np"/><s n="ant"/><s n="m"/></l><r>Sami<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>جەم<s n="np"/><s n="ant"/><s n="m"/></l><r>Cem<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>جىم<s n="np"/><s n="ant"/><s n="m"/></l><r>Jim<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>دەئان<s n="np"/><s n="ant"/><s n="m"/></l><r>Dean<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>ستەفەن<s n="np"/><s n="ant"/><s n="m"/></l><r>Stephen<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>جانسىن<s n="np"/><s n="ant"/><s n="m"/></l><r>Johnson<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>ناپوليون<s n="np"/><s n="ant"/><s n="m"/></l><r>Napolyon<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>فرانسىسكو<s n="np"/><s n="ant"/><s n="m"/></l><r>Francisco<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>ئانتونيو<s n="np"/><s n="ant"/><s n="m"/></l><r>Antonio<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>جەق<s n="np"/><s n="ant"/><s n="m"/></l><r>Jacques<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>كارلوس<s n="np"/><s n="ant"/><s n="m"/></l><r>Carlos<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>فۇئات<s n="np"/><s n="ant"/><s n="m"/></l><r>Fuat<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>بۈلەنت<s n="np"/><s n="ant"/><s n="m"/></l><r>Bülent<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>رەي<s n="np"/><s n="ant"/><s n="m"/></l><r>Ray<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>ئانتونى<s n="np"/><s n="ant"/><s n="m"/></l><r>Anthony<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>جوسە<s n="np"/><s n="ant"/><s n="m"/></l><r>José<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l><s n="n"/></l><r><s n="n"/></r></p></e>
+       <e><p><l>لىرا<s n="n"/></l><r>TL<s n="n"/></r></p></e>
+       <e><p><l>ئىتاليانچە<s n="n"/></l><r>İtalyanca<s n="n"/></r></p></e>
+       <e><p><l>ئۆي<s n="n"/></l><r>oda<s n="n"/></r></p></e>
+       <e><p><l>ئۇرۇش<s n="n"/></l><r>çatışma<s n="n"/></r></p></e>
+       <e><p><l>ئوركېستر<s n="n"/></l><r>orkestra<s n="n"/></r></p></e>
+       <e><p><l>مۇسابىقە<s n="n"/></l><r>turnuva<s n="n"/></r></p></e>
+       <e><p><l>رىباند<s n="n"/></l><r>ribaund<s n="n"/></r></p></e>
+       <e><p><l>لورد<s n="n"/></l><r>lord<s n="n"/></r></p></e>
+       <e><p><l>سىغىم<s n="n"/></l><r>kapasite<s n="n"/></r></p></e>
+       <e><p><l>ئىنگلىزچە<s n="n"/></l><r>İng<s n="n"/></r></p></e>
+       <e><p><l>ئورگ<s n="n"/></l><r>org<s n="n"/></r></p></e>
+       <e><p><l>ئىشلىگۈچى<s n="n"/></l><r>üretici<s n="n"/></r></p></e>
+       <e><p><l>ئورۇن<s n="n"/></l><r>mevki<s n="n"/></r></p></e>
+       <e><p><l>ساقچى<s n="n"/></l><r>görevli<s n="n"/></r></p></e>
+       <e><p><l>تۇتۇق<s n="n"/></l><r>gri<s n="n"/></r></p></e>
+       <e><p><l>چېلىشچى<s n="n"/></l><r>güreşçi<s n="n"/></r></p></e>
+       <e><p><l>كوچا<s n="n"/></l><r>sokak<s n="n"/></r></p></e>
+       <e><p><l>قاتناش<s n="n"/></l><r>trafik<s n="n"/></r></p></e>
+       <e><p><l>ئەسكەرلىك<s n="n"/></l><r>askerlik<s n="n"/></r></p></e>
+       <e><p><l>تېخنىكىلىق<s n="n"/></l><r>teknik<s n="n"/></r></p></e>
+       <e><p><l>دىرېكتورلۇق<s n="n"/></l><r>direktörlük<s n="n"/></r></p></e>
+       <e><p><l>زەررىچە<s n="n"/></l><r>parçacık<s n="n"/></r></p></e>
+       <e><p><l>چېخوسلوۋاكىيە<s n="n"/></l><r>işgal<s n="n"/></r></p></e>
+       <e><p><l>ھۆججەتلىك<b/>فىلىم<s n="n"/></l><r>belgesel<s n="n"/></r></p></e>
+       <e><p><l>ساھىل<s n="n"/></l><r>sahil<s n="n"/></r></p></e>
+       <e><p><l>مىل<s n="n"/></l><r>mil<s n="n"/></r></p></e>
+       <e><p><l>يۇلۇش<s n="n"/></l><r>çekim<s n="n"/></r></p></e>
+       <e><p><l>پارلامېنت<s n="n"/></l><r>parlamento<s n="n"/></r></p></e>
+       <e><p><l>ھازار<s n="n"/></l><r>Hazar<s n="n"/></r></p></e>
+       <e><p><l>راك<s n="n"/></l><r>kanser<s n="n"/></r></p></e>
+       <e><p><l>تەقدىر<s n="n"/></l><r>takdir<s n="n"/></r></p></e>
+       <e><p><l>ئەپەندى<s n="n"/></l><r>sir<s n="n"/></r></p></e>
+       <e><p><l>ۋېكتور<s n="n"/></l><r>vektör<s n="n"/></r></p></e>
+       <e><p><l>ئاتلاس<s n="n"/></l><r>atlas<s n="n"/></r></p></e>
+       <e><p><l>جاي<s n="n"/></l><r>semt<s n="n"/></r></p></e>
+       <e><p><l>بانت<s n="n"/></l><r>bant<s n="n"/></r></p></e>
+       <e><p><l>قەغەز<s n="n"/></l><r>kâğıt<s n="n"/></r></p></e>
+       <e><p><l>ئەترەت<s n="n"/></l><r>kolordu<s n="n"/></r></p></e>
+       <e><p><l>تاشيول<s n="n"/></l><r>karayolu<s n="n"/></r></p></e>
+       <e><p><l><s n="n"/></l><r>subay<s n="n"/></r></p></e>
+       <e><p><l>يۈز<b/>يىل<s n="n"/></l><r>yy<s n="n"/></r></p></e>
+       <e><p><l>ئۈچلۈك<s n="n"/></l><r>üçlü<s n="n"/></r></p></e>
+       <e><p><l>ياردەمچىلىك<s n="n"/></l><r>yardımcılık<b/>-ğ<s n="n"/></r></p></e>
+       <e><p><l>شانلىئۇرفا<s n="np"/><s n="top"/></l><r>Şanlıurfa<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>قارشىياقا<s n="np"/><s n="top"/></l><r>Karşıyaka<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>مالتا<s n="np"/><s n="top"/></l><r>Malta<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>ۋارشوۋا<s n="np"/><s n="top"/></l><r>Varşova<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>كولومبىيە<s n="np"/><s n="top"/></l><r>Kolombiya<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>سلوۋاكىيە<s n="np"/><s n="top"/></l><r>Slovakya<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>چېخوسلوۋاكىيە<s n="np"/><s n="top"/></l><r>Çekoslovakya<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>قاھىرە<s n="np"/><s n="top"/></l><r>Kahire<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>ئادىيامان<s n="np"/><s n="top"/></l><r>Adıyaman<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>كۆلن<s n="np"/><s n="top"/></l><r>Köln<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>رىئو<s n="np"/><s n="top"/></l><r>Rio<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>ۋەيلز<s n="np"/><s n="top"/></l><r>Galler<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>ئەلازىغ<s n="np"/><s n="top"/></l><r>Elâzığ<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>چانقىرى<s n="np"/><s n="top"/></l><r>Çankırı<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>مۇش<s n="np"/><s n="top"/></l><r>Muş<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>مەزگىلىدە<s n="adv"/></l><r>süresince<s n="adv"/></r></p></e>
+       <e><p><l>بېكىتىل<s n="v"/><s n="iv"/></l><r>sonuçlan<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>بېكىت<s n="v"/><s n="tv"/></l><r>sonuçlandır<s n="v"/><s n="tv"/></r></p></e>
+
+
      <e><p><l>سارتر<s n="np"/><s n="cog"/><s n="mf"/></l><r>Sartre<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
        <e><p><l>پىسخىك<s n="np"/><s n="cog"/><s n="mf"/></l><r>Pishik<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
        <e><p><l>قىززىق<s n="np"/><s n="cog"/><s n="mf"/></l><r>Kızzık<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -3500,7 +3601,7 @@
        <e><p><l>بۇرساسپور<s n="np"/><s n="org"/></l><r>Bursaspor<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>تايمز<s n="np"/><s n="org"/></l><r>Times<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>فوكس<s n="np"/><s n="org"/></l><r>Fox<s n="np"/><s n="org"/></r></p></e>
-       <e><p><l>لىنۇكس<s n="np"/><s n="org"/></l><r>Linux<s n="np"/><s n="org"/></r></p></e>
+       <e><p><l>لىنۇكس<s n="np"/><s n="al"/></l><r>Linux<s n="np"/><s n="al"/></r></p></e>
        <e><p><l>مۇسبەت<s n="adj"/></l><r>pozitif<s n="adj"/></r></p></e>
        <e><p><l>تەۋە<s n="adj"/></l><r>tabi<s n="adj"/></r></p></e>
        <e><p><l>ئانتى<s n="adj"/></l><r>anti<s n="adj"/></r></p></e>
@@ -5925,7 +6026,7 @@
        <e><p><l>سەزار<s n="np"/><s n="cog"/><s n="mf"/></l><r>Sezar<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
        <e><p><l>سۋىفت<s n="np"/><s n="cog"/><s n="mf"/></l><r>Swift<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
        <e><p><l>ئىنئۆنۈ<s n="np"/><s n="cog"/><s n="mf"/></l><r>İnönü<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-       <e><p><l>ياۋروپا<b/>ئىتتىپاقى<s n="np"/><s n="org"/></l><r>AB<s n="np"/><s n="org"/></r></p></e>
+       <e><p><l>ياۋروپا<b/>ئىتتىپاقى<s n="np"/><s n="org"/></l><r>AB<s n="np"/><s n="org"/><s n="acr"/></r></p></e>
        <e><p><l>م<b/>تى<b/>ۋى<s n="np"/><s n="org"/></l><r>MTV<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>گەنچلەربىرلىغى<s n="np"/><s n="org"/></l><r>Gençlerbirliği<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>دىسنەي<s n="np"/><s n="org"/></l><r>Disney<s n="np"/><s n="org"/></r></p></e>
