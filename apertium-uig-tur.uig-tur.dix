@@ -277,6 +277,48 @@
        <e><p><l>ئانادولۇ<b/>سەلجۇق<s n="n"/></l><r>Anadolu<b/>Selçuklu<s n="n"/></r></p></e>
 
 
+     <e><p><l>رىھاننا<s n="np"/><s n="ant"/><s n="f"/></l><r>Rihanna<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+       <e><p><l>جەين<s n="np"/><s n="ant"/><s n="f"/></l><r>Jane<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+       <e><p><l>روز<s n="np"/><s n="ant"/><s n="f"/></l><r>Rose<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+       <e><p><l>پوئە<s n="np"/><s n="cog"/><s n="mf"/></l><r>Poe<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+       <e><p><l>ۋارنەر<s n="np"/><s n="cog"/><s n="mf"/></l><r>Warner<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+       <e><p><l>ئە<b/>ئا<s n="np"/><s n="org"/></l><r>EA<s n="np"/><s n="org"/></r></p></e>
+       <e><p><l>دىنىي<s n="adj"/></l><r>dinî<s n="adj"/></r></p></e>
+       <e><p><l>ئەسلىھەلەشكەن<s n="adj"/></l><r>zırhlı<s n="adj"/></r></p></e>
+       <e><p><l><s n="adj"/></l><r>yanlı<s n="adj"/></r></p></e>
+       <e><p><l>ھەي<s n="ij"/></l><r>hop<s n="ij"/></r></p></e>
+       <e><p><l>سىنا<s n="np"/><s n="ant"/><s n="m"/></l><r>Cena<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>بايەزىد<s n="np"/><s n="ant"/><s n="m"/></l><r>Bayezid<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>بۇرۇس<s n="np"/><s n="ant"/><s n="m"/></l><r>Bruce<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>براين<s n="np"/><s n="ant"/><s n="m"/></l><r>Brian<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>كەۋىن<s n="np"/><s n="ant"/><s n="m"/></l><r>Kevin<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>ئوتتو<s n="np"/><s n="ant"/><s n="m"/></l><r>Otto<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>ئالەكسىئوس<s n="np"/><s n="ant"/><s n="m"/></l><r>Aleksios<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>رەي<s n="np"/><s n="ant"/><s n="m"/></l><r>Rey<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>پى<b/>سى<s n="n"/></l><r>PC<s n="n"/></r></p></e>
+       <e><p><l>ئەسلىھە<s n="n"/></l><r>zırh<s n="n"/></r></p></e>
+       <e><p><l>ئېنقىلابىي<s n="n"/></l><r>devrimci<s n="n"/></r></p></e>
+       <e><p><l>ئېتمولوگىيە<s n="n"/></l><r>etimoloji<s n="n"/></r></p></e>
+       <e><p><l>بويتاق<s n="n"/></l><r>tekli<s n="n"/></r></p></e>
+       <e><p><l>ئازەرى<s n="n"/></l><r>Azeri<s n="n"/></r></p></e>
+       <e><p><l>جاي<s n="n"/></l><r>bucak<s n="n"/></r></p></e>
+       <e><p><l>تەلتۆكۈس<s n="n"/></l><r>çekirdek<s n="n"/></r></p></e>
+       <e><p><l>بىناكارلىق<s n="n"/></l><r>mimarlık<s n="n"/></r></p></e>
+       <e><p><l>دو<s n="n"/></l><r>do<s n="n"/></r></p></e>
+       <e><p><l>زىيان<s n="n"/></l><r>tahrip<s n="n"/></r></p></e>
+       <e><p><l>گىتارچى<s n="n"/></l><r>gitarist<s n="n"/></r></p></e>
+       <e><p><l>ۋىرجىنيا<s n="np"/><s n="top"/></l><r>Virginia<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>لەتونىيە<s n="np"/><s n="top"/></l><r>Letonya<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>قارامان<s n="np"/><s n="top"/></l><r>Karaman<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>ئوھايو<s n="np"/><s n="top"/></l><r>Ohio<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>ماساچۇسەتس<s n="np"/><s n="top"/></l><r>Massachusetts<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>ئىزمىت<s n="np"/><s n="top"/></l><r>İzmit<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>سىزىقلىق<s n="adv"/></l><r>doğrusal<s n="adv"/></r></p></e>
+       <e><p><l>چاقىرىل<s n="v"/><s n="iv"/></l><r>çağrıl<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>ئىچىگە<b/>ئال<s n="v"/><s n="tv"/></l><r>barındır<s n="v"/><s n="tv"/></r></p></e>
+
+
+
 <e><p><l>ۋىكتوريا<s n="np"/><s n="ant"/><s n="f"/></l><r>Victoria<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
        <e><p><l>ستون<s n="np"/><s n="cog"/><s n="mf"/></l><r>Stone<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
        <e><p><l>ئىشىق<s n="np"/><s n="cog"/><s n="mf"/></l><r>Işık<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
