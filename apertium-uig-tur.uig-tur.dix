@@ -287,7 +287,7 @@
        <e><p><l>ئەسلىھەلەشكەن<s n="adj"/></l><r>zırhlı<s n="adj"/></r></p></e>
        <e><p><l><s n="adj"/></l><r>yanlı<s n="adj"/></r></p></e>
        <e><p><l>ھەي<s n="ij"/></l><r>hop<s n="ij"/></r></p></e>
-       <e><p><l>سىنا<s n="np"/><s n="ant"/><s n="m"/></l><r>Cena<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>سىنا<s n="np"/><s n="cog"/><s n="mf"/></l><r>Cena<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
        <e><p><l>بايەزىد<s n="np"/><s n="ant"/><s n="m"/></l><r>Bayezid<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>بۇرۇس<s n="np"/><s n="ant"/><s n="m"/></l><r>Bruce<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>براين<s n="np"/><s n="ant"/><s n="m"/></l><r>Brian<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -418,6 +418,44 @@
        <e><p><l>مەزگىلىدە<s n="adv"/></l><r>süresince<s n="adv"/></r></p></e>
        <e><p><l>بېكىتىل<s n="v"/><s n="iv"/></l><r>sonuçlan<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>بېكىت<s n="v"/><s n="tv"/></l><r>sonuçlandır<s n="v"/><s n="tv"/></r></p></e>
+
+
+ <e><p><l>چەلسى<s n="np"/><s n="org"/></l><r>Chelsea<s n="np"/><s n="org"/></r></p></e>
+       <e><p><l>سونى<s n="np"/><s n="org"/></l><r>Sony<s n="np"/><s n="org"/></r></p></e>
+       <e><p><l>دېھقانچىلىق<s n="adj"/></l><r>tarımsal<s n="adj"/></r></p></e>
+       <e><p><l>مالىي<s n="adj"/></l><r>finansal<s n="adj"/></r></p></e>
+       <e><p><l>يۇتۇب<s n="np"/><s n="al"/></l><r>YouTube<s n="np"/><s n="al"/></r></p></e>
+       <e><p><l>ئالفرەد<s n="np"/><s n="ant"/><s n="m"/></l><r>Alfred<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>ئادنان<s n="np"/><s n="ant"/><s n="m"/></l><r>Adnan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>كونستانتىن<s n="np"/><s n="ant"/><s n="m"/></l><r>Konstantin<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>ۋىكتور<s n="np"/><s n="ant"/><s n="m"/></l><r>Victor<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>ھانس<s n="np"/><s n="ant"/><s n="m"/></l><r>Hans<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>ئاگۇستۇس<s n="np"/><s n="ant"/><s n="m"/></l><r>Augustus<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>پروگرامما<b/>تۈزۈش<s n="n"/></l><r>programlama<s n="n"/></r></p></e>
+       <e><p><l>جىنازا<s n="n"/></l><r>cenaze<s n="n"/></r></p></e>
+       <e><p><l>بلوك<s n="n"/></l><r>blok<s n="n"/></r></p></e>
+       <e><p><l>رىسك<s n="n"/></l><r>risk<s n="n"/></r></p></e>
+       <e><p><l>تەسۋىرىي<s n="n"/></l><r>sanal<s n="n"/></r></p></e>
+       <e><p><l>شەرت<s n="n"/></l><r>koşul<s n="n"/></r></p></e>
+       <e><p><l>ئىسلام<s n="n"/></l><r>İslâm<s n="n"/></r></p></e>
+       <e><p><l>فىن<s n="n"/></l><r>Fin<s n="n"/></r></p></e>
+       <e><p><l>تاماكا<s n="n"/></l><r>tütün<s n="n"/></r></p></e>
+       <e><p><l>پايدىلىنىش<s n="n"/></l><r>referans<s n="n"/></r></p></e>
+       <e><p><l>ھەرىكەت<s n="n"/></l><r>harekât<s n="n"/></r></p></e>
+       <e><p><l>شەرقىي<b/>شىمال<s n="n"/></l><r>kuzeydoğu<s n="n"/></r></p></e>
+       <e><p><l>جاز<s n="n"/></l><r>caz<s n="n"/></r></p></e>
+       <e><p><l>باشلاش<s n="n"/></l><r>başlangıç<s n="n"/></r></p></e>
+       <e><p><l>غەربىي<b/>جەنۇب<s n="n"/></l><r>güneybatı<s n="n"/></r></p></e>
+       <e><p><l>ئىندىئانا<s n="np"/><s n="top"/></l><r>Indiana<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>كامبرىچ<s n="np"/><s n="top"/></l><r>Cambridge<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>پراگ<s n="np"/><s n="top"/></l><r>Prag<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>بوغازئىچى<s n="np"/><s n="top"/></l><r>Boğaziçi<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>تەكىرداغ<s n="np"/><s n="top"/></l><r>Tekirdağ<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>بىۋاستە<s n="adv"/></l><r>direkt<s n="adv"/></r></p></e>
+       <e><p><l>دۇچ<b/>كەلىن<s n="v"/><s n="iv"/></l><r>rastlan<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>پروگرامما<b/>تۈز<s n="v"/><s n="tv"/></l><r>programla<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>تەسىر<b/>قىل<s n="v"/><s n="tv"/></l><r>etkile<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>يوقات<s n="v"/><s n="tv"/></l><r>yitir<s n="v"/><s n="tv"/></r></p></e>
 
 
      <e><p><l>سارتر<s n="np"/><s n="cog"/><s n="mf"/></l><r>Sartre<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
