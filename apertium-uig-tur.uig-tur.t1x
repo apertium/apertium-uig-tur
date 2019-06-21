@@ -15,6 +15,13 @@
       <cat-item tags="sent"/>
     </def-cat>
 
+<def-cat n="üçün">
+      <cat-item lemma="ئۈچۈن" tags="post"/>
+    </def-cat>
+
+    <def-cat n="prn_pers">
+      <cat-item tags="prn.pers.*"/>
+    </def-cat>
 
     <def-cat n="prn_ref">
       <cat-item tags="prn.ref.*"/>
@@ -23,6 +30,7 @@
 <def-cat n="prn_refpl">
       <cat-item tags="prn.ref.pl.px3sp.*"/>
     </def-cat>
+
 
 <def-cat n="plfrm">
       <cat-item tags="prn.pers.p2.frm.pl.*"/>
@@ -1885,6 +1893,33 @@
 	     <clip pos="1" side="tl" part="a_cas"/>
           </lu>
 	  </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: men üçün -> benim için">
+      <pattern>
+        <pattern-item n="prn_pers"/>
+        <pattern-item n="üçün"/>
+      </pattern>
+      <action>
+ <let>
+          <clip pos="1" side="tl" part="a_cas"/>
+	<lit-tag v="gen"/>
+        </let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag> 
+            </tags>
+		<lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+<b/>
+	<lu>
+              <clip pos="2" side="tl" part="whole"/>
+	</lu>
+          </chunk>
         </out>
       </action>
     </rule>
