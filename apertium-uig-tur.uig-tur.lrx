@@ -273,6 +273,12 @@
     </match>
   </rule>
 
+<rule>
+    <match tags="n.px3sp.*"/>
+    <match lemma="تەرەپ" tags="n.px3sp.*">
+      <select lemma="taraf" tags="n.px3sp.*"/>
+    </match>
+  </rule>
 
 <rule>
     <match tags="n.*.acc.*"/>

@@ -3834,7 +3834,7 @@
        <e><p><l>ئافغانىستان<s n="np"/><s n="top"/></l><r>Afganistan<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>بىڭتۇەن<s n="np"/><s n="top"/></l><r>Bingtuen<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>نورۋېگىيە<s n="np"/><s n="top"/></l><r>Norveç<s n="np"/><s n="top"/></r></p></e>
-       <e><p><l>خۇددى<s n="post"/></l><r>gibi<s n="post"/></r></p></e>
+       <e><p><l>خۇددى<s n="adv"/></l><r>sanki<s n="adv"/></r></p></e>
        <e><p><l>ئاۋۋال<s n="adv"/></l><r>önce<s n="adv"/></r></p></e>
        <e><p><l>تۈپەيلىدىن<s n="adv"/></l><r>sebebiyle<s n="adv"/></r></p></e>
        <e><p><l>تولىمۇ<s n="adv"/></l><r>pek<s n="adv"/></r></p></e>
@@ -4903,7 +4903,6 @@
        <e><p><l>باغداد<s n="np"/><s n="top"/></l><r>Bağdat<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>توكات<s n="np"/><s n="top"/></l><r>Tokat<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ئۆزگىچە<s n="post"/></l><r>özgü<s n="post"/></r></p></e>
-       <e><p><l>بولغان<s n="post"/></l><r>ötürü<s n="post"/></r></p></e>
        <e><p><l>ھەمىشە<s n="adv"/></l><r>sıklıkla<s n="adv"/></r></p></e>
        <e><p><l>ئۇزان<s n="v"/><s n="iv"/></l><r>uzan<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ئۈستىگە<b/>ئال<s n="v"/><s n="tv"/></l><r>üstlen<s n="v"/><s n="tv"/></r></p></e>
@@ -7452,6 +7451,7 @@
        <e><p><l>قاماق<s n="n"/></l><r>hapis<s n="n"/></r></p></e>
        <e><p><l>دىققەت<s n="n"/></l><r>dikkat<s n="n"/></r></p></e>
        <e><p><l>سەنئەت<s n="n"/></l><r>sanat<s n="n"/></r></p></e>
+       <e><p><l>ئىسكىلىت<s n="n"/></l><r>iskelet<s n="n"/></r></p></e>
        <e><p><l>بايانات<s n="n"/></l><r>beyanat<s n="n"/></r></p></e>
        <e><p><l>مۇھاجىرەت<s n="n"/></l><r>gurbet<s n="n"/></r></p></e>
        <e><p><l>شىركەت<s n="n"/></l><r>şirket<s n="n"/></r></p></e>
@@ -7710,6 +7710,7 @@
        <e><p><l>كىيىندۈر<s n="v"/><s n="tv"/></l><r>donat<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئاپىرىدە<b/>قىل<s n="v"/><s n="tv"/></l><r>yarat<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئېتىقاد<b/>قىل<s n="v"/><s n="tv"/></l><r>kabul<b/>et<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>قوبۇل<b/>قىل<s n="v"/><s n="tv"/></l><r>kabul<b/>et<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>تەلىم<b/>بەر<s n="v"/><s n="tv"/></l><r>öğret<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>تىرىلدۈر<s n="v"/><s n="tv"/></l><r>dirilt<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>تىلاۋەت<b/>قىل<s n="v"/><s n="tv"/></l><r>oku<s n="v"/><s n="tv"/></r></p></e>
