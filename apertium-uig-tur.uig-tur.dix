@@ -368,7 +368,7 @@
        <e><p><l>رىباند<s n="n"/></l><r>ribaund<s n="n"/></r></p></e>
        <e><p><l>لورد<s n="n"/></l><r>lord<s n="n"/></r></p></e>
        <e><p><l>سىغىم<s n="n"/></l><r>kapasite<s n="n"/></r></p></e>
-       <e><p><l>ئىنگلىزچە<s n="n"/></l><r>İng<s n="n"/></r></p></e>
+       <e><p><l>ئىنگلىزچە<s n="n"/></l><r>İng<s n="abbr"/></r></p></e>
        <e><p><l>ئورگ<s n="n"/></l><r>org<s n="n"/></r></p></e>
        <e><p><l>ئىشلىگۈچى<s n="n"/></l><r>üretici<s n="n"/></r></p></e>
        <e><p><l>ئورۇن<s n="n"/></l><r>mevki<s n="n"/></r></p></e>
@@ -6012,6 +6012,7 @@
        <e><p><l>خاتىرجەم<s n="adv"/></l><r>sakin<s n="adv"/></r></p></e>
        <e><p><l>جەزمەن<s n="adv"/></l><r>şüphesiz<s n="adv"/></r></p></e>
        <e><p><l>ئىلگىرىلە<s n="v"/><s n="iv"/></l><r>ilerle<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>ئىلگىرىلەت<s n="v"/><s n="iv"/></l><r>ilerlet<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>تەۋرەن<s n="v"/><s n="iv"/></l><r>etkinleştiril<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>بېكىتىل<s n="v"/><s n="iv"/></l><r>ayarlan<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>بېكىت<s n="v"/><s n="tv"/></l><r>ayarla<s n="v"/><s n="tv"/></r></p></e>
@@ -10497,7 +10498,7 @@
        <e><p><l>باش<b/>راھىب<s n="n"/></l><r>başrahip<s n="n"/></r></p></e>
        <e><p><l>گوشۇڭلۇق<s n="n"/></l><r>iftihar<s n="n"/></r></p></e>
        <e><p><l>دىنار<s n="n"/></l><r>dinar<s n="n"/></r></p></e>
-       <e><p><l>فەرىسىي<s n="n"/></l><r>Ferisiler<s n="n"/></r></p></e>
+       <e><p><l>فەرىسىي<s n="n"/></l><r>Ferisi<s n="n"/></r></p></e>
        <e><p><l>يەل<s n="n"/></l><r>rüzgâr<s n="n"/></r></p></e>
        <e><p><l>گۇناھكار<s n="n"/></l><r>günahkâr<s n="n"/></r></p></e>
        <e><p><l>ئىنكار<s n="n"/></l><r>inkâr<s n="n"/></r></p></e>
@@ -10542,6 +10543,8 @@
        <e><p><l>بېغىشلا<s n="v"/><s n="tv"/></l><r>vakfet<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>تەبلىغ<b/>قىل<s n="v"/><s n="tv"/></l><r>vazet<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئىئانە<b/>قىل<s n="v"/><s n="tv"/></l><r>bahşet<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>قاراڭ<s n="abbr"/></l><r>bkz<s n="abbr"/></r></p></e>
+
 
 
 
