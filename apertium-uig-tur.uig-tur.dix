@@ -156,6 +156,10 @@
 	<e><p><l>كىم<s n="prn"/><s n="itg"/></l><r>kim<s n="prn"/><s n="itg"/></r></p></e>
 	<e><p><l>قەيەر<s n="prn"/><s n="itg"/></l><r>nere<s n="prn"/><s n="itg"/></r></p></e>
 	<e><p><l>قاياق<s n="adv"/><s n="itg"/></l><r>nere<s n="prn"/><s n="itg"/></r></p></e>
+       <e><p><l>نىمانچە<s n="adv"/><s n="itg"/></l><r>niye<s n="adv"/><s n="itg"/></r></p></e>
+       <e><p><l>نېمانچە<s n="adv"/><s n="itg"/></l><r>niye<s n="adv"/><s n="itg"/></r></p></e>
+       <e><p><l>نىمىشقا<s n="adv"/><s n="itg"/></l><r>neden<s n="adv"/><s n="itg"/></r></p></e>
+       <e><p><l>نىمىشقا<s n="adv"/><s n="itg"/></l><r>niçin<s n="adv"/><s n="itg"/></r></p></e>
        <e><p><l>ئاشۇ<s n="prn"/><s n="dem"/></l><r>şu<s n="prn"/><s n="dem"/></r></p></e>
        <e><p><l>مۇشۇ<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/><s n="dem"/></r></p></e>
 <e><p><l>ئەشۇ<s n="prn"/><s n="dem"/></l><r>şu<s n="prn"/><s n="dem"/></r></p></e>
@@ -3252,6 +3256,8 @@
        <e><p><l>غەرپ<s n="n"/></l><r>batı<s n="n"/></r></p></e>
        <e><p><l>ئامرىكا<s n="np"/><s n="top"/></l><r>Amerika<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>كەبى<s n="post"/></l><r>gibi<s n="post"/></r></p></e>
+       <e><p><l>كەبى<s n="post"/></l><r>misali<s n="post"/></r></p></e>
+       <e><p><l>كەبى<s n="adj"/></l><r>gibi<s n="adj"/></r></p></e>
        <e><p><l>مەخپى<s n="adv"/></l><r>gizlice<s n="adv"/></r></p></e>
        <e><p><l>مەخپىي<s n="adv"/></l><r>gizlice<s n="adv"/></r></p></e>
        <e><p><l>ئاللىبۇرۇن<s n="adv"/></l><r>zaten<s n="adv"/></r></p></e>
@@ -4852,7 +4858,7 @@
        <e><p><l>باشقۇرۇش<s n="n"/></l><r>komuta<s n="n"/></r></p></e>
        <e><p><l>ئازا<s n="n"/></l><r>üye<s n="n"/></r></p></e>
        <e><p><l>ۋىلايەت<s n="n"/></l><r>ilçe<s n="n"/></r></p></e>
-       <e><p><l>پروفېسور<s n="n"/></l><r>prof<s n="n"/></r></p></e>
+       <e><p><l>پروفېسور<s n="n"/></l><r>prof<s n="abbr"/></r></p></e>
        <e><p><l>قۇرۇلۇش<s n="n"/></l><r>vakıf<s n="n"/></r></p></e>
        <e><p><l>كومېدىيە<s n="n"/></l><r>komedi<s n="n"/></r></p></e>
        <e><p><l>ئىككىلىك<s n="n"/></l><r>ikili<s n="n"/></r></p></e>
@@ -6725,9 +6731,7 @@
        <e><p><l>يالغانچى<s n="n"/></l><r>yalancı<s n="n"/></r></p></e>
        <e><p><l>مۈشۈكياپىلاق<s n="n"/></l><r>baykuş<s n="n"/></r></p></e>
    
-       <e><p><l>نىمانچە<s n="adv"/></l><r>niye<s n="adv"/></r></p></e>
-       <e><p><l>نېمانچە<s n="adv"/></l><r>niye<s n="adv"/></r></p></e>
-       <e><p><l>نىمىشقا<s n="adv"/></l><r>neden<s n="adv"/></r></p></e>
+
        <e><p><l>بىركۈن<s n="adv"/></l><r>bir<b/>gün<s n="adv"/></r></p></e>
        <e><p><l>ئۇنچىلىك<s n="adv"/></l><r>o<b/>kadar<s n="adv"/></r></p></e>
        <e><p><l>نىھايەت<s n="adv"/></l><r>nihayet<s n="adv"/></r></p></e>
@@ -7255,6 +7259,7 @@
        <e><p><l>بىر<s n="prn"/><s n="pers"/></l><r>bir<s n="prn"/><s n="pers"/></r></p></e>
        <e><p><l>سىز<s n="prn"/><s n="pers"/></l><r>siz<s n="prn"/><s n="pers"/></r></p></e>
   <e><p><l>سىلى<s n="prn"/><s n="pers"/></l><r>siz<s n="prn"/><s n="pers"/></r></p></e>
+  <e><p><l>سىلى<s n="prn"/><s n="pers"/></l><r>sizler<s n="prn"/><s n="pers"/></r></p></e>
        <e><p><l>بارغانچە<s n="adv"/></l><r>gittikçe<s n="adv"/></r></p></e>
        <e><p><l>ھازىرغا<s n="adv"/></l><r>şimdilik<s n="adv"/></r></p></e>
        <e><p><l>قالماي<s n="adv"/></l><r>kalmadan<s n="adv"/></r></p></e>
