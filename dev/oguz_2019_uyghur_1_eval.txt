@@ -1,0 +1,28 @@
+Test file: 'cumhuriyet-1.txt'
+Reference file 'cumhuriyetturkce.txt'
+
+Statistics about input files
+-------------------------------------------------------
+Number of words in reference: 354
+Number of words in test: 359
+Number of unknown words (marked with a star) in test: 20
+Percentage of unknown words: 5.57 %
+
+Results when removing unknown-word marks (stars)
+-------------------------------------------------------
+Edit distance: 61
+Word error rate (WER): 17.23 %
+Number of position-independent correct words: 299
+Position-independent word error rate (PER): 16.95 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 61
+Word Error Rate (WER): 17.23 %
+Number of position-independent correct words: 299
+Position-independent word error rate (PER): 16.95 %
+
+Statistics about the translation of unknown words
+-------------------------------------------------------
+Number of unknown words which were free rides: 0
+Percentage of unknown words that were free rides: 0.00 %
