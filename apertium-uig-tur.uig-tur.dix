@@ -7390,7 +7390,7 @@
        <e><p><l>دەرىس<s n="n"/></l><r>ders<s n="n"/></r></p></e>
        <e><p><l>بېزەك<s n="n"/></l><r>süs<s n="n"/></r></p></e>
        <e><p><l>بەيئەت<s n="n"/></l><r>biat<s n="n"/></r></p></e>
-       <e><p><l>سەلتەنەت<s n="n"/></l><r>sanat<s n="n"/></r></p></e>
+       <e><p><l>سەلتەنەت<s n="n"/></l><r>saltanat<s n="n"/></r></p></e>
        <e><p><l>نەشىرىيات<s n="n"/></l><r>neşriyat<s n="n"/></r></p></e>
        <e><p><l>غەيۋەت<s n="n"/></l><r>gıybet<s n="n"/></r></p></e>
        <e><p><l>ئالامەت<s n="n"/></l><r>alamet<s n="n"/></r></p></e>
@@ -8968,7 +8968,6 @@
       <e><p><l>قۇتلۇق<s n="adj"/></l><r>kutlu<s n="adj"/></r></p></e>
       <e><p><l>قۇۋۋەت<s n="n"/></l><r>kuvvet<s n="n"/></r></p></e>
       <e><p><l>كۈچ<s n="n"/></l><r>kuvvet<s n="n"/></r></p></e>
-      <e><p><l>نۆۋەت<s n="n"/></l><r>kuyruk<s n="n"/></r></p></e>
       <e><p><l>قوزا<s n="n"/></l><r>kuzu<s n="n"/></r></p></e>
       <e><p><l>سۆز<s n="n"/></l><r>laf<s n="n"/></r></p></e>
       <e><p><l>لاچىن<s n="n"/></l><r>laçin<s n="n"/></r></p></e>
@@ -9242,7 +9241,6 @@
       <e><p><l>ئىمتىھان<s n="n"/></l><r>sınav<s n="n"/></r></p></e>
       <e><p><l>كىنو<s n="n"/></l><r>sinema<s n="n"/></r></p></e>
       <e><p><l>بەلگە<s n="n"/></l><r>sinyal<s n="n"/></r></p></e>
-      <e><p><l>نۆۋەت<s n="n"/></l><r>sıra<s n="n"/></r></p></e>
       <e><p><l>روتا<s n="n"/></l><r>şirket<s n="n"/></r></p></e>
       <e><p><l>قەرز<s n="n"/></l><r>şirket<s n="n"/></r></p></e>
       <e><p><l>خۇپىيانە<s n="n"/></l><r>sır<s n="n"/></r></p></e>
@@ -9978,6 +9976,7 @@
        <e><p><l>پايدا<s n="n"/></l><r>kâr<s n="n"/></r></p></e>
        <e><p><l>خۇسۇس<s n="n"/></l><r>husus<s n="n"/></r></p></e>
        <e><p><l>دۇلات<s n="n"/></l><r>devlet<s n="n"/></r></p></e>
+       <e><p><l>دەۋلەت<s n="n"/></l><r>devlet<s n="n"/></r></p></e>
        <e><p><l>ﺑﯩﻠﻪﻥ<s n="cnjcoo"/></l><r>ile<s n="cnjcoo"/></r></p></e>
        <e><p><l>كىيىن<s n="post"/></l><r>sonra<s n="post"/></r></p></e>
        <e><p><l>ﺑﯩﻠﻪﻥ<s n="post"/></l><r>ile<s n="post"/></r></p></e>
