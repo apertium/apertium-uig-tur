@@ -23,8 +23,9 @@
     </def-cat>
 
     <def-cat n="past">
-      <cat-item tags="v.*.past.*"/>
       <cat-item tags="v.*.past"/>
+      <cat-item tags="v.*.past.*"/>
+	<cat-item tags="v.*.*.past.*"/>
     </def-cat>
 
    <def-cat n="post">
@@ -42,6 +43,12 @@
       <cat-item tags="v.*.ger_fut"/>
     </def-cat>
 
+
+   <def-cat n="cop">
+      <cat-item tags="cop.p1.*"/>
+      <cat-item tags="cop.p2.*"/>
+      <cat-item tags="cop.p3.*"/>
+    </def-cat>
 
   </section-def-cats>
 
@@ -247,37 +254,6 @@
 
 
 
-<rule comment="regla: past1 (olmuş → bolghan)">
-      <pattern>
-        <pattern-item n="past"/>
-      </pattern>
-      <action>
-	<let>
-          <clip pos="1" side="tl" part="a_tns"/>
-	<lit-tag v="past"/>
-        </let>
-        <out>
-        <chunk name="v" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-            </tags>
-          <lu>
-		<clip pos="1" side="tl" part="lem"/>
-             <lit-tag v="v"/>
-             <clip pos="1" side="tl" part="a_tra"/>
- 	     <clip pos="1" side="tl" part="a_pass"/>
- 	     <clip pos="1" side="tl" part="a_abil"/>
- 	     <clip pos="1" side="tl" part="a_neg"/>
-	     <lit-tag v="past"/>
-	     <clip pos="1" side="tl" part="a_pers_nbr"/>
-          </lu>
-   	 </chunk>
-        </out>
-      </action>
-    </rule>
-
-
-
 <rule comment="regla: gpr_fut (olacak → bolıdıghan)">
       <pattern>
         <pattern-item n="gpr_fut"/>
@@ -341,6 +317,31 @@
       </action>
     </rule>
 
+<rule comment="regla: cop (iken → (i)miş)"> 
+      <pattern>
+        <pattern-item n="cop"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_cop"/>
+	<lit-tag v=""/>
+        </let>
+        <out>
+        <chunk name="cop" case="caseFirstWord">
+            <tags>
+              <tag>
+	<lit-tag v="SV"/>
+		</tag>
+            </tags>
+          <lu>
+	     <lit v="+ئى"/>
+	     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
 
 
 
