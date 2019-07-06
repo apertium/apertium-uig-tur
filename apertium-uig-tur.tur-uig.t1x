@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
   <section-def-cats>
+
+
     <def-cat n="noun">
       <cat-item tags="n.*"/>
       <cat-item tags="n"/>
@@ -20,6 +22,14 @@
     <def-cat n="ifi">
       <cat-item tags="v.*.ifi.*"/>
       <cat-item tags="v.*.ifi"/>
+    </def-cat>
+
+  <def-cat n="lıq">
+   	<cat-item lemma="lı" tags="post"/>
+    </def-cat>
+
+  <def-cat n="sız">
+	<cat-item lemma="sız" tags="post"/>
     </def-cat>
 
     <def-cat n="past">
@@ -343,6 +353,49 @@
       </action>
     </rule>
 
+<rule comment="regla: n+sız (almısız  → elmasız)">
+      <pattern>
+        <pattern-item n="noun"/>
+        <pattern-item n="sız"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+		<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="n"/>
+	     <lit v="+سىز"/>
+	     <lit-tag v="post"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: n+lıq (almılıq  → elmalı)">
+      <pattern>
+        <pattern-item n="noun"/>
+        <pattern-item n="lıq"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+		<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="n"/>
+	     <lit v="+لىق"/>
+	     <lit-tag v="post"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
 
 
   </section-rules>
