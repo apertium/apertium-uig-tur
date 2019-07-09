@@ -325,9 +325,10 @@
         </out>
       </action>
     </rule>
-<!--
+
 <rule comment="regla: cop (iken → (i)miş)"> 
       <pattern>
+        <pattern-item n="noun"/>
         <pattern-item n="cop"/>
       </pattern>
       <action>
@@ -343,15 +344,16 @@
 		</tag>
             </tags>
           <lu>
+		<clip pos="1" side="tl" part="whole"/>
 	     <lit v="+ئى"/>
 	     <lit-tag v="cop.aor"/>
-	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+	     <clip pos="2" side="tl" part="a_pers_nbr"/>
           </lu>
    	 </chunk>
         </out>
       </action>
     </rule>
--->
+
 <rule comment="regla: n+sız (almısız  → elmasız)">
       <pattern>
         <pattern-item n="noun"/>
@@ -368,7 +370,7 @@
              <lit-tag v="n"/>
 	     <lit v="+سىز"/>
 	     <lit-tag v="post"/>
- 	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+ 	     <clip pos="2" side="tl" part="a_pers_nbr"/>
           </lu>
    	 </chunk>
         </out>
@@ -391,7 +393,7 @@
              <lit-tag v="n"/>
 	     <lit v="+لىق"/>
 	     <lit-tag v="post"/>
- 	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+ 	     <clip pos="2" side="tl" part="a_pers_nbr"/>
           </lu>
    	 </chunk>
         </out>
