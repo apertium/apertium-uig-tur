@@ -25,10 +25,12 @@
     </def-cat>
 
   <def-cat n="lıq">
+   	<cat-item lemma="lı" tags="post.*"/>
    	<cat-item lemma="lı" tags="post"/>
     </def-cat>
 
   <def-cat n="sız">
+	<cat-item lemma="sız" tags="post.*"/>
 	<cat-item lemma="sız" tags="post"/>
     </def-cat>
 
@@ -293,9 +295,6 @@
     </rule>
 
 
-
-
-
 <rule comment="regla: ger_past1 (olmuş → bolghan)">
       <pattern>
         <pattern-item n="ger_past"/>
@@ -326,7 +325,7 @@
         </out>
       </action>
     </rule>
-
+<!--
 <rule comment="regla: cop (iken → (i)miş)"> 
       <pattern>
         <pattern-item n="cop"/>
@@ -352,7 +351,7 @@
         </out>
       </action>
     </rule>
-
+-->
 <rule comment="regla: n+sız (almısız  → elmasız)">
       <pattern>
         <pattern-item n="noun"/>
@@ -365,10 +364,11 @@
               <tag><lit-tag v="SN"/></tag>
             </tags>
           <lu>
-		<clip pos="1" side="tl" part="lem"/>
+	<clip pos="1" side="tl" part="lem"/>
              <lit-tag v="n"/>
 	     <lit v="+سىز"/>
 	     <lit-tag v="post"/>
+ 	     <clip pos="1" side="tl" part="a_pers_nbr"/>
           </lu>
    	 </chunk>
         </out>
@@ -387,10 +387,11 @@
               <tag><lit-tag v="SN"/></tag>
             </tags>
           <lu>
-		<clip pos="1" side="tl" part="lem"/>
+	<clip pos="1" side="tl" part="lem"/>
              <lit-tag v="n"/>
 	     <lit v="+لىق"/>
 	     <lit-tag v="post"/>
+ 	     <clip pos="1" side="tl" part="a_pers_nbr"/>
           </lu>
    	 </chunk>
         </out>
