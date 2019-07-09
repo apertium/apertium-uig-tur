@@ -115,7 +115,7 @@
       <e r="LR"><p><l>ئىكەن<s n="cop"/><s n="dub"/></l><r> </r></p></e>
       <e r="LR"><p><l>ئەمەس<s n="cop"/><s n="neg"/></l><r> </r></p></e>
      
-       <e><p><l>ئى<s n="v"/><s n="iv"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e> <!-- ikenlikini = olduğunu -->
+     <!--  <e><p><l>ئى<s n="v"/><s n="iv"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e>  ikenlikini = olduğunu -->
 
       <!-- SECTION: Conjunctions -->
       <e><p><l>ۋە<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
