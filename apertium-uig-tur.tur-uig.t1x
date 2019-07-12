@@ -10,6 +10,12 @@
       <cat-item tags="np"/>
     </def-cat>
 
+   <def-cat n="n_pl_acc">
+      <cat-item tags="n.pl.acc"/>
+      <cat-item tags="np.pl.acc"/>
+      <cat-item tags="adj.subst.pl.acc"/>
+    </def-cat>
+
     <def-cat n="num">
       <cat-item tags="num.*"/>
       <cat-item tags="num"/>
@@ -97,6 +103,12 @@
     <def-attr n="a_tra">
       <attr-item tags="iv"/>
       <attr-item tags="tv"/>
+    </def-attr>
+
+   <def-attr n="a_pl_acc">
+      <attr-item tags="n"/>
+      <attr-item tags="np"/>
+      <attr-item tags="adj.subst"/>
     </def-attr>
 
     <def-attr n="a_gen">
@@ -408,6 +420,9 @@
         </out>
       </action>
     </rule>
+
+
+
 <!--
 <rule comment="regla: noun+cop (to fix ئالمام ئىمىز etc )"> 
       <pattern>
@@ -415,10 +430,6 @@
         <pattern-item n="cop"/>
       </pattern>
       <action>
-	<let>
-          <clip pos="2" side="tl" part="whole"/>
-	<lit-tag v=""/>
-        </let>
         <out>
         <chunk name="cop" case="caseFirstWord">
             <tags>
@@ -428,12 +439,35 @@
             </tags>
           <lu>
 		<clip pos="1" side="tl" part="whole"/>
+		<clip pos="2" side="tl" part="whole"/>
           </lu>
    	 </chunk>
         </out>
       </action>
     </rule>
 -->
+
+<rule comment="regla: n+pl+acc (evleri  → öylerni)">
+      <pattern>
+        <pattern-item n="n_pl_acc"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+	<clip pos="1" side="tl" part="a_pl_acc"/>
+             <lit-tag v="pl"/>
+             <lit-tag v="acc"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
 <rule comment="regla: n+sız (almısız  → elmasız)">
       <pattern>
         <pattern-item n="noun"/>
