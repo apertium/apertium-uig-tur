@@ -24,6 +24,18 @@
       <cat-item tags="v.*.ifi"/>
     </def-cat>
 
+ <def-cat n="ger_impf">
+      <cat-item tags="v.*.ger_impf.*"/>
+      <cat-item tags="v.*.ger_impf"/>
+    </def-cat>
+
+
+
+   <def-cat n="aor">
+      <cat-item tags="v.*.aor.*"/>
+      <cat-item tags="v.*.aor"/>
+    </def-cat>
+
   <def-cat n="lıq">
    	<cat-item lemma="lı" tags="post.*"/>
    	<cat-item lemma="lı" tags="post"/>
@@ -44,8 +56,8 @@
       <cat-item tags="post"/>
     </def-cat>
 
-    <def-cat n="ger_past">
-      <cat-item tags="v.*.ger_past.*"/>
+    <def-cat n="ger_pabs">
+      <cat-item tags="v.*.ger_pabs.*"/>
     </def-cat>
 
     <def-cat n="gpr_fut">
@@ -57,9 +69,7 @@
 
 
    <def-cat n="cop">
-      <cat-item tags="cop.p1.*"/>
-      <cat-item tags="cop.p2.*"/>
-      <cat-item tags="cop.p3.*"/>
+      <cat-item tags="cop.*"/>
     </def-cat>
 
   </section-def-cats>
@@ -110,28 +120,16 @@
 
     <def-attr n="a_tns">
       <attr-item tags="aor"/>
-      <attr-item tags="aor2"/>
       <attr-item tags="prog"/>
-      <attr-item tags="prog2"/>
       <attr-item tags="aorp"/>
       <attr-item tags="ifi"/>
       <attr-item tags="fut"/>
       <attr-item tags="past"/>
-      <attr-item tags="past2"/>
-      <attr-item tags="past3"/>
-      <attr-item tags="past4"/>
-      <attr-item tags="past5"/>
-      <attr-item tags="gna_neg2"/>
-      <attr-item tags="gna_neg3"/>
       <attr-item tags="ger_past"/>
-      <attr-item tags="ger_past2"/>
+      <attr-item tags="ger_pabs"/>
       <attr-item tags="gpr_rsub"/>
-      <attr-item tags="gpr_rsub2"/>
-      <attr-item tags="gpr_rsub3"/>
-      <attr-item tags="gpr_rsub4"/>
-      <attr-item tags="gna_when2"/>
+      <attr-item tags="ger_impf"/>
       <attr-item tags="gpr_fut"/>
-      <attr-item tags="gpr_fut2"/>
       <attr-item tags="ger"/>
       <attr-item tags="ger_inf"/>
     </def-attr>
@@ -183,6 +181,7 @@
     <def-attr n="a_cmp">
       <attr-item tags="comp"/>
     </def-attr>
+
 
     <def-attr n="a_kadar">
       <attr-item tags="dek"/>
@@ -264,7 +263,58 @@
       </action>
     </rule>
 
+<rule comment="regla: aor (oluruz → bolımız)">
+      <pattern>
+        <pattern-item n="aor"/>
+        <pattern-item n="cop"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	   <clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="aor"/>
+	     <clip pos="2" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
 
+
+<rule comment="regla: past (olmuş → bolghan)">
+      <pattern>
+        <pattern-item n="past"/>
+        <pattern-item n="cop"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="past"/>
+	     <clip pos="2" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
 
 <rule comment="regla: gpr_fut (olacak → bolıdıghan)">
       <pattern>
@@ -288,6 +338,7 @@
  	     <clip pos="1" side="tl" part="a_abil"/>
  	     <clip pos="1" side="tl" part="a_neg"/>
 	     <lit-tag v="gpr_fut"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
           </lu>
    	 </chunk>
         </out>
@@ -295,9 +346,9 @@
     </rule>
 
 
-<rule comment="regla: ger_past1 (olmuş → bolghan)">
+<rule comment="regla: ger_pabs (olmuş → bolghan)">
       <pattern>
-        <pattern-item n="ger_past"/>
+        <pattern-item n="ger_pabs"/>
       </pattern>
       <action>
 	<let>
@@ -316,10 +367,42 @@
  	     <clip pos="1" side="tl" part="a_pass"/>
  	     <clip pos="1" side="tl" part="a_abil"/>
  	     <clip pos="1" side="tl" part="a_neg"/>
-	     <lit-tag v="ger_past"/>
-	     <lit v="+i"/>
+	     <lit-tag v="ger_pabs"/>
+             <lit-tag v="nom"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+<rule comment="regla: ger_impf (olan → bolghan)">
+      <pattern>
+        <pattern-item n="ger_impf"/>
+        <pattern-item n="cop"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v=""/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="gpr_rsub"/>
+ 	     <clip pos="1" side="tl" part="a_cas"/>
+	     <lit v="+ئى"/>
 	     <lit-tag v="cop.aor"/>
-	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+	     <clip pos="2" side="tl" part="a_pers_nbr"/>
           </lu>
    	 </chunk>
         </out>
