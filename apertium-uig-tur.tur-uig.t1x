@@ -408,15 +408,15 @@
         </out>
       </action>
     </rule>
-
-<rule comment="regla: cop (iken → (i)miş)"> 
+<!--
+<rule comment="regla: noun+cop (to fix ئالمام ئىمىز etc )"> 
       <pattern>
         <pattern-item n="noun"/>
         <pattern-item n="cop"/>
       </pattern>
       <action>
 	<let>
-          <clip pos="1" side="tl" part="a_cop"/>
+          <clip pos="2" side="tl" part="whole"/>
 	<lit-tag v=""/>
         </let>
         <out>
@@ -428,15 +428,12 @@
             </tags>
           <lu>
 		<clip pos="1" side="tl" part="whole"/>
-	     <lit v="+ئى"/>
-	     <lit-tag v="cop.aor"/>
-	     <clip pos="2" side="tl" part="a_pers_nbr"/>
           </lu>
    	 </chunk>
         </out>
       </action>
     </rule>
-
+-->
 <rule comment="regla: n+sız (almısız  → elmasız)">
       <pattern>
         <pattern-item n="noun"/>
