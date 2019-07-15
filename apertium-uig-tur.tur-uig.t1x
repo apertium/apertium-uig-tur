@@ -10,6 +10,16 @@
       <cat-item tags="np"/>
     </def-cat>
 
+ <def-cat n="noun_aor">
+      <cat-item tags="n.*"/>
+      <cat-item tags="n"/>
+      <cat-item tags="np.*"/>
+      <cat-item tags="np"/>
+      <cat-item tags="adj.*"/>
+      <cat-item tags="adj"/>
+    </def-cat>
+
+
    <def-cat n="n_pl_acc">
       <cat-item tags="n.pl.acc"/>
       <cat-item tags="np.pl.acc"/>
@@ -76,6 +86,12 @@
 
    <def-cat n="cop">
       <cat-item tags="cop.*"/>
+    </def-cat>
+
+   <def-cat n="cop_aor">
+      <cat-item tags="cop.aor.p1.*"/>
+      <cat-item tags="cop.aor.p2.*"/>
+      <cat-item tags="cop.aor.p3.*"/>
     </def-cat>
 
   </section-def-cats>
@@ -423,11 +439,10 @@
 
 
 
-<!--
 <rule comment="regla: noun+cop (to fix ئالمام ئىمىز etc )"> 
       <pattern>
-        <pattern-item n="noun"/>
-        <pattern-item n="cop"/>
+        <pattern-item n="noun_aor"/>
+        <pattern-item n="cop_aor"/>
       </pattern>
       <action>
         <out>
@@ -439,13 +454,15 @@
             </tags>
           <lu>
 		<clip pos="1" side="tl" part="whole"/>
-		<clip pos="2" side="tl" part="whole"/>
+		 <lit v="+ئى"/>
+	     <lit-tag v="cop.aor"/>
+	     <clip pos="2" side="tl" part="a_pers_nbr"/>
           </lu>
    	 </chunk>
         </out>
       </action>
     </rule>
--->
+
 
 <rule comment="regla: n+pl+acc (evleri  → öylerni)">
       <pattern>
