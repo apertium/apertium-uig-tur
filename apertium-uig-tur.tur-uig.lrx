@@ -13,6 +13,21 @@
     </match>
   </rule>
 
+<rule>
+    <match lemma="ol" tags="v.*">
+      <select lemma="بول" tags="n.*"/>
+
+    <match lemma="ol" tags="v.*">
+    </match>
+  </rule>
+
+
+<rule>
+    <match lemma="tatlı" tags="adj">
+      <select lemma="شېرىن" tags="adj"/>
+    </match>
+    <match lemma="uyku"/>
+  </rule>
 
 </rules>
 
