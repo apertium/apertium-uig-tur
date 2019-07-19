@@ -274,11 +274,12 @@
        <e><p><l>باھار<s n="n"/></l><r>bahar<s n="n"/></r></p></e>
        <e><p><l>زەپەر<s n="n"/></l><r>zafer<s n="n"/></r></p></e>
        <e><p><l>يادىكارلىق<s n="n"/></l><r>tarihi<b/>eser<s n="n"/></r></p></e>
-       <e><p><l>ئۇيغۇر<s n="n"/></l><r>Uygur<s n="n"/></r></p></e>
+       <e><p><l>ئۇيغۇر<s n="n"/></l><r>uygur<s n="n"/></r></p></e>
        <e><p><l>ۋىزانتىيە<s n="n"/></l><r>Bizans<s n="n"/></r></p></e>
        <e><p><l>ماي<s n="n"/></l><r>Mayıs<s n="n"/></r></p></e>
        <e><p><l>ئۆلكە<s n="n"/></l><r>eyalet<s n="n"/></r></p></e>
        <e><p><l>قوشۇن<s n="n"/></l><r>ordu<s n="n"/></r></p></e>
+       <e><p><l>زىللەت<s n="n"/></l><r>zillet<s n="n"/></r></p></e>
        <e><p><l>ئانادولۇ<b/>سەلجۇق<s n="n"/></l><r>Anadolu<b/>Selçuklu<s n="n"/></r></p></e>
 
 
@@ -1842,7 +1843,7 @@
        <e><p><l>دۇچ<b/>قىل<s n="v"/><s n="iv"/></l><r>karşılaştır<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ئۇيۇش<s n="v"/><s n="iv"/></l><r>birleş<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>تۈگەت<s n="v"/><s n="tv"/></l><r>sonlandır<s n="v"/><s n="tv"/></r></p></e>
-       <e><p><l>لايىھەلە<s n="v"/><s n="tv"/></l><r>planla<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>لايىھەلە<s n="v"/><s n="tv"/></l><r>tasarla<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>كاپالەتلەندۈر<s n="v"/><s n="tv"/></l><r>garantile<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>يەش<s n="v"/><s n="tv"/></l><r>çıkar<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ھەرىكەتلەندۈر<s n="v"/><s n="tv"/></l><r>hareketlendir<s n="v"/><s n="tv"/></r></p></e>
@@ -7409,7 +7410,6 @@
        <e><p><l>تىزلان<s n="v"/><s n="iv"/></l><r>diz<b/>çök<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>تىرەن<s n="v"/><s n="iv"/></l><r>diren<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>تىزلا<s n="v"/><s n="iv"/></l><r>diz<b/>çöktür<s n="v"/><s n="iv"/></r></p></e>
-       <e><p><l>ئىرىش<s n="v"/><s n="iv"/></l><r>eriş<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>خەيرىلەش<s n="v"/><s n="iv"/></l><r>eriş<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>تۆلە<s n="v"/><s n="tv"/></l><r>öde<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>تىزىملات<s n="v"/><s n="tv"/></l><r>kaydettir<s n="v"/><s n="tv"/></r></p></e>
@@ -8779,6 +8779,7 @@
       <e><p><l>سېزىم<s n="n"/></l><r>his<s n="n"/></r></p></e>
       <e><p><l>ئۈلۈش<s n="n"/></l><r>hisse<s n="n"/></r></p></e>
       <e><p><l>زال<s n="n"/></l><r>hol<s n="n"/></r></p></e>
+      <e><p><l>زالىم<s n="n"/></l><r>zalim<s n="n"/></r></p></e>
       <e><p><l>ھۈجەيرە<s n="n"/></l><r>hücre<s n="n"/></r></p></e>
       <e><p><l>ھۇجۇم<s n="n"/></l><r>hücum<s n="n"/></r></p></e>
       <e><p><l>ھۆكۈمەت<s n="n"/></l><r>hükümet<s n="n"/></r></p></e>
