@@ -57,6 +57,12 @@
    	<cat-item lemma="lı" tags="post"/>
     </def-cat>
 
+   <def-cat n="gibi">
+   	<cat-item lemma="gibi" tags="adj"/>
+   	<cat-item lemma="gibi" tags="adj.*"/>
+   	<cat-item lemma="gibi" tags="post"/>
+    </def-cat>
+
   <def-cat n="sız">
 	<cat-item lemma="sız" tags="post.*"/>
 	<cat-item lemma="sız" tags="post"/>
@@ -531,6 +537,32 @@
       </action>
     </rule>
 
+
+<rule comment="regla: n+gibi (kar gibi  → qardek)">
+      <pattern>
+        <pattern-item n="noun"/>
+        <pattern-item n="gibi"/>
+      </pattern>
+      <action>
+<let>
+          <clip pos="2" side="tl" part="whole"/>
+	<lit-tag v=""/>
+        </let>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="n"/>
+             <lit-tag v="nom"/>
+	     <lit-tag v="dek"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
 
   </section-rules>
 </transfer>
