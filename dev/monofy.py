@@ -5,7 +5,7 @@ def monofy(line,left=True):
             '<s n="adv"/>':"ADV",
             '<s n="n"/>':"N1",
             '<s n="np"/><s n="top"/>':"NP-TOP",
-	    '<s n="post"/>':"POST",
+	   '<s n="post"/>':"POST",
             '<s n="np"/><s n="cog"/><s n="mf"/>':"NP-COG-MF",
             '<s n="np"/><s n="org"/>':"NP-ORG",
             '<s n="np"/><s n="al"/>':"NP-AL",
@@ -56,6 +56,5 @@ if __name__=="__main__":
                 if m not in text:
                     sys.stdout.write(m + "\n")
             except KeyError:
-                print("Unknown tags:",line)
                 continue
 

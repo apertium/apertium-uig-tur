@@ -1,4 +1,4 @@
-import sys, os
+import sys, os, re
 
 def monofy(line,left=True):
     dic = { '<s n="adj"/>':'A1',
@@ -20,6 +20,7 @@ def monofy(line,left=True):
             '<s n="np"/><s n="ant"/><s n="m"/>':'NP-ANT-M',
             '<s n="np"/><s n="ant"/><s n="f"/>':'NP-ANT-F',
             '<s n="cnjadv"/>':"CA",
+            '<s n="abbr"/>':"ABBR",
             '<s n="v"/><s n="tv"/>':"V-IR-TV",
 	    '<s n="det"/><s n="qnt"/>':"DET-QNT",
 	    '<s n="det"/><s n="dem"/>':"DET-DEM",
@@ -30,12 +31,13 @@ def monofy(line,left=True):
 }
 
     if left:
-        word = line.partition("<l>")[2].partition("<s")[0]
-        tags= "".join(line.partition("<s")[1:]).partition("</l>")[0]
+        word = line.partition("<s")[0]
+        #word = line.partition("<l>")[2].partition("<s")[0]
+        tags= "".join(line.partition("<s")[1:]).partition("</r>")[0]
     else:
         word = line.partition("<s")[0]
         tags= "".join(line.partition("<s")[1:]).partition("</r>")[0]
-    word = word.replace("<b/>","% ")
+    word = re.sub("<b */>", "% ", word)
     entry = word + ":" + word + " " + dic[tags] + " ; !"
     return entry
 
@@ -48,14 +50,23 @@ if __name__=="__main__":
         filename = os.path.join(d, '../../apertium-uig/apertium-uig.uig.lexc')
     else:
         filename = os.path.join(d, '../../apertium-tur/apertium-tur.tur.lexc')
-    text = "".join([x for x in open(filename).readlines() if "V-TD" not in x])
+    #text = "".join([x for x in open(filename).readlines() if "V-TD" not in x])
+    present_entries = set()
+    entry_re = re.compile("([-\w]*):([-\w]*) *([\w-]*) ;")
+    with open(filename) as infile:
+        for line in infile.readlines():
+            present_entry = re.match(entry_re, line)
+            if present_entry is not None:
+                present_entries.add(present_entry.groups())
     for line in sys.stdin.readlines():
         if "<" in line:
             try:
                 m = monofy(line,left)
-                if m not in text:
+                new_entry = re.match(entry_re, m)
+                if not new_entry:
+                    continue
+                if new_entry.groups() not in present_entries:
                     sys.stdout.write(m + "\n")
             except KeyError:
-                print("Unknown tags:",line)
                 continue
 

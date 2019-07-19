@@ -20,6 +20,7 @@ def entrify(line):
 "org":'<s n="np"/><s n="org"/>',
 "al":'<s n="np"/><s n="al"/>',
 "num":'<s n="num"/>',
+"abbr":'<s n="abbr"/>',
 "det":'<s n="det"/><s n="dem"/>'
 }
     epl, rpe, lr = "       <e><p><l>", "</r></p></e>", "</l><r>"
