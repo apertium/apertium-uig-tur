@@ -9,16 +9,9 @@
 
 <rule>
     <match lemma="ol" tags="v.*">
-      <select lemma="بول" tags="n.*"/>
+      <select lemma="بول" tags="v.*"/>
     </match>
   </rule>
-
-<rule>
-    <match lemma="ol" tags="v.*">
-      <select lemma="بول" tags="n.*"/>
-    </match>
-  </rule>
-
 
 <rule>
     <match lemma="tatlı" tags="adj">
