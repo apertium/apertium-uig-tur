@@ -16,8 +16,6 @@
 <rule>
     <match lemma="ol" tags="v.*">
       <select lemma="بول" tags="n.*"/>
-
-    <match lemma="ol" tags="v.*">
     </match>
   </rule>
 
