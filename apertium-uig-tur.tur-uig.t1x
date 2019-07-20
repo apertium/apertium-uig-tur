@@ -90,9 +90,29 @@
     </def-cat>
 
 
+   <def-cat n="ger_abst">
+      <cat-item tags="v.*.ger_abst.*"/>
+      <cat-item tags="v.*.ger_abst"/>
+      <cat-item tags="v.*.ger_abst.*"/>
+      <cat-item tags="v.*.ger_abst"/>
+    </def-cat>
+
    <def-cat n="cop">
       <cat-item tags="cop.*"/>
     </def-cat>
+
+ <def-cat n="cond">
+      <cat-item tags="v.*.aor"/>
+      <cat-item tags="v.*.aor.*"/>
+      <cat-item tags="v.*.ger_aor.*"/>
+      <cat-item tags="v.*.gpr_aor.*"/>
+    </def-cat>
+
+<def-cat n="cop_cond">
+      <cat-item tags="cop.cond.p1.*"/>
+      <cat-item tags="cop.cond.p2.*"/>
+      <cat-item tags="cop.cond.p3.*"/>
+</def-cat>
 
    <def-cat n="cop_aor">
       <cat-item tags="cop.aor.p1.*"/>
@@ -159,6 +179,7 @@
       <attr-item tags="ifi"/>
       <attr-item tags="fut"/>
       <attr-item tags="past"/>
+      <attr-item tags="ger_abst"/>
       <attr-item tags="ger_past"/>
       <attr-item tags="ger_pabs"/>
       <attr-item tags="gpr_rsub"/>
@@ -444,6 +465,39 @@
     </rule>
 
 
+<rule comment="regla: ger_abst (oluş → bolış)">
+      <pattern>
+        <pattern-item n="ger_abst"/>
+        <pattern-item n="cop"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="ger"/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="ger"/>
+ 	     <clip pos="1" side="tl" part="a_cas"/>
+	     <lit v="+ئى"/>
+	     <lit-tag v="cop"/>
+ 	     <clip pos="2" side="tl" part="a_tns"/>
+	     <clip pos="2" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
 
 <rule comment="regla: noun+cop (to fix ئالمام ئىمىز etc )"> 
       <pattern>

@@ -3255,7 +3255,6 @@
        <e><p><l>روس<s n="n"/></l><r>Rus<s n="n"/></r></p></e>
        <e><p><l>ناسارا<s n="n"/></l><r>İsevî<s n="n"/></r></p></e>
        <e><p><l>غەرپ<s n="n"/></l><r>batı<s n="n"/></r></p></e>
-       <e><p><l>ئامرىكا<s n="np"/><s n="top"/></l><r>Amerika<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>كەبى<s n="post"/></l><r>gibi<s n="post"/></r></p></e>
        <e><p><l>كەبى<s n="post"/></l><r>misali<s n="post"/></r></p></e>
        <e><p><l>كەبى<s n="adj"/></l><r>gibi<s n="adj"/></r></p></e>
@@ -5462,6 +5461,7 @@
        <e><p><l>تەتبىقلان<s n="v"/><s n="iv"/></l><r>kullanıl<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>جانلان<s n="v"/><s n="iv"/></l><r>canlan<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>تىن<s n="v"/><s n="iv"/></l><r>avun<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>ئېر<s n="v"/><s n="iv"/></l><r>er<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ﺋﻪﺭ<s n="v"/><s n="iv"/></l><r>er<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>يۆتكەل<s n="v"/><s n="iv"/></l><r>yer<b/>değiştir<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>تەتبىقلا<s n="v"/><s n="tv"/></l><r>kullan<s n="v"/><s n="tv"/></r></p></e>
@@ -6840,7 +6840,8 @@
        <e><p><l>مۇئاۋىن<s n="n"/></l><r>muavin<s n="n"/></r></p></e>
        <e><p><l>ئۇچۇر<s n="n"/></l><r>haber<s n="n"/></r></p></e>
        <e><p><l>زىيارەت<s n="n"/></l><r>ziyaret<s n="n"/></r></p></e>
-       <e><p><l>ئىيۇل<s n="n"/></l><r>Temmuz<s n="n"/></r></p></e>
+       <e><p><l>ئىيۇل<s n="n"/></l><r>temmuz<s n="n"/></r></p></e>
+       <e><p><l>لوگو<s n="n"/></l><r>logo<s n="n"/></r></p></e>
        <e><p><l>بىراق<s n="cnjcoo"/></l><r>ama<s n="cnjcoo"/></r></p></e>
        <e><p><l>لېكىن<s n="cnjcoo"/></l><r>ama<s n="cnjcoo"/></r></p></e>
        <e><p><l>قەشقەر<s n="np"/><s n="top"/></l><r>Kaşgar<s n="np"/><s n="top"/></r></p></e>
