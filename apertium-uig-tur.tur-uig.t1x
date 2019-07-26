@@ -54,8 +54,6 @@
       <cat-item tags="v.*.ger_impf"/>
     </def-cat>
 
-
-
    <def-cat n="aor">
       <cat-item tags="v.*.aor.*"/>
       <cat-item tags="v.*.aor"/>
@@ -645,6 +643,7 @@
             </tags>
           <lu>
 	<clip pos="2" side="tl" part="lem"/>
+             <lit-tag v="num"/>
             </lu>
 <b/>
 	<lu>
