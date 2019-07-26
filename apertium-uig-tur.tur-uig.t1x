@@ -10,6 +10,15 @@
       <cat-item tags="np"/>
     </def-cat>
 
+  <def-cat n="yüzde">
+   	<cat-item lemma="yüzde" tags="n"/>
+   	<cat-item lemma="yüzde" tags="n.*"/>
+  </def-cat>
+
+    <def-cat n="pron_pers">
+      <cat-item tags="prn.pers.*"/>
+    </def-cat>
+
  <def-cat n="noun_aor">
       <cat-item tags="n.*"/>
       <cat-item tags="n"/>
@@ -137,6 +146,7 @@
 <def-attr n="a_subst_px">
       <attr-item tags="subst.px3sp"/>
     </def-attr>
+
 
 <def-attr n="a_subst_pl_px">
       <attr-item tags="subst.pl.px3sp"/>
@@ -617,6 +627,37 @@
         </out>
       </action>
     </rule>
+
+<rule comment="regla: yüzde (yüzde onu  → on persenti)">
+      <pattern>
+        <pattern-item n="yüzde"/>
+        <pattern-item n="num"/>
+      </pattern>
+      <action>
+<let>
+          <clip pos="2" side="tl" part="a_subst"/>
+	<lit-tag v=""/>
+        </let>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+	<clip pos="2" side="tl" part="lem"/>
+            </lu>
+<b/>
+	<lu>
+	<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="n"/>
+ 	<clip pos="2" side="tl" part="a_pos"/>
+ 	<clip pos="2" side="tl" part="a_cas"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
 
   </section-rules>
 </transfer>
