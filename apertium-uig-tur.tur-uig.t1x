@@ -108,6 +108,19 @@
       <cat-item tags="cop.*"/>
     </def-cat>
 
+   <def-cat n="qst">
+      <cat-item tags="qst"/>
+    </def-cat>
+
+   <def-cat n="qst_lemma">
+      <cat-item tags="v.*"/>
+      <cat-item tags="n.*"/>
+      <cat-item tags="num.*"/>
+      <cat-item tags="adj.*"/>
+      <cat-item tags="adv.*"/>
+      <cat-item tags="post.*"/>
+    </def-cat>
+
  <def-cat n="cond">
       <cat-item tags="v.*.aor"/>
       <cat-item tags="v.*.aor.*"/>
@@ -651,6 +664,27 @@
              <lit-tag v="n"/>
  	<clip pos="2" side="tl" part="a_pos"/>
  	<clip pos="2" side="tl" part="a_cas"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: qst (mı  → mu)">
+      <pattern>
+        <pattern-item n="qst_lemma"/>
+        <pattern-item n="qst"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="whole"/>
+	     <lit v="+مۇ"/>
+	     <lit-tag v="qst"/>
           </lu>
    	 </chunk>
         </out>
