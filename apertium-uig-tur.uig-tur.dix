@@ -86,7 +86,7 @@
     <sdef n="ord"             c="Ordinal"/>
     <sdef n="acr"             c="Acronym"/>
     <sdef n="unc"             c="Uncountable"/>
-
+    <sdef n="qst"             c="question"/>
     <sdef n="num"             c="Numeral"/>
     <sdef n="sent"            c="Sentence end"/>
     <sdef n="cm"              c="Comma"/>
@@ -114,7 +114,7 @@
       <e><p><l>ئې<s n="cop"/></l><r>i<s n="cop"/></r></p></e>
       <e r="LR"><p><l>ئىكەن<s n="cop"/><s n="dub"/></l><r> </r></p></e>
       <e r="LR"><p><l>ئەمەس<s n="cop"/><s n="neg"/></l><r> </r></p></e>
-     
+      <e><p><l>مۇ<s n="qst"/></l><r>mı<s n="qst"/></r></p></e>
      <!--  <e><p><l>ئى<s n="v"/><s n="iv"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e>  ikenlikini = olduğunu -->
 
       <!-- SECTION: Conjunctions -->
