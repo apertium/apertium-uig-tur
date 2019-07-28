@@ -5804,7 +5804,7 @@
        <e><p><l>خاقان<s n="n"/></l><r>hakan<s n="n"/></r></p></e>
        <e><p><l>قاغان<s n="n"/></l><r>kağan<s n="n"/></r></p></e>
        <e><p><l>شان<s n="n"/></l><r>şan<s n="n"/></r></p></e>
-       <e><p><l>كۇن<s n="n"/></l><r>gün<s n="n"/></r></p></e>
+
        <e><p><l>كۇب<s n="n"/></l><r>küp<s n="n"/></r></p></e>
        <e><p><l>كۇپ<s n="n"/></l><r>küp<s n="n"/></r></p></e>
        <e><p><l>كومپيۇتېر<s n="n"/></l><r>bilgisayar<s n="n"/></r></p></e>
@@ -6763,6 +6763,7 @@
        <e><p><l>تويغۇز<s n="v"/><s n="tv"/></l><r>doyur<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ئوتلات<s n="v"/><s n="tv"/></l><r>otlat<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>يالۋۇرت<s n="v"/><s n="tv"/></l><r>yalvart<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>قارايت<s n="v"/><s n="iv"/></l><r>karar<s n="v"/><s n="iv"/></r></p></e>
 
        <e><p><l>بۈگۈنكى<s n="adj"/></l><r>bugünki<s n="adj"/></r></p></e>
        <e><p><l>مەلۇم<s n="adj"/></l><r>belli<s n="adj"/></r></p></e>
@@ -7544,7 +7545,6 @@
 <e><p><l>دىل<s n="n"/></l><r>dil<s n="n"/></r></p></e>
       <e><p><l>شەھەر<s n="n"/></l><r>şehir<s n="n"/></r></p></e>
       <e><p><l>پايتەخت<s n="n"/></l><r>başkent<s n="n"/></r></p></e>
-      <e><p><l>كۈن<s n="n"/></l><r>gün<s n="n"/></r></p></e>
       <e><p><l>تۈزۈم<s n="n"/></l><r>rejim<s n="n"/></r></p></e>
       <e><p><l>ئىسىم<s n="n"/></l><r>isim<s n="n"/></r></p></e>
       <e><p><l>قىتئە<s n="n"/></l><r>kıta<s n="n"/></r></p></e>
