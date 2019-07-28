@@ -14,6 +14,12 @@
   </rule>
 
 <rule>
+    <match lemma="fikir" tags="n.*">
+      <select lemma="پىكىر" tags="n.*"/>
+    </match>
+  </rule>
+
+<rule>
     <match lemma="tatlı" tags="adj">
       <select lemma="شېرىن" tags="adj"/>
     </match>
