@@ -14,6 +14,12 @@
   </rule>
 
 <rule>
+    <match lemma="git" tags="v.*">
+      <select lemma="كەت" tags="v.*"/>
+    </match>
+  </rule>
+
+<rule>
     <match lemma="et" tags="v.*">
       <select lemma="قىل" tags="v.*"/>
     </match>
