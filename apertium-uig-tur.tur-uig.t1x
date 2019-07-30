@@ -80,9 +80,23 @@
     </def-cat>
 
     <def-cat n="past">
+      <cat-item tags="v.tv.past"/>
+      <cat-item tags="v.iv.past"/>
+   <cat-item tags="v.tv.*.past"/>
+      <cat-item tags="v.iv.*.past"/>
       <cat-item tags="v.*.past"/>
       <cat-item tags="v.*.past.*"/>
 	<cat-item tags="v.*.*.past.*"/>
+    </def-cat>
+
+  <def-cat n="fut">
+      <cat-item tags="v.tv.fut"/>
+      <cat-item tags="v.iv.fut"/>
+   <cat-item tags="v.tv.*.fut"/>
+      <cat-item tags="v.iv.*.fut"/>
+      <cat-item tags="v.*.fut.*"/>
+	<cat-item tags="v.*.*.fut"/>
+	<cat-item tags="v.*.*.fut.*"/>
     </def-cat>
 
    <def-cat n="post">
@@ -413,6 +427,33 @@
  	     <clip pos="1" side="tl" part="a_abil"/>
  	     <clip pos="1" side="tl" part="a_neg"/>
 	     <lit-tag v="past"/>
+	     <clip pos="2" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+<rule comment="regla: fut (olacak → bolmaqchi)">
+      <pattern>
+        <pattern-item n="fut"/>
+        <pattern-item n="cop"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="fut"/>
 	     <clip pos="2" side="tl" part="a_pers_nbr"/>
           </lu>
    	 </chunk>
