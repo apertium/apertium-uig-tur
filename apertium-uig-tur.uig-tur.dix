@@ -5581,16 +5581,15 @@
        <e><p><l>كەت<s n="v"/><s n="iv"/></l><r>git<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>بىلدۈر<s n="v"/><s n="tv"/></l><r>bildir<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>تەكىتلى<s n="v"/><s n="tv"/></l><r>tekit<b/>et<s n="v"/><s n="tv"/></r></p></e>
-       <e><p><l>سانى<s n="v"/><s n="tv"/></l><r>say<s n="v"/><s n="tv"/></r></p></e>
+         <e><p><l>سانى<s n="v"/><s n="tv"/></l><r>say<s n="v"/><s n="tv"/></r></p></e>
 	<e><p><l>ئەمەس<s n="adj"/></l><r>değil<s n="adj"/></r></p></e>
-<e><p><l>ئۆزىمىز<b/>بىلگەن<s n="adj"/></l><r>bildiğimiz<s n="adj"/></r></p></e>
-      
+	<e><p><l>ئۆزىمىز<b/>بىلگەن<s n="adj"/></l><r>bildiğimiz<s n="adj"/></r></p></e>
 	<e><p><l>ياق<s n="ij"/></l><r>yok<s n="ij"/></r></p></e>
 	<e><p><l>ئەي<s n="ij"/></l><r>ey<s n="ij"/></r></p></e>
 	<e><p><l>مەيلى<s n="ij"/></l><r>peki<s n="ij"/></r></p></e>
 	<e><p><l>پاش<s n="ij"/></l><r>bakınız<s n="ij"/></r></p></e>
 
-<e><p><l>خەتمە<s n="n"/></l><r>Hatme<s n="n"/></r></p></e>
+       <e><p><l>خەتمە<s n="n"/></l><r>Hatme<s n="n"/></r></p></e>
        <e><p><l>يەسەۋىي<s n="np"/><s n="cog"/><s n="mf"/></l><r>Yesevi<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
        <e><p><l>بىلگە<s n="adj"/></l><r>bilge<s n="adj"/></r></p></e>
        <e><p><l>فىزىكىلىق<s n="adj"/></l><r>fiziki<s n="adj"/></r></p></e>
