@@ -19,6 +19,15 @@
       <cat-item tags="prn.pers.*"/>
     </def-cat>
 
+
+ <def-cat n="ins">
+      <cat-item tags="n.*.ins"/>
+      <cat-item tags="np.*.ins"/>
+      <cat-item tags="v.*.ins"/>
+      <cat-item tags="adj.*.ins"/>
+      <cat-item tags="num.*.ins"/>
+    </def-cat>
+
  <def-cat n="noun_aor">
       <cat-item tags="n.*"/>
       <cat-item tags="n"/>
@@ -52,6 +61,8 @@
  <def-cat n="ger_impf">
       <cat-item tags="v.*.ger_impf.*"/>
       <cat-item tags="v.*.ger_impf"/>
+      <cat-item tags="v.*.gpr_rsub.*"/>
+      <cat-item tags="v.*.gpr_rsub"/>
     </def-cat>
 
    <def-cat n="aor">
@@ -276,6 +287,9 @@
       <attr-item tags="comp"/>
     </def-attr>
 
+ <def-attr n="a_ins">
+      <attr-item tags="ins"/>
+    </def-attr>
 
     <def-attr n="a_kadar">
       <attr-item tags="dek"/>
@@ -353,6 +367,33 @@
               <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: ins (olmuşla → bolghan bilen)">
+      <pattern>
+        <pattern-item n="ins"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_ins"/>
+	<lit-tag v="nom"/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="whole"/>
+         </lu>
+	<b/>
+	<lu>
+   <lit v="بىلەن"/>
+	     <lit-tag v="post"/>
+          </lu>
+   	 </chunk>
         </out>
       </action>
     </rule>
@@ -513,7 +554,7 @@
  	     <clip pos="1" side="tl" part="a_abil"/>
  	     <clip pos="1" side="tl" part="a_neg"/>
 	     <lit-tag v="ger_pabs"/>
-             <lit-tag v="nom"/>
+	     <lit-tag v="nom"/>
           </lu>
    	 </chunk>
         </out>
