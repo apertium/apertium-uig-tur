@@ -21,11 +21,16 @@
 
 
  <def-cat n="ins">
+      <cat-item tags="n.ins"/>
       <cat-item tags="n.*.ins"/>
+      <cat-item tags="np.ins"/>
       <cat-item tags="np.*.ins"/>
       <cat-item tags="v.*.ins"/>
+      <cat-item tags="adj.ins"/>
       <cat-item tags="adj.*.ins"/>
+      <cat-item tags="num.ins"/>
       <cat-item tags="num.*.ins"/>
+      <cat-item tags="prn.pers.*.ins"/>
     </def-cat>
 
  <def-cat n="noun_aor">
@@ -379,6 +384,39 @@
 	<let>
           <clip pos="1" side="tl" part="a_ins"/>
 	<lit-tag v="nom"/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="whole"/>
+         </lu>
+	<b/>
+	<lu>
+   <lit v="بىلەن"/>
+	     <lit-tag v="post"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+<rule comment="regla: ins+cop (düşmanla → yaw bilen)">
+      <pattern>
+        <pattern-item n="ins"/>
+        <pattern-item n="cop"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_ins"/>
+	<lit-tag v="nom"/>
+        </let>
+<let>
+          <clip pos="2" side="tl" part="whole"/>
+	<lit-tag v=""/>
         </let>
         <out>
         <chunk name="v" case="caseFirstWord">
