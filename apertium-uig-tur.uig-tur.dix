@@ -155,6 +155,9 @@
      	<e><p><l>نە<s n="adv"/><s n="itg"/></l><r>ne<s n="adv"/><s n="itg"/></r></p></e>
 
       <!-- SECTION: Pronouns -->
+       <e><p><l>ئۆز<s n="prn"/><s n="ref"/></l><r>kendi<s n="prn"/><s n="ref"/></r></p></e>
+
+       <e><p><l>شۇ<s n="prn"/><s n="pers"/></l><r>şu<s n="prn"/><s n="pers"/></r></p></e>
       	<e><p><l>ئۇ<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e>
 	<e><p><l>ئا<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e>
 <e><p><l>ئول<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e>
@@ -6788,11 +6791,7 @@
        <e><p><l>ئەۋەتىڭ<s n="n"/></l><r>ebediyet<s n="n"/></r></p></e>
        <e><p><l>يۈز<s n="n"/></l><r>yüz<s n="n"/></r></p></e>
        <e><p><l>تور<s n="n"/></l><r>ağ<s n="n"/></r></p></e>
-       <e><p><l>ئۆز<s n="prn"/><s n="ref"/></l><r>kendi<s n="prn"/><s n="ref"/></r></p></e>
-  <e><p><l>ئۆزە<s n="prn"/><s n="ref"/></l><r>kendi<s n="prn"/><s n="ref"/></r></p></e>
-   <e><p><l>ئوز<s n="prn"/><s n="ref"/></l><r>kendi<s n="prn"/><s n="ref"/></r></p></e>
- <e><p><l>ئۈز<s n="prn"/><s n="ref"/></l><r>kendi<s n="prn"/><s n="ref"/></r></p></e>
-       <e><p><l>شۇ<s n="prn"/><s n="pers"/></l><r>şu<s n="prn"/><s n="pers"/></r></p></e>
+
        <e><p><l>ھەقتە<s n="post"/></l><r>hakkında<s n="post"/></r></p></e>
        <e><p><l>ئارقىلىق<s n="post"/></l><r>aracılığıyla<s n="post"/></r></p></e>
        <e><p><l>بولۇشىچە<s n="adv"/></l><r>mümkün<b/>olduğunca<s n="adv"/></r></p></e>
