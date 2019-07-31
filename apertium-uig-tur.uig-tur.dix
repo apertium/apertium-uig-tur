@@ -135,18 +135,9 @@
        <e><p><l>ئىتىبارەن<s n="post"/></l><r>itibaren<s n="post"/></r></p></e>
        <e><p><l>قارشى<s n="post"/></l><r>karşı<s n="post"/></r></p></e>
 
-
-      <!-- SECTION: Pronouns -->
-      	<e><p><l>ئۇ<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e>
-	<e><p><l>ئا<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e>
-<e><p><l>ئول<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e>
-     	<e><p><l>نە<s n="adv"/><s n="itg"/></l><r>ne<s n="adv"/><s n="itg"/></r></p></e>
- 	<e><p><l>نە<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
-<e><p><l>نېمە<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
-<e><p><l>نېمى<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
-<e><p><l>نىمە<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
-<e><p><l>نىمى<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
-	<e><p><l>نېمە<s n="adv"/><s n="itg"/></l><r>ne<s n="adv"/><s n="itg"/></r></p></e>
+      <!-- SECTION: Adverbs -->
+<e><p><l>قانچىلىك<s n="adv"/><s n="itg"/></l><r>ne<b/>kadar<s n="adv"/><s n="itg"/></r></p></e>
+<e><p><l>نېمە<s n="adv"/><s n="itg"/></l><r>ne<s n="adv"/><s n="itg"/></r></p></e>
 <e><p><l>نېمى<s n="adv"/><s n="itg"/></l><r>ne<s n="adv"/><s n="itg"/></r></p></e>
 
 <e><p><l>نەگە<s n="adv"/><s n="itg"/></l><r>nereye<s n="adv"/><s n="itg"/></r></p></e>
@@ -154,13 +145,27 @@
 <e><p><l>نىمىلا<s n="adv"/><s n="itg"/></l><r>ne<s n="adv"/><s n="itg"/></r></p></e>
 <e><p><l>نىمە<s n="adv"/><s n="itg"/></l><r>ne<s n="adv"/><s n="itg"/></r></p></e>
 	<e><p><l>قانداق<s n="adv"/><s n="itg"/></l><r>nasıl<s n="adv"/><s n="itg"/></r></p></e>
-	<e><p><l>كىم<s n="prn"/><s n="itg"/></l><r>kim<s n="prn"/><s n="itg"/></r></p></e>
-	<e><p><l>قەيەر<s n="prn"/><s n="itg"/></l><r>nere<s n="prn"/><s n="itg"/></r></p></e>
-	<e><p><l>قاياق<s n="adv"/><s n="itg"/></l><r>nere<s n="prn"/><s n="itg"/></r></p></e>
+<e><p><l>قاياق<s n="adv"/><s n="itg"/></l><r>nere<s n="prn"/><s n="itg"/></r></p></e>
        <e><p><l>نىمانچە<s n="adv"/><s n="itg"/></l><r>niye<s n="adv"/><s n="itg"/></r></p></e>
        <e><p><l>نېمانچە<s n="adv"/><s n="itg"/></l><r>niye<s n="adv"/><s n="itg"/></r></p></e>
        <e><p><l>نىمىشقا<s n="adv"/><s n="itg"/></l><r>neden<s n="adv"/><s n="itg"/></r></p></e>
        <e><p><l>نىمىشقا<s n="adv"/><s n="itg"/></l><r>niçin<s n="adv"/><s n="itg"/></r></p></e>
+     	<e><p><l>نە<s n="adv"/><s n="itg"/></l><r>ne<s n="adv"/><s n="itg"/></r></p></e>
+
+      <!-- SECTION: Pronouns -->
+      	<e><p><l>ئۇ<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e>
+	<e><p><l>ئا<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e>
+<e><p><l>ئول<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e>
+
+ 	<e><p><l>نە<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
+<e><p><l>نېمە<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
+<e><p><l>نېمى<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
+<e><p><l>نىمە<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
+<e><p><l>نىمى<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
+	
+	<e><p><l>كىم<s n="prn"/><s n="itg"/></l><r>kim<s n="prn"/><s n="itg"/></r></p></e>
+	<e><p><l>قەيەر<s n="prn"/><s n="itg"/></l><r>nere<s n="prn"/><s n="itg"/></r></p></e>
+	
        <e><p><l>ئاشۇ<s n="prn"/><s n="dem"/></l><r>şu<s n="prn"/><s n="dem"/></r></p></e>
        <e><p><l>مۇشۇ<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/><s n="dem"/></r></p></e>
 <e><p><l>ئەشۇ<s n="prn"/><s n="dem"/></l><r>şu<s n="prn"/><s n="dem"/></r></p></e>
@@ -172,18 +177,17 @@
 <e><p><l>قايسى<s n="prn"/><s n="itg"/></l><r>hangi<s n="prn"/><s n="itg"/></r></p></e>
        <e><p><l>قاچان<s n="adv"/><s n="itg"/></l><r>ne<b/>zaman<s n="adv"/><s n="itg"/></r></p></e>
 	<e><p><l>قانچىلىك<s n="prn"/><s n="itg"/></l><r>ne<b/>kadar<s n="prn"/><s n="itg"/></r></p></e>
-
-<e><p><l>قانچىلىك<s n="adv"/><s n="itg"/></l><r>ne<b/>kadar<s n="adv"/><s n="itg"/></r></p></e>
-
 <e><p><l>ھەربىر<s n="prn"/><s n="qnt"/></l><r>her<b/>bir<s n="prn"/><s n="qnt"/></r></p></e>
 <e><p><l>ھېچقايسى<s n="prn"/><s n="qnt"/></l><r>kimse<s n="prn"/><s n="qnt"/></r></p></e>
-   
-       
 <e><p><l>ھىچبىر<s n="prn"/><s n="qnt"/></l><r>hiçbir<s n="prn"/><s n="qnt"/></r></p></e>
-
 <e><p><l>ھېچبىر<s n="prn"/><s n="qnt"/></l><r>hiçbir<s n="prn"/><s n="qnt"/></r></p></e>
-
+       <e><p><l>ھېچكىم<s n="prn"/><s n="qnt"/></l><r>kimse<s n="prn"/><s n="qnt"/></r></p></e>
+       <e><p><l>بىرى<s n="prn"/><s n="qnt"/></l><r>biri<s n="prn"/><s n="ind"/></r></p></e>
+   <e><p><l>بىرەيلەن<s n="prn"/><s n="qnt"/></l><r>biri<s n="prn"/><s n="ind"/></r></p></e>
+       <e><p><l>ھېچنېمە<s n="prn"/><s n="neg"/></l><r>hiçbir<b/>şey<s n="prn"/><s n="neg"/></r></p></e>
+     <e><p><l>بىرەر<b/>نەرسە<s n="prn"/><s n="qnt"/></l><r>birşey<s n="prn"/><s n="ind"/></r></p></e>
       <!-- SECTION: Determiners -->
+
        <e><p><l>مۇنۇ<s n="det"/><s n="dem"/></l><r>işte<b/>bu<s n="det"/><s n="dem"/></r></p></e>
        <e><p><l>ئۇشبۇ<s n="det"/><s n="dem"/></l><r>işbu<s n="det"/><s n="dem"/></r></p></e>
  <e><p><l>ماۋۇ<s n="det"/><s n="dem"/></l><r>bu<s n="det"/><s n="dem"/></r></p></e>
@@ -204,6 +208,7 @@
        <e><p><l>ھەربىر<s n="det"/><s n="qnt"/></l><r>her<b/>bir<s n="det"/><s n="qnt"/></r></p></e>
  <e><p><l>ھىچبىر<s n="det"/><s n="qnt"/></l><r>hiçbir<s n="det"/><s n="neg"/></r></p></e>
 <e><p><l>ھېچبىر<s n="det"/><s n="qnt"/></l><r>hiçbir<s n="det"/><s n="neg"/></r></p></e>
+
       <!-- SECTION: Numerals -->
       <e><p><l>بىر<s n="num"/></l><r>bir<s n="num"/></r></p></e>
       <e><p><l>ئىككى<s n="num"/></l><r>iki<s n="num"/></r></p></e>
@@ -234,6 +239,7 @@
        <e><p><l>سەكسەن<s n="num"/></l><r>seksen<s n="num"/></r></p></e>
        <e><p><l>ئەللىك<s n="num"/></l><r>elli<s n="num"/></r></p></e>
        <e><p><l>يەتتى<s n="num"/></l><r>yedi<s n="num"/></r></p></e>
+
       <!-- SECTION: Nouns -->
        <e><p><l>ئۈست<s n="n"/></l><r>üst<s n="n"/></r></p></e>
 
@@ -877,10 +883,7 @@
        <e><p><l>رەخت<s n="n"/></l><r>kumaş<s n="n"/></r></p></e>
        <e><p><l>كېتىش<s n="n"/></l><r>gidiş<s n="n"/></r></p></e>
        <e><p><l>فېننىگ<s n="n"/></l><r>kuruş<s n="n"/></r></p></e>
-       <e><p><l>ھېچكىم<s n="prn"/><s n="qnt"/></l><r>kimse<s n="prn"/><s n="qnt"/></r></p></e>
-       <e><p><l>بىرى<s n="prn"/><s n="qnt"/></l><r>biri<s n="prn"/><s n="ind"/></r></p></e>
-   <e><p><l>بىرەيلەن<s n="prn"/><s n="qnt"/></l><r>biri<s n="prn"/><s n="ind"/></r></p></e>
-       <e><p><l>ھېچنېمە<s n="prn"/><s n="neg"/></l><r>hiçbir<b/>şey<s n="prn"/><s n="neg"/></r></p></e>
+
        <e><p><l>جىمجىت<s n="adv"/></l><r>usulca<s n="adv"/></r></p></e>
        <e><p><l>زادىلا<s n="adv"/></l><r>asla<s n="adv"/></r></p></e>
        <e><p><l>نېمىدېگەن<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
@@ -1939,7 +1942,7 @@
        <e><p><l>تارقاق<s n="adj"/></l><r>dağınık<s n="adj"/></r></p></e>
        <e><p><l>داخىل<s n="adj"/></l><r>dahil<s n="adj"/></r></p></e>
        <e><p><l>جايلاخكان<s n="adj"/></l><r>yer<b/>alan<s n="adj"/></r></p></e>
-       <e><p><l>بولگان<s n="adj"/></l><r>olan<s n="adj"/></r></p></e>                                
+                            
        <e><p><l>سۇنئىي<s n="adj"/></l><r>yapay<s n="adj"/></r></p></e>                               
        <e><p><l>تەرەپلىمىلىك<s n="adj"/></l><r>taraflı<s n="adj"/></r></p></e>                                               
        <e><p><l>تەرەپلىك<s n="adj"/></l><r>taraflı<s n="adj"/></r></p></e>
@@ -8362,6 +8365,7 @@
       <e><p><l>چۈچۈك<s n="n"/></l><r>asit<s n="n"/></r></p></e>
       <e><p><l>ئەسكەر<s n="n"/></l><r>asker<s n="n"/></r></p></e>
       <e><p><l>ئارسلان<s n="n"/></l><r>aslan<s n="n"/></r></p></e>
+      <e><p><l>ئارسلان<s n="n"/></l><r>arslan<s n="n"/></r></p></e>
       <e><p><l>يولۋاس<s n="n"/></l><r>aslan<s n="n"/></r></p></e>
       <e><p><l>ئاسپىرىن<s n="n"/></l><r>aspirin<s n="n"/></r></p></e>
       <e><p><l>ئاسترونومىيە<s n="n"/></l><r>astronomi<s n="n"/></r></p></e>
