@@ -159,7 +159,6 @@
 	<e><p><l>ئا<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e>
 <e><p><l>ئول<s n="prn"/><s n="pers"/></l><r>o<s n="prn"/><s n="pers"/></r></p></e>
 
- 	<e><p><l>نە<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
 <e><p><l>نېمە<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
 <e><p><l>نېمى<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
 <e><p><l>نىمە<s n="prn"/><s n="itg"/></l><r>ne<s n="prn"/><s n="itg"/></r></p></e>
@@ -2378,7 +2377,7 @@
        <e><p><l>زەيتىنبۇرنۇ<s n="np"/><s n="top"/></l><r>Zeytinburnu<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>نورماندى<s n="np"/><s n="top"/></l><r>Normandy<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>قىزىلتاغ<s n="np"/><s n="top"/></l><r>Kızıldağ<s n="np"/><s n="top"/></r></p></e>
-       <e><p><l>نېمى<s n="prn"/><s n="pers"/></l><r>ne<s n="prn"/><s n="pers"/></r></p></e>
+
        <e><p><l>نەگە<s n="prn"/><s n="itg"/></l><r>ne<s n="adv"/><s n="itg"/></r></p></e>
        <e><p><l>ناھايتى<s n="adv"/></l><r>en<b/>fazla<s n="adv"/></r></p></e>
        <e><p><l>ناھايتى<s n="adv"/></l><r>olsa<b/>olsa<s n="adv"/></r></p></e>
@@ -4172,24 +4171,7 @@
        <e><p><l>كىرگۈچە<s n="n"/></l><r>giriş<s n="n"/></r></p></e>
        <e><p><l>ئۆرە<s n="n"/></l><r>yokuş<s n="n"/></r></p></e>
        <e><p><l>ئەمىسە<s n="cnjcoo"/></l><r>veya<s n="cnjcoo"/></r></p></e>
-       <e><p><l>ھۆمۈدەپ<s n="adv"/></l><r>zorla<s n="adv"/></r></p></e>
-       <e><p><l>نەدە<s n="adv"/></l><r>nerede<s n="adv"/></r></p></e>
-       <e><p><l>نەچچەيلەن<s n="adv"/></l><r>ne<b/>ile<s n="adv"/></r></p></e>
-       <e><p><l>ئەمىسە<s n="adv"/></l><r>böyle<s n="adv"/></r></p></e>
-       <e><p><l>نېمىدە<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
-       <e><p><l>ھۆمۈدەپ<s n="adv"/></l><r>zorlanarak<s n="adv"/></r></p></e>
-       <e><p><l>كەمچىل<s n="adv"/></l><r>eksik<s n="adv"/></r></p></e>
-       <e><p><l>كېيىنلا<s n="adv"/></l><r>sonra<s n="adv"/></r></p></e>
-<e><p><l>كېيىنمۇ<s n="adv"/></l><r>sonra<b/>da<s n="adv"/></r></p></e>
-       <e><p><l>ھەمىشە<s n="adv"/></l><r>her<b/>zaman<s n="adv"/></r></p></e>
-       <e><p><l>ئاس<s n="adv"/></l><r>muhtemelen<s n="adv"/></r></p></e>
-       <e><p><l>گاھى<s n="adv"/></l><r>bazen<s n="adv"/></r></p></e>
-       <e><p><l>كېچىلەپ<s n="adv"/></l><r>geceleyin<s n="adv"/></r></p></e>
-       <e><p><l>مەسلەن<s n="adv"/></l><r>örneğin<s n="adv"/></r></p></e>
-       <e><p><l>ھەمىشە<s n="adv"/></l><r>hep<s n="adv"/></r></p></e>
-       <e><p><l>نېمانچە<s n="adv"/></l><r>neden<b/>o<b/>kadar<s n="adv"/></r></p></e>
-       <e><p><l>ئۆمۈرۋايەت<s n="adv"/></l><r>ömür<b/>boyu<s n="adv"/></r></p></e>
-       <e><p><l>ئازراقلا<s n="adv"/></l><r>biraz<s n="adv"/></r></p></e>
+       
        <e><p><l>گۈپۈلدە<s n="v"/><s n="iv"/></l><r>gürülde<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ئېرى<s n="v"/><s n="iv"/></l><r>eri<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ئۆرلە<s n="v"/><s n="iv"/></l><r>yüksel<s n="v"/><s n="iv"/></r></p></e>
@@ -10140,6 +10122,24 @@
        <e><p><l>يىللارچە<s n="adv"/></l><r>yıllarca<s n="adv"/></r></p></e>
        <e><p><l>كۈنلەرچە<s n="adv"/></l><r>günlerce<s n="adv"/></r></p></e>
        <e><p><l>ئايلارچە<s n="adv"/></l><r>aylarca<s n="adv"/></r></p></e>
+<e><p><l>ھۆمۈدەپ<s n="adv"/></l><r>zorla<s n="adv"/></r></p></e>
+       <e><p><l>نەدە<s n="adv"/></l><r>nerede<s n="adv"/></r></p></e>
+       <e><p><l>نەچچەيلەن<s n="adv"/></l><r>ne<b/>ile<s n="adv"/></r></p></e>
+       <e><p><l>ئەمىسە<s n="adv"/></l><r>böyle<s n="adv"/></r></p></e>
+       <e><p><l>نېمىدە<s n="adv"/></l><r>ne<s n="adv"/></r></p></e>
+       <e><p><l>ھۆمۈدەپ<s n="adv"/></l><r>zorlanarak<s n="adv"/></r></p></e>
+       <e><p><l>كەمچىل<s n="adv"/></l><r>eksik<s n="adv"/></r></p></e>
+       <e><p><l>كېيىنلا<s n="adv"/></l><r>sonra<s n="adv"/></r></p></e>
+<e><p><l>كېيىنمۇ<s n="adv"/></l><r>sonra<b/>da<s n="adv"/></r></p></e>
+       <e><p><l>ھەمىشە<s n="adv"/></l><r>her<b/>zaman<s n="adv"/></r></p></e>
+       <e><p><l>ئاس<s n="adv"/></l><r>muhtemelen<s n="adv"/></r></p></e>
+       <e><p><l>گاھى<s n="adv"/></l><r>bazen<s n="adv"/></r></p></e>
+       <e><p><l>كېچىلەپ<s n="adv"/></l><r>geceleyin<s n="adv"/></r></p></e>
+       <e><p><l>مەسلەن<s n="adv"/></l><r>örneğin<s n="adv"/></r></p></e>
+       <e><p><l>ھەمىشە<s n="adv"/></l><r>hep<s n="adv"/></r></p></e>
+       <e><p><l>نېمانچە<s n="adv"/></l><r>neden<b/>o<b/>kadar<s n="adv"/></r></p></e>
+       <e><p><l>ئۆمۈرۋايەت<s n="adv"/></l><r>ömür<b/>boyu<s n="adv"/></r></p></e>
+       <e><p><l>ئازراقلا<s n="adv"/></l><r>biraz<s n="adv"/></r></p></e>
       <!-- SECTION: Verbs -->
 
       <e><p><l>تۇر<s n="vaux"/></l><r>dur<s n="v"/><s n="iv"/></r></p></e>
