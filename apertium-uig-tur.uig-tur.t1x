@@ -342,10 +342,10 @@
     </def-cat>
 
     <def-cat n="past2">
-	<cat-item tags="v.*.past2*"/>
-	<cat-item tags="v.*.*.past2.*"/>
-	<cat-item tags="vaux.*.past2.*"/>
-	<cat-item tags="vaux.past2.*"/>
+	<cat-item tags="v.*.past.evid*"/>
+	<cat-item tags="v.*.*.past.evid.*"/>
+	<cat-item tags="vaux.*.past.evid.*"/>
+	<cat-item tags="vaux.past.evid.*"/>
 	<cat-item tags="v.*.past3*"/>
 	<cat-item tags="v.*.*.past3.*"/>
 	<cat-item tags="vaux.*.past3.*"/>
