@@ -63,6 +63,11 @@
       <cat-item tags="v.*.ifi"/>
     </def-cat>
 
+ <def-cat n="nec">
+      <cat-item tags="v.*.nec.*"/>
+      <cat-item tags="v.*.nec"/>
+    </def-cat>
+
  <def-cat n="ger_impf">
       <cat-item tags="v.*.ger_impf.*"/>
       <cat-item tags="v.*.ger_impf"/>
@@ -560,13 +565,72 @@
  	     <clip pos="1" side="tl" part="a_abil"/>
  	     <clip pos="1" side="tl" part="a_neg"/>
 	     <lit-tag v="past.p3.sg"/>
-
           </lu>
    	 </chunk>
         </out>
       </action>
     </rule>
 
+
+<rule comment="regla: nec (olmalı → bolsa kérek)">
+      <pattern>
+        <pattern-item n="nec"/>
+        <pattern-item n="cop"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="gna_cond"/>
+ 	     <clip pos="2" side="tl" part="a_pers_nbr"/>
+            </lu>
+<b/>
+	<lu>
+     <lit v="كېرەك"/>
+	     <lit-tag v="n.nom"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: nec 3rd person only(olmalı → bolsa kérek)">
+      <pattern>
+        <pattern-item n="nec"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="gna_cond.p3.sg"/>
+            </lu>
+<b/>
+	<lu>
+	     <lit v="كېرەك"/>
+	     <lit-tag v="n.nom"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
 
 <rule comment="regla: fut (olacak → bolmaqchi)">
       <pattern>
