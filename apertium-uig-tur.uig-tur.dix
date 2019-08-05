@@ -2498,9 +2498,9 @@
        <e><p><l>ناۋادا<s n="post"/></l><r>ise<s n="post"/></r></p></e>
        <e><p><l>ئاخىرى<s n="adv"/></l><r>sonunda<s n="adv"/></r></p></e>
        <e><p><l>ئەتە<s n="adv"/></l><r>yarın<s n="adv"/></r></p></e>
-       <e><p><l>ئىچ<s n="v"/><s n="iv"/></l><r>iç<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>ئىچ<s n="v"/><s n="tv"/></l><r>iç<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>تەبرىكلە<s n="v"/><s n="tv"/></l><r>kutla<s n="v"/><s n="tv"/></r></p></e>
-
+       <e><p><l>تاماكا<b/>چەك<s n="v"/><s n="iv"/></l><r>sigara<b/>iç<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>بېلەت<s n="n"/></l><r>bilet<s n="n"/></r></p></e>
        <e><p><l>ئىشتات<s n="n"/></l><r>devlet<s n="n"/></r></p></e>
        <e><p><l>قىيامەت<s n="n"/></l><r>kıyamet<s n="n"/></r></p></e>
@@ -3751,7 +3751,8 @@
        <e><p><l>ئۆي<s n="n"/></l><r>hane<s n="n"/></r></p></e>
        <e><p><l>سىتىۋ<s n="np"/><s n="ant"/><s n="m"/></l><r>Steve<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>مونتهنەگرو<s n="np"/><s n="top"/></l><r>Karadağ<s n="np"/><s n="top"/></r></p></e>
-
+       <e><p><l>شام<s n="n"/></l><r>mum<s n="n"/></r></p></e>
+        <e><p><l>شامدان<s n="n"/></l><r>şamdan<s n="n"/></r></p></e>
        <e><p><l>خانىش<s n="n"/></l><r>kraliçe<s n="n"/></r></p></e>
        <e><p><l>ئۆسۈش<s n="n"/></l><r>terfi<s n="n"/></r></p></e>
        <e><p><l>ئالىي<b/>مەكتەپ<s n="n"/></l><r>kolej<s n="n"/></r></p></e>
