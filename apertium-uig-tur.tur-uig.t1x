@@ -74,6 +74,12 @@
       <cat-item tags="v.*.aor"/>
     </def-cat>
 
+
+ <def-cat n="imp">
+      <cat-item tags="v.*.imp.*"/>
+      <cat-item tags="v.*.imp"/>
+    </def-cat>
+
 <def-cat n="aor_no_cop">
       <cat-item tags="v.*.aor.*"/>
       <cat-item tags="v.*.aor"/>
@@ -478,6 +484,31 @@
  	     <clip pos="1" side="tl" part="a_abil"/>
  	     <clip pos="1" side="tl" part="a_neg"/>
 	     <lit-tag v="aor.p3.sg"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: imp (uzat → sun)">
+      <pattern>
+        <pattern-item n="imp"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	   <clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="imp"/>
+ 	     <clip pos="1" side="tl" part="a_pers_nbr"/>
           </lu>
    	 </chunk>
         </out>
