@@ -14,6 +14,19 @@
   </rule>
 
 <rule>
+    <match lemma="kadın" tags="n.gen.*">
+      <select lemma="ئايال" tags="n.gen.*"/>
+    </match>
+  </rule>
+
+
+<rule>
+    <match lemma="ayak" tags="n.*">
+      <select lemma="ئاياغ" tags="n.*"/>
+    </match>
+  </rule>
+
+<rule>
     <match lemma="git" tags="v.*">
       <select lemma="كەت" tags="v.*"/>
     </match>
