@@ -73,10 +73,16 @@
       <cat-item tags="v.*.ger_impf"/>
       <cat-item tags="v.*.gpr_rsub.*"/>
       <cat-item tags="v.*.gpr_rsub"/>
+
+   <cat-item tags="v.*.neg.ger_impf.*"/>
+      <cat-item tags="v.*.neg.ger_impf"/>
+      <cat-item tags="v.*.neg.gpr_rsub.*"/>
+      <cat-item tags="v.*.neg.gpr_rsub"/>
     </def-cat>
 
    <def-cat n="aor">
       <cat-item tags="v.*.aor"/>
+      <cat-item tags="v.*.gpr_aor"/>
     </def-cat>
 
 
@@ -88,6 +94,7 @@
 <def-cat n="aor_no_cop">
       <cat-item tags="v.*.aor.*"/>
       <cat-item tags="v.*.aor"/>
+      <cat-item tags="v.*.gpr_aor"/>
     </def-cat>
 
   <def-cat n="lıq">
@@ -105,6 +112,14 @@
 	<cat-item lemma="sız" tags="post.*"/>
 	<cat-item lemma="sız" tags="post"/>
     </def-cat>
+
+
+  <def-cat n="da">
+	<cat-item lemma="da" tags="adv"/>
+	<cat-item lemma="da" tags="adv.*"/>
+	<cat-item lemma="da" tags="cnjcoo"/>
+    </def-cat>
+
 
     <def-cat n="past">
       <cat-item tags="v.tv.*.past"/>
@@ -162,6 +177,17 @@
       <cat-item tags="adj.*"/>
       <cat-item tags="adv.*"/>
       <cat-item tags="post.*"/>
+    </def-cat>
+
+
+   <def-cat n="mu_lemma">
+      <cat-item tags="v.*"/>
+      <cat-item tags="n.*"/>
+      <cat-item tags="num.*"/>
+      <cat-item tags="adj.*"/>
+      <cat-item tags="adv.*"/>
+      <cat-item tags="post.*"/>
+      <cat-item tags="prn.*"/>
     </def-cat>
 
  <def-cat n="cond">
@@ -775,6 +801,35 @@
       </action>
     </rule>
 
+<rule comment="regla: ger_impf (olan → bolghan)">
+      <pattern>
+        <pattern-item n="ger_impf"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v=""/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="gpr_rsub.nom"/>
+
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 <rule comment="regla: ger_abst (oluş → bolış)">
       <pattern>
@@ -981,6 +1036,26 @@
       </action>
     </rule>
 
+<rule comment="regla: cnjadv (da  → -mu)">
+      <pattern>
+        <pattern-item n="mu_lemma"/>
+        <pattern-item n="da"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="whole"/>
+	     <lit v="+مۇ"/>
+	     <lit-tag v="postadv"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
 
   </section-rules>
 </transfer>
