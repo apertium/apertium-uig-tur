@@ -1459,7 +1459,7 @@
        <e><p><l>كەلتۈرۈل<s n="v"/><s n="iv"/></l><r>getiril<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>كۆرۈش<s n="v"/><s n="iv"/></l><r>görüş<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>چۆرى<s n="v"/><s n="tv"/></l><r>fırlat<s n="v"/><s n="tv"/></r></p></e>
-
+       <e><p><l>تاشلا<s n="v"/><s n="tv"/></l><r>taşla<s n="v"/><s n="tv"/></r></p></e>
 
   <e><p><l>بىتچىت<s n="adj"/></l><r>paramparça<s n="adj"/></r></p></e>
        <e><p><l>قەدىرلىك<s n="adj"/></l><r>değerli<s n="adj"/></r></p></e>
@@ -5384,6 +5384,7 @@
        <e><p><l>ﺋﻪﺭ<s n="n"/></l><r>erkek<s n="n"/></r></p></e>
        <e><p><l>چاق<s n="n"/></l><r>tekerlek<s n="n"/></r></p></e>
        <e><p><l>ئەۋرىشكە<s n="n"/></l><r>örnek<s n="n"/></r></p></e>
+       <e><p><l>يوقسۇل<s n="adj"/></l><r>züğürt<s n="adj"/></r></p></e>
        <e><p><l>تەتبىق<s n="n"/></l><r>tatbik<s n="n"/></r></p></e>
        <e><p><l>ئابونت<s n="n"/></l><r>abonelik<s n="n"/></r></p></e>
        <e><p><l>توقۇمىچىلىق<s n="n"/></l><r>tekstilcilik<s n="n"/></r></p></e>
@@ -7753,7 +7754,7 @@
        <e><p><l>بېيىت<s n="n"/></l><r>beyit<s n="n"/></r></p></e>
        <e><p><l>مۇرشىد<s n="n"/></l><r>mürşit<s n="n"/></r></p></e>
        <e><p><l>پاكىت<s n="n"/></l><r>olgu<s n="n"/></r></p></e>
-       <e><p><l>مۇ<s n="cnjcoo"/></l><r>da<s n="cnjcoo"/></r></p></e>
+       <e><p><l>مۇ<s n="postadv"/></l><r>da<s n="cnjcoo"/></r></p></e>
        <e><p><l>ﺋﻪﻣﻤﺎ<s n="cnjcoo"/></l><r>ama<s n="cnjcoo"/></r></p></e>
        <e><p><l>مەدىنە<s n="np"/><s n="top"/></l><r>Medine<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>مۇنداقچە<s n="adv"/></l><r>böylece<s n="adv"/></r></p></e>
