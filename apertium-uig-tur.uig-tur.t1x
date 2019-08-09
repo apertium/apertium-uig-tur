@@ -2004,16 +2004,17 @@
               <tag><lit-tag v="SN"/></tag>
             </tags>
           <lu>
-	<clip pos="2" side="tl" part="lem"/>
-     <lit-tag v="n"/>
- 	<clip pos="2" side="tl" part="a_pos"/>
- 	<clip pos="2" side="tl" part="a_cas"/>
+		<clip pos="2" side="tl" part="lem"/>
+     <lit-tag v="n.nom"/>
+
 
             </lu>
 <b/>
 	<lu>
 	<clip pos="1" side="tl" part="lem"/>
-              <lit-tag v="num"/>
+              <lit-tag v="num.subst"/>
+ 	<clip pos="2" side="tl" part="a_pos"/>
+ 	<clip pos="2" side="tl" part="a_cas"/>
           </lu>
    	 </chunk>
         </out>
