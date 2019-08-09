@@ -334,6 +334,15 @@
 	<cat-item tags="adj.*.ter"/>
     </def-cat>
 
+  <def-cat n="num">
+	<cat-item tags="num"/>
+	<cat-item tags="num*"/>
+    </def-cat>
+
+ <def-cat n="pirsent">
+	<cat-item lemma="پىرسەنت" tags="n.*"/>
+    </def-cat>
+
     <def-cat n="past1">
 	<cat-item tags="v.*.past.*"/>
 	<cat-item tags="v.*.*.past.*"/>
@@ -1975,6 +1984,38 @@
 	     <clip pos="1" side="tl" part="whole"/>
           </lu>
   </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: yüzde (9 pirsent  → yüzde 9)">
+      <pattern>
+        <pattern-item n="num"/>
+        <pattern-item n="pirsent"/>
+      </pattern>
+      <action>
+<let>
+          <clip pos="1" side="tl" part="a_subst"/>
+	<lit-tag v=""/>
+        </let>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+	<clip pos="2" side="tl" part="lem"/>
+     <lit-tag v="n"/>
+ 	<clip pos="2" side="tl" part="a_pos"/>
+ 	<clip pos="2" side="tl" part="a_cas"/>
+
+            </lu>
+<b/>
+	<lu>
+	<clip pos="1" side="tl" part="lem"/>
+              <lit-tag v="num"/>
+          </lu>
+   	 </chunk>
         </out>
       </action>
     </rule>
