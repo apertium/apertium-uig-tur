@@ -85,6 +85,9 @@
       <cat-item tags="v.*.gpr_aor"/>
     </def-cat>
 
+  <def-cat n="makta">
+      <cat-item tags="v.*.ger_inf.loc"/>
+    </def-cat>
 
  <def-cat n="imp">
       <cat-item tags="v.*.imp.*"/>
@@ -1051,6 +1054,32 @@
 	<clip pos="1" side="tl" part="whole"/>
 	     <lit v="+مۇ"/>
 	     <lit-tag v="postadv"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: prog emphasized (gitmekteyim → ketiwatımen)">
+      <pattern>
+        <pattern-item n="makta"/>
+        <pattern-item n="cop_aor"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+	<lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="prog"/>
+	     <clip pos="2" side="tl" part="a_pers_nbr"/>
           </lu>
    	 </chunk>
         </out>
