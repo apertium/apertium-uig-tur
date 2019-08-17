@@ -218,6 +218,12 @@
       <cat-item tags="cop.aor.p3.*"/>
     </def-cat>
 
+  <def-cat n="cop_ifi">
+      <cat-item tags="cop.ifi.p1.*"/>
+      <cat-item tags="cop.ifi.p2.*"/>
+      <cat-item tags="cop.ifi.p3.*"/>
+    </def-cat>
+
   </section-def-cats>
 
   <section-def-attrs>
@@ -559,7 +565,7 @@
 <rule comment="regla: past (olmuş → bolghan)">
       <pattern>
         <pattern-item n="past"/>
-        <pattern-item n="cop"/>
+        <pattern-item n="cop_aor"/>
       </pattern>
       <action>
         <out>
@@ -606,6 +612,31 @@
       </action>
     </rule>
 
+<rule comment="regla: past story (olmuştu → boptu)">
+      <pattern>
+        <pattern-item n="past"/>
+        <pattern-item n="cop_ifi"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="past.evid"/>
+	     <clip pos="2" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
 
 <rule comment="regla: nec (olmalı → bolsa kérek)">
       <pattern>
