@@ -124,6 +124,12 @@
     </def-cat>
 
 
+  <def-cat n="ki">
+	<cat-item lemma="ki" tags="cnjadv"/>
+	<cat-item lemma="ki" tags="cnjsub"/>
+	<cat-item lemma="ki" tags="cnjcoo"/>
+    </def-cat>
+
     <def-cat n="past">
       <cat-item tags="v.tv.*.past"/>
       <cat-item tags="v.iv.*.past"/>
@@ -1059,6 +1065,28 @@
         </out>
       </action>
     </rule>
+
+<rule comment="regla: cnjadv (ki  → -ki)">
+      <pattern>
+        <pattern-item n="mu_lemma"/>
+        <pattern-item n="ki"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="whole"/>
+	     <lit v="+كى"/>
+	     <lit-tag v="cnjadv"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 <rule comment="regla: prog emphasized (gitmekteyim → ketiwatımen)">
       <pattern>
