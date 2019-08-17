@@ -128,7 +128,7 @@
       <e><p><l>سىز<s n="post"/></l><r>sız<s n="post"/></r></p></e>
       <e><p><l>لىق<s n="post"/></l><r>lı<s n="post"/></r></p></e>
       <e><p><l>مۇ<s n="postadv"/></l><r>da<s n="postadv"/></r></p></e>
-      <e><p><l>كى<s n="cnjadv"/></l><r>ki<s n="cnjadv"/></r></p></e>
+ 
        <e><p><l>ئارتۇق<s n="post"/></l><r>fazla<s n="post"/></r></p></e>
        <e><p><l>قاتارلىق<s n="post"/></l><r>gibi<s n="post"/></r></p></e>
        <e><p><l>قاتارلىق<s n="post"/></l><r>vb<s n="abbr"/></r></p></e>
@@ -137,6 +137,10 @@
        <e><p><l>ئىتىبارەن<s n="post"/></l><r>itibaren<s n="post"/></r></p></e>
        <e><p><l>قارشى<s n="post"/></l><r>karşı<s n="post"/></r></p></e>
 
+
+     <e><p><l>كى<s n="cnjadv"/></l><r>ki<s n="cnjsub"/></r></p></e>
+     <e><p><l>كى<s n="cnjadv"/></l><r>ki<s n="cnjadv"/></r></p></e>
+       <e><p><l>كى<s n="cnjadv"/></l><r>ki<s n="cnjcoo"/></r></p></e>
       <!-- SECTION: Adverbs -->
 <e><p><l>قانچىلىك<s n="adv"/><s n="itg"/></l><r>ne<b/>kadar<s n="adv"/><s n="itg"/></r></p></e>
 <e><p><l>نېمە<s n="adv"/><s n="itg"/></l><r>ne<s n="adv"/><s n="itg"/></r></p></e>
@@ -7175,7 +7179,7 @@
        <e><p><l>تۈركىستانلىق<s n="n"/></l><r>Türkistanlı<s n="n"/></r></p></e>
        <e><p><l>قۇرۇلغانلىق<s n="n"/></l><r>kuruluş<s n="n"/></r></p></e>
        <e><p><l>بېرىش<s n="n"/></l><r>varış<s n="n"/></r></p></e>
-       <e><p><l>كى<s n="cnjcoo"/></l><r>ki<s n="cnjcoo"/></r></p></e>
+
        <e><p><l>ئاكسىيە<s n="np"/><s n="top"/></l><r>Aksiye<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>قارمىقى<s n="np"/><s n="top"/></l><r>Karmıki<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>خېنەن<s n="np"/><s n="top"/></l><r>Henan<s n="np"/><s n="top"/></r></p></e>
