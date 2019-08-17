@@ -14,6 +14,13 @@
   </rule>
 
 <rule>
+    <match lemma="yürü" tags="v.*">
+      <select lemma="ماڭ" tags="v.*"/>
+    </match>
+  </rule>
+
+
+<rule>
     <match lemma="kadın" tags="n.gen.*">
       <select lemma="ئايال" tags="n.gen.*"/>
     </match>
