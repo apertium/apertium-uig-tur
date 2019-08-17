@@ -206,6 +206,11 @@
       <cat-item tags="v.*.gpr_aor.*"/>
     </def-cat>
 
+ <def-cat n="prog">
+      <cat-item tags="v.*.prog"/>
+      <cat-item tags="v.*.prog.*"/>
+    </def-cat>
+
 <def-cat n="cop_cond">
       <cat-item tags="cop.cond.p1.*"/>
       <cat-item tags="cop.cond.p2.*"/>
@@ -1118,7 +1123,31 @@
       </action>
     </rule>
 
-
+<rule comment="regla: prog  (gidiyorum → ketimen)">
+      <pattern>
+        <pattern-item n="prog"/>
+        <pattern-item n="cop_aor"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+	<lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="aor"/>
+	     <clip pos="2" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
 <rule comment="regla: prog emphasized (gitmekteyim → ketiwatımen)">
       <pattern>
         <pattern-item n="makta"/>
