@@ -83,6 +83,7 @@
    <def-cat n="aor">
       <cat-item tags="v.*.aor"/>
       <cat-item tags="v.*.gpr_aor"/>
+      <cat-item tags="v.*.gpr_aor.*"/>
     </def-cat>
 
   <def-cat n="makta">
@@ -98,6 +99,7 @@
       <cat-item tags="v.*.aor.*"/>
       <cat-item tags="v.*.aor"/>
       <cat-item tags="v.*.gpr_aor"/>
+      <cat-item tags="v.*.gpr_aor.*"/>
     </def-cat>
 
   <def-cat n="lıq">
@@ -156,13 +158,15 @@
       <cat-item tags="v.*.ger_pabs.*"/>
     </def-cat>
 
-    <def-cat n="gpr_fut">
-      <cat-item tags="v.*.gpr_fut.*"/>
+    <def-cat n="gpr_fut_p3">
       <cat-item tags="v.*.gpr_fut"/>
-      <cat-item tags="v.*.ger_fut.*"/>
       <cat-item tags="v.*.ger_fut"/>
     </def-cat>
 
+ <def-cat n="gpr_fut">
+      <cat-item tags="v.*.gpr_fut.*"/>
+      <cat-item tags="v.*.ger_fut.*"/>
+    </def-cat>
 
    <def-cat n="ger_abst">
       <cat-item tags="v.*.ger_abst.*"/>
@@ -295,6 +299,7 @@
       <attr-item tags="gpr_rsub"/>
       <attr-item tags="ger_impf"/>
       <attr-item tags="gpr_fut"/>
+      <attr-item tags="ger_fut"/>
       <attr-item tags="ger"/>
       <attr-item tags="ger_inf"/>
     </def-attr>
@@ -769,6 +774,35 @@
               <tag><lit-tag v="SV"/></tag>
             </tags>
           <lu>
+	   <clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="gpr_fut"/>
+	     <lit-tag v="nom"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: gpr_fut (olacak → bolıdıghan)">
+      <pattern>
+        <pattern-item n="gpr_fut_p3"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v=""/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
 		<clip pos="1" side="tl" part="lem"/>
              <lit-tag v="v"/>
              <clip pos="1" side="tl" part="a_tra"/>
@@ -776,7 +810,7 @@
  	     <clip pos="1" side="tl" part="a_abil"/>
  	     <clip pos="1" side="tl" part="a_neg"/>
 	     <lit-tag v="gpr_fut"/>
-	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+	     <lit-tag v="nom"/>
           </lu>
    	 </chunk>
         </out>
