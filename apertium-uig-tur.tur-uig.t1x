@@ -1199,6 +1199,31 @@
       </action>
     </rule>
 
+<rule comment="regla: num (yüz milyon → yüz milyon)">
+      <pattern>
+        <pattern-item n="num"/>
+        <pattern-item n="num"/>
+        <pattern-item n="cop"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="whole"/>
+          </lu>
+<b/>
+<lu>
+	<clip pos="2" side="tl" part="lem"/>
+	     <lit-tag v="num.subst.nom"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
   </section-rules>
 </transfer>
 
