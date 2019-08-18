@@ -225,28 +225,38 @@
     <e><p><l>تۆت<s n="num"/></l><r>dört<s n="num"/></r></p></e>
     <e><p><l>بەش<s n="num"/></l><r>beş<s n="num"/></r></p></e>
     <e><p><l>ئالتە<s n="num"/></l><r>altı<s n="num"/></r></p></e>
+       <e><p><l>ئالتى<s n="num"/></l><r>altı<s n="num"/></r></p></e>
     <e><p><l>يەتتە<s n="num"/></l><r>yedi<s n="num"/></r></p></e>
+       <e><p><l>يەتتى<s n="num"/></l><r>yedi<s n="num"/></r></p></e>
     <e><p><l>سەككىز<s n="num"/></l><r>sekiz<s n="num"/></r></p></e>
     <e><p><l>توككۇز<s n="num"/></l><r>dokuz<s n="num"/></r></p></e>
+       <e><p><l>توققۇز<s n="num"/></l><r>dokuz<s n="num"/></r></p></e>
     <e><p><l>ئون<s n="num"/></l><r>on<s n="num"/></r></p></e>
+       <e><p><l>يىگىرمە<s n="num"/></l><r>yirmi<s n="num"/></r></p></e>
+      <e><p><l>ئوتتۇز<s n="num"/></l><r>otuz<s n="num"/></r></p></e>
+      <e><p><l>قىرىق<s n="num"/></l><r>kırk<s n="num"/></r></p></e>
+       <e><p><l>ئەللىك<s n="num"/></l><r>elli<s n="num"/></r></p></e>
+       <e><p><l>ئاتمىش<s n="num"/></l><r>altmış<s n="num"/></r></p></e>
+       <e><p><l>يەتمىش<s n="num"/></l><r>yetmiş<s n="num"/></r></p></e>
+       <e><p><l>سەكسەن<s n="num"/></l><r>seksen<s n="num"/></r></p></e>
+       <e><p><l>توقسان<s n="num"/></l><r>doksan<s n="num"/></r></p></e>
+       <e><p><l>يۈز<s n="num"/></l><r>yüz<s n="num"/></r></p></e>
       <e><p><l>مىڭ<s n="num"/></l><r>bin<s n="num"/></r></p></e>
       <e><p><l>مىليون<s n="num"/></l><r>milyon<s n="num"/></r></p></e>
+       <e><p><l>مىللىئون<s n="num"/></l><r>milyon<s n="num"/></r></p></e>
       <e><p><l>مىليارد<s n="num"/></l><r>milyar<s n="num"/></r></p></e>
       <e><p><l>ترىليون<s n="num"/></l><r>trilyon<s n="num"/></r></p></e>
   <e><p><l>تىرىليون<s n="num"/></l><r>trilyon<s n="num"/></r></p></e>
-           <e><p><l>يۇز<s n="num"/></l><r>yüz<s n="num"/></r></p></e>
-       <e><p><l>قىرىق<s n="num"/></l><r>kırk<s n="num"/></r></p></e>
-       <e><p><l>ئاتمىش<s n="num"/></l><r>altmış<s n="num"/></r></p></e>
-       <e><p><l>مىللىئون<s n="num"/></l><r>milyon<s n="num"/></r></p></e>
-       <e><p><l>ئالتى<s n="num"/></l><r>altı<s n="num"/></r></p></e>
-       <e><p><l>يەتمىش<s n="num"/></l><r>yetmiş<s n="num"/></r></p></e>
-       <e><p><l>يىگىرمە<s n="num"/></l><r>yirmi<s n="num"/></r></p></e>
-       <e><p><l>توققۇز<s n="num"/></l><r>dokuz<s n="num"/></r></p></e>
-       <e><p><l>توقسان<s n="num"/></l><r>doksan<s n="num"/></r></p></e>
-      <e><p><l>ئوتتۇز<s n="num"/></l><r>otuz<s n="num"/></r></p></e>
-       <e><p><l>سەكسەن<s n="num"/></l><r>seksen<s n="num"/></r></p></e>
-       <e><p><l>ئەللىك<s n="num"/></l><r>elli<s n="num"/></r></p></e>
-       <e><p><l>يەتتى<s n="num"/></l><r>yedi<s n="num"/></r></p></e>
+
+
+
+
+
+
+
+
+
+
 
       <!-- SECTION: Nouns -->
        <e><p><l>ئۈست<s n="n"/></l><r>üst<s n="n"/></r></p></e>
