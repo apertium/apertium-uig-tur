@@ -684,7 +684,6 @@
        <e><p><l>يىقىدا<s n="adv"/></l><r>yakın<b/>zamanda<s n="adv"/></r></p></e>
        <e><p><l>ھەتتا<s n="adv"/></l><r>hatta<s n="adv"/></r></p></e>
        <e><p><l>تەخمىنەن<s n="adv"/></l><r>tahminen<s n="adv"/></r></p></e>
-       <e><p><l>دە<s n="v"/><s n="iv"/></l><r>de<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>دە<s n="v"/><s n="tv"/></l><r>de<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ياشنا<s n="v"/><s n="iv"/></l><r>genişle<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>جايلاش<s n="v"/><s n="iv"/></l><r>yer<b/>al<s n="v"/><s n="iv"/></r></p></e>
@@ -3516,7 +3515,6 @@
        <e><p><l>نېمىلا<s n="adv"/></l><r>nasıl<s n="adv"/></r></p></e>
        <e><p><l>ئۆمىلى<s n="v"/><s n="iv"/></l><r>emekle<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>تۈنە<s n="v"/><s n="iv"/></l><r>tüne<s n="v"/><s n="iv"/></r></p></e>
-       <e><p><l>باق<s n="v"/><s n="iv"/></l><r>bak<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ئېتىل<s n="v"/><s n="iv"/></l><r>edil<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>بويسۇن<s n="v"/><s n="iv"/></l><r>ram<b/>ol<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>سولاش<s n="v"/><s n="iv"/></l><r>sol<s n="v"/><s n="iv"/></r></p></e>
@@ -8131,6 +8129,7 @@
        <e><p><l>ﻳﻪﺭ<s n="n"/></l><r>yer<s n="n"/></r></p></e>
        <e><p><l>ئېتقاد<s n="n"/></l><r>itikat<s n="n"/></r></p></e>
        <e><p><l>ئەۋلات<s n="n"/></l><r>evlat<s n="n"/></r></p></e>
+
        <e><p><l>چېنىقىش<s n="n"/></l><r>egzersiz<s n="n"/></r></p></e>
        <e><p><l>كەلگۈچە<s n="adv"/></l><r>gelince<s n="adv"/></r></p></e>
        <e><p><l>ئىككىلا<s n="adv"/></l><r>iki<s n="adv"/></r></p></e>
@@ -8632,6 +8631,7 @@
       <e><p><l>مەنزىل<s n="n"/></l><r>etraf<s n="n"/></r></p></e>
       <e><p><l>ياۋرو<s n="n"/></l><r>euro<s n="n"/></r></p></e>
       <e><p><l>بالا<s n="n"/></l><r>evlat<s n="n"/></r></p></e>
+      <e><p><l>بالا<s n="n"/></l><r>yavru<s n="n"/></r></p></e>
       <e><p><l>ئالەم<s n="n"/></l><r>evren<s n="n"/></r></p></e>
       <e><p><l>خوجا<s n="n"/></l><r>sahip<s n="n"/></r></p></e>
       <e><p><l>خوجا<s n="n"/></l><r>hoca<s n="n"/></r></p></e>
