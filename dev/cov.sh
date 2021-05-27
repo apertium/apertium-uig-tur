@@ -1,5 +1,5 @@
 #!/bin/sh
-# http://wiki.apertium.org/wiki/Asturian#Calculating_coverage
+# https://wiki.apertium.org/wiki/Asturian#Calculating_coverage
 
 
 # Example use:
