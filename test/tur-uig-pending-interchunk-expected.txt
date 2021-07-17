@@ -1,0 +1,2 @@
+[ql2t2JOe8BbC#0] ^default<default>{^مەن<prn><pers><p1><sg><nom>$}$ ^default<default>{^ئۆز<prn><ref><px1sg><acc>$}$ ^v<SV>{^بىل<v><tv><aor><p1><sg>$}$^sent<SENT>{^.<sent>$}$
+[/ql2t2JOe8BbC]

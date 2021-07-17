@@ -1,0 +1,10 @@
+{
+    "tur-uig-pending": {
+        "input": "tur-uig-pending-input.txt",
+        "mode": "tur-uig"
+    },
+    "tur-uig-regression": {
+        "input": "tur-uig-regression-input.txt",
+        "mode": "tur-uig"
+    }
+}

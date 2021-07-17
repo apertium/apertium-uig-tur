@@ -1,0 +1,80 @@
+[--kRyBrMLxYu#0] ^Sakinleş<v><iv><gna_perf>/جىمى<v><iv><gna_perf>/بېسىق<v><iv><gna_perf>$ ^kıyı<n><dat>/لەۋ<n><dat>/ساھىل<n><dat>/قىرغاق<n><dat>$ ^doğru<post>/@doğru<post>$ ^gel<v><iv><iver><ifi><p1><sg>/كەل<v><iv><iver><ifi><p1><sg>/كەل<vaux><iver><ifi><p1><sg>/كىل<v><iv><iver><ifi><p1><sg>/كېلىش<v><iv><iver><ifi><p1><sg>$^.<sent>/.<sent>$
+[/--kRyBrMLxYu]
+[-U2kNUKB_mE_#0] ^Yolcu<n><pl><nom>/يولۇچى<n><pl><nom>$ ^tatlı<adj>/شېرىن<adj>/تاتلىق<adj>$ ^bir<det><ind>/@bir<det><ind>$ ^uyku<n><loc>/ئۇيقۇ<n><loc>$ ^i<cop><ifi><p3><sg>/ئى<cop><ifi><p3><sg>/ئې<cop><ifi><p3><sg>$^.<sent>/.<sent>$
+[/-U2kNUKB_mE_]
+[0YsCOiT0HgF7#0] ^Sel<n><nom>/سەل<n><nom>/زەي<n><nom>/كەلكۈن<n><nom>/تاشقىن<n><nom>$ ^ile<post>/بىلەن<post>/ﺑﯩﻠﻪﻥ<post>$ ^gelen<adj>/@gelen<adj>$ ^yel<n><nom>/يەل<n><nom>$ ^ile<post>/بىلەن<post>/ﺑﯩﻠﻪﻥ<post>$ ^git<v><iv><aor>/چۈش<v><iv><aor>/كەت<v><iv><aor>/ماڭ<v><iv><aor>/كېتىش<v><iv><aor>/ئاتلان<v><iv><aor>/كېتىۋېت<v><iv><aor>$ ^i<cop><aor><p3><sg>/ئى<cop><aor><p3><sg>/ئې<cop><aor><p3><sg>$^.<sent>/.<sent>$
+[/0YsCOiT0HgF7]
+[152x5dPwhacF#0] ^Mal<n><px3sp><acc><@obj>/مال<n><px3sp><acc><@obj>$ ^yeme<n><px3sp><acc><@obj>/يىيىش<n><px3sp><acc><@obj>/يېشيىش<n><px3sp><acc><@obj>$ ^bil<v><tv><neg><gpr_rsub>/بىل<v><tv><neg><gpr_rsub>$ ^zengin<adj>/پاراۋان<adj>/دۆلەتلىك<adj>$ ^her gün<adv>/ھەركۈنى<adv>/كۈنىگە<adv>$ ^züğürt<adj>/يوقسۇل<adj>$ ^i<cop><aor><p3><sg><gm>/ئى<cop><aor><p3><sg><gm>/ئې<cop><aor><p3><sg><gm>$^.<sent>/.<sent>$
+[/152x5dPwhacF]
+[2B0uLgtts2Pt#0] ^Perşembe<n><gen>/پەيشەنبە<n><gen>$ ^geliş<n><px3sp><nom>/كېلىش<n><px3sp><nom>/كەلگىن<n><px3sp><nom>$^,<cm>/,<cm>/،<cm>$ ^çarşamba<n><abl>/چارشەنبە<n><abl>$ ^belli<adj>/مەلۇم<adj>/نامايان<adj>/مۇئەييەن<adj>$ ^i<cop><aor><p3><sg><gm>/ئى<cop><aor><p3><sg><gm>/ئې<cop><aor><p3><sg><gm>$^.<sent>/.<sent>$
+[/2B0uLgtts2Pt]
+[4MsDXCfvrR7Z#0] ^Ne<prn><itg><nom>/نېمە<prn><itg><nom>/نېمى<prn><itg><nom>/نىمە<prn><itg><nom>/نىمى<prn><itg><nom>$ ^yap<v><tv><ger_past><px1pl><nom>/تۈز<v><tv><ger_past><px1pl><nom>/قىل<v><tv><ger_past><px1pl><nom>/ياسا<v><tv><ger_past><px1pl><nom>/قىلىش<v><tv><ger_past><px1pl><nom>/ئىشلە<v><tv><ger_past><px1pl><nom>/قىلىۋال<v><tv><ger_past><px1pl><nom>$ ^belli<adj>/مەلۇم<adj>/نامايان<adj>/مۇئەييەن<adj>$ ^değil<adj>/ئەمەس<adj>$ ^i<cop><aor><p3><sg>/ئى<cop><aor><p3><sg>/ئې<cop><aor><p3><sg>$^.<sent>/.<sent>$
+[/4MsDXCfvrR7Z]
+[5bqJ4uYAUHoJ#0] ^Herkes<prn><qnt><nom>/ھەركىم<prn><qnt><nom>/ھەممەيلەن<prn><qnt><nom>$ ^kendi<prn><ref><nom>/ئۆز<prn><ref><nom>$ ^fikir<n><px3sp><acc><@obj>/ئوي<n><px3sp><acc><@obj>/پىكىر<n><px3sp><acc><@obj>$ ^beyan<n><nom>/بايان<n><nom>$ ^et<v><tv><imp><p3><pl>/ئەت<v><tv><imp><p3><pl>/قىل<v><tv><imp><p3><pl>/ئىشلە<v><tv><imp><p3><pl>$^.<sent>/.<sent>$
+[/5bqJ4uYAUHoJ]
+[6TV6XQSIlUCa#0] ^Kadın<n><gen>/ئايال<n><gen>/خوتۇن<n><gen>/بۈۋى<n><gen>$ ^şamdan<n><px3sp><nom>/شامدان<n><px3sp><nom>$ ^altın<n><attr>/ئالتۇن<n><attr>$ ^ol<v><iv><gna_cond><p3><sg>/بول<vaux><gna_cond><p3><sg>/بول<v><iv><gna_cond><p3><sg>/بۇل<v><iv><gna_cond><p3><sg>$ ^mum<n><px3sp><nom><@obj>/شام<n><px3sp><nom><@obj>$ ^dik<v><tv><fut>/تىك<v><tv><fut>/تۆنى<v><tv><fut>/تۆنۈ<v><tv><fut>/تىكلە<v><tv><fut>$ ^yine<adv>/يەنە<adv>/باز<adv>/ﻳﻪﻧﻪ<adv>/قايتا<adv>$ ^erkek<adj>/@erkek<adj>$ ^i<cop><aor><p3><sg>/ئى<cop><aor><p3><sg>/ئې<cop><aor><p3><sg>$^.<sent>/.<sent>$
+[/6TV6XQSIlUCa]
+[BgNLdcUk4iaU#0] ^Milli<adj>/مىللىي<adj>$ ^atlet<n><pl><px1pl><nom>/تەنھەرىكەتچى<n><pl><px1pl><nom>$ ^altın<n><nom>/ئالتۇن<n><nom>$ ^madalya<n><dat>/مېدال<n><dat>$ ^eriş<v><iv><ifi><p3><sg>/ئېرىش<v><iv><ifi><p3><sg>/خەيرىلەش<v><iv><ifi><p3><sg>$^.<sent>/.<sent>$
+[/BgNLdcUk4iaU]
+[BzzcsF3-LAUF#0] ^Halk<n><gen>/خەلق<n><gen>/خەق<n><gen>/ئەھل<n><gen>/ﺧﻪﻟﻖ<n><gen>/ئامما<n><gen>/جامائەتچىلىك<n><gen>$ ^yüzde<n><nom>/پىرسەنت<n><nom>/پېرسەنت<n><nom>$ ^on<num><subst><px3sp><nom>/ئون<num><subst><px3sp><nom>$ ^kamp<n><pl><dat>/لاگېر<n><pl><dat>/چېدىرگاھ<n><pl><dat>$ ^kapat<v><tv><pass><past>/تاقا<v><tv><pass><past>/ياپ<v><tv><pass><past>$ ^i<cop><aor><p3><sg>/ئى<cop><aor><p3><sg>/ئې<cop><aor><p3><sg>$^.<sent>/.<sent>$
+[/BzzcsF3-LAUF]
+[CU1lsKua2Twn#0] ^Her<det><dem>/ھەر<det><dem>/ھەرچە<det><dem>/بارچە<det><dem>$ ^dua<n><attr>/دۇئا<n><attr>/تىلاۋەت<n><attr>$ ^kabul<n><nom>/قوبۇل<n><nom>/قۇبۇل<n><nom>$ ^ol<v><iv><pass><neg><aor>/بول<vaux><pass><neg><aor>/بول<v><iv><pass><neg><aor>/بۇل<v><iv><pass><neg><aor>$ ^i<cop><aor><p3><sg>/ئى<cop><aor><p3><sg>/ئې<cop><aor><p3><sg>$^.<sent>/.<sent>$
+[/CU1lsKua2Twn]
+[F8K8Cul8Vr4j#0] ^Kafir<n><pl><dat>/كاپىر<n><pl><dat>$ ^itaat<n><nom><@obj>/ئىتائەت<n><nom><@obj>$ ^et<v><tv><aor>/ئەت<v><tv><aor>/قىل<v><tv><aor>/ئىشلە<v><tv><aor>$ ^i<cop><cond><p2><sg>/ئى<cop><cond><p2><sg>/ئې<cop><cond><p2><sg>$ ^sen<prn><pers><p2><sg><acc>/سەن<prn><pers><p2><sg><acc>$ ^Allah<n><gen>/ئاللا<n><gen>/اللە<n><gen>/اللھ<n><gen>/ئاللاھ<n><gen>$ ^yol<n><px3sp><abl>/يول<n><px3sp><abl>/يۇل<n><px3sp><abl>/ئامال<n><px3sp><abl>/تەرىقى<n><px3sp><abl>/تەدبىر<n><px3sp><abl>/ۋاسىتە<n><px3sp><abl>$ ^saptır<v><tv><aor>/ئازدۇر<v><tv><aor>$ ^i<cop><aor><p3><pl>/ئى<cop><aor><p3><pl>/ئې<cop><aor><p3><pl>$^.<sent>/.<sent>$
+[/F8K8Cul8Vr4j]
+[JEj4BnxtPhHt#0] ^Sen<prn><pers><p2><sg><nom>/سەن<prn><pers><p2><sg><nom>$ ^bir<det><ind>/@bir<det><ind>$ ^sır<n>/سىر<n>/خۇپىيانە<n>$ ^lı<post>/لىق<post>$ ^kapı<n><nom>/ئىشىك<n><nom>/دەرۋازا<n><nom>$ ^i<cop><aor><p2><sg>/ئى<cop><aor><p2><sg>/ئې<cop><aor><p2><sg>$^.<sent>/.<sent>$
+[/JEj4BnxtPhHt]
+[Li7KxOh3HiBd#0] ^Meyve<n><attr>/مېۋە<n><attr>/مىۋە<n><attr>/خەمەك<n><attr>$ ^veren<adj>/@veren<adj>$ ^ağaç<n><nom><@obj>/ياغاچ<n><nom><@obj>/دەرەخ<n><nom><@obj>$ ^taşla<v><tv><pass><aor>/تاشلا<v><tv><pass><aor>$ ^i<cop><aor><p3><sg>/ئى<cop><aor><p3><sg>/ئې<cop><aor><p3><sg>$^.<sent>/.<sent>$
+[/Li7KxOh3HiBd]
+[MGPodM4jneUT#0] ^Dua<n><px2sg><ins>/دۇئا<n><px2sg><ins>/تىلاۋەت<n><px2sg><ins>$ ^doğ<v><tv><neg><ifi><p1><sg>/@doğ<v><tv><neg><ifi><p1><sg>$ ^ki<cnjcoo>/كى<cnjadv>$ ^beddua<n><px2sg><ins>/بەددۇئا<n><px2sg><ins>$ ^öl<v><iv><imp><p1><sg>/ئۆل<v><iv><imp><p1><sg>$^.<sent>/.<sent>$
+[/MGPodM4jneUT]
+[MSdXKAnOvXKn#0] ^Ev<n><dat>/ئۆي<n><dat>$ ^git<v><iv><past>/چۈش<v><iv><past>/كەت<v><iv><past>/ماڭ<v><iv><past>/كېتىش<v><iv><past>/ئاتلان<v><iv><past>/كېتىۋېت<v><iv><past>$ ^ol<v><iv><nec>/بول<vaux><nec>/بول<v><iv><nec>/بۇل<v><iv><nec>$ ^i<cop><aor><p3><sg>/ئى<cop><aor><p3><sg>/ئې<cop><aor><p3><sg>$^.<sent>/.<sent>$
+[/MSdXKAnOvXKn]
+[QPHDuU_82R9H#0] ^Kara<np><ant><f><nom>/@Kara<np><ant><f><nom>$ ^gün<n><nom>/كۈن<n><nom>$ ^karar<v><iv><gna_perf>/قارايت<v><iv><gna_perf>$ ^kal<v><iv><neg><aor>/قال<v><iv><neg><aor>$ ^i<cop><aor><p3><sg>/ئى<cop><aor><p3><sg>/ئې<cop><aor><p3><sg>$^.<sent>/.<sent>$
+[/QPHDuU_82R9H]
+[TXbWcoWfel9B#0] ^Kendi<prn><ref><px2sg><acc>/ئۆز<prn><ref><px2sg><acc>$ ^bil<v><tv><imp><p2><sg>/بىل<v><tv><imp><p2><sg>$ ^kendi<prn><ref><px2sg><acc>/ئۆز<prn><ref><px2sg><acc>$^,<cm>/,<cm>/،<cm>$ ^sen<prn><pers><p2><sg><nom>/سەن<prn><pers><p2><sg><nom>$ ^sen<prn><pers><p2><sg><acc>/سەن<prn><pers><p2><sg><acc>$ ^bil<v><tv><imp><p2><sg>/بىل<v><tv><imp><p2><sg>$ ^sen<prn><pers><p2><sg><nom>/سەن<prn><pers><p2><sg><nom>$ ^sen<prn><pers><p2><sg><acc>/سەن<prn><pers><p2><sg><acc>$^.<sent>/.<sent>$
+[/TXbWcoWfel9B]
+[U4IagLCt_Sih#0] ^Ama<cnjcoo>/ئەمما<cnjcoo>/بىراق<cnjcoo>/لىكىن<cnjcoo>/لېكىن<cnjcoo>/ﺋﻪﻣﻤﺎ<cnjcoo>$^,<cm>/,<cm>/،<cm>$ ^bahçıvan<n><pl><nom>/باغۋەن<n><pl><nom>/باغۋەنچى<n><pl><nom>/ھويلىغا قارىغۇچى<n><pl><nom>$ ^çok<det><qnt>/@çok<det><qnt>$ ^razı<adj>/رازى<adj>$ ^değil<adj>/ئەمەس<adj>$ ^i<cop><aor><p3><sg>/ئى<cop><aor><p3><sg>/ئې<cop><aor><p3><sg>$^.<sent>/.<sent>$
+[/U4IagLCt_Sih]
+[VgciNeoPHw-h#0] ^Sen<prn><pers><p2><sg><dat>/سەن<prn><pers><p2><sg><dat>$^,<cm>/,<cm>/،<cm>$ ^ben<prn><pers><p1><sg><dat>/مەن<prn><pers><p1><sg><dat>$^,<cm>/,<cm>/،<cm>$ ^biz<prn><pers><p1><pl><dat>/بىز<prn><pers><p1><pl><dat>$ ^birşey<prn><ind><nom>/بىرەر نەرسە<prn><qnt><nom>$ ^ol<v><iv><abil><aor>/بول<vaux><abil><aor>/بول<v><iv><abil><aor>/بۇل<v><iv><abil><aor>$ ^i<cop><aor><p3><sg>/ئى<cop><aor><p3><sg>/ئې<cop><aor><p3><sg>$^.<sent>/.<sent>$
+[/VgciNeoPHw-h]
+[VqX4V1z2PEZh#0] ^Köpek<n><px1sg><gen>/ئىت<n><px1sg><gen>$ ^peşin<n><abl>/@peşin<n><abl>$ ^yürü<v><iv><prog>/يۈرۈ<v><iv><prog>/ماڭ<v><iv><prog>$ ^i<cop><aor><p1><sg>/ئى<cop><aor><p1><sg>/ئې<cop><aor><p1><sg>$^.<sent>/.<sent>$
+[/VqX4V1z2PEZh]
+[_RSvD4qgKm3l#0] ^Evlat<n><px2sg><nom>/بالا<n><px2sg><nom>/ئەۋلات<n><px2sg><nom>/ئەۋلاد<n><px2sg><nom>$ ^var<n><nom>/@var<n><nom>$ ^mı<qst>/مۇ<qst>$^,<cm>/,<cm>/،<cm>$ ^der<v><tv><ifi><p2><sg>/@der<v><tv><ifi><p2><sg>$ ^var<adj>/بار<adj>/بارغۇ<adj>$ ^i<cop><aor><p3><sg>/ئى<cop><aor><p3><sg>/ئې<cop><aor><p3><sg>$^.<sent>/.<sent>$
+[/_RSvD4qgKm3l]
+[_caU3jWU3AEw#0] ^15<num>/15<num>$ ^Temmuz<n><attr>/ئىيۇل<n><attr>$ ^Demokrasi<n><nom>/دېموكراتىيە<n><nom>$ ^ve<cnjcoo>/ۋە<cnjcoo>$ ^Milli<adj>/مىللىي<adj>$ ^Birlik<adj>/@Birlik<adj>$ ^gün<n><px3sp><nom>/كۈن<n><px3sp><nom>$ ^için<post>/ئۈچۈن<post>/ئۇچۇن<post>/ئۈچۈنلا<post>/توغرۇلۇق<post>$ ^yeni<adj>/يېڭى<adj>/يىڭى<adj>/ېيڭى<adj>$ ^logo<n><nom>/لوگو<n><nom>$ ^tasarla<v><tv><pass><ifi><p3><sg>/لايىھەلە<v><tv><pass><ifi><p3><sg>/مۆلچەرلە<v><tv><pass><ifi><p3><sg>$^.<sent>/.<sent>$
+[/_caU3jWU3AEw]
+[aMZgOkbK8PtB#0] ^Bura<prn><adv><loc>/بۇيەر<prn><adv><loc>$ ^sigara iç<v><iv><neg><nec>/تاماكا چەك<v><iv><neg><nec>$ ^i<cop><aor><p2><sg>/ئى<cop><aor><p2><sg>/ئې<cop><aor><p2><sg>$^.<sent>/.<sent>$
+[/aMZgOkbK8PtB]
+[b78cuXvU3e2O#0] ^Ek<v><tv><ger_inf><gen>/تەر<v><tv><ger_inf><gen>$ ^fiyat<n><px3sp><nom>/نەرخ<n><px3sp><nom>/باھا<n><px3sp><nom>$ ^yine<adv>/يەنە<adv>/باز<adv>/ﻳﻪﻧﻪ<adv>/قايتا<adv>$ ^art<v><iv><fut>/ئارت<v><iv><fut>/كۆپەي<v><iv><fut>$ ^i<cop><aor><p3><sg>/ئى<cop><aor><p3><sg>/ئې<cop><aor><p3><sg>$^.<sent>/.<sent>$
+[/b78cuXvU3e2O]
+[b7z9grfIpBep#0] ^Ya<cnjcoo>/يا<cnjcoo>$ ^biz<prn><pers><p1><pl><ins>/بىز<prn><pers><p1><pl><ins>$^,<cm>/,<cm>/،<cm>$ ^ya da<cnjcoo>/ياكى<cnjcoo>$ ^düşman<n><ins>/ياۋ<n><ins>/دۈشمەن<n><ins>$ ^i<cop><aor><p3><sg>/ئى<cop><aor><p3><sg>/ئې<cop><aor><p3><sg>$^.<sent>/.<sent>$
+[/b7z9grfIpBep]
+[bwylXUnGapB3#0] ^Yabancı<adj>/يات<adj>/ناتونۇش<adj>/چەت<adj>/چەتئەللىك<adj>$ ^bir<det><ind>/@bir<det><ind>$ ^ülke<n><dat>/ئەل<n><dat>/ئۆلكە<n><dat>/دىيار<n><dat>$ ^git<v><iv><ger_inf><loc>/چۈش<v><iv><ger_inf><loc>/كەت<v><iv><ger_inf><loc>/ماڭ<v><iv><ger_inf><loc>/كېتىش<v><iv><ger_inf><loc>/ئاتلان<v><iv><ger_inf><loc>/كېتىۋېت<v><iv><ger_inf><loc>$ ^i<cop><aor><p1><sg>/ئى<cop><aor><p1><sg>/ئې<cop><aor><p1><sg>$^.<sent>/.<sent>$
+[/bwylXUnGapB3]
+[fXFD011lzn6-#0] ^Kaptan<n><nom>/كاپىتان<n><nom>$^,<cm>/,<cm>/،<cm>$ ^ben<prn><pers><p1><sg><acc>/مەن<prn><pers><p1><sg><acc>$ ^çağır<v><tv><ifi><p2><pl>/چاقىر<v><tv><ifi><p2><pl>$ ^mı<qst>/مۇ<qst>$^?<sent>/?<sent>$
+[/fXFD011lzn6-]
+[fpBS9e71sD2Q#0] ^Biz<prn><pers><p1><pl><acc>/بىز<prn><pers><p1><pl><acc>$ ^izzet<n>/ئىززەت<n>$ ^lı<post>/لىق<post>$ ^kıl<n><nom>/قىل<n><nom>$^,<cm>/,<cm>/،<cm>$ ^zillet<n><dat>/زىللەت<n><dat>/زالالەت<n><dat>$ ^düşür<v><tv><neg><imp><p2><sg>/چۈشۈر<v><tv><neg><imp><p2><sg>$^!<sent>/!<sent>$
+[/fpBS9e71sD2Q]
+[ig40D5vigs8j#0] ^Amerika<np><top><nom>/ئامېرىكا<np><top><nom>/ئامىرىكا<np><top><nom>$ ^Başka<prn><ind><px2sg><acc>/@Başka<prn><ind><px2sg><acc>$ ^Donald<np><ant><m><nom>/دونالد<np><ant><m><nom>$ ^Trump<np><cog><mf><nom>/ترامپ<np><cog><mf><nom>$ ^Uygur<adj>/@Uygur<adj>$ ^eylemci<n><attr>/پائالىيەتچى<n><attr>$ ^Cevher<n><nom>/جەۋھەر<n><nom>/گۆھەر<n><nom>$ ^İlham<np><ant><m><nom>/ئىلھام<np><ant><m><nom>$ ^ile<cnjcoo>/بىلەن<cnjcoo>/ﺑﯩﻠﻪﻥ<cnjcoo>$ ^Beyaz<np><ant><m><nom>/@Beyaz<np><ant><m><nom>$ ^Saray<n><loc>/ساراي<n><loc>$ ^görüş<v><iv><ifi><p3><sg>/كۆرۈش<v><iv><ifi><p3><sg>$^.<sent>/.<sent>$
+[/ig40D5vigs8j]
+[jeDmAMzTnYuF#0] ^Hayat<n><nom><@obj>/ھايات<n><nom><@obj>/ئۆمۈر<n><nom><@obj>/تۇرمۇش<n><nom><@obj>/ھاياتلىق<n><nom><@obj>$ ^sür<v><tv><gna_perf>/سۈر<v><tv><gna_perf>/ھەيدى<v><tv><gna_perf>/سىلجىت<v><tv><gna_perf>$ ^git<v><iv><ger_inf><loc>/چۈش<v><iv><ger_inf><loc>/كەت<v><iv><ger_inf><loc>/ماڭ<v><iv><ger_inf><loc>/كېتىش<v><iv><ger_inf><loc>/ئاتلان<v><iv><ger_inf><loc>/كېتىۋېت<v><iv><ger_inf><loc>$ ^i<cop><dub><aor><p3><sg>/ئى<cop><dub><aor><p3><sg>/ئې<cop><dub><aor><p3><sg>$^.<sent>/.<sent>$
+[/jeDmAMzTnYuF]
+[js2pN1wYtm1B#0] ^Ayak<n><pl><nom>/پۇت<n><pl><nom>/ئاياق<n><pl><nom>/ئاياغ<n><pl><nom>$ ^baş<adj>/@baş<adj>$ ^olunca<adv>/@olunca<adv>$ ^osuruk<n><attr>/ئوسۇرۇق<n><attr>$ ^ferman<n><nom>/پەرمان<n><nom>$ ^ol<v><iv><aor>/بول<vaux><aor>/بول<v><iv><aor>/بۇل<v><iv><aor>$ ^i<cop><aor><p3><sg>/ئى<cop><aor><p3><sg>/ئې<cop><aor><p3><sg>$^.<sent>/.<sent>$
+[/js2pN1wYtm1B]
+[kdH0pJbgTPPT#0] ^Yıllarca<adv>/يىللارچە<adv>$ ^kar<n><nom>/قار<n><nom>$ ^yağ<v><iv><neg><past>/ياغ<v><iv><neg><past>$ ^i<cop><ifi><p3><sg>/ئى<cop><ifi><p3><sg>/ئې<cop><ifi><p3><sg>$^.<sent>/.<sent>$
+[/kdH0pJbgTPPT]
+[l16gdvrhyz3L#0] ^Çiçek<n><pl><gen>/چېچەك<n><pl><gen>/گىياھ<n><pl><gen>/گۈل<n><pl><gen>$ ^kızıl<n><pl><px3sp><nom>/قىزىل<n><pl><px3sp><nom>$ ^kor<n><nom>/چوغ<n><nom>$ ^gibi<post>/كەبى<post>/قاتارلىق<post>/ئاشۇنداق<post>/ئوخشايدىغان<post>$^,<cm>/,<cm>/،<cm>$ ^ak<n><pl><px3sp><nom>/ئاق<n><pl><px3sp><nom>$ ^kar<n><nom>/قار<n><nom>$ ^gibi<adj>/كەبى<adj>$ ^i<cop><dub><aor><p3><sg>/ئى<cop><dub><aor><p3><sg>/ئې<cop><dub><aor><p3><sg>$^.<sent>/.<sent>$
+[/l16gdvrhyz3L]
+[lSHv_p08y61Y#0] ^Ol<v><iv><ger_pabs><ins>/بول<vaux><ger_pabs><ins>/بول<v><iv><ger_pabs><ins>/بۇل<v><iv><ger_pabs><ins>$ ^öl<v><iv><ger_pabs><dat>/ئۆل<v><iv><ger_pabs><dat>$ ^çare<n><nom>/چارە<n><nom>/ئامال<n><nom>$ ^yok<adj>/يوق<adj>$ ^i<cop><aor><p3><sg>/ئى<cop><aor><p3><sg>/ئې<cop><aor><p3><sg>$^.<sent>/.<sent>$
+[/lSHv_p08y61Y]
+[lXqAxOV4_79N#0] ^Söyle<v><tv><neg><imp><p2><sg>/سۆزلە<v><tv><neg><imp><p2><sg>/سۆزلى<v><tv><neg><imp><p2><sg>/دېيىش<v><tv><neg><imp><p2><sg>$ ^dost<n><px2sg><dat>/دوست<n><px2sg><dat>/ئىناق<n><px2sg><dat>$^,<cm>/,<cm>/،<cm>$ ^o<prn><pers><p3><sg><nom>/ئۇ<prn><pers><p3><sg><nom>/ئا<prn><pers><p3><sg><nom>/ئول<prn><pers><p3><sg><nom>$ ^da<cnjcoo>/مۇ<postadv>/ھەم<cnjcoo>$ ^söyle<v><tv><gpr_aor>/سۆزلە<v><tv><gpr_aor>/سۆزلى<v><tv><gpr_aor>/دېيىش<v><tv><gpr_aor>$ ^dost<n><px3sp><dat>/دوست<n><px3sp><dat>/ئىناق<n><px3sp><dat>$ ^i<cop><aor><p3><sg>/ئى<cop><aor><p3><sg>/ئې<cop><aor><p3><sg>$^.<sent>/.<sent>$
+[/lXqAxOV4_79N]
+[qH7tjOs5VaTd#0] ^Ayak<n><px3sp><acc><@obj>/پۇت<n><px3sp><acc><@obj>/ئاياق<n><px3sp><acc><@obj>/ئاياغ<n><px3sp><acc><@obj>$ ^yorgan<n><px3sp><dat>/يوتقان<n><px3sp><dat>$ ^göre<post>/كۆرە<post>/يارىشا<post>/قارىغاندا<post>$ ^uzat<v><tv><imp><p2><sg>/سۇن<v><tv><imp><p2><sg>/سوز<v><tv><imp><p2><sg>/ئۇزات<v><tv><imp><p2><sg>$^.<sent>/.<sent>$
+[/qH7tjOs5VaTd]
+[ryprI4_fI8fC#0] ^Yüz<num>/يۈز<num>$ ^elli<num>/ئەللىك<num>$ ^bin<num>/مىڭ<num>$ ^asi<n><nom>/ئاسىي<n><nom>$ ^sokak<n><pl><dat>/كوچا<n><pl><dat>$ ^çık<v><iv><ifi><p3><sg>/چىق<v><iv><ifi><p3><sg>$^.<sent>/.<sent>$
+[/ryprI4_fI8fC]
+[veZ9OZzn2QzI#0] ^Tanrı<np><top><nom>/@Tanrı<np><top><nom>$ ^zalim<adj>/زوراۋان<adj>/دەپسەندىچى<adj>$ ^kavim<n><pl><dat>/قوۋم<n><pl><dat>/قەۋم<n><pl><dat>/جەمەت<n><pl><dat>$ ^hidayet<n><nom><@obj>/ھىدايەت<n><nom><@obj>$ ^et<v><tv><neg><aor>/ئەت<v><tv><neg><aor>/قىل<v><tv><neg><aor>/ئىشلە<v><tv><neg><aor>$ ^i<cop><aor><p3><sg>/ئى<cop><aor><p3><sg>/ئې<cop><aor><p3><sg>$^.<sent>/.<sent>$
+[/veZ9OZzn2QzI]
+[zKDVsvqkPBn9#0] ^Karga<n><nom>/قاغا<n><nom>$ ^yavru<n><px3sp><dat>/بالا<n><px3sp><dat>$ ^bak<v><iv><past>/قارا<v><iv><past>$^,<cm>/,<cm>/،<cm>$ ^ben<prn><pers><p1><sg><gen>/مەن<prn><pers><p1><sg><gen>$ ^ak<adj>/@ak<adj>$ ^pak<adj>/پاك<adj>$ ^evlat<n><px1sg><nom><@obj>/بالا<n><px1sg><nom><@obj>/ئەۋلات<n><px1sg><nom><@obj>/ئەۋلاد<n><px1sg><nom><@obj>$ ^de<v><tv><past>/دە<v><tv><past>/دې<v><tv><past>/دى<v><tv><past>/ئېيت<v><tv><past>/دېيىش<v><tv><past>/ئېيىت<v><tv><past>/ئېيتىش<v><tv><past>$ ^i<cop><aor><p3><sg>/ئى<cop><aor><p3><sg>/ئې<cop><aor><p3><sg>$^.<sent>/.<sent>$
+[/zKDVsvqkPBn9]

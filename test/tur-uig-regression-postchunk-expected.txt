@@ -1,0 +1,80 @@
+[--kRyBrMLxYu#0] ^جىمى<v><iv><gna_perf>$ ^لەۋ<n><dat>$ ^@doğru<post>$ ^كەل<v><iv><iver><ifi><p1><sg>$^.<sent>$
+[/--kRyBrMLxYu]
+[-U2kNUKB_mE_#0] ^يولۇچى<n><pl><nom>$ ^شېرىن<adj>$ ^@bir<det><ind>$ ^ئۇيقۇ<n><loc>$ ^ئى<cop><ifi><p3><sg>$^.<sent>$
+[/-U2kNUKB_mE_]
+[0YsCOiT0HgF7#0] ^سەل<n><nom>$ ^بىلەن<post>$ ^@gelen<adj>$ ^يەل<n><nom>$ ^بىلەن<post>$ ^كەت<v><iv><aor><p3><sg>$^.<sent>$
+[/0YsCOiT0HgF7]
+[152x5dPwhacF#0] ^مال<n><px3sp><acc><@obj>$ ^يىيىش<n><px3sp><acc><@obj>$ ^بىل<v><tv><neg><gpr_rsub><nom>$ ^پاراۋان<adj>$ ^ھەركۈنى<adv>$ ^يوقسۇل<adj>+ئى<cop><aor><p3><sg>$^.<sent>$
+[/152x5dPwhacF]
+[2B0uLgtts2Pt#0] ^پەيشەنبە<n><gen>$ ^كېلىش<n><px3sp><nom>$^,<cm>$ ^چارشەنبە<n><abl>$ ^مەلۇم<adj>+ئى<cop><aor><p3><sg>$^.<sent>$
+[/2B0uLgtts2Pt]
+[4MsDXCfvrR7Z#0] ^نېمە<prn><itg><nom>$ ^قىل<v><tv><ger_past><px1pl><nom>$ ^مەلۇم<adj>$ ^ئەمەس<adj>+ئى<cop><aor><p3><sg>$^.<sent>$
+[/4MsDXCfvrR7Z]
+[5bqJ4uYAUHoJ#0] ^ھەركىم<prn><qnt><nom>$ ^ئۆز<prn><ref><nom>$ ^پىكىر<n><px3sp><acc><@obj>$ ^بايان<n><nom>$ ^قىل<v><tv><imp><p3><pl>$^.<sent>$
+[/5bqJ4uYAUHoJ]
+[6TV6XQSIlUCa#0] ^ئايال<n><gen>$ ^شامدان<n><px3sp><nom>$ ^ئالتۇن<n><attr>$ ^بول<v><iv><gna_cond><p3><sg>$ ^شام<n><px3sp><nom><@obj>$ ^تىك<v><tv><fut><p3><sg>$ ^يەنە<adv>$ ^@erkek<adj>+ئى<cop><aor><p3><sg>$^.<sent>$
+[/6TV6XQSIlUCa]
+[BgNLdcUk4iaU#0] ^مىللىي<adj>$ ^تەنھەرىكەتچى<n><pl><px1pl><nom>$ ^ئالتۇن<n><nom>$ ^مېدال<n><dat>$ ^ئېرىش<v><iv><ifi><p3><sg>$^.<sent>$
+[/BgNLdcUk4iaU]
+[BzzcsF3-LAUF#0] ^خەلق<n><gen>$ ^ئون<num>$ ^پىرسەنت<n><px3sp><nom>$ ^لاگېر<n><pl><dat>$ ^تاقا<v><tv><pass><past><p3><sg>$^.<sent>$
+[/BzzcsF3-LAUF]
+[CU1lsKua2Twn#0] ^ھەر<det><dem>$ ^دۇئا<n><attr>$ ^قوبۇل<n><nom>$ ^بول<v><iv><pass><neg><aor><p3><sg>$^.<sent>$
+[/CU1lsKua2Twn]
+[F8K8Cul8Vr4j#0] ^كاپىر<n><pl><dat>$ ^ئىتائەت<n><nom><@obj>$ ^قىل<v><tv><aor><p2><sg>$ ^سەن<prn><pers><p2><sg><acc>$ ^ئاللا<n><gen>$ ^يول<n><px3sp><abl>$ ^ئازدۇر<v><tv><aor><p3><pl>$^.<sent>$
+[/F8K8Cul8Vr4j]
+[JEj4BnxtPhHt#0] ^سەن<prn><pers><p2><sg><nom>$ ^@bir<det><ind>$ ^سىر<n>+لىق<post>$ ^ئىشىك<n><nom>+ئى<cop><aor><p2><sg>$^.<sent>$
+[/JEj4BnxtPhHt]
+[Li7KxOh3HiBd#0] ^مېۋە<n><attr>$ ^@veren<adj>$ ^ياغاچ<n><nom><@obj>$ ^تاشلا<v><tv><pass><aor><p3><sg>$^.<sent>$
+[/Li7KxOh3HiBd]
+[MGPodM4jneUT#0] ^دۇئا<n><px2sg><nom>$ ^بىلەن<post>$ ^@doğ<v><tv><neg><ifi><p1><sg>+كى<cnjadv>$ ^بەددۇئا<n><px2sg><nom>$ ^بىلەن<post>$ ^ئۆل<v><iv><imp><p1><sg>$^.<sent>$
+[/MGPodM4jneUT]
+[MSdXKAnOvXKn#0] ^ئۆي<n><dat>$ ^كەت<v><iv><past><p3><sg>$ ^بول<v><iv><gna_cond><p3><sg>$ ^كېرەك<n><nom>$^.<sent>$
+[/MSdXKAnOvXKn]
+[QPHDuU_82R9H#0] ^@Kara<np><ant><f><nom>$ ^كۈن<n><nom>$ ^قارايت<v><iv><gna_perf>$ ^قال<v><iv><neg><aor><p3><sg>$^.<sent>$
+[/QPHDuU_82R9H]
+[TXbWcoWfel9B#0] ^ئۆز<prn><ref><px2sg><acc>$ ^بىل<v><tv><imp><p2><sg>$ ^ئۆز<prn><ref><px2sg><acc>$^,<cm>$ ^سەن<prn><pers><p2><sg><nom>$ ^سەن<prn><pers><p2><sg><acc>$ ^بىل<v><tv><imp><p2><sg>$ ^سەن<prn><pers><p2><sg><nom>$ ^سەن<prn><pers><p2><sg><acc>$^.<sent>$
+[/TXbWcoWfel9B]
+[U4IagLCt_Sih#0] ^ئەمما<cnjcoo>$^,<cm>$ ^باغۋەن<n><pl><nom>$ ^@çok<det><qnt>$ ^رازى<adj>$ ^ئەمەس<adj>+ئى<cop><aor><p3><sg>$^.<sent>$
+[/U4IagLCt_Sih]
+[VgciNeoPHw-h#0] ^سەن<prn><pers><p2><sg><dat>$^,<cm>$ ^مەن<prn><pers><p1><sg><dat>$^,<cm>$ ^بىز<prn><pers><p1><pl><dat>$ ^بىرەر نەرسە<prn><qnt><nom>$ ^بول<v><iv><abil><aor><p3><sg>$^.<sent>$
+[/VgciNeoPHw-h]
+[VqX4V1z2PEZh#0] ^ئىت<n><px1sg><gen>$ ^@peşin<n><abl>$ ^ماڭ<v><iv><aor><p1><sg>$^.<sent>$
+[/VqX4V1z2PEZh]
+[_RSvD4qgKm3l#0] ^بالا<n><px2sg><nom>$ ^@var<n><nom>+مۇ<qst>$^,<cm>$ ^@der<v><tv><ifi><p2><sg>$ ^بار<adj>+ئى<cop><aor><p3><sg>$^.<sent>$
+[/_RSvD4qgKm3l]
+[_caU3jWU3AEw#0] ^15<num>$ ^ئىيۇل<n><attr>$ ^دېموكراتىيە<n><nom>$ ^ۋە<cnjcoo>$ ^مىللىي<adj>$ ^@Birlik<adj>$ ^كۈن<n><px3sp><nom>$ ^ئۈچۈن<post>$ ^يېڭى<adj>$ ^لوگو<n><nom>$ ^لايىھەلە<v><tv><pass><ifi><p3><sg>$^.<sent>$
+[/_caU3jWU3AEw]
+[aMZgOkbK8PtB#0] ^بۇيەر<prn><adv><loc>$ ^تاماكا چەك<v><iv><neg><gna_cond><p2><sg>$ ^كېرەك<n><nom>$^.<sent>$
+[/aMZgOkbK8PtB]
+[b78cuXvU3e2O#0] ^تەر<v><tv><ger_inf><gen>$ ^نەرخ<n><px3sp><nom>$ ^يەنە<adv>$ ^ئارت<v><iv><fut><p3><sg>$^.<sent>$
+[/b78cuXvU3e2O]
+[b7z9grfIpBep#0] ^يا<cnjcoo>$ ^بىز<prn><pers><p1><pl><nom>$ ^بىلەن<post>$^,<cm>$ ^ياكى<cnjcoo>$ ^ياۋ<n><nom>$ ^بىلەن<post>$^.<sent>$
+[/b7z9grfIpBep]
+[bwylXUnGapB3#0] ^يات<adj>$ ^@bir<det><ind>$ ^ئەل<n><dat>$ ^كەت<v><iv><prog><p1><sg>$^.<sent>$
+[/bwylXUnGapB3]
+[fXFD011lzn6-#0] ^كاپىتان<n><nom>$^,<cm>$ ^مەن<prn><pers><p1><sg><acc>$ ^چاقىر<v><tv><ifi><p2><pl>+مۇ<qst>$^?<sent>$
+[/fXFD011lzn6-]
+[fpBS9e71sD2Q#0] ^بىز<prn><pers><p1><pl><acc>$ ^ئىززەت<n>+لىق<post>$ ^قىل<n><nom>$^,<cm>$ ^زىللەت<n><dat>$ ^چۈشۈر<v><tv><neg><imp><p2><sg>$^!<sent>$
+[/fpBS9e71sD2Q]
+[ig40D5vigs8j#0] ^ئامېرىكا<np><top><nom>$ ^@Başka<prn><ind><px2sg><acc>$ ^دونالد<np><ant><m><nom>$ ^ترامپ<np><cog><mf><nom>$ ^@Uygur<adj>$ ^پائالىيەتچى<n><attr>$ ^جەۋھەر<n><nom>$ ^ئىلھام<np><ant><m><nom>$ ^بىلەن<cnjcoo>$ ^@Beyaz<np><ant><m><nom>$ ^ساراي<n><loc>$ ^كۆرۈش<v><iv><ifi><p3><sg>$^.<sent>$
+[/ig40D5vigs8j]
+[jeDmAMzTnYuF#0] ^ھايات<n><nom><@obj>$ ^سۈر<v><tv><gna_perf>$ ^كەت<v><iv><ger_inf><loc>$ ^ئى<cop><dub><aor><p3><sg>$^.<sent>$
+[/jeDmAMzTnYuF]
+[js2pN1wYtm1B#0] ^ئاياغ<n><pl><nom>$ ^@baş<adj>$ ^@olunca<adv>$ ^ئوسۇرۇق<n><attr>$ ^پەرمان<n><nom>$ ^بول<v><iv><aor><p3><sg>$^.<sent>$
+[/js2pN1wYtm1B]
+[kdH0pJbgTPPT#0] ^يىللارچە<adv>$ ^قار<n><nom>$ ^ياغ<v><iv><neg><past><evid><p3><sg>$^.<sent>$
+[/kdH0pJbgTPPT]
+[l16gdvrhyz3L#0] ^چېچەك<n><pl><gen>$ ^قىزىل<n><pl><px3sp><nom>$ ^چوغ<n><nom><dek>$^,<cm>$ ^ئاق<n><pl><px3sp><nom>$ ^قار<n><nom><dek>$ ^ئى<cop><dub><aor><p3><sg>$^.<sent>$
+[/l16gdvrhyz3L]
+[lSHv_p08y61Y#0] ^بول<v><iv><ger_pabs><nom>$ ^بىلەن<post>$ ^ئۆل<v><iv><ger_pabs><dat>$ ^چارە<n><nom>$ ^يوق<adj>+ئى<cop><aor><p3><sg>$^.<sent>$
+[/lSHv_p08y61Y]
+[lXqAxOV4_79N#0] ^سۆزلە<v><tv><neg><imp><p2><sg>$ ^دوست<n><px2sg><dat>$^,<cm>$ ^ئۇ<prn><pers><p3><sg><nom>+مۇ<postadv>$ ^سۆزلە<v><tv><aor><p3><sg>$ ^دوست<n><px3sp><dat>+ئى<cop><aor><p3><sg>$^.<sent>$
+[/lXqAxOV4_79N]
+[qH7tjOs5VaTd#0] ^ئاياغ<n><px3sp><acc><@obj>$ ^يوتقان<n><px3sp><dat>$ ^كۆرە<post>$ ^سۇن<v><tv><imp><p2><sg>$^.<sent>$
+[/qH7tjOs5VaTd]
+[ryprI4_fI8fC#0] ^يۈز<num>$ ^ئەللىك<num>$ ^مىڭ<num>$ ^ئاسىي<n><nom>$ ^كوچا<n><pl><dat>$ ^چىق<v><iv><ifi><p3><sg>$^.<sent>$
+[/ryprI4_fI8fC]
+[veZ9OZzn2QzI#0] ^@Tanrı<np><top><nom>$ ^زوراۋان<adj>$ ^قوۋم<n><pl><dat>$ ^ھىدايەت<n><nom><@obj>$ ^قىل<v><tv><neg><aor><p3><sg>$^.<sent>$
+[/veZ9OZzn2QzI]
+[zKDVsvqkPBn9#0] ^قاغا<n><nom>$ ^بالا<n><px3sp><dat>$ ^قارا<v><iv><past><p3><sg>$^,<cm>$ ^مەن<prn><pers><p1><sg><gen>$ ^@ak<adj>$ ^پاك<adj>$ ^بالا<n><px1sg><nom><@obj>$ ^دە<v><tv><past><p3><sg>$^.<sent>$
+[/zKDVsvqkPBn9]

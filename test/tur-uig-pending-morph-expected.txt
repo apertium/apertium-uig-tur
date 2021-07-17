@@ -1,0 +1,2 @@
+[ql2t2JOe8BbC#0] ^Ben/Ben<np><ant><m><nom>/ben<prn><pers><p1><sg><nom>/Ben<np><ant><m><nom>+i<cop><aor><p3><sg>/ben<prn><pers><p1><sg><nom>+i<cop><aor><p3><sg>$ ^kendimi/kendi<prn><ref><px1sg><acc>/kendi<adj><subst><px1sg><acc>$ ^bilirim/bil<v><tv><aor>+i<cop><aor><p1><sg>/bil<v><tv><ger_aor><nom>+i<cop><aor><p1><sg>/bil<v><tv><gpr_aor><subst><nom>+i<cop><aor><p1><sg>/bil<v><tv><ger_aor><px1sg><nom>/bil<v><tv><gpr_aor><subst><px1sg><nom>/bil<v><tv><ger_aor><px1sg><nom>+i<cop><aor><p3><sg>/bil<v><tv><gpr_aor><subst><px1sg><nom>+i<cop><aor><p3><sg>$^./.<sent>$
+[/ql2t2JOe8BbC]

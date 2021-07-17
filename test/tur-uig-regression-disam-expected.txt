@@ -1,0 +1,80 @@
+[--kRyBrMLxYu#0] ^Sakinleşip/Sakinleş<v><iv><gna_perf>/Sakin<n>+laş<v><iv><gna_perf>$ ^kıyıya/kıyı<n><dat>$ ^doğru/doğru<post>$ ^geliverdim/gel<v><iv><iver><ifi><p1><sg>$^./.<sent>$
+[/--kRyBrMLxYu]
+[-U2kNUKB_mE_#0] ^Yolcular/Yolcu<n><pl><nom>$ ^tatlı/tatlı<adj>$ ^bir/bir<det><ind>$ ^uykudaydı/uyku<n><loc>+i<cop><ifi><p3><sg>$^./.<sent>$
+[/-U2kNUKB_mE_]
+[0YsCOiT0HgF7#0] ^Sel/Sel<n><nom>$ ^ile/ile<post>$ ^gelen/gel<v><iv><gpr_rsub>/gelen<adj>/gel<v><iv><ger_impf><nom>$ ^yel/yel<n><nom>$ ^ile/ile<post>$ ^gider/git<v><iv><aor>+i<cop><aor><p3><sg>$^./.<sent>$
+[/0YsCOiT0HgF7]
+[152x5dPwhacF#0] ^Malını/Mal<n><px3sp><acc><@obj>$ ^yemesini/yeme<n><px3sp><acc><@obj>$ ^bilmeyen/bil<v><tv><neg><gpr_rsub>/bil<v><tv><neg><ger_impf><nom>$ ^zengin/zengin<adj>/zengin<n><nom>/zengin<n><attr>$ ^her gün/her gün<adv>/her gün<adv><attr>$ ^züğürttür/züğürt<adj>+i<cop><aor><p3><sg><gm>$^./.<sent>$
+[/152x5dPwhacF]
+[2B0uLgtts2Pt#0] ^Perşembenin/Perşembe<n><gen>$ ^gelişi/geliş<n><px3sp><nom>/geliş<n><px3sp><nom>+i<cop><aor><p3><sg>$^,/,<cm>$ ^çarşambadan/çarşamba<n><abl>$ ^bellidir/belli<adj>+i<cop><aor><p3><sg><gm>$^./.<sent>$
+[/2B0uLgtts2Pt]
+[4MsDXCfvrR7Z#0] ^Ne/Ne<prn><itg><nom>$ ^yaptığımız/yap<v><tv><ger_past><px1pl><nom>/yap<v><tv><gpr_past><subst><px1pl><nom>$ ^belli/belli<adj>$ ^değil/değil<adj>+i<cop><aor><p3><sg>$^./.<sent>$
+[/4MsDXCfvrR7Z]
+[5bqJ4uYAUHoJ#0] ^Herkes/Herkes<prn><qnt><nom>$ ^kendi/kendi<prn><ref><nom>$ ^fikrini/fikir<n><px3sp><acc><@obj>$ ^beyan/beyan<n><nom>$ ^etsin/et<v><tv><imp><p3><pl>/et<v><tv><imp><p3><sg>$^./.<sent>$
+[/5bqJ4uYAUHoJ]
+[6TV6XQSIlUCa#0] ^Kadının/Kadın<n><gen>$ ^şamdanı/şamdan<n><px3sp><nom>$ ^altın/altın<n><attr>$ ^olsa/ol<v><iv><cond><p3><sg>/ol<v><iv><gna_cond><p3><sg>$ ^mumu/mum<n><px3sp><nom><@obj>$ ^dikecek/dik<v><tv><fut>$ ^yine/yine<adv>$ ^erkek/erkek<adj>+i<cop><aor><p3><sg>/erkek<n><nom>+i<cop><aor><p3><sg>$^./.<sent>$
+[/6TV6XQSIlUCa]
+[BgNLdcUk4iaU#0] ^Milli/Milli<adj>$ ^atletlerimiz/atlet<n><pl><px1pl><nom>$ ^altın/altın<n><nom>/altın<n><attr>$ ^madalyaya/madalya<n><dat>$ ^erişti/eriş<v><iv><ifi><p3><sg>$^./.<sent>$
+[/BgNLdcUk4iaU]
+[BzzcsF3-LAUF#0] ^Halkın/Halk<n><gen>$ ^yüzde/yüzde<n><nom>$ ^onu/on<num><subst><px3sp><nom>$ ^kamplara/kamp<n><pl><dat>$ ^kapatılmış/kapat<v><tv><pass><past>+i<cop><aor><p3><sg>$^./.<sent>$
+[/BzzcsF3-LAUF]
+[CU1lsKua2Twn#0] ^Her/Her<det><dem>$ ^dua/dua<n><attr>$ ^kabul/kabul<n><nom>$ ^olunmaz/ol<v><iv><pass><neg><aor>+i<cop><aor><p3><sg>$^./.<sent>$
+[/CU1lsKua2Twn]
+[F8K8Cul8Vr4j#0] ^Kafirlere/Kafir<n><pl><dat>/Kâfir<n><pl><dat>$ ^itaat/itaat<n><nom><@obj>$ ^edersen/et<v><tv><aor>+i<cop><cond><p2><sg>$ ^seni/sen<prn><pers><p2><sg><acc>$ ^Allahın/Allah<n><gen>$ ^yolundan/yol<n><px2sg><abl>/yol<n><px3sp><abl>$ ^saptırırlar/saptır<v><tv><aor>+i<cop><aor><p3><pl>$^./.<sent>$
+[/F8K8Cul8Vr4j]
+[JEj4BnxtPhHt#0] ^Sen/Sen<prn><pers><p2><sg><nom>$ ^bir/bir<det><ind>$ ^sırlı/sır<n>+lı<post>$ ^kapısın/kapı<n><nom>+i<cop><aor><p2><sg>$^./.<sent>$
+[/JEj4BnxtPhHt]
+[Li7KxOh3HiBd#0] ^Meyve/Meyve<n><nom><@obj>/Meyve<n><attr>$ ^veren/ver<v><tv><gpr_rsub>/veren<adj>/ver<v><tv><ger_impf><nom>$ ^ağaç/ağaç<n><nom><@obj>$ ^taşlanır/taşla<v><tv><pass><aor>+i<cop><aor><p3><sg>$^./.<sent>$
+[/Li7KxOh3HiBd]
+[MGPodM4jneUT#0] ^Duanla/Dua<n><px2sg><ins>$ ^doğmadım/doğ<v><tv><neg><ifi><p1><sg>/doğ<v><iv><neg><ifi><p1><sg>$ ^ki/ki<cnjcoo>/ki<cnjadv>/ki<cnjsub>$ ^bedduanla/beddua<n><px2sg><ins>$ ^öleyim/öl<v><iv><imp><p1><sg>$^./.<sent>$
+[/MGPodM4jneUT]
+[MSdXKAnOvXKn#0] ^Eve/Ev<n><dat>$ ^gitmiş/git<v><iv><past>$ ^olmalı/ol<v><iv><nec>+i<cop><aor><p3><sg>$^./.<sent>$
+[/MSdXKAnOvXKn]
+[QPHDuU_82R9H#0] ^Kara/Kar<n><dat>/Kâr<n><dat>/Kara<adj>/Kara<n><attr>/Kara<np><ant><f><nom>$ ^gün/gün<n><nom>$ ^kararıp/karar<v><iv><gna_perf>$ ^kalmaz/kal<v><iv><neg><aor>+i<cop><aor><p3><sg>$^./.<sent>$
+[/QPHDuU_82R9H]
+[TXbWcoWfel9B#0] ^Kendini/Kendi<prn><ref><px2sg><acc>$ ^bil/bil<v><tv><imp><p2><sg>$ ^kendini/kendi<prn><ref><px2sg><acc>$^,/,<cm>$ ^sen/sen<prn><pers><p2><sg><nom>$ ^seni/sen<prn><pers><p2><sg><acc>$ ^bil/bil<v><tv><imp><p2><sg>$ ^sen/sen<prn><pers><p2><sg><nom>$ ^seni/sen<prn><pers><p2><sg><acc>$^./.<sent>$
+[/TXbWcoWfel9B]
+[U4IagLCt_Sih#0] ^Ama/Ama<cnjcoo>$^,/,<cm>$ ^bahçıvanlar/bahçıvan<n><pl><nom>$ ^çok/çok<adj>/çok<adv>/çok<det><qnt>/çok<n><nom>/çok<n><attr>/çok<adv><attr>$ ^razı/razı<adj>$ ^değil/değil<adj>+i<cop><aor><p3><sg>$^./.<sent>$
+[/U4IagLCt_Sih]
+[VgciNeoPHw-h#0] ^Sana/Sen<prn><pers><p2><sg><dat>$^,/,<cm>$ ^bana/ben<prn><pers><p1><sg><dat>$^,/,<cm>$ ^bize/biz<prn><pers><p1><pl><dat>$ ^birşey/birşey<prn><ind><nom>$ ^olabilir/ol<v><iv><abil><aor>+i<cop><aor><p3><sg>$^./.<sent>$
+[/VgciNeoPHw-h]
+[VqX4V1z2PEZh#0] ^Köpeğimin/Köpek<n><px1sg><gen>$ ^peşinden/peş<n><px3sp><abl>/peşin<n><abl>$ ^yürüyorum/yürü<v><iv><prog>+i<cop><aor><p1><sg>$^./.<sent>$
+[/VqX4V1z2PEZh]
+[_RSvD4qgKm3l#0] ^Evladın/Evlat<n><px2sg><nom>$ ^var mı/var<n><nom>+mı<qst>/var<adj>+mı<qst>+i<cop><aor><p3><sg>/var<n><nom>+mı<qst>+i<cop><aor><p3><sg>$^,/,<cm>$ ^derdin/der<v><tv><ifi><p2><sg>$ ^var/var<adj>+i<cop><aor><p3><sg>/var<n><nom>+i<cop><aor><p3><sg>$^./.<sent>$
+[/_RSvD4qgKm3l]
+[_caU3jWU3AEw#0] ^15/15<num>$ ^Temmuz/Temmuz<n><attr>$ ^Demokrasi/Demokrasi<n><nom>$ ^ve/ve<cnjcoo>$ ^Milli/Milli<adj>$ ^Birlik/Birlik<adj>/Birlik<n><attr>$ ^günü/gün<n><px3sp><nom>$ ^için/için<post>$ ^yeni/yen<n><acc><@obj>/yeni<adj>$ ^logo/logo<n><nom>$ ^tasarlandı/tasarla<v><tv><pass><ifi><p3><sg>$^./.<sent>$
+[/_caU3jWU3AEw]
+[aMZgOkbK8PtB#0] ^Burada/Bura<prn><adv><loc>$ ^sigara içmemelisin/sigara iç<v><iv><neg><nec>+i<cop><aor><p2><sg>$^./.<sent>$
+[/aMZgOkbK8PtB]
+[b78cuXvU3e2O#0] ^Ekmeğin/Ek<v><tv><ger_inf><gen>$ ^fiyatı/fiyat<n><px3sp><nom>$ ^yine/yine<adv>$ ^artacak/art<v><iv><fut>+i<cop><aor><p3><sg>$^./.<sent>$
+[/b78cuXvU3e2O]
+[b7z9grfIpBep#0] ^Ya/Y<n><dat>/Ya<cnjcoo>/Ya<cnjadv>$ ^bizimle/biz<prn><pers><p1><pl><ins>$^,/,<cm>$ ^ya da/ya da<cnjcoo>/ya da<cnjadv>$ ^düşmanla/düşman<n><ins>+i<cop><aor><p3><sg>$^./.<sent>$
+[/b7z9grfIpBep]
+[bwylXUnGapB3#0] ^Yabancı/Yabancı<adj>$ ^bir/bir<det><ind>$ ^ülkeye/ülke<n><dat>$ ^gitmekteyim/git<v><iv><ger_inf><loc>+i<cop><aor><p1><sg>$^./.<sent>$
+[/bwylXUnGapB3]
+[fXFD011lzn6-#0] ^Kaptan/Kap<n><abl>/Kaptan<n><nom>/Kap<n><abl>+i<cop><aor><p3><sg>/Kaptan<n><nom>+i<cop><aor><p3><sg>$^,/,<cm>$ ^beni/ben<prn><pers><p1><sg><acc>$ ^çağırdınız mı/çağır<v><tv><ifi><p2><pl>+mı<qst>$^?/?<sent>$
+[/fXFD011lzn6-]
+[fpBS9e71sD2Q#0] ^Bizi/Biz<prn><pers><p1><pl><acc>$ ^izzetli/izzet<n>+lı<post>$ ^kıl/kıl<n><nom>/kıl<n><nom>+i<cop><aor><p3><sg>$^,/,<cm>$ ^zillete/zillet<n><dat>$ ^düşürme/düşür<v><tv><neg><imp><p2><sg>$^!/!<sent>$
+[/fpBS9e71sD2Q]
+[ig40D5vigs8j#0] ^Amerika/Amerika<np><top><nom>$ ^Başkanı/Başka<prn><ind><px2sg><acc>$ ^Donald/Donald<np><ant><m><nom>$ ^Trump/Trump<np><cog><mf><nom>/Trump<np><cog><mf><attr>$ ^Uygur/Uygur<adj>/Uygur<n><nom>$ ^eylemci/eylemci<n><attr>$ ^Cevher/Cevher<n><nom>$ ^İlham/İlham<np><ant><m><nom>$ ^ile/il<n><dat>/ile<post>/ile<cnjcoo>$ ^Beyaz/Beyaz<np><ant><m><nom>$ ^Sarayda/Saray<n><loc>$ ^görüştü/görüş<v><tv><ifi><p3><sg>/görüş<v><iv><ifi><p3><sg>$^./.<sent>$
+[/ig40D5vigs8j]
+[jeDmAMzTnYuF#0] ^Hayat/Hayat<n><nom><@obj>$ ^sürüp/sür<v><tv><gna_perf>$ ^gitmekte/git<v><iv><ger_inf><loc>$ ^imiş/i<cop><dub><aor><p3><sg>$^./.<sent>$
+[/jeDmAMzTnYuF]
+[js2pN1wYtm1B#0] ^Ayaklar/Ayak<n><pl><nom>$ ^baş/baş<adj>/baş<n><nom>/baş<n><attr>$ ^olunca/ol<v><iv><gna_when>/olunca<adv>/olunca<adv><attr>$ ^osuruk/osuruk<n><attr>$ ^ferman/ferman<n><nom>/fermân<n><nom>$ ^olur/ol<v><iv><aor>+i<cop><aor><p3><sg>$^./.<sent>$
+[/js2pN1wYtm1B]
+[kdH0pJbgTPPT#0] ^Yıllarca/Yıl<n><pl><sim>/Yılla<v><tv><gpr_aor><subst><sim>/Yıllarca<adv>$ ^kar/kar<n><nom>/kâr<n><nom>$ ^yağmamıştı/yağ<v><iv><neg><past>+i<cop><ifi><p3><sg>$^./.<sent>$
+[/kdH0pJbgTPPT]
+[l16gdvrhyz3L#0] ^Çiçeklerin/Çiçek<n><pl><gen>$ ^kızılları/kızıl<n><pl><px3sp><nom>$ ^kor/kor<n><nom>$ ^gibi/gibi<post>$^,/,<cm>$ ^akları/ak<n><pl><px3sp><nom>$ ^kar/kar<n><nom>/kar<n><attr>/kâr<n><nom>/kâr<n><attr>$ ^gibiymiş/gibi<adj>+i<cop><dub><aor><p3><sg>$^./.<sent>$
+[/l16gdvrhyz3L]
+[lSHv_p08y61Y#0] ^Olmuşla/Ol<v><iv><ger_pabs><ins>$ ^ölmüşe/öl<v><iv><ger_pabs><dat>$ ^çare/çare<n><nom>/çare<n><attr>$ ^yok/yok<adj>+i<cop><aor><p3><sg>$^./.<sent>$
+[/lSHv_p08y61Y]
+[lXqAxOV4_79N#0] ^Söyleme/Söyle<v><tv><neg><imp><p2><sg>$ ^dostuna/dost<n><px2sg><dat>/dost<n><px2sg><dat>+i<cop><aor><p3><sg>$^,/,<cm>$ ^o/o<prn><dem><nom>/o<prn><pers><p3><sg><nom>$ ^da/da<cnjcoo>/da<postadv>/da<adv>$ ^söyler/söyle<v><tv><gpr_aor>$ ^dostuna/dost<n><px3sp><dat>+i<cop><aor><p3><sg>$^./.<sent>$
+[/lXqAxOV4_79N]
+[qH7tjOs5VaTd#0] ^Ayağını/Ayak<n><px3sp><acc><@obj>$ ^yorganına/yorgan<n><px3sp><dat>$ ^göre/göre<post>$ ^uzat/uzat<v><tv><imp><p2><sg>$^./.<sent>$
+[/qH7tjOs5VaTd]
+[ryprI4_fI8fC#0] ^Yüz/Yüz<num>/Yüz<n><nom>$ ^elli/elli<num>/el<n>+lı<post>/elli<n><nom>/elli<n><attr>$ ^bin/bin<num>$ ^asi/asi<n><nom>/asi<n><attr>$ ^sokaklara/sokak<n><pl><dat>$ ^çıktı/çık<v><iv><ifi><p3><sg>$^./.<sent>$
+[/ryprI4_fI8fC]
+[veZ9OZzn2QzI#0] ^Tanrı/Tanrı<n><nom>/Tanrı<np><top><nom>$ ^zalim/zalim<adj>/zalim<n><nom>/zalim<n><attr>$ ^kavimlere/kavim<n><pl><dat>$ ^hidayet/hidayet<n><nom><@obj>$ ^etmez/et<v><tv><neg><aor>+i<cop><aor><p3><sg>$^./.<sent>$
+[/veZ9OZzn2QzI]
+[zKDVsvqkPBn9#0] ^Karga/Karga<n><nom>/Karga<n><attr>$ ^yavrusuna/yavru<n><px3sp><dat>$ ^bakmış/bak<v><iv><past>/bak<v><iv><ger_pabs><nom>/bak<v><iv><past>+i<cop><aor><p3><sg>/bak<v><iv><ger_pabs><nom>+i<cop><aor><p3><sg>$^,/,<cm>$ ^benim/ben<prn><pers><p1><sg><gen>$ ^ak/ak<adj>/ak<n><nom>/ak<n><attr>$ ^pak/pak<adj>$ ^evladım/evlat<n><px1sg><nom><@obj>$ ^demiş/de<v><tv><past>+i<cop><aor><p3><sg>/de<v><iv><past>+i<cop><aor><p3><sg>$^./.<sent>$
+[/zKDVsvqkPBn9]

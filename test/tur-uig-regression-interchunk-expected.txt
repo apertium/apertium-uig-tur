@@ -1,0 +1,80 @@
+[--kRyBrMLxYu#0] ^default<default>{^جىمى<v><iv><gna_perf>$}$ ^default<default>{^لەۋ<n><dat>$}$ ^default<default>{^@doğru<post>$}$ ^default<default>{^كەل<v><iv><iver><ifi><p1><sg>$}$^sent<SENT>{^.<sent>$}$
+[/--kRyBrMLxYu]
+[-U2kNUKB_mE_#0] ^default<default>{^يولۇچى<n><pl><nom>$}$ ^default<default>{^شېرىن<adj>$}$ ^default<default>{^@bir<det><ind>$}$ ^default<default>{^ئۇيقۇ<n><loc>$}$ ^default<default>{^ئى<cop><ifi><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/-U2kNUKB_mE_]
+[0YsCOiT0HgF7#0] ^default<default>{^سەل<n><nom>$}$ ^default<default>{^بىلەن<post>$}$ ^default<default>{^@gelen<adj>$}$ ^default<default>{^يەل<n><nom>$}$ ^default<default>{^بىلەن<post>$}$ ^v<SV>{^كەت<v><iv><aor><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/0YsCOiT0HgF7]
+[152x5dPwhacF#0] ^default<default>{^مال<n><px3sp><acc><@obj>$}$ ^default<default>{^يىيىش<n><px3sp><acc><@obj>$}$ ^v<SV>{^بىل<v><tv><neg><gpr_rsub><nom>$}$ ^default<default>{^پاراۋان<adj>$}$ ^default<default>{^ھەركۈنى<adv>$}$ ^cop<SV>{^يوقسۇل<adj>+ئى<cop><aor><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/152x5dPwhacF]
+[2B0uLgtts2Pt#0] ^default<default>{^پەيشەنبە<n><gen>$}$ ^default<default>{^كېلىش<n><px3sp><nom>$}$^default<default>{^,<cm>$}$ ^default<default>{^چارشەنبە<n><abl>$}$ ^cop<SV>{^مەلۇم<adj>+ئى<cop><aor><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/2B0uLgtts2Pt]
+[4MsDXCfvrR7Z#0] ^default<default>{^نېمە<prn><itg><nom>$}$ ^default<default>{^قىل<v><tv><ger_past><px1pl><nom>$}$ ^default<default>{^مەلۇم<adj>$}$ ^cop<SV>{^ئەمەس<adj>+ئى<cop><aor><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/4MsDXCfvrR7Z]
+[5bqJ4uYAUHoJ#0] ^default<default>{^ھەركىم<prn><qnt><nom>$}$ ^default<default>{^ئۆز<prn><ref><nom>$}$ ^default<default>{^پىكىر<n><px3sp><acc><@obj>$}$ ^default<default>{^بايان<n><nom>$}$ ^v<SV>{^قىل<v><tv><imp><p3><pl>$}$^sent<SENT>{^.<sent>$}$
+[/5bqJ4uYAUHoJ]
+[6TV6XQSIlUCa#0] ^default<default>{^ئايال<n><gen>$}$ ^default<default>{^شامدان<n><px3sp><nom>$}$ ^default<default>{^ئالتۇن<n><attr>$}$ ^default<default>{^بول<v><iv><gna_cond><p3><sg>$}$ ^default<default>{^شام<n><px3sp><nom><@obj>$}$ ^v<SV>{^تىك<v><tv><fut><p3><sg>$}$ ^default<default>{^يەنە<adv>$}$ ^cop<SV>{^@erkek<adj>+ئى<cop><aor><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/6TV6XQSIlUCa]
+[BgNLdcUk4iaU#0] ^default<default>{^مىللىي<adj>$}$ ^default<default>{^تەنھەرىكەتچى<n><pl><px1pl><nom>$}$ ^default<default>{^ئالتۇن<n><nom>$}$ ^default<default>{^مېدال<n><dat>$}$ ^default<default>{^ئېرىش<v><iv><ifi><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/BgNLdcUk4iaU]
+[BzzcsF3-LAUF#0] ^default<default>{^خەلق<n><gen>$}$ ^n<SN>{^ئون<num>$ ^پىرسەنت<n><px3sp><nom>$}$ ^default<default>{^لاگېر<n><pl><dat>$}$ ^v<SV>{^تاقا<v><tv><pass><past><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/BzzcsF3-LAUF]
+[CU1lsKua2Twn#0] ^default<default>{^ھەر<det><dem>$}$ ^default<default>{^دۇئا<n><attr>$}$ ^default<default>{^قوبۇل<n><nom>$}$ ^v<SV>{^بول<v><iv><pass><neg><aor><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/CU1lsKua2Twn]
+[F8K8Cul8Vr4j#0] ^default<default>{^كاپىر<n><pl><dat>$}$ ^default<default>{^ئىتائەت<n><nom><@obj>$}$ ^v<SV>{^قىل<v><tv><aor><p2><sg>$}$ ^default<default>{^سەن<prn><pers><p2><sg><acc>$}$ ^default<default>{^ئاللا<n><gen>$}$ ^default<default>{^يول<n><px3sp><abl>$}$ ^v<SV>{^ئازدۇر<v><tv><aor><p3><pl>$}$^sent<SENT>{^.<sent>$}$
+[/F8K8Cul8Vr4j]
+[JEj4BnxtPhHt#0] ^default<default>{^سەن<prn><pers><p2><sg><nom>$}$ ^default<default>{^@bir<det><ind>$}$ ^n<SN>{^سىر<n>+لىق<post>$}$ ^cop<SV>{^ئىشىك<n><nom>+ئى<cop><aor><p2><sg>$}$^sent<SENT>{^.<sent>$}$
+[/JEj4BnxtPhHt]
+[Li7KxOh3HiBd#0] ^default<default>{^مېۋە<n><attr>$}$ ^default<default>{^@veren<adj>$}$ ^default<default>{^ياغاچ<n><nom><@obj>$}$ ^v<SV>{^تاشلا<v><tv><pass><aor><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Li7KxOh3HiBd]
+[MGPodM4jneUT#0] ^v<SV>{^دۇئا<n><px2sg><nom>$ ^بىلەن<post>$}$ ^n<SN>{^@doğ<v><tv><neg><ifi><p1><sg>+كى<cnjadv>$}$ ^v<SV>{^بەددۇئا<n><px2sg><nom>$ ^بىلەن<post>$}$ ^v<SV>{^ئۆل<v><iv><imp><p1><sg>$}$^sent<SENT>{^.<sent>$}$
+[/MGPodM4jneUT]
+[MSdXKAnOvXKn#0] ^default<default>{^ئۆي<n><dat>$}$ ^v<SV>{^كەت<v><iv><past><p3><sg>$}$ ^v<SV>{^بول<v><iv><gna_cond><p3><sg>$ ^كېرەك<n><nom>$}$^sent<SENT>{^.<sent>$}$
+[/MSdXKAnOvXKn]
+[QPHDuU_82R9H#0] ^default<default>{^@Kara<np><ant><f><nom>$}$ ^default<default>{^كۈن<n><nom>$}$ ^default<default>{^قارايت<v><iv><gna_perf>$}$ ^v<SV>{^قال<v><iv><neg><aor><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/QPHDuU_82R9H]
+[TXbWcoWfel9B#0] ^default<default>{^ئۆز<prn><ref><px2sg><acc>$}$ ^v<SV>{^بىل<v><tv><imp><p2><sg>$}$ ^default<default>{^ئۆز<prn><ref><px2sg><acc>$}$^default<default>{^,<cm>$}$ ^default<default>{^سەن<prn><pers><p2><sg><nom>$}$ ^default<default>{^سەن<prn><pers><p2><sg><acc>$}$ ^v<SV>{^بىل<v><tv><imp><p2><sg>$}$ ^default<default>{^سەن<prn><pers><p2><sg><nom>$}$ ^default<default>{^سەن<prn><pers><p2><sg><acc>$}$^sent<SENT>{^.<sent>$}$
+[/TXbWcoWfel9B]
+[U4IagLCt_Sih#0] ^default<default>{^ئەمما<cnjcoo>$}$^default<default>{^,<cm>$}$ ^default<default>{^باغۋەن<n><pl><nom>$}$ ^default<default>{^@çok<det><qnt>$}$ ^default<default>{^رازى<adj>$}$ ^cop<SV>{^ئەمەس<adj>+ئى<cop><aor><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/U4IagLCt_Sih]
+[VgciNeoPHw-h#0] ^default<default>{^سەن<prn><pers><p2><sg><dat>$}$^default<default>{^,<cm>$}$ ^default<default>{^مەن<prn><pers><p1><sg><dat>$}$^default<default>{^,<cm>$}$ ^default<default>{^بىز<prn><pers><p1><pl><dat>$}$ ^default<default>{^بىرەر نەرسە<prn><qnt><nom>$}$ ^v<SV>{^بول<v><iv><abil><aor><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/VgciNeoPHw-h]
+[VqX4V1z2PEZh#0] ^default<default>{^ئىت<n><px1sg><gen>$}$ ^default<default>{^@peşin<n><abl>$}$ ^n<SN>{^ماڭ<v><iv><aor><p1><sg>$}$^sent<SENT>{^.<sent>$}$
+[/VqX4V1z2PEZh]
+[_RSvD4qgKm3l#0] ^default<default>{^بالا<n><px2sg><nom>$}$ ^n<SN>{^@var<n><nom>+مۇ<qst>$}$^default<default>{^,<cm>$}$ ^default<default>{^@der<v><tv><ifi><p2><sg>$}$ ^cop<SV>{^بار<adj>+ئى<cop><aor><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/_RSvD4qgKm3l]
+[_caU3jWU3AEw#0] ^default<default>{^15<num>$}$ ^default<default>{^ئىيۇل<n><attr>$}$ ^default<default>{^دېموكراتىيە<n><nom>$}$ ^default<default>{^ۋە<cnjcoo>$}$ ^default<default>{^مىللىي<adj>$}$ ^default<default>{^@Birlik<adj>$}$ ^default<default>{^كۈن<n><px3sp><nom>$}$ ^default<default>{^ئۈچۈن<post>$}$ ^default<default>{^يېڭى<adj>$}$ ^default<default>{^لوگو<n><nom>$}$ ^default<default>{^لايىھەلە<v><tv><pass><ifi><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/_caU3jWU3AEw]
+[aMZgOkbK8PtB#0] ^default<default>{^بۇيەر<prn><adv><loc>$}$ ^v<SV>{^تاماكا چەك<v><iv><neg><gna_cond><p2><sg>$ ^كېرەك<n><nom>$}$^sent<SENT>{^.<sent>$}$
+[/aMZgOkbK8PtB]
+[b78cuXvU3e2O#0] ^default<default>{^تەر<v><tv><ger_inf><gen>$}$ ^default<default>{^نەرخ<n><px3sp><nom>$}$ ^default<default>{^يەنە<adv>$}$ ^v<SV>{^ئارت<v><iv><fut><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/b78cuXvU3e2O]
+[b7z9grfIpBep#0] ^default<default>{^يا<cnjcoo>$}$ ^v<SV>{^بىز<prn><pers><p1><pl><nom>$ ^بىلەن<post>$}$^default<default>{^,<cm>$}$ ^default<default>{^ياكى<cnjcoo>$}$ ^v<SV>{^ياۋ<n><nom>$ ^بىلەن<post>$}$^sent<SENT>{^.<sent>$}$
+[/b7z9grfIpBep]
+[bwylXUnGapB3#0] ^default<default>{^يات<adj>$}$ ^default<default>{^@bir<det><ind>$}$ ^default<default>{^ئەل<n><dat>$}$ ^n<SN>{^كەت<v><iv><prog><p1><sg>$}$^sent<SENT>{^.<sent>$}$
+[/bwylXUnGapB3]
+[fXFD011lzn6-#0] ^default<default>{^كاپىتان<n><nom>$}$^default<default>{^,<cm>$}$ ^default<default>{^مەن<prn><pers><p1><sg><acc>$}$ ^n<SN>{^چاقىر<v><tv><ifi><p2><pl>+مۇ<qst>$}$^sent<SENT>{^?<sent>$}$
+[/fXFD011lzn6-]
+[fpBS9e71sD2Q#0] ^default<default>{^بىز<prn><pers><p1><pl><acc>$}$ ^n<SN>{^ئىززەت<n>+لىق<post>$}$ ^default<default>{^قىل<n><nom>$}$^default<default>{^,<cm>$}$ ^default<default>{^زىللەت<n><dat>$}$ ^v<SV>{^چۈشۈر<v><tv><neg><imp><p2><sg>$}$^sent<SENT>{^!<sent>$}$
+[/fpBS9e71sD2Q]
+[ig40D5vigs8j#0] ^default<default>{^ئامېرىكا<np><top><nom>$}$ ^default<default>{^@Başka<prn><ind><px2sg><acc>$}$ ^default<default>{^دونالد<np><ant><m><nom>$}$ ^default<default>{^ترامپ<np><cog><mf><nom>$}$ ^default<default>{^@Uygur<adj>$}$ ^default<default>{^پائالىيەتچى<n><attr>$}$ ^default<default>{^جەۋھەر<n><nom>$}$ ^default<default>{^ئىلھام<np><ant><m><nom>$}$ ^default<default>{^بىلەن<cnjcoo>$}$ ^default<default>{^@Beyaz<np><ant><m><nom>$}$ ^default<default>{^ساراي<n><loc>$}$ ^default<default>{^كۆرۈش<v><iv><ifi><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/ig40D5vigs8j]
+[jeDmAMzTnYuF#0] ^default<default>{^ھايات<n><nom><@obj>$}$ ^default<default>{^سۈر<v><tv><gna_perf>$}$ ^default<default>{^كەت<v><iv><ger_inf><loc>$}$ ^default<default>{^ئى<cop><dub><aor><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/jeDmAMzTnYuF]
+[js2pN1wYtm1B#0] ^default<default>{^ئاياغ<n><pl><nom>$}$ ^default<default>{^@baş<adj>$}$ ^default<default>{^@olunca<adv>$}$ ^default<default>{^ئوسۇرۇق<n><attr>$}$ ^default<default>{^پەرمان<n><nom>$}$ ^v<SV>{^بول<v><iv><aor><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/js2pN1wYtm1B]
+[kdH0pJbgTPPT#0] ^default<default>{^يىللارچە<adv>$}$ ^default<default>{^قار<n><nom>$}$ ^v<SV>{^ياغ<v><iv><neg><past><evid><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/kdH0pJbgTPPT]
+[l16gdvrhyz3L#0] ^default<default>{^چېچەك<n><pl><gen>$}$ ^default<default>{^قىزىل<n><pl><px3sp><nom>$}$ ^n<SN>{^چوغ<n><nom><dek>$}$^default<default>{^,<cm>$}$ ^default<default>{^ئاق<n><pl><px3sp><nom>$}$ ^n<SN>{^قار<n><nom><dek>$}$ ^default<default>{^ئى<cop><dub><aor><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/l16gdvrhyz3L]
+[lSHv_p08y61Y#0] ^v<SV>{^بول<v><iv><ger_pabs><nom>$ ^بىلەن<post>$}$ ^v<SV>{^ئۆل<v><iv><ger_pabs><dat>$}$ ^default<default>{^چارە<n><nom>$}$ ^cop<SV>{^يوق<adj>+ئى<cop><aor><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/lSHv_p08y61Y]
+[lXqAxOV4_79N#0] ^v<SV>{^سۆزلە<v><tv><neg><imp><p2><sg>$}$ ^default<default>{^دوست<n><px2sg><dat>$}$^default<default>{^,<cm>$}$ ^n<SN>{^ئۇ<prn><pers><p3><sg><nom>+مۇ<postadv>$}$ ^v<SV>{^سۆزلە<v><tv><aor><p3><sg>$}$ ^cop<SV>{^دوست<n><px3sp><dat>+ئى<cop><aor><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/lXqAxOV4_79N]
+[qH7tjOs5VaTd#0] ^default<default>{^ئاياغ<n><px3sp><acc><@obj>$}$ ^default<default>{^يوتقان<n><px3sp><dat>$}$ ^default<default>{^كۆرە<post>$}$ ^v<SV>{^سۇن<v><tv><imp><p2><sg>$}$^sent<SENT>{^.<sent>$}$
+[/qH7tjOs5VaTd]
+[ryprI4_fI8fC#0] ^default<default>{^يۈز<num>$}$ ^default<default>{^ئەللىك<num>$}$ ^default<default>{^مىڭ<num>$}$ ^default<default>{^ئاسىي<n><nom>$}$ ^default<default>{^كوچا<n><pl><dat>$}$ ^default<default>{^چىق<v><iv><ifi><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/ryprI4_fI8fC]
+[veZ9OZzn2QzI#0] ^default<default>{^@Tanrı<np><top><nom>$}$ ^default<default>{^زوراۋان<adj>$}$ ^default<default>{^قوۋم<n><pl><dat>$}$ ^default<default>{^ھىدايەت<n><nom><@obj>$}$ ^v<SV>{^قىل<v><tv><neg><aor><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/veZ9OZzn2QzI]
+[zKDVsvqkPBn9#0] ^default<default>{^قاغا<n><nom>$}$ ^default<default>{^بالا<n><px3sp><dat>$}$ ^v<SV>{^قارا<v><iv><past><p3><sg>$}$^default<default>{^,<cm>$}$ ^default<default>{^مەن<prn><pers><p1><sg><gen>$}$ ^default<default>{^@ak<adj>$}$ ^default<default>{^پاك<adj>$}$ ^default<default>{^بالا<n><px1sg><nom><@obj>$}$ ^v<SV>{^دە<v><tv><past><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/zKDVsvqkPBn9]
